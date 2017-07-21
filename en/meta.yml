@@ -1,3 +1,4 @@
+title: Magazine
 hero_image: images/banner.png
 theme: red
 duration: 1
@@ -5,7 +6,6 @@ listed: false
 ingredient: false
 copyedit: false
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-title: Magazine
 description: Create a multi-page magazine website.
 original_url: https://codeclubprojects.org/en-GB/webdev/magazine
 interests: ''
