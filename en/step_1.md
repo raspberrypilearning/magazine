@@ -11,7 +11,7 @@ In this project, you'll learn how to use HTML and CSS to create a multi-page mag
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/magazine/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/magazine/print).
 
 
 --- collapse ---
