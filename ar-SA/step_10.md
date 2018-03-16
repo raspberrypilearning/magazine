@@ -1,0 +1,9 @@
+--- challenge ---
+## التحدي: أضف رسمًا متحركًا آخر
+
+هل يمكنك إضافة رسم متحرك إلى الصفحة الثانية من المجلة؟
+
+![screenshot](images/magazine-animation-challenge.png)
+
+
+--- /challenge ---
