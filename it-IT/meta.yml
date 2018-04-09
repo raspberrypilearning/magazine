@@ -1,0 +1,28 @@
+title: Rivista
+hero_image: images/magazine.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Crea un sito Web in stile rivista a più pagine.
+original_url: https://codeclubprojects.org/en-GB/webdev/magazine
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps: 
+- title: Introduzione
+- title: Intestazione e sfondo
+- title: Creazione di colonne
+- title: Attribuisci uno stile agli elementi della rivista
+- title: 'Sfida: Aggiungi elementi alla colonna di sinistra'
+- title: Aggiungi una seconda pagina
+- title: 'Sfida: Aggiungi un link per tornare alla prima pagina'
+- title: 'Sfida: Compila la seconda pagina'
+- title: Aggiungi un’animazione
+- title: "Sfida: Aggiungi un’altra animazione"
