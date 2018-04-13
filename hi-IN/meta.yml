@@ -1,0 +1,26 @@
+---
+title: मैगज़ीन
+hero_image: images/magazine.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+description: मल्टीपेज मैगज़ीन वेबसाइट बनाएँ।
+original_url: https://codeclubprojects.org/en-GB/webdev/magazine
+interests: ''
+technologies: html/css
+site_areas: codeclub, webdev
+steps:
+- title: भूमिका
+- title: शीर्षक और पृष्ठभूमि
+- title: कॉलम बनाना
+- title: स्टाइल मैगज़ीन आइटम्स
+- title: 'चुनौती: बाएँ कॉलम में आइटम्स जोड़ें'
+- title: दूसरा पेज जोड़ें
+- title: 'चुनौती: पहले पेज पर जाने के लिए लिंक जोड़ें'
+- title: 'चुनौती: अपना दूसरा पेज भरें'
+- title: एनिमेशन जोड़ें
+- title: 'चुनौती: अन्य एनिमेशन जोड़ें'
+
