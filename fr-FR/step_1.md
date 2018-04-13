@@ -60,7 +60,7 @@ Ce projet couvre des éléments des composantes suivantes de [Raspberry Pi Digit
 
 + [Conception de ressources 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Défis
 + "Ajoutez des objets à la colonne de gauche" - placer des objets dans un élément flottant ;
 + "Ajoutez un lien de retour vers la première page" - créer des liens entre les pages d'un projet ;
 + "Remplissez votre seconde page" - récapituler plus d'HTML & CSS ;

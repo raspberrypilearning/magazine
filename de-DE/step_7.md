@@ -4,7 +4,7 @@ Kannst du einen Link zu `page2.html` (Seite2) herstellen, damit du darauf klicke
 
 Tipp: Schau dir den HTML Code an, den du benutzt hast, um einen Link zu Seite 2 zu erstellen. 
 
-![screenshot](magazine-page1-link.png)
+![screenshot](images/magazine-page1-link.png)
 
 
 --- /challenge ---

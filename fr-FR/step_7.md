@@ -5,7 +5,7 @@ Pouvez-vous ajouter un lien vers la `page2.html` pour pouvoir cliquer et revenir
 
 Indice : Regardez le HTML que vous avez utilisé pour créer un lien vers la page 2. 
 
-![screenshot](magazine-page1-link.png)
+![screenshot](images/magazine-page1-link.png)
 
 
 --- /challenge ---
