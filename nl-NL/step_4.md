@@ -1,4 +1,4 @@
-## Stijl de artikelen van je tijdschrift
+## Artikelen vormgeven
 
 Laten we de lay-out een beetje interessanter maken.
 
