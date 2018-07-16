@@ -22,4 +22,4 @@ Ga terug naar ` index.html `. Voeg een link in een div toe in kolom 2 van ` inde
 
 ![screenshot](images/magazine-page2-link.png)
 
-+ Test dat je op uw nieuwe link kunt klikken om naar pagina 2 van je tijdschrift kunt gaan.
++ Kijk of je met de nieuwe link naar pagina 2 van je tijdschrift gaat.
