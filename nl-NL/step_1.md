@@ -26,15 +26,15 @@ We raden aan [ trinket ](https://trinket.io/) te gebruiken om online HTML & CSS 
 
 * ['Tijdschrift' startpunt -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Kinderen kunnen ook gebruik maken van deze blanco trinket [ (jumpto.cc/html-blank) ](http://jumpto.cc/html-blank) om hun eigen HTML & CSS te schrijven, of ze kunnen deze trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template) gebruiken.
+Kinderen kunnen ook gebruik maken van deze lege trinket [ (jumpto.cc/html-blank) ](http://jumpto.cc/html-blank) om hun eigen HTML & CSS te schrijven, of ze kunnen deze trinket [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template) gebruiken.
 
-Er is ook een trinket met een voorbeeldoplossing voor de challenges:
+Er is ook een trinket met een voorbeeldoplossing voor de uitdagingen:
 
 * ['Tijdschrift' voltooid -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
-## Offline bestanden
+## Offline bronnen
 
-Dit project kan indien gewenst [geheel offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) voltooid worden. Je krijgt toegang tot de projectbestanden door op de koppeling 'Projectmateriaal' voor dit project te klikken. Deze link bevat een gedeelte 'Projectbestanden', welke bestanden bevat die kinderen nodig hebben om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bestanden. Dit gedeelte bevat de volgende bestanden:
+Dit project kan indien gewenst [geheel offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) voltooid worden. Je krijgt toegang tot de projectbestanden door op de koppeling 'Projectmateriaal' voor dit project te klikken. Deze link bevat een 'Projectbronnen'-sectie die bronnen bevat om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bestanden. Dit gedeelte bevat de volgende bestanden:
 
 * intro/index.html
 * template/template.html
@@ -58,18 +58,18 @@ Je kunt ook een voltooide versie van de uitdagingen van dit project vinden in de
 
 ## Leerdoelen
 
-* Dit project leert kinderen hoe ze een twee koloms lay-out in tijdschriftstijl kunnen maken met ` float: `. Het bevat ook veel van de HTML & CSS die meer in detail in andere projecten worden behandeld. Er worden voorbeelden gegeven zodat kinderen dit project kunnen voltooien, zelfs als ze sommige van de eerdere projecten niet hebben voltooid. 
+* Dit project leert kinderen hoe ze een tweekoloms lay-out in tijdschriftstijl kunnen maken met ` float: `. Het bevat ook veel van de HTML & CSS die meer in detail in andere projecten worden behandeld. Er worden voorbeelden gegeven zodat kinderen dit project kunnen voltooien, zelfs als ze sommige van de eerdere projecten niet hebben voltooid. 
 
 Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Ontwerp standaard 2D- en 3D-objecten](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Uitdagingen
 
-* "Items aan de linkerkolom toevoegen" - items in een zwevend element plaatsen;
+* "Onderdelen aan de linkerkolom toevoegen" - onderdelen in een zwevend element plaatsen;
 * "Voeg een link toe naar de eerste pagina" - maak links tussen pagina's in een project;
-* "Vul je tweede pagina in" - herindeling van HTML & CSS;
-* "Voeg nog een animatie toe" - herindeling van animaties.
+* "Vul je tweede pagina in" - meer HTML & CSS herhalen;
+* "Voeg nog een animatie toe" - herhaling van animaties maken.
 
 \--- /collapse \---
 
@@ -77,7 +77,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry P
 
 ## title: Projectmateriaal
 
-## Project bestanden
+## Projectbronnen
 
 * [.zip-bestand met alle projectbestanden](resources/magazine-project-resources.zip)
 * [Online Trinket met alle projectbestanden van het 'Tijdschrift'](http://jumpto.cc/web-magazine)
@@ -97,7 +97,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry P
 * [magazine/spacerobot.png](resources/magazine-spacerobot.png)
 * [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
-## Club leader resources
+## Clubleider bronnen
 
 * [.zip-bestand met alle voltooide projectbestanden](resources/magazine-volunteer-resources.zip)
 * [ Voltooid online Trinket-project](https://trinket.io/html/a41e4e1c5c)
