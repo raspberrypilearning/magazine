@@ -1,4 +1,4 @@
-## Introduction
+## Introducción
 
 In this project, you'll learn how to use HTML and CSS to create a multi-page magazine website with a two page layout. You'll also revisit lots of HTML and CSS techiques from other projects.
 
