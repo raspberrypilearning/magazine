@@ -1,6 +1,6 @@
-## Introduction
+## הוראות
 
-In this project, you'll learn how to use HTML and CSS to create a multi-page magazine website with a two page layout. You'll also revisit lots of HTML and CSS techiques from other projects.
+בפרויקט זה, תלמד להשתמש בקוד HTML ו CSS ליצירת אתר מגזין עם 2 עמודים. וגם תרענן טכניקות בנית אתרים מפרויקטים אחרים.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,21 +8,21 @@ In this project, you'll learn how to use HTML and CSS to create a multi-page mag
   <img src="images/magazine-final.png">
 </div>
 
-### Additional information for club leaders
+### מידע נוסף למורי המועדון
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/magazine/print).
+אם צריך להדפיס את הפרויקט הזה, אנא השתמשו ב [ גרסה ידידותית למדפסת ](https://projects.raspberrypi.org/en/projects/magazine/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: הארות למדריכים
 
-## Introduction:
+## הקדמה:
 
-In this project, children will learn how to create a two-column layout. They will also recap lots of the HTML & CSS that they have learned in other projects.
+בפרויקט זה הילדים ילמדו ליצור דף עם 2 עמודות. הם גם ירעננו טכניקות HTML ו CSS שנלמדו בפרויקטים אחרים.
 
-## Online Resources
+## משאבים מקוונים
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+אנו ממליצים להשתמש ב [trinket](https://trinket.io/) לכתיבת קוד HTML ו CSS ברשת. פרויקט זה מכיל את קטעי הקוד הבאים:
 
 * ['Magazine' starting point -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
