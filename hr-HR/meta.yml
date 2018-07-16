@@ -1,0 +1,39 @@
+---
+title: Časopis
+hero_image: slike / magazine.png
+theme: Crvena
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Izradite web stranicu časopisa s više stranica.
+original_url: https://codeclubprojects.org/en-GB/webdev/magazine
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Uvod
+  - 
+    title: Naslov i pozadina
+  - 
+    title: Stvaranje stupaca
+  - 
+    title: Stavke časopisa stila
+  - 
+    title: 'Izazov: dodajte stavke u lijevi stupac'
+  - 
+    title: Dodajte drugu stranicu
+  - 
+    title: 'Izazov: dodajte vezu natrag na prvu stranicu'
+  - 
+    title: 'Izazov: Ispunite drugu stranicu'
+  - 
+    title: Dodajte animaciju
+  - 
+    title: 'Izazov: dodajte još jednu animaciju'
