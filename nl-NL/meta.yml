@@ -1,7 +1,7 @@
 ---
 title: Tijdschrift
 hero_image: images/magazine.png
-theme: rood
+theme: red
 duration: 2
 listed: true
 ingredient: false
@@ -24,16 +24,16 @@ steps:
   - 
     title: Maak kolommen
   - 
-    title: Stijl de tijdschrift onderdelen
+    title: Artikelen vormgeven
   - 
-    title: 'Uitdaging: Voeg onderdelen aan de linker kolom toe'
+    title: 'Uitdaging: voeg onderdelen toe aan de linker kolom'
   - 
     title: Voeg een tweede pagina toe
   - 
-    title: 'Uitdaging: Voeg een link naar de eerste pagina toe'
+    title: 'Uitdaging: voeg een link toe naar de eerste pagina'
   - 
-    title: 'Uitdaging: Vul je tweede pagina'
+    title: 'Uitdaging: vul je tweede pagina'
   - 
     title: Voeg een animatie toe
   - 
-    title: 'Uitdaging: Voeg nog een animatie toe'
+    title: 'Uitdaging: voeg nog een animatie toe'
