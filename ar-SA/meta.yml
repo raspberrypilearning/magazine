@@ -1,0 +1,39 @@
+---
+title: مجلة
+hero_image: images/magazine.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: إنشاء موقع ويب لمجلة متعددة الصفحات.
+original_url: https://codeclubprojects.org/en-GB/webdev/magazine
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: المقدمة
+  - 
+    title: العنوان والخلفية
+  - 
+    title: إنشاء أعمدة
+  - 
+    title: تحديد أنماط عناصر المجلة
+  - 
+    title: 'التحدي: أضف عناصر إلى العمود الأيسر'
+  - 
+    title: إضافة صفحة ثانية
+  - 
+    title: 'التحدي: أضف رابطًا للعودة إلى الصفحة الأولى'
+  - 
+    title: 'التحدي: املأ الصفحة الثانية'
+  - 
+    title: إضافة رسم متحرك
+  - 
+    title: 'التحدي: أضف رسمًا متحركًا آخر'
