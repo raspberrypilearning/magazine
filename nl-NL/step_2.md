@@ -1,6 +1,6 @@
 ## Titel en achtergrond
 
-Websites in tijdschriftenstijl hebben vaak veel kleine items op een pagina. Eerst ga je een titel en achtergrond voor je tijdschrift maken.
+Websites in tijdschriftenstijl hebben vaak veel kleine artikelen op een pagina. Eerst ga je een titel en achtergrond voor je tijdschrift maken.
 
 + Open deze trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
@@ -14,14 +14,14 @@ Websites in tijdschriftenstijl hebben vaak veel kleine items op een pagina. Eers
     
     ![screenshot](images/magazine-heading.png)
 
-+ Kun je de titel stylen?
++ Kun je de titel vormgeven?
     
     Hier is een voorbeeld, maar je kunt je eigen stijl kiezen:
     
     ![screenshot](images/magazine-heading-style.png)
 
-+ Laten we nu een interessante achtergrond maken met een verloop en een lettertype kiezen voor het tijdschrift.
++ Laten we nu een interessante achtergrond maken met een verloop, en een lettertype kiezen voor het tijdschrift.
     
-    Hier is een voorbeeldstijl als herinnering over het maken van een verloop:
+    Hier is een voorbeeldstijl voor het maken van een verloop:
     
     ![screenshot](images/magazine-background.png)
