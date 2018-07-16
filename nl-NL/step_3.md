@@ -12,7 +12,7 @@ Websites gebruiken vaak meerdere kolommen. Laten we een indeling met twee kolomm
     
     ![screenshot](images/magazine-columns-style.png)
     
-    Elke kolom is minder dan 50% breedt, dus er is ruimte voor opvulling.
+    Elke kolom is minder dan 50% breedt, dus er is ruimte voor opvulling (Engels: padding).
     
     Je moet iets aan een kolom toevoegen om het effect te zien.
 
@@ -22,9 +22,9 @@ Websites gebruiken vaak meerdere kolommen. Laten we een indeling met twee kolomm
     
     Merk op dat de kattenafbeelding ongeveer halverwege de pagina staat, in de tweede kolom.
     
-    Het is echter een beetje groot!
+    Het is nogal groot!
 
-+ Laten we ` max-width: ` gebruiken om afbeeldingen in een container te laten passen.
++ Laten we ` max-width: ` gebruiken om afbeeldingen in hun omhullende vak (Engels: container) te laten passen.
     
     Voeg de volgende stijl toe aan ` style.css `.
     
