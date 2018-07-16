@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Voeg onderdelen aan de linker kolom toe
+## Uitdaging: voeg onderdelen toe aan de linker kolom
 
 Kun je een geordende lijst en een kleur verlopende sticker toevoegen aan de linkerkolom?
 
