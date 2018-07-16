@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Voeg een link naar de eerste pagina toe
+## Uitdaging: voeg een link toe naar de eerste pagina
 
 Kun je een link toevoegen aan ` page2.html ` zodat je erop kunt klikken om terug te gaan naar de eerste pagina?
 
