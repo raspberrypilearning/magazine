@@ -12,7 +12,7 @@
 
 Якщо вам потрібно роздрукувати цей проект, будь ласка скористайтеся [версією для друку](https://projects.raspberrypi.org/uk-UA/projects/magazine/print).
 
----collapse---
+--- collapse ---
 ---
 title: лідер клубу зауважує
 ---
@@ -71,9 +71,9 @@ title: лідер клубу зауважує
 * "Заповніть другу сторінку" - повторення HTML & CSS;
 * "Додати інші анімації" - відтворення анімацій.
 
----collapse---
+--- /collapse ---
 
----collapse---
+--- collapse ---
 ---
 title: Проектні матеріали
 ---
@@ -109,4 +109,4 @@ title: Проектні матеріали
 * [magazine-finished/greenrobot.png](resources/magazine-finished-greenrobot.png)
 * [magazine-finished/spacerobot.png](resources/magazine-finished-spacerobot.png)
 
----collapse---
+--- /collapse ---
