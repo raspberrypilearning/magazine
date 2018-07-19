@@ -54,13 +54,13 @@ Eine vollständige Version dieses Projekts mit den Herausforderungen finden Sie 
 * magazine-finished/greenrobot.png
 * magazine-finished/spacerobot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Alle oben genannten Ressourcen werden auch zum Download als `.zip`-Dateien für das Projekt und für freiwillige Mitarbeiter bereitgestellt.)
 
-## Learning Objectives
+## Lernziele
 
-* This project teaches children how to create a two-column magazine style layout using `float:`. It also recaps lots of the HTML & CSS that is covered in more detail in other projects. Examples are given so children will be able to complete this project even if they have not completed some of the earlier projects. 
+* In diesem Projekt lernen die Kinder wie man mit `float:` ein Layout mit zwei Spalten - wie in einer Zeitschrift - programmiert. Es werden auch viele HTML & CSS Befehle verwendet, die in anderen Projekten bereits ausführlich behandelt wurden. Wir verwenden viele Beispiele so dass die Kinder das Projekt beenden können, auch wenn sie nicht alle vorigen Projekte durchgeführt haben. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
