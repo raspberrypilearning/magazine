@@ -12,21 +12,21 @@ Webseiten verwenden oft mehrere Spalten. Lass uns ein Zwei-Spalten-Layout für d
     
     ![screenshot](images/magazine-columns-style.png)
     
-    Each column is less than 50% so there's room for padding.
+    Jede Spalte ist kleiner als 50%, so dass Platz für den Zwischenraum bleibt.
     
-    You'll need to add something to a column to see the effect.
+    Um die Wirkung zu sehen, musst du etwas in die Spalten schreiben.
 
-+ Let's add a kitten picture to the top of column 2.
++ Setzen wir das Bild von einem Kätzchen oben in die zweite Spalte.
     
     ![screenshot](images/magazine-kitten.png)
     
-    Notice that the kitten image is positioned about half-way across the page, in the second column.
+    Wie du siehst, nimmt das Bild des Kätzchens ungefähr die Hälfte der Seite in der zweiten Spalte ein.
     
-    It's a bit big though!
+    Aber es ist etwas zu gross!
 
-+ Let's use `max-width:` to make images fit within their container.
++ Damit das Bild an den vorhandenen Platz angepasst wird, müssen wir `max-width:` verwenden.
     
-    Add the following style to `style.css`.
+    Füge folgenden Stil in `style.css` hinzu.
     
     ![screenshot](images/magazine-img-width.png)
     
