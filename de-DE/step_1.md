@@ -1,6 +1,6 @@
 ## Einleitung
 
-In this project, you'll learn how to use HTML and CSS to create a multi-page magazine website with a two page layout. You'll also revisit lots of HTML and CSS techiques from other projects.
+In diesem Projekt lernst du, wie du HTML und CSS benutzen kannst, um eine Zeitschriften-Website mit zwei Seiten zu erstellen. Du wirst auch viele HTML- und CSS-Techniken aus früheren Projekten wiederholen.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,13 +8,13 @@ In this project, you'll learn how to use HTML and CSS to create a multi-page mag
   <img src="images/magazine-final.png">
 </div>
 
-### Additional information for club leaders
+### Zusätzliche Information für Clubleiter
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/magazine/print).
+Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/en/projects/magazine/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Anmerkungen für Clubleiter
 
 ## Introduction:
 
