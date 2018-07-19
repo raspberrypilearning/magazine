@@ -62,22 +62,22 @@ Eine vollständige Version dieses Projekts mit den Herausforderungen finden Sie 
 
 Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Herausforderungen
 
-* "Add items to the left column" - placing items inside a floated element;
-* "Add a link back to the first page" - creating links between pages in a project;
-* "Fill in your second page" - recapping more HTML & CSS;
-* "Add another animation" - recapping animations.
+* "Objekte in der linken Spalte hinzufügen" - Objekte in einem fliessenden Element platzieren;
+* "Einen Link zurück zur ersten Seite hinzufügen" - Links zwischen den Seiten eines Projekts erstellen;
+* "Eine zweite Seite mit Inhalten füllen" - mehr HTML & CSS wiederverwenden;
+* "Eine neue Animation verwenden" - Animationen wiederverwenden.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Projektmaterial
 
-## Project resources
+## Projektressourcen
 
 * [.zip file containing all project resources](resources/magazine-project-resources.zip)
 * [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
