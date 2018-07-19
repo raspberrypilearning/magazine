@@ -16,15 +16,15 @@ Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche V
 
 ## title: Anmerkungen für Clubleiter
 
-## Introduction:
+## Einleitung:
 
-In this project, children will learn how to create a two-column layout. They will also recap lots of the HTML & CSS that they have learned in other projects.
+In diesem Projekt lernen die Kinder, wie man ein Layout mit zwei Spalten programmiert. Sie werden auch viele der HTML & CSS-Konzepte verwenden, die sie in früheren Projekten gelernt haben.
 
-## Online Resources
+## Online-Ressourcen
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Wir empfehlen die Verwendung von [trinket](https://trinket.io/) um HTML & CSS online zu schreiben. Dieses Projekt enthält folgende Trinkets:
 
-* ['Magazine' starting point -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* [Start für das 'Zeitschrift'-Projekt -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
 Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
