@@ -6,22 +6,22 @@ Webseiten im Zeitschriften-Stil haben oft viele kleine Dinge auf einer Seite. Al
     
     Das Projekt sollte so aussehen:
     
-    ![screenshot](images/magazine-starter.png)
+    ![Screenshot](images/magazine-starter.png)
 
 + Fügen wir eine Überschrift hinzu.
     
     Lass dir einen besseren Titel für deine Zeitschrift einfallen.
     
-    ![screenshot](images/magazine-heading.png)
+    ![Screenshot](images/magazine-heading.png)
 
 + Kannst du die Überschrift grafisch gestalten?
     
-    Here's an example, but you can choose your own style:
+    Hier ist ein Beispiel, aber du kannst deinen eigenen Stil wählen:
     
-    ![screenshot](images/magazine-heading-style.png)
+    ![Screenshot](images/magazine-heading-style.png)
 
-+ Now let's create an interesting background using a gradient and choose a font for the magazine.
++ Lass uns jetzt einen interessanten Hintergrung mit einem Farbverlauf erstellen und eine Schrifttype für die Zeiteschrift wählen.
     
-    Here's some example style as a reminder of how to create a gradient:
+    Hier sind ein paar Beispiele als Erinnerung, wie man einen Farbverlauf macht:
     
-    ![screenshot](images/magazine-background.png)
+    ![Screenshot](images/magazine-background.png)
