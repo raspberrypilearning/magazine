@@ -79,10 +79,10 @@ Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digit
 
 ## Projektressourcen
 
-* [.zip file containing all project resources](resources/magazine-project-resources.zip)
-* [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [.zip-Datei mit allen Projektressourcen](resources/magazine-project-resources.zip)
+* [Online Trinket mit allen Ressourcen des 'Zeitschrift'-Projekts](http://jumpto.cc/web-magazine)
+* [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
+* [Leeres online-Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [intro/index.html](resources/intro-index.html)
@@ -97,10 +97,10 @@ Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digit
 * [magazine/spacerobot.png](resources/magazine-spacerobot.png)
 * [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
-## Club leader resources
+## Ressourcen für Clubleiter
 
-* [.zip file containing all completed project resources](resources/magazine-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/a41e4e1c5c)
+* [.zip-Datei mit allen fertig gestellten Projektressourcen](resources/magazine-volunteer-resources.zip)
+* [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
 * [magazine-finished/script.js](resources/magazine-finished-script.js)
