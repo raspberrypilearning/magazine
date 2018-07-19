@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: Add items to the left column
+## Herausforderung: Füge Objekte in der linken Spalte hinzu
 
-Can you add a ordered list and a gradient text sticker to the left column?
+Kannst du eine geordnete Liste und ein Textfeld mit einem Farbverlauf in der linken Spalte hinzufügen?
 
-Here's an example:
+Hier ist ein Beispiel:
 
 ![screenshot](images/magazine-challenge1-example.png)
 
