@@ -1,6 +1,6 @@
-## Style magazine items
+## Zeitschriftenartikel grafisch gestalten
 
-Let's make the layout a bit more interesting.
+Lass uns das Layout etwas interessanter machen.
 
 + Add a `div` around your image with a `class` and add a `h2` heading:
     
