@@ -44,7 +44,7 @@ Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en
 * magazine/script.js
 * magazine/mutliple .png images
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Eine vollständige Version dieses Projekts mit den Herausforderungen finden Sie auch im Abschnitt "Ressourcen für Freiwillige Mitarbeiter". Diese enthält:
 
 * magazine-finished/index.html
 * magazine-finished/style.css
