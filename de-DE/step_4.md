@@ -2,12 +2,12 @@
 
 Lass uns das Layout etwas interessanter machen.
 
-+ Add a `div` around your image with a `class` and add a `h2` heading:
++ Mache mit einer `class` ein `div` rund um dein Bild herum und füge eine `h2`-Überschrift hinzu:
     
-    ![screenshot](images/magazine-item.png)
+    ![Screenshot](images/magazine-item.png)
 
-+ Now style the item and heading.
++ Gestalte jetzt das Objekt und die Überschrift.
     
-    Here's an example, but you can make changes:
+    Hier ist ein Beispiel, aber du kannst es gerne verändern:
     
-    ![screenshot](images/magazine-item-style.png)
+    ![Screenshot](images/magazine-item-style.png)
