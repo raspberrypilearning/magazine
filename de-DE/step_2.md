@@ -1,4 +1,4 @@
-## Heading and Background
+## Überschrift und Hintergrund
 
 Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
 
