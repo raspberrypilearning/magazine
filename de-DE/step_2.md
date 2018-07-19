@@ -1,20 +1,20 @@
 ## Überschrift und Hintergrund
 
-Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
+Webseiten im Zeitschriften-Stil haben oft viele kleine Dinge auf einer Seite. Als erstes wirst du eine Überschrift und einen Hintergrund für deine Zeitschrift erstellen.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Öffne diesen Trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    The project should look like this:
+    Das Projekt sollte so aussehen:
     
     ![screenshot](images/magazine-starter.png)
 
-+ Let's add a heading.
++ Fügen wir eine Überschrift hinzu.
     
-    You can think of a better title for your magazine.
+    Lass dir einen besseren Titel für deine Zeitschrift einfallen.
     
     ![screenshot](images/magazine-heading.png)
 
-+ Can you style the heading?
++ Kannst du die Überschrift grafisch gestalten?
     
     Here's an example, but you can choose your own style:
     
