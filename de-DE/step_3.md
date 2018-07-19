@@ -1,14 +1,14 @@
-## Creating Columns
+## Spalten erstellen
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+Webseiten verwenden oft mehrere Spalten. Lass uns ein Zwei-Spalten-Layout für deine Zeitschrift erstellen.
 
-+ First create two column `div`s.
++ Als erstes müssen wir zwei Spalten mit `div` erstellen.
     
-    Add the highlighted HTML to `index.html`:
+    Füge nun den markierten HTML-Code in der Datei `index.html` hinzu:
     
     ![screenshot](images/magazine-columns.png)
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
++ Gestalte die Spalten-div's so, dass eine nach links und die andere nach rechts fliesst.
     
     ![screenshot](images/magazine-columns-style.png)
     
