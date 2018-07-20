@@ -2,10 +2,10 @@
 
 Lass uns eine lustige Animation in die Zeitschrift programmieren.
 
-+ Go to `index.html` and include the `greenrobot.png` image at the top of your page.
++ Gehe zu `index.html` und füge das Bild `greenrobot.png` oben auf der Seite ein.
 
-![screenshot](images/magazine-animation-image.png)
+![Screenshot](images/magazine-animation-image.png)
 
-+ Now add the CSS to animate your robot:
++ Und ergänze dann das CSS um deinen Roboter zu bewegen:
 
-![screenshot](images/magazine-animation-css.png)
+![Screenshot](images/magazine-animation-css.png)
