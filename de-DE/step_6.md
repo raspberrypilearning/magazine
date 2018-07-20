@@ -1,12 +1,12 @@
 ## Eine zweite Seite hinzufügen
 
-Let's add another page to your magazine website.
+Lass uns eine weitere Seite zu deiner Zeitschriften-Website hinzufügen.
 
-+ Add a new page to your project and name it `page2.html`:
++ Füge deinem Projekt eine neue Seite hinzu und nenne sie `seite2.html`:
 
 ![screenshot](images/magazine-page2.png)
 
-+ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
++ Seite 2 wird sehr ähnlich wie die erste Seite deiner Zeitschrift, du kannst also den HTML-Code von `index.html` kopieren und ihn in `seite2.html` einfügen.
 
 ![screenshot](images/magazine-page2-html.png)
 
