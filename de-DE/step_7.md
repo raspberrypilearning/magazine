@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Add a link back to the first page
+## Herausforderung: Füge einen Link ein, mit dem du zurück zur ersten Seite kommst
 
-Can you add a link to `page2.html` so that you can click on it to get back to the first page?
+Kannst du in `seite2.html` einen Link einfügen, mit dem du beim anklicken zurück auf die Startseite kommst?
 
-Hint: Look at the HTML you used to create a link to page 2.
+Hinweis: Sieh dir den HTML-Code an, mit dem du den Link auf Seite 2 gemacht hast.
 
-![screenshot](images/magazine-page1-link.png)
+![Screenshot](images/magazine-page1-link.png)
 
 \--- /challenge \---
