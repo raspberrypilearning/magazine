@@ -10,13 +10,13 @@ Lass uns eine weitere Seite zu deiner Zeitschriften-Website hinzufügen.
 
 ![screenshot](images/magazine-page2-html.png)
 
-Notice that both pages use the same `style.css` so they will share styles.
+Beide Seiten verwenden das gleiche `style.css`, können also auf die gleichen Stile zurückgreifen.
 
-+ Change the `<h1>` title for page2:
++ Ändere den `<h1>` title von seite2:
 
 ![screenshot](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages to you can get to page 2 and back to the front page.
++ Jetzt fehlen dir noch Links (Verbindungen) zwische den Seiten, so dass du zu Seite 2 navigieren kannst und von dort auch wieder zurück zur Startseite kommst.
 
 Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
 
