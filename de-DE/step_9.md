@@ -1,6 +1,6 @@
-## Add an animation
+## Eine Animation hinzufügen
 
-Let's add a fun animation to your magazine.
+Lass uns eine lustige Animation in die Zeitschrift programmieren.
 
 + Go to `index.html` and include the `greenrobot.png` image at the top of your page.
 
