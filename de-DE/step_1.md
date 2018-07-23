@@ -28,7 +28,7 @@ Wir empfehlen die Verwendung von [trinket](https://trinket.io/) um HTML & CSS on
 
 Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dazu dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Es gibt auch ein Trinket mit einer Beispiellösung für die Herausforderungen:
+Es gibt auch ein Trinket mit einem Lösungsbeispiel für die Herausforderungen:
 
 * [Fertige 'Zeitschrift' -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
