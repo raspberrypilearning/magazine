@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Herausforderung: Füge Objekte in der linken Spalte hinzu
+## Herausforderung: Füge Inhalte in der linken Spalte hinzu
 
 Kannst du eine geordnete Liste und ein Textfeld mit einem Farbverlauf in der linken Spalte hinzufügen?
 
