@@ -4,7 +4,7 @@
 
 Kannst du in `seite2.html` einen Link einfügen, mit dem du beim anklicken zurück auf die Startseite kommst?
 
-Hinweis: Sieh dir den HTML-Code an, mit dem du den Link auf Seite 2 gemacht hast.
+Hinweis: Sieh dir den HTML-Code an, mit dem du den Link nach Seite 2 gemacht hast.
 
 ![Screenshot](images/magazine-page1-link.png)
 
