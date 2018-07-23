@@ -35,7 +35,7 @@ h2 {
 	
 }
 
-.inhalt  {
+.Inhalt  {
 	padding: 10px;
 	margin-bottom: 10px;
 	border: 3px dashed teal;
@@ -55,27 +55,27 @@ h2 {
   text-align: center;
 }
 
-#greenrobot {
+#RoboGruen {
   height: 100px;
   position: absolute;
   left: -200px;
-  animation: slide 10s infinite;
+  animation: gleiten 10s infinite;
 }
 
-@keyframes slide {
+@keyframes gleiten {
   0% { left: -200px }
   50% { left: 0 }
   100% { left: -200px }
 }
 
-#spacerobot {
+#UFO {
   height: 50px;
   position: fixed;
   bottom: 0;
-  animation: across 5s infinite alternate;
+  animation: hinundher 5s infinite alternate;
 }
 
-@keyframes across {
+@keyframes hinundher {
   0% { left: 0 }
   100% { left: 90% }
 }
