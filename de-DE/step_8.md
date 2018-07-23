@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Herausforderung: Fülle deine zweite Seite
+## Herausforderung: Fülle deine zweite Seite mit Inhalt
 
 Hier ist der Code für die Beispiele, aber du kannst die `div`'s ändern oder deine eigenen Ideen verwirklichen.
 
