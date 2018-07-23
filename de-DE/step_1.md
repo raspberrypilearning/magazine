@@ -42,9 +42,9 @@ Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en
 * magazine/index.html
 * magazine/style.css
 * magazine/script.js
-* magazine/mutliple .png images
+* magazine/zahlreiche .png Bilder
 
-Eine vollständige Version dieses Projekts mit den Herausforderungen finden Sie auch im Abschnitt "Ressourcen für Freiwillige Mitarbeiter". Diese enthält:
+Eine vollständige Version dieses Projekts mit den Herausforderungen finden Sie auch im Abschnitt "Ressourcen für Freiwillige Mitarbeiter" mit diesem Inhalt:
 
 * magazine-finished/index.html
 * magazine-finished/style.css
@@ -66,7 +66,7 @@ Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digit
 
 ## Herausforderungen
 
-* "Objekte in der linken Spalte hinzufügen" - Objekte in einem fliessenden Element platzieren;
+* "Inhalte in der linken Spalte hinzufügen" - Inhalte in einem fliessenden Element platzieren;
 * "Einen Link zurück zur ersten Seite hinzufügen" - Links zwischen den Seiten eines Projekts erstellen;
 * "Eine zweite Seite mit Inhalten füllen" - mehr HTML & CSS wiederverwenden;
 * "Eine neue Animation verwenden" - Animationen wiederverwenden.
