@@ -10,7 +10,7 @@ In diesem Projekt lernst du, wie du HTML und CSS benutzen kannst, um eine Zeitsc
 
 ### Zusätzliche Information für Clubleiter
 
-Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/en/projects/magazine/print).
+Falls Sie dieses Projekt ausdrucken müssen, verwenden Sie bitte die [druckfreundliche Version](https://projects.raspberrypi.org/en/projects/magazine/print).
 
 ## \--- collapse \---
 
