@@ -1,6 +1,6 @@
 ## Spalten erstellen
 
-Webseiten verwenden oft mehrere Spalten. Lass uns ein Zwei-Spalten-Layout für deine Zeitschrift erstellen.
+Webseiten verwenden oft mehrere Spalten. Lass uns ein Zwei-Spalten-Layout für deine Zeitschrift programmieren.
 
 + Als erstes müssen wir zwei Spalten mit `div` erstellen.
     
@@ -32,7 +32,7 @@ Webseiten verwenden oft mehrere Spalten. Lass uns ein Zwei-Spalten-Layout für d
     
     Dies gilt für alle Bilder, die du in deiner Zeitschrift benutzt, nicht nur für das des Kätzchens.
 
-+ Füge jetzt eine Klasse namens `photo` zum Bild hinzu, damit du es grafisch gestalten kannst:
++ Füge jetzt eine Klasse namens `Photo` zum Bild hinzu, damit du es grafisch gestalten kannst:
     
     ![Screenshot](images/magazine-photo.png)
 
