@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Herausforderung: Füge einen Link ein, mit dem du zurück zur ersten Seite kommst
+## Herausforderung: Füge einen Link hinzu, mit dem du zurück zur ersten Seite kommst
 
 Kannst du in `seite2.html` einen Link einfügen, mit dem du beim anklicken zurück auf die Startseite kommst?
 
