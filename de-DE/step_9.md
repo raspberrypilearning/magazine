@@ -1,6 +1,6 @@
 ## Eine Animation hinzufügen
 
-Lass uns eine lustige Animation in die Zeitschrift programmieren.
+Lass uns eine lustige Animation für die Zeitschrift programmieren.
 
 + Gehe zu `index.html` und füge das Bild `greenrobot.png` oben auf der Seite ein.
 
