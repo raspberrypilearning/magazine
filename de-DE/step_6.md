@@ -12,7 +12,7 @@ Lass uns eine weitere Seite zu deiner Zeitschriften-Website hinzufügen.
 
 Beide Seiten verwenden das gleiche `style.css`, können also auf die gleichen Stile zurückgreifen.
 
-+ Ändere den `<h1>` title von seite2:
++ Ändere die `<h1>`-Überschrift von seite2:
 
 ![Screenshot](images/magazine-page2-h1.png)
 
