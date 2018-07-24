@@ -10,7 +10,7 @@ Webseiten im Zeitschriften-Stil haben oft viele kleine Dinge auf einer Seite. Al
 
 + Fügen wir eine Überschrift hinzu.
     
-    Lass dir einen besseren Titel für deine Zeitschrift einfallen.
+    Du findest sicher einen besseren Titel für deine Zeitschrift.
     
     ![Screenshot](images/magazine-heading.png)
 
@@ -20,8 +20,8 @@ Webseiten im Zeitschriften-Stil haben oft viele kleine Dinge auf einer Seite. Al
     
     ![Screenshot](images/magazine-heading-style.png)
 
-+ Lass uns jetzt einen interessanten Hintergrung mit einem Farbverlauf erstellen und eine Schrifttype für die Zeiteschrift wählen.
++ Lass uns jetzt einen interessanten Hintergrung mit einem Farbverlauf erstellen und eine Schrifttype für die Zeitschrift wählen.
     
-    Hier sind ein paar Beispiele als Erinnerung, wie man einen Farbverlauf macht:
+    Hier ist Stil-Beispiel als Erinnerung, wie man einen Farbverlauf macht:
     
     ![Screenshot](images/magazine-background.png)
