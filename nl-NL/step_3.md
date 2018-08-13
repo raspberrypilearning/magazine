@@ -1,8 +1,8 @@
-## Kolommen maken
+## Maak kolommen
 
 Websites gebruiken vaak meerdere kolommen. Laten we een indeling met twee kolommen maken voor je tijdschrift.
 
-+ Maak eerst twee kolom `div's`.
++ Maak eerst twee kolom `div`'s.
     
     Voeg de gemarkeerde HTML toe aan `index.html`:
     
@@ -32,7 +32,7 @@ Websites gebruiken vaak meerdere kolommen. Laten we een indeling met twee kolomm
     
     Dit is van toepassing op alle afbeeldingen die je in je tijdschrift gebruikt, niet alleen op de kat.
 
-+ Voeg nu een klasse `foto` toe aan de afbeelding, zodat je deze kunt stijlen:
++ Voeg nu een klasse `photo` toe aan de afbeelding, zodat je deze kunt stijlen:
     
     ![screenshot](images/magazine-photo.png)
 
