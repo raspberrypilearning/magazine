@@ -1,0 +1,29 @@
+---
+title: Tijdschrift
+hero_image: images/magazine.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Maak een website van een tijdschrift met meerdere pagina's.
+original_url: https://codeclubprojects.org/en-GB/webdev/magazine
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Inleiding
+  - title: Titel en achtergrond
+  - title: Maak kolommen
+  - title: Artikelen vormgeven
+  - title: 'Uitdaging: voeg onderdelen toe aan de linker kolom'
+  - title: Voeg een tweede pagina toe
+  - title: 'Uitdaging: voeg een link toe naar de eerste pagina'
+  - title: 'Uitdaging: vul je tweede pagina'
+  - title: Voeg een animatie toe
+  - title: 'Uitdaging: voeg nog een animatie toe'
