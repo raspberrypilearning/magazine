@@ -24,20 +24,20 @@
     
     عرض الصورة هذا كبير إلى حد ما!
 
-+ Let's use `max-width:` to make images fit within their container.
++ لنستخدم الخاصية `max-width:` لتتناسب الصور مع المكان الموجودة فيه.
     
-    Add the following style to `style.css`.
+    أضف النمط التالي إلى الملف `style.css`.
     
     ![screenshot](images/magazine-img-width.png)
     
-    This will apply to all images you use in your magazine, not just the kitten.
+    ستنطبق هذه الخاصية على كل الصور التي تستخدمها في المجلة، لا على صورة القطة فحسب.
 
-+ Now add a class `photo` to the image so that you can style it:
++ أضف الآن الفئة `photo` إلى الصورة لكي يمكنك تحديد نمط لها:
     
     ![screenshot](images/magazine-photo.png)
 
-+ And style the image to add a shadow and a twist to make the photo pop out of the page:
++ حدِّد نمط الصورة بإضافة ظل وإلتفاف حتى تبرُز الصورة عن الصفحة:
     
     ![screenshot](images/magazine-photo-style.png)
     
-    Make some changes until you like the result.
+    قم بعمل تغييرات حتى تصل إلى تعجبك النتيجة.
