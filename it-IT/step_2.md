@@ -1,27 +1,27 @@
-## Heading and Background
+## Intestazione e sfondo
 
-Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
+Spesso, i siti web in stile rivista hanno molti elementi piccoli in ogni pagina. Per prima cosa, creeremo un'intestazione e uno sfondo per la tua rivista.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Apri questo trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    The project should look like this:
+    Il progetto dovrebbe assomigliare a questo:
     
     ![screenshot](images/magazine-starter.png)
 
-+ Let's add a heading.
++ Aggiungiamo un'intestazione.
     
-    You can think of a better title for your magazine.
+    Puoi pensare ad un nome migliore per la tua rivista.
     
     ![screenshot](images/magazine-heading.png)
 
-+ Can you style the heading?
++ Puoi applicare uno stile alla tua intestazione?
     
-    Here's an example, but you can choose your own style:
+    Questo è un esempio, ma puoi scegliere il tuo stile personale:
     
     ![screenshot](images/magazine-heading-style.png)
 
-+ Now let's create an interesting background using a gradient and choose a font for the magazine.
++ Ora creiamo uno sfondo interessante, usando un gradiente, e scegliamo un font per la rivista.
     
-    Here's some example style as a reminder of how to create a gradient:
+    Ecco qualche esempio per ricordare come creare un gradiente:
     
     ![screenshot](images/magazine-background.png)
