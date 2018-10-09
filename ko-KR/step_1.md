@@ -1,6 +1,6 @@
-## Introduction
+## 소개
 
-In this project, you'll learn how to use HTML and CSS to create a multi-page magazine website with a two page layout. You'll also revisit lots of HTML and CSS techiques from other projects.
+이 프로젝트에서는 HTML과 CSS를 이용하여 여러 페이지의 매거진 웹사이트를 2페이지 레이아웃으로 제작하는 것을 목표로 합니다. 이 프로젝트를 잘 수행하기 위해서는 다른 프로젝트 페이지에서 배웠던 HTML과 CSS 테크닉을 많이 참조해야 합니다.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,33 +8,33 @@ In this project, you'll learn how to use HTML and CSS to create a multi-page mag
   <img src="images/magazine-final.png">
 </div>
 
-### Additional information for club leaders
+### 교육자들을 위한 추가 정보
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/magazine/print).
+이 프로젝트를 인쇄하려면 [프린트용 문서](https://projects.raspberrypi.org/en/projects/magazine/print)를 사용하십시오.
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: 교육자 노트
 
-## Introduction:
+## 소개
 
-In this project, children will learn how to create a two-column layout. They will also recap lots of the HTML & CSS that they have learned in other projects.
+이 프로젝트에서 학생들은 웹사이트를 2페이지 레이아웃을 제작하는 것을 배웁니다. 또한, 다른 프로젝트에서 배웠던 HTML과 CSS 지식을 복습할것입니다.
 
-## Online Resources
+## 온라인 자료들
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+이 자료에서는 HTML과 CSS를 온라인으로 작성 가능한 [trinket](https://trinket.io/)을 사용하는 것을 권장합니다. 이 프로젝트는 아래와 같은 Trinket을 사용합니다:
 
-* ['Magazine' starting point -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* ['매거진' 프로젝트 파일 -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+학생들은 새로운 Trinket을 사용할 수 있으며 [(jumpto.cc/html-black)](http://jumpto.cc/html-blank) 이를 통해 자신만의 HTML과 CSS 코드를 사용하는 방법을 배울 수 있습니다. 또한, 템플릿이 제공된 Trinket을 사용할 수 있습니다. [(jumpto.cc/html-template)](http://jumpto.cc/html-template)
 
-There is also a trinket containing a sample solution to the challenges:
+프로젝트의 샘플 정답이 다음 Trinket에 있습니다.
 
-* ['Magazine' Finished -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* ['매거진' 프로젝트 완성본 -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
-## Offline Resources
+## 오프라인 자료
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+프로젝트를 [오프라인에서 완성](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)할 수도 있습니다. 'Project Materials' 라는 링크를 클릭하여 이 프로젝트의 자료를 확인해볼 수 있습니다. 이 링크에는 학생들이 프로젝트를 오프라인으로 완료하는 데 필요한 자료가 포함된 'Project Resource' 섹션이 있습니다. 학생들이 자료의 사본에 접근할 수 있는지 확인하십시오. 이 섹션에는 아래와 같은 파일들이 포함되어 있습니다.
 
 * intro/index.html
 * template/template.html
@@ -44,7 +44,7 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * magazine/script.js
 * magazine/mutliple .png images
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+이 프로젝트의 완성된 버전은 'Volunteer Resources' 섹션에서 찾을 수 있습니다. 다음 파일이 있습니다:
 
 * magazine-finished/index.html
 * magazine-finished/style.css
@@ -54,35 +54,35 @@ You can also find a completed version of this project's challenges in the 'Volun
 * magazine-finished/greenrobot.png
 * magazine-finished/spacerobot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(또한 위의 모든 자료는 프로젝트 및 자원봉사자 `.zip` 파일로 다운로드 할 수 있습니다.)
 
-## Learning Objectives
+## 학습 목표
 
-* This project teaches children how to create a two-column magazine style layout using `float:`. It also recaps lots of the HTML & CSS that is covered in more detail in other projects. Examples are given so children will be able to complete this project even if they have not completed some of the earlier projects. 
+* 이 프로젝트는 학생들이 2단 페이지 레이아웃을 `float:`을 통해 제작하는 방법을 배웁니다. 다른 프로젝트에 자세히 설명되어있는 HTML & CSS 테크닉도 복습할 수 있습니다. 주어진 예시가 있기 때문에 꼭 이전 프로젝트의 일부분을 완성하지 않아도, 학생들은 이 프로젝트를 완수할 수 있습니다. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+이 프로젝트는 [라즈베리파이 디지털 메이킹 커리큘럼](http://rpf.io/curriculum) 중 아래의 과정에 있는 요소들을 다룹니다.
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [2D와 3D 디자인](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## 도전과제
 
-* "Add items to the left column" - placing items inside a floated element;
-* "Add a link back to the first page" - creating links between pages in a project;
-* "Fill in your second page" - recapping more HTML & CSS;
-* "Add another animation" - recapping animations.
+* "왼쪽 열에 항목 배치" - 아이템을 "float" 속성이 있는 열 집합에 삽입
+* "첫 번째 페이지에 링크 삽입"- 프로젝트의 페이지 사이의 링크를 만듭니다.
+* "두 번째 페이지 내용 채우기" - HTML과 CSS를 복습합니다.
+* "애니메이션 추가하기" - 애니메이션을 복습합니다.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: 프로젝트 자료
 
-## Project resources
+## 프로젝트 리소스
 
-* [.zip file containing all project resources](resources/magazine-project-resources.zip)
-* [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [프로젝트의 모든 리소스가 들어있는 .zip 파일](resources/magazine-project-resources.zip)
+* [매거진 프로젝트 자료가 포함된 온라인 Trinket](http://jumpto.cc/web-magazine)
+* [온라인 Trinket 템플릿](http://jumpto.cc/trinket-template)
+* [빈 Trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [intro/index.html](resources/intro-index.html)
@@ -97,10 +97,10 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [magazine/spacerobot.png](resources/magazine-spacerobot.png)
 * [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
-## Club leader resources
+## 교육자를 위한 자료
 
-* [.zip file containing all completed project resources](resources/magazine-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/a41e4e1c5c)
+* [완성된 모든 프로젝트 리소스가 들어있는 .zip 파일](resources/magazine-volunteer-resources.zip)
+* [완성된 온라인 Trinket 프로젝트](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
 * [magazine-finished/script.js](resources/magazine-finished-script.js)
