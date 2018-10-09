@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Challenge: Add items to the left column
+## Sfida: Aggiungi elementi alla colonna di sinistra
 
-Can you add a ordered list and a gradient text sticker to the left column?
+Sei in grado di aggiungere una lista ordinata e un testo colorato tramite gradiente alla colonna di sinistra?
 
-Here's an example:
+Ecco un esempio:
 
 ![screenshot](images/magazine-challenge1-example.png)
 
-This is the code for the example, but you can change it or come up with your own.
+Questo è il codice dell'esempio, ma puoi cambiarlo o scrivere il tuo codice personale.
 
 HTML:
 
