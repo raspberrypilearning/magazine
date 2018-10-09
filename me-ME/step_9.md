@@ -1,11 +1,11 @@
-## Add an animation
+## Dodaj animaciju
 
-Let's add a fun animation to your magazine.
+Dodajmo zabavnu animaciju u tvoj časopis.
 
-+ Go to `index.html` and include the `greenrobot.png` image at the top of your page.
++ Idi u `index.html` i unesi sliku `greenrobot.png` na vrh stranice.
 
 ![screenshot](images/magazine-animation-image.png)
 
-+ Now add the CSS to animate your robot:
++ Sada dodaj sljedeći CSS da animiraš svog robota:
 
 ![screenshot](images/magazine-animation-css.png)
