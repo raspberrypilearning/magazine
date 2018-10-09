@@ -1,4 +1,4 @@
-## Creating Columns
+## إنشاء الأعمدة
 
 Websites often use multiple columns. Let's create a two column layout for your magazine.
 
