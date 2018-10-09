@@ -1,10 +1,10 @@
 ## إنشاء الأعمدة
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+غالبًا ما تستخدم مواقع الويب أعمدة متعددة في تصميمها. لننشئ تخطيط بعمودين لمجلتك.
 
-+ First create two column `div`s.
++ أولاً، أنشئ عمودين `div`.
     
-    Add the highlighted HTML to `index.html`:
+    أضف تعليمات HTML المظللة إلى ملف `index.html`:
     
     ![screenshot](images/magazine-columns.png)
 
