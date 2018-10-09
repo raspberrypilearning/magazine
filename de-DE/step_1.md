@@ -22,7 +22,7 @@ In diesem Projekt lernen die Kinder, wie man ein Layout mit zwei Spalten program
 
 ## Online-Ressourcen
 
-Wir empfehlen die Verwendung von [trinket](https://trinket.io/) um HTML & CSS online zu schreiben. Dieses Projekt enthält folgende Trinkets:
+Wir empfehlen die Verwendung von [trinket](https://trinket.io/) um online HTML & CSS schreiben zu können. Dieses Projekt enthält folgende Trinkets:
 
 * [Start für das 'Zeitschrift'-Projekt -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
