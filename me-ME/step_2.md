@@ -1,27 +1,27 @@
-## Heading and Background
+## Naslov i pozadina
 
-Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
+Veb-stranice u stilu časopisa često imaju mnogo sitnih elemenata na stranici. Prvo ćeš kreirati naslov i pozadinu za svoj časopis.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Otvori sljedeći trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    The project should look like this:
+    Projekat treba da izgleda ovako:
     
     ![screenshot](images/magazine-starter.png)
 
-+ Let's add a heading.
++ Dodajmo naslov.
     
-    You can think of a better title for your magazine.
+    Možeš da smisliš bolji naziv za svoj časopis.
     
     ![screenshot](images/magazine-heading.png)
 
-+ Can you style the heading?
++ Da li možeš da stilizuješ naslov?
     
-    Here's an example, but you can choose your own style:
+    Evo primjera, ali možeš da odabereš i sopstveni stil:
     
     ![screenshot](images/magazine-heading-style.png)
 
-+ Now let's create an interesting background using a gradient and choose a font for the magazine.
++ Napravimo sada zanimljivu pozadinu koristeći gradijent i odaberimo font za časopis.
     
-    Here's some example style as a reminder of how to create a gradient:
+    Ovdje je primjer stila kao podsjetnik o tome kako se kreira gradijent:
     
     ![screenshot](images/magazine-background.png)
