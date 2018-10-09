@@ -1,17 +1,17 @@
 --- challenge ---
-## Sfida: Compila la seconda pagina
 
-Ecco il codice degli esempi, ma puoi modificare i tag `div` o creare idee tue.  
+## Sfida: Riempi la seconda pagina
+
+Ecco un esempio di codice, ma puoi modificare i `div` o usare le tue idee.
 
 ![screenshot](images/magazine-page2-challenge.png)
 
-Fai clic sull’icona delle immagini per visualizzare le immagini disponibili per l’uso:
+Clicca sull'icona delle immagine per vedere le immagini disponibili:
 
 ![screenshot](images/magazine-images.png)
 
-Ricordati che puoi anche caricare e utilizzare le tue immagini. Assicurati però di avere l’autorizzazione a utilizzare le immagini caricate.
+Ricordati che puoi caricare e usare le tue immagini. Assicurati di avere il permesso di usare tutte le immagini che carichi.
 
 ![screenshot](images/magazine-upload-images.png)
-
 
 --- /challenge ---

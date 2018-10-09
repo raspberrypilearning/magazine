@@ -1,45 +1,43 @@
 ## Creazione di colonne
 
-I siti Web utilizzano spesso molteplici colonne. Creiamo un layout a due colonne per la rivista.
+I siti web usano spesso più colonne. Creiamo una struttura a due colonne per la tua rivista.
 
-+ Per prima cosa, crea due colonne con il tag `div`.
++ Per prime, creaimo due colonne con il tag `div`.
+    
+    Aggiungi le righe di HTML evidenziate al file `index.html`:
+    
+    ![screenshot](images/magazine-columns.png)
 
-	Aggiungi l’HTML evidenziato a `index.html`:
++ Ora modifica le colonne per collocarne una sul lato sinistro e l'altra sul lato destro.
+    
+    ![screenshot](images/magazine-columns-style.png)
+    
+    Ogni colonna è più piccola della metà della pagina, quindi c'è del margine esterno.
+    
+    Avrai bisogno di aggiungere qualcosa alla colonna per vedere l'effetto.
 
-	![screenshot](images/magazine-columns.png)
++ Aggiungiamo l'immagine di un gattino in cima alla seconda colonna.
+    
+    ![screenshot](images/magazine-kitten.png)
+    
+    Nota che l'immagine del gattino è posizionata a metà della pagina, nella seconda colonna.
+    
+    È un po' troppo grande però!
 
-+ Ora attribuisci uno stile alle divisioni in colonne in modo che una si sposti verso sinistra e l’altra verso destra.
++ Usiamo `max-width:` per adeguare le dimensione delle immagini ai loro contenitori.
+    
+    Aggiungi quanto segue al file `style.css`.
+    
+    ![screenshot](images/magazine-img-width.png)
+    
+    Queste modifiche verranno applicate a tutte le immagini che userai nella tua rivista, non solo a quella del gattino.
 
-	![screenshot](images/magazine-columns-style.png)
++ Ora aggiungi una classe `photo` all'imagine per modificarne lo stile:
+    
+    ![screenshot](images/magazine-photo.png)
 
-	Ciascuna colonna è inferiore al 50%; c’è quindi spazio per un riempimento.
-
-	Per vedere il risultato, dovrai aggiungere qualcosa a una colonna.
-
-+ Aggiungiamo la foto di un gatto nella parte superiore della colonna 2.
-
-	![screenshot](images/magazine-kitten.png)
-
-	L’immagine del gatto è posizionata su circa metà della pagina nella seconda colonna.
-
-	Però è un po’ grande!
-
-+ Utilizziamo`max-width: ` per ridimensionare le immagini in modo che si adattino al loro contenitore.
-
-	Aggiungi lo stile seguente a `style.css`.
-
-	![screenshot](images/magazine-img-width.png)
-
-	Verrà applicato a tutte le immagini utilizzate nella rivista, non solo a quella del gatto.
-
-+ Ora aggiungi la classe `photo` all’immagine in modo da attribuirle uno stile:
-
-	![screenshot](images/magazine-photo.png)
-
-+ E attribuisci uno stile all’immagine in modo da aggiungere un’ombra e una rotazione per far emergere la foto dalla pagina:
-
-	![screenshot](images/magazine-photo-style.png)
-
-	Effettua delle modifiche finché non sarai soddisfatto/a del risultato.
-
-
++ Modifica l'immagine per aggiungere un'ombra e un'animazione per far uscire la foto dalla pagina:
+    
+    ![screenshot](images/magazine-photo-style.png)
+    
+    Modifica la pagina a tuo gradimento.

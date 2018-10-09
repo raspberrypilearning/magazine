@@ -1,13 +1,14 @@
 --- challenge ---
+
 ## Sfida: Aggiungi elementi alla colonna di sinistra
 
-Riusciresti ad aggiungere un elenco ordinato e un’etichetta con testo sfumato alla colonna di sinistra?
+Sei in grado di aggiungere una lista ordinata e un testo colorato tramite gradiente alla colonna di sinistra?
 
 Ecco un esempio:
 
 ![screenshot](images/magazine-challenge1-example.png)
 
-Ecco il codice per l’esempio riportato in figura, ma puoi modificarlo o creare il tuo.
+Questo è il codice dell'esempio, ma puoi cambiarlo o scrivere il tuo codice personale.
 
 HTML:
 
@@ -16,10 +17,5 @@ HTML:
 CSS:
 
 ![screenshot](images/magazine-challenge1-style.png)
-
-
-
-
-
 
 --- /challenge ---
