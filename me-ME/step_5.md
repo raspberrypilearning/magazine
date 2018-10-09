@@ -1,14 +1,14 @@
 \--- challenge \---
 
-## Challenge: Add items to the left column
+## Izazov: Dodaj objekte u lijevi stubac
 
-Can you add a ordered list and a gradient text sticker to the left column?
+Možeš li da dodaš uređenu listu i naljepnicu sa tekstom i gradijentom u lijevi stubac?
 
-Here's an example:
+Evo primjera:
 
 ![screenshot](images/magazine-challenge1-example.png)
 
-This is the code for the example, but you can change it or come up with your own.
+Ovo je kôd za prikazani primjer, a ti možeš da ga izmijeniš ili da napišeš sopstveni kôd.
 
 HTML:
 
