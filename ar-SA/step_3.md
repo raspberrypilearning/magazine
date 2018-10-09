@@ -8,21 +8,21 @@
     
     ![screenshot](images/magazine-columns.png)
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
++ واﻵن صمم العمودين divs بحيث يظهر واحد على اليسار واﻵخر على اليمين.
     
     ![screenshot](images/magazine-columns-style.png)
     
-    Each column is less than 50% so there's room for padding.
+    قيمة العرض لكل عمود أقل من 50%، لذا توجد مساحة لهامش الكتابة padding.
     
-    You'll need to add something to a column to see the effect.
+    ستحتاج إلى إضافة شيء ما إلى العمود لرؤية النتيجة.
 
-+ Let's add a kitten picture to the top of column 2.
++ لنضف صورة لقطة إلى أعلى العمود الثاني.
     
     ![screenshot](images/magazine-kitten.png)
     
-    Notice that the kitten image is positioned about half-way across the page, in the second column.
+    لاحظ أن موضع صورة القطة في العمود الثاني يأخذ نصف عرض الصفحة تقريبًا.
     
-    It's a bit big though!
+    عرض الصورة هذا كبير إلى حد ما!
 
 + Let's use `max-width:` to make images fit within their container.
     
