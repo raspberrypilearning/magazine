@@ -1,25 +1,27 @@
-## Add a second page
+## 2番目のページを追加する
 
-Let's add another page to your magazine website.
+雑誌のウェブサイトに別のページを追加しましょう。
 
-+ Add a new page to your project and name it `page2.html`:
++ プロジェクトに新しいページを追加して、名前を `page2.html`：
 
-![screenshot](images/magazine-page2.png)
+![スクリーンショット](images/magazine-page2.png)
 
-+ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
++ ページ2はあなたの雑誌の最初のページと非常に似ていますので、 `index.html` からhtmlをコピーして `page2.html`貼り付けることができます。
 
-![screenshot](images/magazine-page2-html.png)
+![スクリーンショット](images/magazine-page2-html.png)
 
-Notice that both pages use the same `style.css` so they will share styles.
+両方のページで同じスタイル `使用することに注意してください。スタイル` を共有します。
 
-+ Change the `<h1>` title for page2:
++ ページ</code> の `<h1>`タイトルを変更し` 。</li>
+</ul>
 
-![screenshot](images/magazine-page2-h1.png)
+<p><img src="images/magazine-page2-h1.png" alt="スクリーンショット" /></p>
 
-+ Now you'll need links between your pages to you can get to page 2 and back to the front page.
+<ul>
+<li>これで、ページ間のリンクが必要になり、2ページ目に戻り、フロントページに戻ることができます。</li>
+</ul>
 
-Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
-
-![screenshot](images/magazine-page2-link.png)
-
-+ Test that you can click on your new link and move to page 2 of your magazine.
+<p><code>index.htmlに戻る`。 `index.htmlの<code>列のdiv内にリンクを追加する`：</p> 
+    ![スクリーンショット](images/magazine-page2-link.png)
+    
+    + 新しいリンクをクリックして、雑誌の2ページに移動できることをテストします。
