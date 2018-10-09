@@ -1,12 +1,11 @@
-##  Aggiungi un’animazione
+## Aggiungi un’animazione
 
-Aggiungiamo un’animazione divertente alla rivista.
+Aggiungiamo un'animazione divertente alla tua rivista.
 
-+ Vai a `index.html` e includi l’immagine `greenrobot.png` nella parte superiore della pagina.
++ Apri `index.html` e includi l'immagine `greenrobot.png` in cima alla tua pagina.
 
 ![screenshot](images/magazine-animation-image.png)
 
-+ Aggiungi ora il CSS per animare il robot:
++ Ora aggiungi il codice CSS per animare il tuo robot:
 
 ![screenshot](images/magazine-animation-css.png)
-

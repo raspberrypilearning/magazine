@@ -1,14 +1,13 @@
 ## Attribuisci uno stile agli elementi della rivista
 
-Rendiamo il layout un po’ più interessante.
+Abbelliamo un po' la struttura della pagina.
 
-+ Aggiungi un tag `div` attorno all’immagine con una `class` e aggiungi un’intestazione `h2`:
++ Aggiungi un `div` attorno alla tua immagine con una `class` e un'intestazione di tipo `h2`:
+    
+    ![screenshot](images/magazine-item.png)
 
-	![screenshot](images/magazine-item.png)
-
-+ Ora attribuisci uno stile all’elemento e all’intestazione.
-
-	Ecco un esempio, ma puoi apportare delle modifiche:
-
-	![screenshot](images/magazine-item-style.png)
-
++ Ora modifica lo stile del contenitore e dell'intestazione.
+    
+    Questo è un esempio, ma puoi modificarla come vuoi:
+    
+    ![screenshot](images/magazine-item-style.png)

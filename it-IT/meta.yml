@@ -1,3 +1,4 @@
+---
 title: Rivista
 hero_image: images/magazine.png
 theme: red
@@ -15,14 +16,14 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Introduzione
-- title: Intestazione e sfondo
-- title: Creazione di colonne
-- title: Attribuisci uno stile agli elementi della rivista
-- title: 'Sfida: Aggiungi elementi alla colonna di sinistra'
-- title: Aggiungi una seconda pagina
-- title: 'Sfida: Aggiungi un link per tornare alla prima pagina'
-- title: 'Sfida: Compila la seconda pagina'
-- title: Aggiungi un’animazione
-- title: "Sfida: Aggiungi un’altra animazione"
+steps:
+  - title: Introduzione
+  - title: Intestazione e sfondo
+  - title: Creazione di colonne
+  - title: Attribuisci uno stile agli elementi della rivista
+  - title: 'Sfida: Aggiungi elementi alla colonna di sinistra'
+  - title: Aggiungi una seconda pagina
+  - title: 'Sfida: Aggiungi un link per tornare alla prima pagina'
+  - title: 'Sfida: Riempi la seconda pagina'
+  - title: Aggiungi un’animazione
+  - title: "Sfida: Aggiungi un’altra animazione"

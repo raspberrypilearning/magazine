@@ -1,0 +1,29 @@
+---
+title: 매거진
+hero_image: images/magazine.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: 여러 페이지의 매거진 웹사이트 제작
+original_url: https://codeclubprojects.org/en-GB/webdev/magazine
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: 소개
+  - title: 제목과 배경
+  - title: 문단 만들기
+  - title: 매거진 스타일링하기
+  - title: '과제: 왼쪽 컬럼에 아이템 추가하기'
+  - title: 두 번째 페이지 추가
+  - title: '과제: 페이지 2에 페이지 1로 가는 링크 만들기'
+  - title: '과제: 두 번째 페이지 채우기'
+  - title: 애니메이션 추가하기
+  - title: '과제: 새로운 애니메이션 추가하기'
