@@ -1,11 +1,11 @@
-\--- challenge \---
+\---挑戦\---
 
-## Challenge: Add a link back to the first page
+## 課題：最初のページにリンクを戻す
 
-Can you add a link to `page2.html` so that you can click on it to get back to the first page?
+`page2.html` へのリンクを追加して、最初のページに戻るためにクリックすることはできますか？
 
-Hint: Look at the HTML you used to create a link to page 2.
+ヒント：ページ2へのリンクを作成するために使用したHTMLを見てください。
 
-![screenshot](images/magazine-page1-link.png)
+![スクリーンショット](images/magazine-page1-link.png)
 
-\--- /challenge \---
+\--- /チャレンジ\---
