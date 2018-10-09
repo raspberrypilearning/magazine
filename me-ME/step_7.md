@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: Add a link back to the first page
+## Izazov: Dodaj link za povratak na prvu stranicu
 
-Can you add a link to `page2.html` so that you can click on it to get back to the first page?
+Da li možeš da dodaš link u `page2.html` tako da možeš da se vratiš na prvu stranicu kada klikneš na njega?
 
-Hint: Look at the HTML you used to create a link to page 2.
+Savjet: Pogledaj HTML korišćen za kreiranje linka za stranicu 2.
 
 ![screenshot](images/magazine-page1-link.png)
 
