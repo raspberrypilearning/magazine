@@ -1,11 +1,11 @@
-## Add an animation
+## 애니메이션 추가하기
 
-Let's add a fun animation to your magazine.
+재미있는 애니메이션을 매거진에 추가해 봅시다.
 
-+ Go to `index.html` and include the `greenrobot.png` image at the top of your page.
++ `index.html`로 돌아가서 `greenrobot.png`를 제일 위에 추가하십시오.
 
-![screenshot](images/magazine-animation-image.png)
+![스크린샷](images/magazine-animation-image.png)
 
-+ Now add the CSS to animate your robot:
++ CSS 코드를 아래와 같이 작성하여 로봇 애니메이션을 적용합니다.
 
-![screenshot](images/magazine-animation-css.png)
+![스크린샷](images/magazine-animation-css.png)
