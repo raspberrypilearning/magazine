@@ -1,43 +1,43 @@
-## Creating Columns
+## Kreiranje stupaca
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+Na veb-stranicama često se koristi više stupaca. Napravimo raspored u dva stupca za tvoj časopis.
 
-+ First create two column `div`s.
++ Prvo kreiraj dva `div` za stupce.
     
-    Add the highlighted HTML to `index.html`:
+    Dodaj označeni HTML u `index.html`:
     
     ![screenshot](images/magazine-columns.png)
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
++ Sada stilizuj oba div za stupce tako da jedan pluta ulijevo, a drugi udesno.
     
     ![screenshot](images/magazine-columns-style.png)
     
-    Each column is less than 50% so there's room for padding.
+    Svaki stubac zauzima manje od 50%, tako da ima prostora za popunu.
     
-    You'll need to add something to a column to see the effect.
+    Biće potrebno da nešto dodaš u stubac da bismo vidjeli rezultat.
 
-+ Let's add a kitten picture to the top of column 2.
++ Dodajmo sliku mačeta na vrh stupca 2.
     
     ![screenshot](images/magazine-kitten.png)
     
-    Notice that the kitten image is positioned about half-way across the page, in the second column.
+    Obrati pažnju da je slika mačeta pozicionirana otprilike na sredini stranice, u drugom stupcu.
     
-    It's a bit big though!
+    Izgleda, ipak, da je slika veća nego što bi trebalo!
 
-+ Let's use `max-width:` to make images fit within their container.
++ Upotrijebimo `max-width:` kako bi se slike uklopile u svoj kontejner.
     
-    Add the following style to `style.css`.
+    Dodaj sljedeći stil u `style.css`.
     
     ![screenshot](images/magazine-img-width.png)
     
-    This will apply to all images you use in your magazine, not just the kitten.
+    Ovaj stil će se primijenjivati na sve slike koje koristiš u svom časopisu, ne samo na sliku mačeta.
 
-+ Now add a class `photo` to the image so that you can style it:
++ Sada slici dodaj klasu `photo` kako bismo mogli da je stilizujemo:
     
     ![screenshot](images/magazine-photo.png)
 
-+ And style the image to add a shadow and a twist to make the photo pop out of the page:
++ Stilizuj sliku tako što ćeš dodati sjenku (shadow) i okrenuti je tako da izgleda kao da fotografija izlazi sa stranice:
     
     ![screenshot](images/magazine-photo-style.png)
     
-    Make some changes until you like the result.
+    Pravi izmjene sve dok ti se ne svidi rezultat.
