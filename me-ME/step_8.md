@@ -1,16 +1,16 @@
 \--- challenge \---
 
-## Challenge: Fill in your second page
+## Izazov: Ispuni drugu stranicu
 
-Here's the code for the examples, but you can change the `div`s or come up with your own ideas.
+Ovdje je kôd za primjere, a možeš i da izmijeniš `div` ili da koristiš neke svoje ideje.
 
 ![screenshot](images/magazine-page2-challenge.png)
 
-Click the images icon to see the images that are available to use:
+Klikni na ikonu za slike da pregledaš dostupne slike:
 
 ![screenshot](images/magazine-images.png)
 
-Remember that you can upload your own images to use. Make sure you have permission to use any images that you upload.
+Ne zaboravi da možeš da učitaš svoje slike i da ih koristiš. Postaraj se da imaš dozvolu za upotrebu slika koje učitaš.
 
 ![screenshot](images/magazine-upload-images.png)
 
