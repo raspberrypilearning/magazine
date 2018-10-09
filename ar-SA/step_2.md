@@ -1,27 +1,27 @@
-## Heading and Background
+## العنوان والخلفية
 
-Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
+غالبا ما تحتوي المواقع المصممة على شكل مجلة على الكثير من العناصر الصغيرة في صفحة.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ افتح مشروع trinket هذا: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    The project should look like this:
+    الآن يجب أن يبدو الملف الخاص بك مثل هذا:
     
-    ![screenshot](images/magazine-starter.png)
+    ![لقطة الشاشة](images/magazine-starter.png)
 
-+ Let's add a heading.
++ لنُضف عنوناً.
     
-    You can think of a better title for your magazine.
+    يمكن لك أن تفكر في title: أفضل لمجلتك.
     
-    ![screenshot](images/magazine-heading.png)
+    ![لقطة الشاشة](images/magazine-heading.png)
 
-+ Can you style the heading?
++ هل يمكن لك أن تعطي نمطا للعنوان من إختيارك ؟
     
-    Here's an example, but you can choose your own style:
+    إليك مثالًا، لكن يمكن لك أن تختار نمطا من عندك:
     
-    ![screenshot](images/magazine-heading-style.png)
+    ![لقطة الشاشة](images/magazine-heading-style.png)
 
-+ Now let's create an interesting background using a gradient and choose a font for the magazine.
++ لنقم الآن بإنشاء خلفية مشوِّقة باستخدام التدرج واختيار خط للمجلة.
     
-    Here's some example style as a reminder of how to create a gradient:
+    إليك بعض الأمثلة للأنماط كتذكير بكيفية إنشاء التدرج:
     
-    ![screenshot](images/magazine-background.png)
+    ![لقطة الشاشة](images/magazine-background.png)
