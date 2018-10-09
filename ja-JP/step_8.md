@@ -1,17 +1,17 @@
-\--- challenge \---
+\---挑戦\---
 
-## Challenge: Fill in your second page
+## 課題：2ページ目を記入してください
 
-Here's the code for the examples, but you can change the `div`s or come up with your own ideas.
+例のコードは次のとおりですが、 `div`変更することも、独自のアイデアを思いつくこともできます。
 
-![screenshot](images/magazine-page2-challenge.png)
+![スクリーンショット](images/magazine-page2-challenge.png)
 
-Click the images icon to see the images that are available to use:
+画像アイコンをクリックすると、使用できる画像が表示されます。
 
-![screenshot](images/magazine-images.png)
+![スクリーンショット](images/magazine-images.png)
 
-Remember that you can upload your own images to use. Make sure you have permission to use any images that you upload.
+使用する独自の画像をアップロードすることができます。アップロードした画像を使用する権限があることを確認してください。
 
-![screenshot](images/magazine-upload-images.png)
+![スクリーンショット](images/magazine-upload-images.png)
 
-\--- /challenge \---
+\--- /チャレンジ\---
