@@ -1,43 +1,43 @@
-## Creating Columns
+## 문단 만들기
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+웹사이트들은 여러 문단으로 이루어져 있습니다. 2단 레이아웃을 만들어봅시다.
 
-+ First create two column `div`s.
++ 먼저, 문단`div` 2개를 만듭니다.
     
-    Add the highlighted HTML to `index.html`:
+    아래와 같은 HTML 코드를 `index.html` 에 추가합니다.
     
-    ![screenshot](images/magazine-columns.png)
+    ![스크린샷](images/magazine-columns.png)
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
++ 하나(column1)는 왼쪽에서 조금 떨어지게 하고 다른 하나(column2)는 오른쪽에서 조금 떨어지도록 열 div를 스타일합니다.
     
-    ![screenshot](images/magazine-columns-style.png)
+    ![스크린샷](images/magazine-columns-style.png)
     
-    Each column is less than 50% so there's room for padding.
+    각 단은 50%보다 작아서 패딩을 넣을 공간이 있습니다.
     
-    You'll need to add something to a column to see the effect.
+    위에서 수행한 작업을 확인하기 위해서는 무언가를 넣어서 확인해 봐야 하는데요,
 
-+ Let's add a kitten picture to the top of column 2.
++ 고양이 사진을 column 2에 넣어 봅시다.
     
-    ![screenshot](images/magazine-kitten.png)
+    ![스크린샷](images/magazine-kitten.png)
     
-    Notice that the kitten image is positioned about half-way across the page, in the second column.
+    고양이의 이미지는 두 번째 단 중간쯤에 배치되어 있습니다.
     
-    It's a bit big though!
+    너무 크죠!
 
-+ Let's use `max-width:` to make images fit within their container.
++ `max-width:`을 사용하여 이미지가 영역 내에 들어가도록 해 보겠습니다.
     
-    Add the following style to `style.css`.
+    다음을`style.css` 파일에 추가해보세요.
     
-    ![screenshot](images/magazine-img-width.png)
+    ![스크린샷](images/magazine-img-width.png)
     
-    This will apply to all images you use in your magazine, not just the kitten.
+    이 코드는 고양이 사진 뿐만이 아니라 매거진에 추가되는 전체 이미지에 해당됩니다. 모든 이미지가 같은 사이즈로 나온다면, 뭔가 어색하겠죠?
 
-+ Now add a class `photo` to the image so that you can style it:
++ 그래서 `photo`라는 클래스를 추가하여 스타일을 입히고자 하는 대상을 지정해 보겠습니다.
     
-    ![screenshot](images/magazine-photo.png)
+    ![스크린샷](images/magazine-photo.png)
 
-+ And style the image to add a shadow and a twist to make the photo pop out of the page:
++ 그림자와 회전을 추가해서 더 잘 보이게 스타일링 해보세요.
     
-    ![screenshot](images/magazine-photo-style.png)
+    ![스크린샷](images/magazine-photo-style.png)
     
-    Make some changes until you like the result.
+    마음에 들때까지 계속 바꿔 보세요!
