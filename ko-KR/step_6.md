@@ -1,25 +1,25 @@
-## Add a second page
+## 두 번째 페이지 추가
 
-Let's add another page to your magazine website.
+이번에는 매거진 웹사이트에 다른 페이지를 추가해 봅시다.
 
-+ Add a new page to your project and name it `page2.html`:
++ 새로운 페이지를 추가하고 `page2.html`라고 이름을 붙여보세요.
 
-![screenshot](images/magazine-page2.png)
+![스크린샷](images/magazine-page2.png)
 
-+ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
++ 두번째 페이지는 첫번째 페이지와 비슷하기 때문에 `index.html` 파일을 복사해서 `page2.html`에 붙여넣어도 됩니다.
 
-![screenshot](images/magazine-page2-html.png)
+![스크린샷](images/magazine-page2-html.png)
 
-Notice that both pages use the same `style.css` so they will share styles.
+두 페이지 다 똑같은 `style.css`을 사용한다는 점에 유의하세요.
 
-+ Change the `<h1>` title for page2:
++ `<h1>` 에 있는 제목을 변경해보세요.
 
-![screenshot](images/magazine-page2-h1.png)
+![스크린샷](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages to you can get to page 2 and back to the front page.
++ 두 페이지를 서로 이동할 수 있도록 연결 하이퍼링크를 추가해야 합니다.
 
-Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
+`index.html` 파일로 돌아가서 두번째 단에 새로운 div를 만들어서 링크를 삽입합니다.
 
-![screenshot](images/magazine-page2-link.png)
+![스크린샷](images/magazine-page2-link.png)
 
-+ Test that you can click on your new link and move to page 2 of your magazine.
++ 페이지 1에서 페이지 2로 이동할 수 있는지 테스트 해보세요.
