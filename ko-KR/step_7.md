@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Add a link back to the first page
+## 과제: 페이지 2에 페이지 1로 돌아가는 링크 만들기
 
-Can you add a link to `page2.html` so that you can click on it to get back to the first page?
+`page2.html`에 페이지 1로 돌아가는 링크를 만들 수 있나요?
 
-Hint: Look at the HTML you used to create a link to page 2.
+힌트: 페이지 2로 연결되는 하이퍼링크 코드를 페이지 1에서 참조해보세요.
 
-![screenshot](images/magazine-page1-link.png)
+![스크린샷](images/magazine-page1-link.png)
 
 \--- /challenge \---
