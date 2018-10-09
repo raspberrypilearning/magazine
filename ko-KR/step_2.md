@@ -1,27 +1,27 @@
-## Heading and Background
+## 제목과 배경
 
-Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
+잡지 스타일의 웹 사이트는 종종 페이지에 작은 아이템들이 많이 있습니다. 우선 잡지의 제목과 배경을 만들어봅시다.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Trinket 파일 열기: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>
     
-    The project should look like this:
+    프로젝트는 아래와 같이 보일 것입니다:
     
-    ![screenshot](images/magazine-starter.png)
+    ![스크린샷](images/magazine-starter.png)
 
-+ Let's add a heading.
++ 헤딩을 추가해 봅시다.
     
-    You can think of a better title for your magazine.
+    잡지에 쓸 더 나은 제목을 생각해 봅시다.
     
-    ![screenshot](images/magazine-heading.png)
+    ![스크린샷](images/magazine-heading.png)
 
-+ Can you style the heading?
++ 제목을 스타일링할 수 있나요?
     
-    Here's an example, but you can choose your own style:
+    아래에 보이는 그림은 예시입니다. 자신만의 스타일을 선택할 수 있습니다.
     
-    ![screenshot](images/magazine-heading-style.png)
+    ![스크린샷](images/magazine-heading-style.png)
 
-+ Now let's create an interesting background using a gradient and choose a font for the magazine.
++ 이제 흥미로운 배경을 만들어 봅시다! 적절한 그라데이션과 폰트를 선택하면 됩니다.
     
-    Here's some example style as a reminder of how to create a gradient:
+    그라데이션을 만드는 방법을 익히기 좋은 스타일의 몇 가지 예를 보여줍니다.
     
-    ![screenshot](images/magazine-background.png)
+    ![스크린샷](images/magazine-background.png)
