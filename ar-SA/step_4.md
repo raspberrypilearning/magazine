@@ -2,12 +2,12 @@
 
 لنجعل التخطيط أكثر تشويقًا.
 
-+ Add a `div` around your image with a `class` and add a `h2` heading:
++ أضف وسم `div` حول الصورة مع `class` وأضف عنوانا بوسم `h2`:
     
     ![screenshot](images/magazine-item.png)
 
-+ Now style the item and heading.
++ حدِّد الآن نمط العنصر والعنوان.
     
-    Here's an example, but you can make changes:
+    إليك مثالًا، لكن يمكنك إجراء تغييرات عليه:
     
     ![screenshot](images/magazine-item-style.png)
