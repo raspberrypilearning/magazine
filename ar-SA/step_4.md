@@ -1,6 +1,6 @@
-## Style magazine items
+## تحديد أنماط عناصر المجلة
 
-Let's make the layout a bit more interesting.
+لنجعل التخطيط أكثر تشويقًا.
 
 + Add a `div` around your image with a `class` and add a `h2` heading:
     
