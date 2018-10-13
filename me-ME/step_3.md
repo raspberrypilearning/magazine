@@ -1,8 +1,8 @@
-## Kreiranje stupaca
+## Kreiranje kolona
 
-Na veb-stranicama često se koristi više stupaca. Napravimo raspored u dva stupca za tvoj časopis.
+Na veb-sajtovima često se koristi više kolona. Napravimo raspored u dvije kolone za tvoj časopis.
 
-+ Prvo kreiraj dva `div` za stupce.
++ Prvo kreiraj dva `div` za kolone.
     
     Dodaj označeni HTML u `index.html`:
     
