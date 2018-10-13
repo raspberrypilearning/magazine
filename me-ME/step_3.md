@@ -20,7 +20,7 @@ Na veb-sajtovima često se koristi više kolona. Napravimo raspored u dvije kolo
     
     ![screenshot](images/magazine-kitten.png)
     
-    Obrati pažnju da je slika mačeta pozicionirana otprilike na sredini stranice, u drugom stupcu.
+    Obrati pažnju na to da je slika mačeta postavljena otprilike na sredini stranice, u drugoj koloni.
     
     Izgleda, ipak, da je slika veća nego što bi trebalo!
 
