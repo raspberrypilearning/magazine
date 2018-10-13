@@ -8,15 +8,15 @@ Na veb-sajtovima često se koristi više kolona. Napravimo raspored u dvije kolo
     
     ![screenshot](images/magazine-columns.png)
 
-+ Sada stilizuj oba div za stupce tako da jedan pluta ulijevo, a drugi udesno.
++ Sada stilizuj oba div za kolone tako da jedna pluta ulijevo, a druga udesno.
     
     ![screenshot](images/magazine-columns-style.png)
     
-    Svaki stubac zauzima manje od 50%, tako da ima prostora za popunu.
+    Svaka kolona zauzima manje od 50%, tako da ima prostora za popunu.
     
-    Biće potrebno da nešto dodaš u stubac da bismo vidjeli rezultat.
+    Biće potrebno da nešto dodaš u kolonu da bismo vidjeli rezultat.
 
-+ Dodajmo sliku mačeta na vrh stupca 2.
++ Dodajmo sliku mačeta na vrh kolone 2.
     
     ![screenshot](images/magazine-kitten.png)
     
