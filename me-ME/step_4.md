@@ -8,6 +8,6 @@ Napravimo izgled stranice malo zanimljivijim.
 
 + Sada stilizuj objekat (item) i naslov.
     
-    Evo primjera koji možeš izmijeniti:
+    Evo primjera koji možeš izmijeniti ako želiš:
     
     ![screenshot](images/magazine-item-style.png)
