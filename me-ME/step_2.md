@@ -1,6 +1,6 @@
 ## Naslov i pozadina
 
-Veb-stranice u stilu časopisa često imaju mnogo sitnih elemenata na stranici. Prvo ćeš kreirati naslov i pozadinu za svoj časopis.
+Veb-sajtovi u stilu časopisa često imaju mnogo sitnih elemenata na stranici. Prvo ćeš kreirati naslov i pozadinu za svoj časopis.
 
 + Otvori sljedeći trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
