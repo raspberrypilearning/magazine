@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Add items to the left column
+## التحدي: أضف عناصر إلى العمود الأيسر
 
 Can you add a ordered list and a gradient text sticker to the left column?
 
