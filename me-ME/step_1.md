@@ -58,7 +58,7 @@ Takođe, završenu verziju izazova ovoga projekta možete naći u odjeljku 'Izvo
 
 ## Ciljevi učenja
 
-* U ovom projektu djeca uče kako da kreiraju stil časopisa sa rasporedom u dva stupca, koristeći `float:` (plutanje). Takođe se obnavlja puno tehnika HTML-a i CSS-a koje su detaljnije obrađene u ostalim projektima. Dati su primjeri, tako da će djeca moći da izrade ovaj projekat čak i ako nisu izradila neke od prethodnih projekata. 
+* U ovom projektu djeca uče kako da naprave raspored u dvije kolone u stilu časopisa, koristeći `float:` (plutanje). Takođe se obnavlja puno tehnika HTML-a i CSS-a koje su detaljnije obrađene u ostalim projektima. Dati su primjeri, tako da će djeca moći da izrade ovaj projekat čak i ako nisu izradila neke od prethodnih projekata. 
 
 Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
