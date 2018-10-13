@@ -2,13 +2,13 @@
 
 ## التحدي: أضف عناصر إلى العمود الأيسر
 
-Can you add a ordered list and a gradient text sticker to the left column?
+هل يمكنك إضافة قائمة مرتَّبة وملصق نص متدرج إلى العمود الأيسر؟
 
-Here's an example:
+إليك مثالًا:
 
 ![screenshot](images/magazine-challenge1-example.png)
 
-This is the code for the example, but you can change it or come up with your own.
+هذه هي التعليمات البرمجية (code) للمثال ، لكن يمكنك تغييرها أو وضع تعليمات برمجية من عندك.
 
 HTML:
 
