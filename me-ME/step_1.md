@@ -18,7 +18,7 @@ Ukoliko je potrebno da odštampate ovaj projekat, koristite [Verziju za štampu]
 
 ## Uvod:
 
-U ovom projektu djeca će naučiti kako da naprave raspored na stranici u dvije kolone. Takođe će ponoviti puno tehnika HTML-a i CSS-a koje su naučila u prethodnim projektima.
+U ovom projektu djeca će naučiti kako da naprave raspored u dvije kolone. Takođe će ponoviti puno tehnika HTML-a i CSS-a koje su naučila u prethodnim projektima.
 
 ## Online izvori
 
