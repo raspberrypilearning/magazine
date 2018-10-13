@@ -36,7 +36,7 @@ Na veb-sajtovima često se koristi više kolona. Napravimo raspored u dvije kolo
     
     ![screenshot](images/magazine-photo.png)
 
-+ Stilizuj sliku tako što ćeš dodati sjenku (shadow) i okrenuti je tako da izgleda kao da fotografija izlazi sa stranice:
++ Stilizuj sliku tako što ćeš dodati sjenku (shadow) i okrenuti je da izgleda kao da fotografija izlazi sa stranice:
     
     ![screenshot](images/magazine-photo-style.png)
     
