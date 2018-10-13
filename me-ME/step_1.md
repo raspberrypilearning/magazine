@@ -1,6 +1,6 @@
 ## Uvod
 
-U ovom projektu naučićeš kako se koriste HTML i CSS za izradu veb-sajta časopisa sa prikazom na dvije stranice. Takođe ćeš ponoviti mnogo tehnika HTML-a i CSS-a iz ostalih projekata.
+U ovom projektu naučićeš kako da koristiš HTML i CSS za izradu veb-sajta časopisa sa prikazom na dvije stranice. Takođe ćeš ponoviti mnogo tehnika HTML-a i CSS-a iz ostalih projekata.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
