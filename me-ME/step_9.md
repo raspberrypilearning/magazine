@@ -6,6 +6,6 @@ Dodajmo zabavnu animaciju u tvoj časopis.
 
 ![screenshot](images/magazine-animation-image.png)
 
-+ Sada dodaj sljedeći CSS da animiraš svog robota:
++ Sada dodaj CSS da animiraš svog robota:
 
 ![screenshot](images/magazine-animation-css.png)
