@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Izazov: Dodaj objekte u lijevi stubac
+## Izazov: Dodaj objekte u lijevu kolonu
 
-Možeš li da dodaš uređenu listu i naljepnicu sa tekstom i gradijentom u lijevi stubac?
+Možeš li da dodaš uređenu listu i naljepnicu sa tekstom i gradijentom u lijevu kolonu?
 
 Evo primjera:
 
