@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Izradi veb-sajt časopisa sa više stranica.
+description: Izradi veb-sajt časopisa koji ima više stranica.
 original_url: https://codeclubprojects.org/en-GB/webdev/magazine
 interests: art
 technologies: html-css-javascript
@@ -22,11 +22,11 @@ steps:
   - 
     title: Naslov i pozadina
   - 
-    title: Kreiranje stupaca
+    title: Kreiranje kolona
   - 
     title: Stilizuj objekte časopisa
   - 
-    title: 'Izazov: Dodaj objekte u lijevi stubac'
+    title: 'Izazov: Dodaj objekte u lijevu kolonu'
   - 
     title: Dodaj drugu stranicu
   - 
