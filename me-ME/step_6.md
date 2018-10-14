@@ -6,13 +6,13 @@ Dodajmo još jednu stranicu na veb-sajt tvog časopisa.
 
 ![screenshot](images/magazine-page2.png)
 
-+ Stranica 2 biće dosta slična prvoj stranici tvog časopisa, tako da možeš da kopiraš html iz `index.html` i preneseš ga u `page2.html`.
++ Stranica 2 biće veoma slična prvoj stranici tvog časopisa, tako da možeš da kopiraš html iz `index.html` i preneseš ga u `page2.html`.
 
 ![screenshot](images/magazine-page2-html.png)
 
 Imaj u vidu da obje stranice koriste isti `style.css`, tako da će dijeliti iste stilove.
 
-+ Izmijeni naslov `<h1>` za stranicu 2:
++ Promijeni `<h1>` naslov za stranicu 2:
 
 ![screenshot](images/magazine-page2-h1.png)
 
