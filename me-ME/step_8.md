@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Izazov: Ispuni drugu stranicu
+## Izazov: Popuni drugu stranicu
 
 Ovdje je kôd za primjere, a možeš i da izmijeniš `div` ili da koristiš neke svoje ideje.
 
