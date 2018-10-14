@@ -67,7 +67,7 @@ Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digi
 ## Izazovi
 
 * ''Dodaj objekte u lijevu kolonu'' - smještanje objekata unutar plutajućeg elementa;
-* ''Dodaj link za povratak na prvu stranu'' - kreiranje linkova između stranica u projektu;
+* ''Dodaj link za povratak na prvu stranicu'' - kreiranje linkova između stranica u projektu;
 * ''Popuni drugu stranicu'' - obnavljanje tehnika HTML-a i CSS-a;
 * ''Dodaj još jednu animaciju'' - obnavljanje animacija.
 
