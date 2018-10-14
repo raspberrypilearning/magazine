@@ -2,11 +2,11 @@
 
 ## Izazov: Popuni drugu stranicu
 
-Ovdje je kôd za primjere, a možeš i da izmijeniš `div` ili da koristiš neke svoje ideje.
+Ovdje je kôd za primjere, a možeš i da izmijeniš `div` ili da koristiš svoje ideje.
 
 ![screenshot](images/magazine-page2-challenge.png)
 
-Klikni na ikonu za slike da pregledaš dostupne slike:
+Klikni na ikonu za slike da pregledaš slike koje možeš koristiti:
 
 ![screenshot](images/magazine-images.png)
 
