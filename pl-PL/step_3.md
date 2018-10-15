@@ -32,11 +32,11 @@ Witryny często używają wielu kolumn. Stwórzmy układ dwóch kolumn dla Twoje
     
     Dotyczy to wszystkich zdjęć, których używasz w swoim czasopiśmie, a nie tylko kociaka.
 
-+ Now add a class `photo` to the image so that you can style it:
++ Teraz dodaj `photo` do obrazka, aby móc je stylizować:
     
     ![zrzut ekranu](images/magazine-photo.png)
 
-+ I nadaj obraz stylu, aby dodać cień i twist, aby zdjęcie wyskoczyło ze strony:
++ Wystylizuj obraz, aby dodać cień i twist, aby zdjęcie wyróżniało się na tle strony:
     
     ![zrzut ekranu](images/magazine-photo-style.png)
     
