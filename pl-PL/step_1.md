@@ -34,31 +34,31 @@ Istnieje również szablon zawierający przykładowe rozwiązanie dla wyzwań:
 
 ## Zasoby offline
 
-Ten projekt może być [zakończony w trybie offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Możesz uzyskać dostęp do zasobów projektu, klikając link "Materiały projektu" dla tego projektu. Ten link zawiera sekcję "Zasoby projektu", która zawiera zasoby, które dzieci będą potrzebować, aby ukończyć ten projekt w trybie offline. Upewnij się, że każde dziecko ma dostęp do kopii tych zasobów. Ta sekcja zawiera następujące pliki:
+Ten projekt może być [zakończony w trybie offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Można znaleźć tam sekcję "Źródła", która zawieraj zasoby, potrzebne dzieciom do wykonania projektu w wersji offline. Upewnij się, że każde dziecko ma dostęp do własnej kopii zasobów. Ta sekcja zawiera następujące pliki:
 
-* intro / index.html
-* template / template.html
-* template / style.css
-* magazine / index.html
-* magazine / style.css
-* magazine / script.js
-* magazyn / mutliard .png obrazów
+* intro/index.html
+* template/template.html
+* template/style.css
+* magazine/index.html
+* magazine/style.css
+* magazine/script.js
+* magazyn/mutliard .png images
 
-Możesz również znaleźć ukończoną wersję wyzwań tego projektu w sekcji "Zasoby dla wolontariuszy", która zawiera:
+Pełną wersję tego projektu można również znaleźć w sekcji "Zasoby dla wolontariuszy", która zawiera:
 
-* magazine-finished / index.html
-* magazine-finished / style.css
-* magazine-finished / script.js
-* magazine-finished / kitten.jpg
-* magazyn-wykończony / recipe-finished.jpg
-* magazine-finished / greenrobot.png
-* magazine-finished / spacerobot.png
+* magazine-finished/index.html
+* magazine-finished/style.css
+* magazine-finished/script.js
+* magazine-finished/kitten.jpg
+* magazine-finished/recipe-finished.jpg
+* magazine-finished/greenrobot.png
+* magazine-finished/spacerobot.png
 
-(Wszystkie powyższe zasoby można również pobrać jako pliki projektu i wolontariusza `.zip`).
+(Wszystkie powyższe zasoby można również pobrać jako pliki `.zip`.)
 
-## Cele kształcenia
+## Cele dydaktyczne
 
-* Ten projekt uczy dzieci, jak utworzyć dwukolumnowy układ stylu czasopisma, używając `float:`. Podaje także wiele CSS HTML & , które są bardziej szczegółowo omówione w innych projektach. Podano przykłady, aby dzieci mogły ukończyć ten projekt, nawet jeśli nie zakończyły niektórych wcześniejszych projektów. 
+* Ten projekt uczy dzieci, jak utworzyć dwukolumnowy układ stylu czasopisma, używając `float:`. Pomaga również w przypomnieniu sporej ilości właściwości HTML oraz CSS, które są bardziej szczegółowo omówione w innych projektach. W projekcie podano przykłady, tak, aby dzieci były w stanie wykonać wyzwania nawet jeśli nie ukończyły wcześniejszych projektów. 
 
 Ten projekt obejmuje elementy z następujących wątków [Curriculum Digital Making Raspberry Pi](http://rpf.io/curriculum):
 
