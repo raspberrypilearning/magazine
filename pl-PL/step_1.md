@@ -1,6 +1,6 @@
 ## Wprowadzenie
 
-W tym projekcie nauczysz się, jak używać HTML i CSS, aby utworzyć wielostronicową witrynę z magazynem z układem dwóch stron. Będziesz także wracać do wielu technologii HTML i CSS z innych projektów.
+W tym projekcie nauczysz się, jak używać HTML i CSS, aby utworzyć wielostronicową witrynę z magazynem z układem dwóch stron. Będziesz korzystać z wielu technologii HTML i CSS już użytych przy innych projektach.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -10,31 +10,31 @@ W tym projekcie nauczysz się, jak używać HTML i CSS, aby utworzyć wielostron
 
 ### Dodatkowe informacje dla liderów klubu
 
-Jeśli chcesz wydrukować ten projekt, skorzystaj z [Wersja przyjazna dla drukarki](https://projects.raspberrypi.org/en/projects/magazine/print).
+Jeśli chcesz wydrukować ten projekt, skorzystaj z [wersji do druku](https://projects.raspberrypi.org/en/projects/magazine/print).
 
-## \--- zawalić się \---
+## \--- collapse \---
 
 ## tytuł: notatki lidera klubu
 
 ## Wprowadzenie:
 
-W tym projekcie dzieci nauczą się tworzyć układ dwukolumnowy. Podsumują także wiele CSS HTML & , których nauczyli się w innych projektach.
+W tym projekcie dzieci nauczą się tworzyć układ dwukolumnowy. Podsumują także wiele właściwości CSS i HTML, których nauczyli się w innych projektach.
 
 ## Zasoby online
 
-Zalecamy użycie [bibeloty](https://trinket.io/) do napisania HTML & CSS online. Ten projekt zawiera następujące bibeloty:
+Zalecamy użycie [wzorców](https://trinket.io/) do pisania HTML oraz CSS online. Ten projekt zawiera następujące szablony:
 
 * [Punkt początkowy "Magazine" - jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Dzieci mogą również skorzystać z tego pustego bibeloty [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) , aby napisać własny HTML & CSS, lub alternatywnie mogą skorzystać z tego szablonu bibeloty [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Dzieci mogą również skorzystać z tego pustego wzorca [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank), aby napisać własny kod HTML i CSS, lub mogą skorzystać z wcześniej przygotowanego wzorca [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Istnieje również bibelot zawierający przykładowe rozwiązanie dla wyzwań:
+Istnieje również szablon zawierający przykładowe rozwiązanie dla wyzwań:
 
-* ["Magazine" Finished - trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* [Skończone czasopismo - trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
 ## Zasoby offline
 
-Ten projekt może być [zakończony w trybie offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) , jeśli jest preferowany. Możesz uzyskać dostęp do zasobów projektu, klikając link "Materiały projektu" dla tego projektu. Ten link zawiera sekcję "Zasoby projektu", która zawiera zasoby, które dzieci będą potrzebować, aby ukończyć ten projekt w trybie offline. Upewnij się, że każde dziecko ma dostęp do kopii tych zasobów. Ta sekcja zawiera następujące pliki:
+Ten projekt może być [zakończony w trybie offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Możesz uzyskać dostęp do zasobów projektu, klikając link "Materiały projektu" dla tego projektu. Ten link zawiera sekcję "Zasoby projektu", która zawiera zasoby, które dzieci będą potrzebować, aby ukończyć ten projekt w trybie offline. Upewnij się, że każde dziecko ma dostęp do kopii tych zasobów. Ta sekcja zawiera następujące pliki:
 
 * intro / index.html
 * template / template.html
