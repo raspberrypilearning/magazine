@@ -60,53 +60,53 @@ Pełną wersję tego projektu można również znaleźć w sekcji "Zasoby dla wo
 
 * Ten projekt uczy dzieci, jak utworzyć dwukolumnowy układ stylu czasopisma, używając `float:`. Pomaga również w przypomnieniu sporej ilości właściwości HTML oraz CSS, które są bardziej szczegółowo omówione w innych projektach. W projekcie podano przykłady, tak, aby dzieci były w stanie wykonać wyzwania nawet jeśli nie ukończyły wcześniejszych projektów. 
 
-Ten projekt obejmuje elementy z następujących wątków [Curriculum Digital Making Raspberry Pi](http://rpf.io/curriculum):
+Projekt ten pokrywa elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
 
-* [Zaprojektuj podstawowe zasoby 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator).
+* [Projektowanie podstawowych zasobów 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Wyzwania
 
 * "Dodaj elementy do lewej kolumny" - umieszczanie przedmiotów w pływającym elemencie;
 * "Dodaj link z powrotem do pierwszej strony" - tworzenie łączy między stronami w projekcie;
-* "Wypełnij drugą stronę" - ponowne umieszczanie więcej HTML & CSS;
-* "Dodaj kolejną animację" - ponowne animacje.
+* "Wypełnij drugą stronę" - przypomnienie HTML oraz CSS;
+* "Dodaj kolejną animację" - przypomnienie animacji.
 
-\--- /zawalić się \---
+\--- /collapse \---
 
-## \--- zawalić się \---
+## \--- collapse \---
 
-## tytuł: Materiały projektowe
+## title: Materiały do projektu
 
 ## Zasoby projektu
 
-* [Plik .zip zawierający wszystkie zasoby projektu](resources/magazine-project-resources.zip)
-* [Online Trinket zawierający wszystkie zasoby projektu "Magazine"](http://jumpto.cc/web-magazine)
-* [Szablon internetowego bibeloty](http://jumpto.cc/trinket-template)
-* [Online pusty błyskotka](http://jumpto.cc/trinket-blank)
-* [template / index.html](resources/template-index.html)
-* [template / style.css](resources/template-style.css)
-* [intro / index.html](resources/intro-index.html)
-* [intro / style.css](resources/intro-style.css)
-* [magazine / index.html](resources/magazine-index.html)
-* [magazine / style.css](resources/magazine-style.css)
-* [magazine / script.js](resources/magazine-script.js)
-* [magazine / kitten.jpg](resources/magazine-kitten.jpg)
-* [magazine / recipe-final.png](resources/magazine-recipe-final.png)
-* [magazine / greenrobot.png](resources/magazine-greenrobot.png)
-* [magazine / firerobot.png](resources/magazine-firerobot.png)
-* [magazine / spacerobot.png](resources/magazine-spacerobot.png)
-* [magazine / dogrobot.png](resources/magazine-dogrobot.png)
+* [Plik.zip zawierający wszystkie zasoby potrzebne do wykonania projektu](resources/magazine-project-resources.zip)
+* [Szablon startowy zawierający wszystkie zasoby potrzebne do realizacji projektu "Czasopismo"](http://jumpto.cc/web-magazine)
+* [Pusty szablon](http://jumpto.cc/trinket-template)
+* [Pusty szablon Trinket](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [intro/index.html](resources/intro-index.html)
+* [intro/style.css](resources/intro-style.css)
+* [magazine/index.html](resources/magazine-index.html)
+* [magazine/style.css](resources/magazine-style.css)
+* [magazine/script.js](resources/magazine-script.js)
+* [magazine/kitten.jpg](resources/magazine-kitten.jpg)
+* [magazine/recipe-final.png](resources/magazine-recipe-final.png)
+* [magazine/greenrobot.png](resources/magazine-greenrobot.png)
+* [magazine/firerobot.png](resources/magazine-firerobot.png)
+* [magazine/spacerobot.png](resources/magazine-spacerobot.png)
+* [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
-## Zasoby lidera klubu
+## Zasoby dla lidera klubu
 
-* [Plik .zip zawierający wszystkie ukończone zasoby projektu](resources/magazine-volunteer-resources.zip)
-* [Zakończony online projekt Trinket](https://trinket.io/html/a41e4e1c5c)
-* [magazine-finished / index.html](resources/magazine-finished-index.html)
-* [magazine-finished / style.css](resources/magazine-finished-style.css)
-* [magazine-finished / script.js](resources/magazine-finished-script.js)
-* [magazine-finished / kitten.jpg](resources/magazine-finished-kitten.jpg)
-* [magazine-finished / recipe-final.png](resources/magazine-finished-recipe-final.png)
-* [magazine-finished / greenrobot.png](resources/magazine-finished-greenrobot.png)
-* [magazine-finished / spacerobot.png](resources/magazine-finished-spacerobot.png)
+* [Plik.zip zawierający zasoby z ukończonym projektem](resources/magazine-volunteer-resources.zip)
+* [Szablon zawierający ukończony projekt](https://trinket.io/html/a41e4e1c5c)
+* [magazine-finished/index.html](resources/magazine-finished-index.html)
+* [magazine-finished/style.css](resources/magazine-finished-style.css)
+* [magazine-finished/script.js](resources/magazine-finished-script.js)
+* [magazine-finished/kitten.jpg](resources/magazine-finished-kitten.jpg)
+* [magazine-finished/recipe-final.png](resources/magazine-finished-recipe-final.png)
+* [magazine-finished/greenrobot.png](resources/magazine-finished-greenrobot.png)
+* [magazine-finished/spacerobot.png](resources/magazine-finished-spacerobot.png)
 
-\--- /zawalić się \---
+\--- /collapse \---
