@@ -2,7 +2,7 @@
 
 ## Izazov: Dodaj link za povratak na prvu stranicu
 
-Da li možeš da dodaš link u `page2.html` tako da možeš da se vratiš na prvu stranicu kada klikneš na njega?
+Možeš li da dodaš link u `page2.html` tako da možeš da se vratiš na prvu stranicu kada klikneš na njega?
 
 Savjet: Pogledaj HTML korišćen za kreiranje linka za stranicu 2.
 
