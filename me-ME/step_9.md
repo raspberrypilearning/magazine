@@ -2,7 +2,7 @@
 
 Dodajmo zabavnu animaciju u tvoj časopis.
 
-+ Idi u `index.html` i unesi sliku `greenrobot.png` na vrh stranice.
++ Pređi na `index.html` i unesi sliku `greenrobot.png` na vrh svoje stranice.
 
 ![screenshot](images/magazine-animation-image.png)
 
