@@ -30,7 +30,7 @@ Na veb-sajtovima često se koristi više kolona. Napravimo raspored u dvije kolo
     
     ![screenshot](images/magazine-img-width.png)
     
-    Ovaj stil će se primijenjivati na sve slike koje koristiš u svom časopisu, ne samo na sliku mačeta.
+    Ovaj stil će se primjenjivati na sve slike koje koristiš u svom časopisu, ne samo na sliku mačeta.
 
 + Sada slici dodaj klasu `photo` kako bismo mogli da je stilizujemo:
     
