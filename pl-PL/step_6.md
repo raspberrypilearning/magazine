@@ -16,7 +16,7 @@ Zwróć uwagę, że obie strony używają tego samego `style.css`, więc będą 
 
 ![screenshot](images/magazine-page2-h1.png)
 
-+ Teraz będziesz potrzebować linków między stronami, aby przejść do strony 2 i wrócić na pierwszą stronę.
++ Now you'll need links between your pages so you can get to page 2 and back to the front page.
 
 Wróć do `index.html`. Dodaj link wewnątrz elementu div w kolumnie 2 w `index.html`:
 
