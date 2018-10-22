@@ -16,7 +16,7 @@
 
 ![screenshot](images/magazine-page2-h1.png)
 
-+ Τώρα θα χρειαστείτε συνδέσεις μεταξύ των σελίδων σας για να μπορέσετε να φτάσετε στη σελίδα 2 και πίσω στην πρώτη σελίδα.
++ Now you'll need links between your pages so you can get to page 2 and back to the front page.
 
 Επιστρέψτε στο `index.html`. Προσθέστε έναν σύνδεσμο μέσα σε ένα div στη στήλη 2 σε `index.html`:
 
