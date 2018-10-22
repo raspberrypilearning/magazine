@@ -16,7 +16,7 @@ Imajte na umu da obje stranice koriste isti `style.css` tako da će dijeliti sti
 
 ![zaslona](images/magazine-page2-h1.png)
 
-+ Sada ćete trebati veze između vaših stranica kako biste došli na stranicu 2 i vratili se na naslovnu stranicu.
++ Now you'll need links between your pages so you can get to page 2 and back to the front page.
 
 Vratite se na `index.html`. Dodajte vezu unutar diva u stupcu 2 u `index.html`:
 
