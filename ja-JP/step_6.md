@@ -18,7 +18,7 @@
 <p><img src="images/magazine-page2-h1.png" alt="スクリーンショット" /></p>
 
 <ul>
-<li>これで、ページ間のリンクが必要になり、2ページ目に戻り、フロントページに戻ることができます。</li>
+<li>Now you'll need links between your pages so you can get to page 2 and back to the front page.</li>
 </ul>
 
 <p><code>index.htmlに戻る`。 `index.htmlの<code>列のdiv内にリンクを追加する`：</p> 
