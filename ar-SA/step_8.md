@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Fill in your second page
+## \--- challenge \---: املأ الصفحة الثانية
 
-Here's the code for the examples, but you can change the `div`s or come up with your own ideas.
+هذه هي التعليمات البرمجية للأمثلة، لكن يمكنك تغيير ما في داخل أوسمة `div` أو ابتكار أفكار من عندك.
 
 ![screenshot](images/magazine-page2-challenge.png)
 
-Click the images icon to see the images that are available to use:
+انقر فوق أيقونة الصور لترى الصور المتوفرة لاستخدامها:
 
 ![screenshot](images/magazine-images.png)
 
-Remember that you can upload your own images to use. Make sure you have permission to use any images that you upload.
+تذكَّر أنه يمكنك تحميل صور من عندك لاستخدامها. لكن تأكد من أن لديك الإذن باستخدام أي صور تقوم بتحميلها.
 
 ![screenshot](images/magazine-upload-images.png)
 
-\--- /challenge \---
+\--- challenge \---
