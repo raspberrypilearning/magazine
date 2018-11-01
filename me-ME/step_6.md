@@ -16,7 +16,7 @@ Imaj u vidu da obje stranice koriste isti `style.css`, tako da će dijeliti iste
 
 ![screenshot](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
++ Sada će nam biti potrebni linkovi između stranica kako bismo mogli da pređemo na stranicu 2 i da se vratimo na početnu stranicu.
 
 Vrati se na `index.html`. Dodaj link unutar div u koloni 2 u `index.html`:
 
