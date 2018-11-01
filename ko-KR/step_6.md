@@ -16,7 +16,7 @@
 
 ![스크린샷](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
++ 두 페이지를 서로 이동할 수 있도록 연결 하이퍼링크를 추가해야 합니다.
 
 `index.html` 파일로 돌아가서 두번째 단에 새로운 div를 만들어서 링크를 삽입합니다.
 
