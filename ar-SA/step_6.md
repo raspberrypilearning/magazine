@@ -1,25 +1,25 @@
-## Add a second page
+## إضافة صفحة ثانية
 
-Let's add another page to your magazine website.
+لنضِف صفحة ثانية إلى موقع مجلتك اﻹلكترونية.
 
-+ Add a new page to your project and name it `page2.html`:
++ أضف صفحة جديدة إلى مشروعك وسمِّها `page2.html`:
 
 ![screenshot](images/magazine-page2.png)
 
-+ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
++ ستكون الصفحة الثانية مشابهة إلى حد كبير للصفحة الأولى من مجلتك، لذا يمكنك نسخ تعليمات html البرمجية من ملف `index.html` ولصقها في الملف `page2.html`.
 
 ![screenshot](images/magazine-page2-html.png)
 
-Notice that both pages use the same `style.css` so they will share styles.
+لاحظ أن كلتا الصفحتين تستخدم نفس الملف `style.css` ، لذا ستشتركان في الأنماط.
 
-+ Change the `<h1>` title for page2:
++ غيِّر العنوان بداخل وسم `<h1>` للصفحة الثانية:
 
 ![screenshot](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
++ ستحتاج الآن إلى روابط بين الصفحتين حتى يمكنك الانتقال إلى الصفحة الثانية والعودة إلى الصفحة الأمامية.
 
-Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
+انتقل إلى الملف `index.html`. وأضف رابطًا داخل وسم div ضمن العمود 2 في الملف `index.html`:
 
 ![screenshot](images/magazine-page2-link.png)
 
-+ Test that you can click on your new link and move to page 2 of your magazine.
++ اختبر ذلك لترى هل يمكنك النقر فوق الرابط الجديد والانتقال إلى الصفحة الثانية من المجلة أم لا.
