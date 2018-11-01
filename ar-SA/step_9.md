@@ -1,11 +1,11 @@
-## Add an animation
+## إضافة رسم متحرك
 
-Let's add a fun animation to your magazine.
+لنضِف رسمًا متحركًا مرحًا إلى مجلتك.
 
-+ Go to `index.html` and include the `greenrobot.png` image at the top of your page.
++ انتقل إلى الملف `index.html` وأدخل فيه الصورة `greenrobot.png` بحيث تظهر أعلى الصفحة.
 
 ![screenshot](images/magazine-animation-image.png)
 
-+ Now add the CSS to animate your robot:
++ أضف الآن تعليمات CSS البرمجية لتحريك الروبوت:
 
 ![screenshot](images/magazine-animation-css.png)
