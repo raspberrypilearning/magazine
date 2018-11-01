@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Challenge: Add another animation
+## \--- challenge \---: أضف رسمًا متحركًا آخر
 
-Can you add an animation to the second page of your magazine?
+هل يمكنك إضافة رسم متحرك إلى الصفحة الثانية من المجلة؟
 
 ![screenshot](images/magazine-animation-challenge.png)
 
