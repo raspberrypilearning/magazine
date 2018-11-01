@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Add a link back to the first page
+## التحدي: أضف رابطًا للعودة إلى الصفحة الأولى
 
-Can you add a link to `page2.html` so that you can click on it to get back to the first page?
+هل يمكنك إضافة رابط إلى الملف `page2.html` بحيث تنقر عليه للعودة إلى الصفحة الأولى؟
 
-Hint: Look at the HTML you used to create a link to page 2.
+\--- hint \--- راجع ما قمتَ به في ملف HTML الذي استخدمته لإنشاء رابط إلى الصفحة الثانية.
 
 ![screenshot](images/magazine-page1-link.png)
 
-\--- /challenge \---
+\--- challenge \---
