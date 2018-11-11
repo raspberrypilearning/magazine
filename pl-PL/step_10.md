@@ -4,6 +4,6 @@
 
 Czy możesz dodać animację do drugiej strony swojego czasopisma?
 
-![screenshot](images/magazine-animation-challenge.png)
+![zrzut ekranu](images/magazine-animation-challenge.png)
 
 \--- /challenge \---
