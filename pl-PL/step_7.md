@@ -6,6 +6,6 @@ Czy możesz dodać link do `page2.html`, tak abyś mógł go kliknąć, aby powr
 
 Podpowiedź: spójrz na kod HTML użyty do utworzenia linku do strony 2.
 
-![screenshot](images/magazine-page1-link.png)
+![zrzut ekranu](images/magazine-page1-link.png)
 
 \--- /challenge \---
