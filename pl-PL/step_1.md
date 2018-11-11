@@ -28,7 +28,7 @@ Do pisania kodu HTML i CSS online zalecamy użytkowanie edytora [trinket](https:
 
 Dzieci mogą również skorzystać z tego pustego wzorca [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank), aby napisać własny kod HTML i CSS, lub mogą skorzystać z wcześniej przygotowanego wzorca [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Istnieje również szablon zawierający przykładowe rozwiązanie dla wyzwań:
+Dostępny jest także projekt zawierający przykładowe rozwiązania wyzwań:
 
 * [Skończone czasopismo - trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
@@ -42,7 +42,7 @@ Ten projekt może być [zakończony w trybie offline](https://www.codeclubprojec
 * magazine/index.html
 * magazine/style.css
 * magazine/script.js
-* magazyn/mutliard .png images
+* magazine/mutliple.png obrazy
 
 Pełną wersję tego projektu można również znaleźć w sekcji "Zasoby dla wolontariuszy", która zawiera:
 
@@ -58,7 +58,7 @@ Pełną wersję tego projektu można również znaleźć w sekcji "Zasoby dla wo
 
 ## Cele dydaktyczne
 
-* Ten projekt uczy dzieci, jak utworzyć dwukolumnowy układ stylu czasopisma, używając `float:`. Pomaga również w przypomnieniu sporej ilości właściwości HTML oraz CSS, które są bardziej szczegółowo omówione w innych projektach. W projekcie podano przykłady, tak, aby dzieci były w stanie wykonać wyzwania nawet jeśli nie ukończyły wcześniejszych projektów. 
+* Ten projekt uczy dzieci, jak utworzyć dwukolumnowy układ stylu czasopisma, używając `float:`. Pomaga również w przypomnieniu sporej ilości właściwości HTML i CSS, które są bardziej szczegółowo omówione w innych projektach. W projekcie podano przykłady, tak, aby dzieci były w stanie wykonać wyzwania nawet jeśli nie ukończyły wcześniejszych projektów. 
 
 Projekt ten pokrywa elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
 
