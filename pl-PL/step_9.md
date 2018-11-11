@@ -2,10 +2,10 @@
 
 Dodajmy zabawną animację do twojego czasopisma.
 
-+ Przejdź do `index.html` i umieść `obraz greenrobot.png` u góry strony.
++ Przejdź do `index.html` i umieść obraz `greenrobot.png` u góry strony.
 
-![screenshot](images/magazine-animation-image.png)
+![zrzut ekranu](images/magazine-animation-image.png)
 
 + Teraz dodaj kod CSS, aby animować swojego robota:
 
-![screenshot](images/magazine-animation-css.png)
+![zrzut ekranu](images/magazine-animation-css.png)
