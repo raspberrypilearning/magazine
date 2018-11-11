@@ -14,7 +14,7 @@ Jeśli chcesz wydrukować ten projekt, skorzystaj z [wersji do druku](https://pr
 
 ## \--- collapse \---
 
-## tytuł: notatki lidera klubu
+## tytuł: Notatki prowadzących klub
 
 ## Wprowadzenie:
 
@@ -22,7 +22,7 @@ W tym projekcie dzieci nauczą się tworzyć układ dwukolumnowy. Podsumują tak
 
 ## Zasoby online
 
-Zalecamy użycie [wzorców](https://trinket.io/) do pisania HTML oraz CSS online. Ten projekt zawiera następujące szablony:
+Do pisania kodu HTML i CSS online zalecamy użytkowanie edytora [trinket](https://trinket.io/). Ten projekt zawiera następujące szablony:
 
 * [Punkt początkowy "Magazine" - jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
