@@ -6,11 +6,11 @@ Witryny często używają wielu kolumn. Stwórzmy układ dwóch kolumn dla Twoje
     
     Dodaj podświetlony kod HTML do `index.html`:
     
-    ![screenshot](images/magazine-columns.png)
+    ![zrzut ekranu](images/magazine-columns.png)
 
-+ Teraz ustaw kolumny divs tak, aby jeden unosił się na lewo, a drugi na prawo.
++ Teraz ustaw kolumny div tak, aby jedna przesunęła się na lewo, a druga na prawo.
     
-    ![screenshot](images/magazine-columns-style.png)
+    ![zrzut ekranu](images/magazine-columns-style.png)
     
     Każda kolumna jest mniejsza niż 50%, więc jest miejsce na wypełnienie.
     
@@ -18,7 +18,7 @@ Witryny często używają wielu kolumn. Stwórzmy układ dwóch kolumn dla Twoje
 
 + Dodajmy obrazek kotka na szczyt kolumny 2.
     
-    ![screenshot](images/magazine-kitten.png)
+    ![zrzut ekranu](images/magazine-kitten.png)
     
     Zwróć uwagę, że obraz kociaka jest umieszczony w połowie długości strony w drugiej kolumnie.
     
@@ -28,13 +28,13 @@ Witryny często używają wielu kolumn. Stwórzmy układ dwóch kolumn dla Twoje
     
     Dodaj następujący styl do `style.css`.
     
-    ![screenshot](images/magazine-img-width.png)
+    ![zrzut ekranu](images/magazine-img-width.png)
     
     Będzie on dotyczył wszystkich zdjęć, których używasz w swoim czasopiśmie, a nie tylko kociaka.
 
-+ Teraz dodaj `photo` do obrazka, aby móc je stylizować:
++ Teraz dodaj klasę `photo` do obrazka, aby móc je stylizować:
     
-    ![screenshot](images/magazine-photo.png)
+    ![zrzut ekranu](images/magazine-photo.png)
 
 + Wystylizuj obraz, aby dodać cień i twist, aby zdjęcie wyróżniało się na tle strony:
     
