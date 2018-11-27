@@ -100,13 +100,13 @@
 ## Πόροι συντονιστή ομάδας
 
 * [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/magazine-volunteer-resources.zip)
-* [Online ολοκλήρωση έργου Trinket](https://trinket.io/html/a41e4e1c5c)
-* [τελικό σε περιοδικό / index.html](resources/magazine-finished-index.html)
-* [περιοδικό-τελειωμένο / style.css](resources/magazine-finished-style.css)
-* [περιοδικό-τελείωσε / script.js](resources/magazine-finished-script.js)
-* [περιοδικό-τελικό / kitten.jpg](resources/magazine-finished-kitten.jpg)
-* [τελικό σε περιοδικό / συνταγή-final.png](resources/magazine-finished-recipe-final.png)
-* [περιοδικό-τελείωσε / greenrobot.png](resources/magazine-finished-greenrobot.png)
-* [τερματικό περιοδικό / spacerobot.png](resources/magazine-finished-spacerobot.png)
+* [Online ολοκληρωμένο έργο στο Τrinket](https://trinket.io/html/a41e4e1c5c)
+* [magazine-finished/index.html](resources/magazine-finished-index.html)
+* [magazine-finished/style.css](resources/magazine-finished-style.css)
+* [magazine-finished/script.js](resources/magazine-finished-script.js)
+* [magazine-finished/kitten.jpg](resources/magazine-finished-kitten.jpg)
+* [magazine-finished/recipe-final.png](resources/magazine-finished-recipe-final.png)
+* [magazine-finished/greenrobot.png](resources/magazine-finished-greenrobot.png)
+* [magazine-finished/spacerobot.png](resources/magazine-finished-spacerobot.png)
 
-\--- /κατάρρευση \---
+\--- /collapse \---
