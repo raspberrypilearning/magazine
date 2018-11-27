@@ -47,59 +47,59 @@
 Μπορείς επίσης να βρεις μια ολοκληρωμένη έκδοση των προκλήσεων αυτού του έργου στην ενότητα 'Πόροι εθελοντών', η οποία περιέχει:
 
 * magazine-finished/index.html
-* περιοδικό-τελειωμένο / style.css
-* περιοδικό-τελείωσε / script.js
-* περιοδικό-τελικό / kitten.jpg
-* περιοδικό-τελειωμένο / recipe-finished.jpg
-* περιοδικό-τελείωσε / greenrobot.png
-* τερματικό περιοδικό / spacerobot.png
+* magazine-finished/style.css
+* magazine-finished/script.js
+* magazine-finished/kitten.jpg
+* magazine-finished/recipe-finished.jpg
+* magazine-finished/greenrobot.png
+* magazine-finished/spacerobot.png
 
-(Όλοι οι παραπάνω πόροι μπορούν επίσης να μεταφορτωθούν ως project και εθελοντικά `.zip` αρχεία.)
+(Όλοι οι παραπάνω πόροι μπορούν επίσης να κατέβουν ως συμπιεσμένα `.zip` αρχεία.)
 
 ## Στόχοι μάθησης
 
-* Αυτό το έργο διδάσκει στα παιδιά πώς να δημιουργήσουν μια διάταξη σε δύο στήλες στυλ περιοδικών χρησιμοποιώντας `float:`. Ανακτά επίσης πολλά από το HTML & CSS που καλύπτεται λεπτομερέστερα σε άλλα έργα. Παραδείγματα δίνονται έτσι ώστε τα παιδιά να είναι σε θέση να ολοκληρώσουν αυτό το έργο ακόμα και αν δεν έχουν ολοκληρώσει ορισμένα από τα προηγούμενα έργα. 
+* Αυτό το έργο διδάσκει στα παιδιά πώς να δημιουργήσουν μια διάταξη δύο στηλών σε ένα περιοδικό χρησιμοποιώντας `float:`. Υπενθυμίζει επίσης πολλά από όσα μάθαμε για τις HTML & CSS με περισσότερες λεπτομέρειες σε προηγούμενα έργα. Δίνονται παραδείγματα έτσι ώστε τα παιδιά να είναι σε θέση να ολοκληρώσουν αυτό το έργο ακόμα και αν δεν έχουν ολοκληρώσει ορισμένα από τα προηγούμενα έργα. 
 
-Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Raspberry Pi Ψηφιακή Κάνοντας το Αναλυτικό Πρόγραμμα](http://rpf.io/curriculum):
+Αυτό το έργο περιλαμβάνει στοιχεία από το παρακάτω μάθημα του [Raspberry Pi Digital Curriculum Making](http://rpf.io/curriculum):
 
 * [Σχεδιασμός βασικών στοιχείων 2D και 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Προκλήσεις
 
-* "Προσθήκη στοιχείων στην αριστερή στήλη" - τοποθέτηση αντικειμένων μέσα σε ένα στοιχείο επίπλευσης.
-* "Προσθήκη ενός συνδέσμου πίσω στην πρώτη σελίδα" - δημιουργία δεσμών μεταξύ σελίδων σε ένα έργο.
-* "Συμπληρώστε τη δεύτερη σελίδα σας" - ανακεφαλαιώνοντας περισσότερα HTML & CSS.
-* "Προσθήκη άλλης κινούμενης εικόνας" - επαναφορά των κινούμενων εικόνων.
+* "Προσθήκη στοιχείων στην αριστερή στήλη" - τοποθέτηση αντικειμένων μέσα σε ένα στοιχείο "float".
+* "Προσθήκη ενός συνδέσμου επαναφοράς στην πρώτη σελίδα" - δημιουργία συνδέσμων μεταξύ σελίδων σε ένα έργο.
+* "Συμπλήρωσε τη δεύτερη σελίδα σου" - επαναλαμβάνοντας όσα είδαμε από τις HTML & CSS.
+* "Προσθήκη άλλης μίας κινούμενης εικόνας" - εμπέδωση των κινούμενων εικόνων.
 
-\--- /κατάρρευση \---
+\--- /collapse \---
 
-## \--- κατάρρευση \---
+## \--- collapse \---
 
-## τίτλος: Υλικό του έργου
+## title: Υλικό έργου
 
 ## Πόροι του έργου
 
 * [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/magazine-project-resources.zip)
-* [Online Trinket που περιέχει όλους τους πόρους του έργου 'Magazine'](http://jumpto.cc/web-magazine)
+* [Online Trinket που περιέχει όλους τους πόρους του έργου 'Περιοδικό'](http://jumpto.cc/web-magazine)
 * [Online πρότυπο Trinket](http://jumpto.cc/trinket-template)
-* [Online κενό μπιχλιμπίδι](http://jumpto.cc/trinket-blank)
-* [template / index.html](resources/template-index.html)
-* [πρότυπο / style.css](resources/template-style.css)
-* [intro / index.html](resources/intro-index.html)
-* [intro / style.css](resources/intro-style.css)
-* [περιοδικό / index.html](resources/magazine-index.html)
-* [περιοδικό / style.css](resources/magazine-style.css)
-* [περιοδικό / script.js](resources/magazine-script.js)
-* [περιοδικό / kitten.jpg](resources/magazine-kitten.jpg)
-* [περιοδικό / συνταγή-final.png](resources/magazine-recipe-final.png)
-* [magazine / greenrobot.png](resources/magazine-greenrobot.png)
-* [magazine / firerobot.png](resources/magazine-firerobot.png)
-* [περιοδικό / spacerobot.png](resources/magazine-spacerobot.png)
-* [περιοδικό / dogrobot.png](resources/magazine-dogrobot.png)
+* [Online κενό Trinket](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [intro/index.html](resources/intro-index.html)
+* [intro/style.css](resources/intro-style.css)
+* [magazine/index.html](resources/magazine-index.html)
+* [magazine/style.css](resources/magazine-style.css)
+* [magazine/script.js](resources/magazine-script.js)
+* [magazine/kitten.jpg](resources/magazine-kitten.jpg)
+* [magazine/recipe-final.png](resources/magazine-recipe-final.png)
+* [magazine/greenrobot.png](resources/magazine-greenrobot.png)
+* [magazine/firerobot.png](resources/magazine-firerobot.png)
+* [magazine/spacerobot.png](resources/magazine-spacerobot.png)
+* [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
-## Πόροι αρχηγού συλλόγου
+## Πόροι συντονιστή ομάδας
 
-* [.zip που περιέχει όλους τους πόρους του έργου](resources/magazine-volunteer-resources.zip)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/magazine-volunteer-resources.zip)
 * [Online ολοκλήρωση έργου Trinket](https://trinket.io/html/a41e4e1c5c)
 * [τελικό σε περιοδικό / index.html](resources/magazine-finished-index.html)
 * [περιοδικό-τελειωμένο / style.css](resources/magazine-finished-style.css)
