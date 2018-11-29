@@ -2,9 +2,9 @@
 
 Οι ιστοσελίδες σε στυλ σε περιοδικά έχουν συχνά πολλά μικρά αντικείμενα σε μια σελίδα. Αρχικά θα δημιουργήσετε μια επικεφαλίδα και φόντο για το περιοδικό σας.
 
-+ Ανοίξτε αυτό το μπιχλιμπίδι: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Άνοιξε αυτό το trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    Το έργο πρέπει να έχει ως εξής:
+    Το έργο πρέπει να μοιάζει έτσι:
     
     ![screenshot](images/magazine-starter.png)
 
