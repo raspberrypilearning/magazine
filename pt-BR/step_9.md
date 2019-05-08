@@ -1,4 +1,4 @@
-## Add an animation
+## Adicionando uma animação
 
 Let's add a fun animation to your magazine.
 
