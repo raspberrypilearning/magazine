@@ -4,7 +4,7 @@
 
 Hier ist der Code für die Beispiele, aber du kannst die `div`'s ändern oder deine eigenen Ideen verwirklichen.
 
-![Screenshot](images/magazine-page2-challenge.png)
+![screenshot](images/magazine-page2-challenge.png)
 
 Klicke auf das Bild-Icon um die Bilder zu sehen, die du direkt benutzen kannst:
 
