@@ -1,14 +1,14 @@
 ---
 title: Magazine
 hero_image: images/magazine.png
-theme: red
+theme: rouge
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-1, programmation-0, phys-comp-0, fabrication-0, communauté-0
 description: Créer un site Web magazine à plusieurs pages.
-original_url: https://codeclubprojects.org/en-GB/webdev/magazine
+original_url: https://codeclubprojects.org/fr-FR/webdev/magazine
 interests: art
 technologies: html-css-javascript
 site_areas: projects
