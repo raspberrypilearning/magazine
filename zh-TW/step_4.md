@@ -1,13 +1,13 @@
-## Style magazine items
+## 風格雜誌項目
 
-Let's make the layout a bit more interesting.
+讓我們的佈局更有趣。
 
-+ Add a `div` around your image with a `class` and add a `h2` heading:
++ 使用 `級` 在圖像周圍添加 `div` 並添加 `h2` 標題：
     
-    ![screenshot](images/magazine-item.png)
+    ![截圖](images/magazine-item.png)
 
-+ Now style the item and heading.
++ 現在設置項目和標題的樣式。
     
-    Here's an example, but you can make changes:
+    這是一個例子，但您可以進行更改：
     
-    ![screenshot](images/magazine-item-style.png)
+    ![截圖](images/magazine-item-style.png)
