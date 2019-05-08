@@ -1,10 +1,10 @@
-\--- challenge \---
+\--- desafio \---
 
-## Challenge: Add items to the left column
+## Desafio: Adicionando itens na coluna a esquerda
 
 Can you add a ordered list and a gradient text sticker to the left column?
 
-Here's an example:
+Aqui está um lindo exemplo:
 
 ![screenshot](images/magazine-challenge1-example.png)
 
