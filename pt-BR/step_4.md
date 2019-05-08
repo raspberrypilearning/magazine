@@ -1,4 +1,4 @@
-## Style magazine items
+## Itens de estilo da revista
 
 Let's make the layout a bit more interesting.
 
