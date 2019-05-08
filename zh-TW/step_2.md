@@ -1,27 +1,27 @@
-## Heading and Background
+## 標題和背景
 
-Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
+雜誌式網站通常在頁面上有很多小項目。首先，您要為雜誌創建標題和背景。
 
-+ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ 打開這個小飾品： <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>。
     
-    The project should look like this:
+    該項目應如下所示：
     
-    ![screenshot](images/magazine-starter.png)
+    ![截圖](images/magazine-starter.png)
 
-+ Let's add a heading.
++ 我們添加一個標題。
     
-    You can think of a better title for your magazine.
+    你可以為你的雜誌想一個更好的頭銜。
     
-    ![screenshot](images/magazine-heading.png)
+    ![截圖](images/magazine-heading.png)
 
-+ Can you style the heading?
++ 你可以設計標題嗎？
     
-    Here's an example, but you can choose your own style:
+    這是一個例子，但您可以選擇自己的風格：
     
-    ![screenshot](images/magazine-heading-style.png)
+    ![截圖](images/magazine-heading-style.png)
 
-+ Now let's create an interesting background using a gradient and choose a font for the magazine.
++ 現在讓我們使用漸變創建一個有趣的背景，並為雜誌選擇一種字體。
     
-    Here's some example style as a reminder of how to create a gradient:
+    下面是一些示例樣式，提醒您如何創建漸變：
     
-    ![screenshot](images/magazine-background.png)
+    ![截圖](images/magazine-background.png)
