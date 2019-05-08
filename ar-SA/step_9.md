@@ -4,8 +4,8 @@
 
 + انتقل إلى الملف `index.html` وأدخل فيه الصورة `greenrobot.png` بحيث تظهر أعلى الصفحة.
 
-![screenshot](images/magazine-animation-image.png)
+![لقطة شاشة](images/magazine-animation-image.png)
 
 + أضف الآن تعليمات CSS البرمجية لتحريك الروبوت:
 
-![screenshot](images/magazine-animation-css.png)
+![لقطة شاشة](images/magazine-animation-css.png)
