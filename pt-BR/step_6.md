@@ -1,4 +1,4 @@
-## Add a second page
+## Adicionando a segunda página
 
 Let's add another page to your magazine website.
 
