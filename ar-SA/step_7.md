@@ -6,6 +6,6 @@
 
 \--- hint \--- راجع ما قمتَ به في ملف HTML الذي استخدمته لإنشاء رابط إلى الصفحة الثانية.
 
-![screenshot](images/magazine-page1-link.png)
+![لقطة الشاشة](images/magazine-page1-link.png)
 
-\--- challenge \---
+\--- challenge/ \---
