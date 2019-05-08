@@ -1,4 +1,4 @@
-## 前書き
+## はじめに
 
 このプロジェクトでは、HTMLとCSSを使用して2ページレイアウトのマルチページマガジンウェブサイトを作成する方法を学習します。また、他のプロジェクトから多くのHTMLやCSSテクニックを再訪します。
 
@@ -8,33 +8,33 @@
   <img src="images/magazine-final.png">
 </div>
 
-### クラブ指導者のための追加情報
+### クラブリーダーのための追加情報
 
-あなたはこのプロジェクトを印刷する必要がある場合は、使用してください [プリンターに優しいバージョン](https://projects.raspberrypi.org/en/projects/magazine/print)。
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/magazine/print)を使用してください。
 
-## \---崩壊\---
+## \--- collapse \---
 
-## title：クラブリーダーノート
+## title：クラブリーダー・ノート
 
-## 前書き：
+## はじめに
 
 このプロジェクトでは、子供たちは2列のレイアウトを作成する方法を学びます。彼らはまた、他のプロジェクトで学んだ多くのHTML & CSSを要約します。
 
-## オンラインリソース
+## オンライン・リソース
 
-HTML & CSSをオンラインで書くには、 [装飾](https://trinket.io/) を使用することをお勧めします。このプロジェクトには、次の小物が含まれています：
+オンラインでHTMLやCSSを書くため[小道具](https://trinket.io/)を使うことをおすすめします。このプロジェクトでは次の小道具が含まれています。
 
 * ['Magazine'の出発点 - jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
 子供はこの空白の小物 [（jumpto.cc/html-blank）](http://jumpto.cc/html-blank) を使って独自のHTML & CSSを書くことができます。あるいは、このテンプレートtrinket [（jumpto.cc/html-template）](http://jumpto.cc/html-template)使用することもできます。
 
-挑戦のサンプルソリューションを含む小物もあります：
+また、チャレンジ(課題)に対しての回答例を含むtrinketもあります(以下参照)。
 
 * ['雑誌'が完成しました - trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
-## オフラインリソース
+## オフライン・リソース
 
-このプロジェクトは、することができます [オフライン完成](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) 好まます。 このプロジェクトの[プロジェクトマテリアル]リンクをクリックすると、プロジェクトリソースにアクセスできます。 このリンクには、「プロジェクトリソース」セクションがあります。このセクションには、このプロジェクトをオフラインで完了するために必要なリソースが含まれています。 各子供がこれらのリソースのコピーにアクセスできることを確認してください。 このセクションには、次のファイルが含まれています。
+このプロジェクトは[オフライン](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)で完成することが可能です。 必要なリソースを入手するには、「プロジェクト資料のダウンロード」をクリックしてください。 リンク先ページの「プロジェクト・リソース」セクションからダウンロードできますので 、必ず子供達各自が必要資料を全て持っているようにしてください。 本セクションには、以下のファイルが含まれます：
 
 * イントロ/ index.html
 * template / template.html
@@ -44,7 +44,7 @@ HTML & CSSをオンラインで書くには、 [装飾](https://trinket.io/) を
 * magazine / script.js
 * 雑誌/複数の.png画像
 
-このプロジェクトの課題の完成版は、次の内容を含む「ボランティアリソース」セクションでも見つけることができます。
+なお、プロジェクト課題の完成版をボランティア・リソースのセクションに含まれています。
 
 * magazine-finished / index.html
 * magazine-finished / style.css
@@ -54,32 +54,32 @@ HTML & CSSをオンラインで書くには、 [装飾](https://trinket.io/) を
 * magazine-finished / greenrobot.png
 * magazine-finished / spacerobot.png
 
-（上記のリソースはすべて、プロジェクトとしてダウンロード可能で、 `.zip` ファイルをボランティアします）。
+(上述の全リソースは、project and volunteer`.zip`ファイル形式でダウンロード可能です。)
 
 ## 学習目標
 
 * このプロジェクトは、使用して2列の雑誌スタイルのレイアウトを作成する方法を子供たちに教え `：フロート`。 また、他のプロジェクトでより詳しく説明されているHTML & CSSの多くを要約しています。 例は与えられているので、子供たちは以前のプロジェクトのいくつかを完了していなくてもこのプロジェクトを完了することができます。 
 
-このプロジェクトでは、以下の要素を網羅しています [ラズベリーパイデジタルメイクカリキュラム](http://rpf.io/curriculum)：
+本プロジェクトは、[Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum)に含まれる下記項目をカバーしています。
 
 * [基本2Dおよび3Dアセットを設計する](https://www.raspberrypi.org/curriculum/design/creator)。
 
-## 課題
+## チャレンジ
 
 * "左の列に項目を追加する" - 浮動した要素の中に項目を配置する。
 * "最初のページにリンクを戻す" - プロジェクト内のページ間のリンクを作成する。
 * "あなたの2番目のページを埋める" - より多くのHTML & CSSを要約する;
 * "別のアニメーションを追加する" - アニメーションをリキャッピングする。
 
-\--- /崩壊\---
+\--- /collapse \---
 
-## \---崩壊\---
+## \--- collapse \---
 
-## title：プロジェクト資料
+## title: プロジェクト資料
 
-## プロジェクトリソース
+## プロジェクト資料
 
-* [すべてのプロジェクトリソースを含む.zipファイル](resources/magazine-project-resources.zip)
+* [全プロジェクト・リソースの入った.zipファイル](resources/magazine-project-resources.zip)
 * [すべての「Magazine」プロジェクトリソースを含むオンライン小物](http://jumpto.cc/web-magazine)
 * [Online Trinketテンプレート](http://jumpto.cc/trinket-template)
 * [オンラインブランク小物](http://jumpto.cc/trinket-blank)
@@ -97,10 +97,10 @@ HTML & CSSをオンラインで書くには、 [装飾](https://trinket.io/) を
 * [magazine / spacobot.png](resources/magazine-spacerobot.png)
 * [magazine / dogrobot.png](resources/magazine-dogrobot.png)
 
-## クラブリーダーのリソース
+## クラブ・リーダー向けリソース
 
-* [完了したすべてのプロジェクトリソースを含む.zipファイル](resources/magazine-volunteer-resources.zip)
-* [オンラインで完成したTrinketプロジェクト](https://trinket.io/html/a41e4e1c5c)
+* [全プロジェクトの完成版リソースの入った.zipファイル](resources/magazine-volunteer-resources.zip)
+* [完成版プロジェクトのオンラインtrinket](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished / index.html](resources/magazine-finished-index.html)
 * [magazine-finished / style.css](resources/magazine-finished-style.css)
 * [magazine-finished / script.js](resources/magazine-finished-script.js)
@@ -109,4 +109,4 @@ HTML & CSSをオンラインで書くには、 [装飾](https://trinket.io/) を
 * [magazine-finished / greenrobot.png](resources/magazine-finished-greenrobot.png)
 * [magazine-finished / spacerobot.png](resources/magazine-finished-spacerobot.png)
 
-\--- /崩壊\---
+\--- /collapse \---
