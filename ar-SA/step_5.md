@@ -6,16 +6,16 @@
 
 إليك مثالًا:
 
-![screenshot](images/magazine-challenge1-example.png)
+![لقطة الشاشة](images/magazine-challenge1-example.png)
 
 هذه هي التعليمات البرمجية (code) للمثال ، لكن يمكنك تغييرها أو وضع تعليمات برمجية من عندك.
 
 HTML:
 
-![screenshot](images/magazine-challenge1.png)
+![لقطة الشاشة](images/magazine-challenge1.png)
 
 CSS:
 
-![screenshot](images/magazine-challenge1-style.png)
+![لقطة الشاشة](images/magazine-challenge1-style.png)
 
 \--- /challenge \---
