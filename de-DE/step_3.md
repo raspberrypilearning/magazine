@@ -10,7 +10,7 @@ Webseiten verwenden oft mehrere Spalten. Lass uns ein Zwei-Spalten-Layout für d
 
 + Gestalte die Spalten-div's so, dass eine nach links und die andere nach rechts fliesst.
     
-    ![Screenshot](images/magazine-columns-style.png)
+    ![screenshot](images/magazine-columns-style.png)
     
     Jede Spalte ist kleiner als 50%, so dass Platz für den Zwischenraum bleibt.
     
@@ -34,7 +34,7 @@ Webseiten verwenden oft mehrere Spalten. Lass uns ein Zwei-Spalten-Layout für d
 
 + Füge jetzt eine Klasse namens `Photo` zum Bild hinzu, damit du es grafisch gestalten kannst:
     
-    ![Screenshot](images/magazine-photo.png)
+    ![screenshot](images/magazine-photo.png)
 
 + Und gestalte das Aussehen des Bildes so, dass es einen Schatten wirft, und drehe es etwas, damit es aussieht als ob es aus der Seite herausspringt:
     
