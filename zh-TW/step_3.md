@@ -1,43 +1,43 @@
-## Creating Columns
+## 創建列
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+網站通常使用多個列。讓我們為您的雜誌創建一個兩列佈局。
 
-+ First create two column `div`s.
++ 首先創建兩列 `div`s。
     
-    Add the highlighted HTML to `index.html`:
+    將突出顯示的HTML添加到 `index.html`：
     
-    ![screenshot](images/magazine-columns.png)
+    ![截圖](images/magazine-columns.png)
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
++ 現在設置列div的樣式，使一個浮動到左邊，另一個浮動到右邊。
     
-    ![screenshot](images/magazine-columns-style.png)
+    ![截圖](images/magazine-columns-style.png)
     
-    Each column is less than 50% so there's room for padding.
+    每列少於50％，因此有填充空間。
     
-    You'll need to add something to a column to see the effect.
+    您需要在列中添加一些內容才能看到效果。
 
-+ Let's add a kitten picture to the top of column 2.
++ 讓我們在第2列的頂部添加一張小貓圖片。
     
-    ![screenshot](images/magazine-kitten.png)
+    ![截圖](images/magazine-kitten.png)
     
-    Notice that the kitten image is positioned about half-way across the page, in the second column.
+    請注意，在第二列中，小貓圖像位於頁面的大約一半處。
     
-    It's a bit big though!
+    雖然它有點大！
 
-+ Let's use `max-width:` to make images fit within their container.
++ 讓我們使用 `max-width：` 來使圖像適合他們的容器。
     
-    Add the following style to `style.css`.
+    將以下樣式添加到 `style.css`。
     
-    ![screenshot](images/magazine-img-width.png)
+    ![截圖](images/magazine-img-width.png)
     
-    This will apply to all images you use in your magazine, not just the kitten.
+    這適用於您在雜誌中使用的所有圖像，而不僅僅是小貓。
 
-+ Now add a class `photo` to the image so that you can style it:
++ 現在將 `級照片` 添加到圖像中，以便您可以設置樣式：
     
-    ![screenshot](images/magazine-photo.png)
+    ![截圖](images/magazine-photo.png)
 
-+ And style the image to add a shadow and a twist to make the photo pop out of the page:
++ 並設置圖像樣式以添加陰影和扭曲以使照片彈出頁面：
     
-    ![screenshot](images/magazine-photo-style.png)
+    ![截圖](images/magazine-photo-style.png)
     
-    Make some changes until you like the result.
+    進行一些更改，直到您喜歡結果。
