@@ -1,5 +1,5 @@
 ---
-title: Zeitschrift
+title: Magazine
 hero_image: images/magazine.png
 theme: red
 duration: 2
@@ -9,7 +9,7 @@ copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 description: Erstelle eine Zeitschriften-Webseite mit mehreren Seiten.
 original_url: https://codeclubprojects.org/en-GB/webdev/magazine
-interests: Kunst
+interests: art
 technologies: html-css-javascript
 site_areas: projects
 hardware: ''
