@@ -1,4 +1,4 @@
-## Creating Columns
+## Criando colunas
 
 Websites often use multiple columns. Let's create a two column layout for your magazine.
 
@@ -6,11 +6,11 @@ Websites often use multiple columns. Let's create a two column layout for your m
     
     Add the highlighted HTML to `index.html`:
     
-    ![screenshot](images/magazine-columns.png)
+    ![captura de tela](images/magazine-columns.png)
 
 + Now style the column divs so that one floats to the left and the other floats to the right.
     
-    ![screenshot](images/magazine-columns-style.png)
+    ![captura de tela](images/magazine-columns-style.png)
     
     Each column is less than 50% so there's room for padding.
     
@@ -18,7 +18,7 @@ Websites often use multiple columns. Let's create a two column layout for your m
 
 + Let's add a kitten picture to the top of column 2.
     
-    ![screenshot](images/magazine-kitten.png)
+    ![captura de tela](images/magazine-kitten.png)
     
     Notice that the kitten image is positioned about half-way across the page, in the second column.
     
@@ -34,7 +34,7 @@ Websites often use multiple columns. Let's create a two column layout for your m
 
 + Now add a class `photo` to the image so that you can style it:
     
-    ![screenshot](images/magazine-photo.png)
+    ![captura](images/magazine-photo.png)
 
 + And style the image to add a shadow and a twist to make the photo pop out of the page:
     
