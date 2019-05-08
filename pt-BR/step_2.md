@@ -1,12 +1,12 @@
-## Heading and Background
+## Cabeçalho e plano de fundo
 
 Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Abra este trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    The project should look like this:
+    O projeto deve ficar assim:
     
-    ![screenshot](images/magazine-starter.png)
+    ![captura de tela](images/magazine-starter.png)
 
 + Let's add a heading.
     
