@@ -6,6 +6,6 @@ Kannst du in `seite2.html` einen Link einfügen, mit dem du beim anklicken zurü
 
 Hinweis: Sieh dir den HTML-Code an, mit dem du den Link nach Seite 2 gemacht hast.
 
-![Screenshot](images/magazine-page1-link.png)
+![screenshot](images/magazine-page1-link.png)
 
-\--- /challenge \---
+Und ergänze den CSS-Code in <0>style.css</0>, um das Bild zu positionieren.
