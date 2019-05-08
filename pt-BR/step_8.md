@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- desafio \---
 
-## Challenge: Fill in your second page
+## Desafio: Preencha sua segunda página
 
 Here's the code for the examples, but you can change the `div`s or come up with your own ideas.
 
@@ -14,4 +14,4 @@ Remember that you can upload your own images to use. Make sure you have permissi
 
 ![screenshot](images/magazine-upload-images.png)
 
-\--- /challenge \---
+\--- challenge \---
