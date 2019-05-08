@@ -13,8 +13,10 @@
 Якщо вам потрібно роздрукувати цей проект, будь ласка скористайтеся [версією для друку](https://projects.raspberrypi.org/uk-UA/projects/magazine/print).
 
 --- collapse ---
+---
+title: Нотатки керівника гуртка
+---
 
-## title: Нотатки керівника гуртка
 
 ## Вступ:
 
@@ -26,7 +28,7 @@
 
 + ["Журнал" відправна точка -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Діти також можуть скористатися цим пустим трінкетом[(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) щоб написати свій власний HTML & CSS, або вони можуть по черзі використовувати цей шаблон трінкетів[(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Діти також можуть скористатися цим пустим трінкетом [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) щоб написати свій власний HTML & CSS, або вони можуть по черзі використовувати цей шаблон трінкетів [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Також існує трінкет, що містить зразок вирішення завдань:
 
