@@ -2,9 +2,9 @@
 
 雑誌スタイルのウェブサイトでは、多くの場合、ページに小さなアイテムがたくさんあります。まず、雑誌の見出しと背景を作成します。
 
-+ この小物を開く： <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>。
++ Trinketをひらく: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    プロジェクトは次のようになります。
+    プロジェクトはこのようになります。
     
     ![スクリーンショット](images/magazine-starter.png)
 
