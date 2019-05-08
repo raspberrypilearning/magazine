@@ -1,7 +1,7 @@
 ---
 title: Časopis
-hero_image: slike / magazine.png
-theme: Crvena
+hero_image: images/magazine.png
+theme: red
 duration: 2
 listed: true
 ingredient: false
@@ -11,14 +11,14 @@ description: Izradite web stranicu časopisa s više stranica.
 original_url: https://codeclubprojects.org/en-GB/webdev/magazine
 interests: art
 technologies: html-css-javascript
-site_areas: projects
+site_areas: projekti
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Uvod
+    title: Sretan rođendan
   - 
     title: Naslov i pozadina
   - 
