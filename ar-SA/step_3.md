@@ -1,4 +1,4 @@
-## إنشاء الأعمدة
+## إنشاء أعمدة
 
 غالبًا ما تستخدم مواقع الويب أعمدة متعددة في تصميمها. لننشئ تخطيط بعمودين لمجلتك.
 
@@ -6,11 +6,11 @@
     
     أضف تعليمات HTML المظللة إلى ملف `index.html`:
     
-    ![screenshot](images/magazine-columns.png)
+    ![لقطة الشاشة](images/magazine-columns.png)
 
 + واﻵن صمم العمودين divs بحيث يظهر واحد على اليسار واﻵخر على اليمين.
     
-    ![screenshot](images/magazine-columns-style.png)
+    ![لقطة الشاشة](images/magazine-columns-style.png)
     
     قيمة العرض لكل عمود أقل من 50%، لذا توجد مساحة لهامش الكتابة padding.
     
@@ -18,7 +18,7 @@
 
 + لنضف صورة لقطة إلى أعلى العمود الثاني.
     
-    ![screenshot](images/magazine-kitten.png)
+    ![لقطة الشاشة](images/magazine-kitten.png)
     
     لاحظ أن موضع صورة القطة في العمود الثاني يأخذ نصف عرض الصفحة تقريبًا.
     
@@ -28,16 +28,16 @@
     
     أضف النمط التالي إلى الملف `style.css`.
     
-    ![screenshot](images/magazine-img-width.png)
+    ![لقطة الشاشة](images/magazine-img-width.png)
     
     ستنطبق هذه الخاصية على كل الصور التي تستخدمها في المجلة، لا على صورة القطة فحسب.
 
 + أضف الآن الفئة `photo` إلى الصورة لكي يمكنك تحديد نمط لها:
     
-    ![screenshot](images/magazine-photo.png)
+    ![لقطة الشاشة](images/magazine-photo.png)
 
 + حدِّد نمط الصورة بإضافة ظل وإلتفاف حتى تبرُز الصورة عن الصفحة:
     
-    ![screenshot](images/magazine-photo-style.png)
+    ![لقطة الشاشة](images/magazine-photo-style.png)
     
     قم بعمل تغييرات حتى تصل إلى تعجبك النتيجة.
