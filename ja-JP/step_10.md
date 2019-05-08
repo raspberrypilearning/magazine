@@ -1,4 +1,4 @@
-\---挑戦\---
+\--- challenge \---
 
 ## 課題：別のアニメーションを追加する
 
@@ -6,4 +6,4 @@
 
 ![スクリーンショット](images/magazine-animation-challenge.png)
 
-\--- /チャレンジ\---
+\--- /challenge \---
