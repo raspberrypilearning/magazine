@@ -1,5 +1,5 @@
 ---
-title: مجلة
+title: Magazine
 hero_image: images/magazine.png
 theme: red
 duration: 2
@@ -22,7 +22,7 @@ steps:
   - 
     title: العنوان والخلفية
   - 
-    title: إنشاء أعمدة
+    title: إنشاء الأعمدة
   - 
     title: تحديد أنماط عناصر المجلة
   - 
@@ -32,8 +32,8 @@ steps:
   - 
     title: 'التحدي: أضف رابطًا للعودة إلى الصفحة الأولى'
   - 
-    title: 'التحدي: املأ الصفحة الثانية'
+    title: '--- challenge ---: املأ الصفحة الثانية'
   - 
     title: إضافة رسم متحرك
   - 
-    title: 'التحدي: أضف رسمًا متحركًا آخر'
+    title: '--- challenge ---: أضف رسمًا متحركًا آخر'
