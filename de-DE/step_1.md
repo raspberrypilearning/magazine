@@ -44,7 +44,7 @@ Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en
 * magazine/script.js
 * magazine/zahlreiche .png Bilder
 
-Eine vollständige Version dieses Projekts mit den Herausforderungen finden Sie auch im Abschnitt "Ressourcen für Freiwillige Mitarbeiter" mit diesem Inhalt:
+Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwillige". Diese enthält:
 
 * magazine-finished/index.html
 * magazine-finished/style.css
@@ -54,7 +54,7 @@ Eine vollständige Version dieses Projekts mit den Herausforderungen finden Sie 
 * magazine-finished/greenrobot.png
 * magazine-finished/spacerobot.png
 
-(Alle oben genannten Ressourcen werden auch zum Download als `.zip`-Dateien für das Projekt und für freiwillige Mitarbeiter bereitgestellt.)
+(Alle oben genannten Ressourcen werden auch zum Download als `.zip`-Dateien für das Projekt und für Freiwillige bereitgestellt.)
 
 ## Lernziele
 
@@ -75,7 +75,7 @@ Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digit
 
 ## \--- collapse \---
 
-## title: Projektmaterial
+## title: Projektmaterialien
 
 ## Projektressourcen
 
@@ -99,8 +99,8 @@ Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digit
 
 ## Ressourcen für Clubleiter
 
-* [.zip-Datei mit allen fertig gestellten Projektressourcen](resources/magazine-volunteer-resources.zip)
-* [Vollständiges Trinket-Projekt (online)](https://trinket.io/html/a41e4e1c5c)
+* [.zip-Datei mit allen Ressourcen vom fertigen Projekt](resources/magazine-volunteer-resources.zip)
+* [Fertiges online Trinket-Projekt](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
 * [magazine-finished/script.js](resources/magazine-finished-script.js)
