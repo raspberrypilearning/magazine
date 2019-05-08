@@ -15,7 +15,7 @@
 + ページ</code> の `<h1>`タイトルを変更し` 。</li>
 </ul>
 
-<p><img src="images/magazine-page2-h1.png" alt="スクリーンショット" /></p>
+<p><img src="images/magazine-page2-h1.png" alt="screenshot" /></p>
 
 <ul>
 <li>Now you'll need links between your pages so you can get to page 2 and back to the front page.</li>
