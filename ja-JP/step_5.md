@@ -1,10 +1,10 @@
-\---挑戦\---
+\--- challenge \---
 
 ## 課題：左の列に項目を追加する
 
 左列に順序付きリストとグラデーションテキストステッカーを追加できますか？
 
-ここに例があります：
+例示します:
 
 ![スクリーンショット](images/magazine-challenge1-example.png)
 
@@ -18,4 +18,4 @@ CSS：
 
 ![スクリーンショット](images/magazine-challenge1-style.png)
 
-\--- /チャレンジ\---
+\--- /challenge \---
