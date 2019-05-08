@@ -1,6 +1,6 @@
-\--- challenge \---
+\--- desafio \---
 
-## Challenge: Add a link back to the first page
+## Desafio: Adicionando um link na primeira página
 
 Can you add a link to `page2.html` so that you can click on it to get back to the first page?
 
