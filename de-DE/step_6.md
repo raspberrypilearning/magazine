@@ -8,7 +8,7 @@ Lass uns eine weitere Seite zu deiner Zeitschriften-Website hinzufügen.
 
 + Seite 2 wird sehr ähnlich wie die erste Seite deiner Zeitschrift, du kannst also den HTML-Code von `index.html` kopieren und ihn in `seite2.html` einfügen.
 
-![Screenshot](images/magazine-page2-html.png)
+![screenshot](images/magazine-page2-html.png)
 
 Beide Seiten verwenden das gleiche `style.css`, können also auf die gleichen Stile zurückgreifen.
 
