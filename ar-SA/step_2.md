@@ -4,7 +4,7 @@
 
 + افتح مشروع trinket هذا: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    الآن يجب أن يبدو الملف الخاص بك مثل هذا:
+    سيكون المشروع بالشكل التالي:
     
     ![لقطة الشاشة](images/magazine-starter.png)
 
