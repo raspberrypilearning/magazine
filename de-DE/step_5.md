@@ -6,7 +6,7 @@ Kannst du eine geordnete Liste und ein Textfeld mit einem Farbverlauf in der lin
 
 Hier ist ein Beispiel:
 
-![Screenshot](images/magazine-challenge1-example.png)
+![screenshot](images/magazine-challenge1-example.png)
 
 Hier ist der Code für das Beispiel, aber du kannst ihn ändern um deine eigene Idee zu verwirklichen.
 
