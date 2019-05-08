@@ -4,22 +4,22 @@
 
 + أضف صفحة جديدة إلى مشروعك وسمِّها `page2.html`:
 
-![screenshot](images/magazine-page2.png)
+![لقطة شاشة](images/magazine-page2.png)
 
 + ستكون الصفحة الثانية مشابهة إلى حد كبير للصفحة الأولى من مجلتك، لذا يمكنك نسخ تعليمات html البرمجية من ملف `index.html` ولصقها في الملف `page2.html`.
 
-![screenshot](images/magazine-page2-html.png)
+![لقطة شاشة](images/magazine-page2-html.png)
 
 لاحظ أن كلتا الصفحتين تستخدم نفس الملف `style.css` ، لذا ستشتركان في الأنماط.
 
 + غيِّر العنوان بداخل وسم `<h1>` للصفحة الثانية:
 
-![screenshot](images/magazine-page2-h1.png)
+![لقطة الشاشة](images/magazine-page2-h1.png)
 
 + ستحتاج الآن إلى روابط بين الصفحتين حتى يمكنك الانتقال إلى الصفحة الثانية والعودة إلى الصفحة الأمامية.
 
 انتقل إلى الملف `index.html`. وأضف رابطًا داخل وسم div ضمن العمود 2 في الملف `index.html`:
 
-![screenshot](images/magazine-page2-link.png)
+![لقطة الشاشة](images/magazine-page2-link.png)
 
 + اختبر ذلك لترى هل يمكنك النقر فوق الرابط الجديد والانتقال إلى الصفحة الثانية من المجلة أم لا.
