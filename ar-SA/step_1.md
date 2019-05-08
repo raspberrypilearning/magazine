@@ -8,13 +8,13 @@
   <img src="images/magazine-final.png">
 </div>
 
-### معلومات إضافية للمعلمين
+### معلومات إضافية لقادة النادي
 
-إذا كنت بحاجة لطباعة هذا المشروع، فيجرى إستخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/magazine/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/magazine/print).
 
 ## \--- collapse \---
 
-## العنوان: ملاحظات للمعلمين
+## title: ملاحظات قادة النادي
 
 ## مقدمة:
 
@@ -26,15 +26,15 @@
 
 * ['المجلة' نقطة البداية -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-يمكن أن يستخدم الأطفال أيضًا ملف trinket الفارغ هذا[(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) لكتابة ملفات HTML & CSS الخاصة بهم، أو يمكنهم استخدام قالب trinket هذا [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+يمكن أن يستخدم الأطفال أيضًا ملف trinket الفارغ هذا [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) لكتابة ملفات HTML و & CSS، أو يمكنهم استخدام قالب trinket هذا [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-كما يوجد أيضا مشروع trinket الذي يحتوي على نموذج حل للتحديات \--- challenge \---:
+كما يوجد مشروع trinket يحتوي على نموذج حل للتحديات:
 
 * [مشروع 'المجلة' النسخة النهائية -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
 ## الموارد المتوفرة دون اتصال بالإنترنت
 
-إن كنت تفضل إكمال المشروع [دون الحاجة لإتصال باﻷنترنيت](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) فيمكنك ذلك. يمكنك الوصول إلى مصادر المشروع من خلال النقر على رابط "مواد المشروع" الخاص بهذا المشروع. يحتوي هذا الرابط على قسم "موارد المشروع" ، والذي يتضمن الموارد التي يحتاجها الأطفال لإكمال هذا المشروع دون الحاجة للإتصال باﻷنترنيت. تأكد من أن كل طفل يتوفر على نسخة من هذه الموارد. يتضمن هذا القسم الملفات التالية:
+هذا المشروع يمكن [إكماله دون اتصال بالإنترنت](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) إذا كنت تفضل ذلك. يمكنك الوصول إلى موارد المشروع من خلال النقر فوق رابط "مواد المشروع" الخاص بهذا المشروع. يحتوي هذا الرابط على قسم "موارد المشروع"، الذي يتضمن الموارد التي يحتاج إليها الأطفال لإكمال هذا المشروع من دون اتصال بالإنترنت. تأكد من أن كل طفل لديه حق الوصول إلى نسخة من هذه الموارد. يتضمن هذا القسم الملفات التالية:
 
 * intro/index.html
 * template/template.html
@@ -44,7 +44,7 @@
 * magazine/script.js
 * magazine/mutliple .png images
 
-يمكنك أيضًا الحصول على النسخة الكاملة لهذا المشروع في قسم "موارد المتطوعين"والذي يحتوي على:
+يمكنك أيضًا العثور على نسخة كاملة من تحديات هذا المشروع في قسم "موارد المتطوعين" الذي يحتوي على:
 
 * magazine-finished/index.html
 * magazine-finished/style.css
@@ -60,9 +60,9 @@
 
 * سيتعلم الأطفال في هذا المشروع كيفية إنشاء تخطيط ذي عمودين على شكل مجلة باستخدام خاصية `float:`. كما ستكون أيضا فرصة لمراجعة الكثير من تقنيات HTML & CSS التي تم تناولها بمزيد من التفصيل في المشاريع الأخرى. وقد تم توفير أمثلة ليتمكن الأطفال من إكمال هذا المشروع حتى وإن لم يُكملوا بعض المشاريع السابقة. 
 
-يتناول هذا المشروع عناصر من الصفوف التالية من [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من المعايير التالية من المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
-* [التصاميم الأساسية لنماذج ثنائية وثلاثية الأبعاد.](https://www.raspberrypi.org/curriculum/design/creator).
+* [الأصول الأساسية للتصميمات ثنائية الأبعاد وثلاثية الأبعاد](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## التحديات
 
@@ -71,18 +71,18 @@
 * “ملء الصفحة الثانية” - مراجعة المزيد من تقنيات HTML & CSS؛;
 * “إضافة رسمًا متحركًا آخر” - مراجعة الرسوم المتحركة.
 
-\--- collapse \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
-## title: مواد المشروع
+## مواد المشروع
 
-## مصادر المشروع
+## موارد المشروع
 
 * [ملف.zip يحتوي على جميع موارد المشروع](resources/magazine-project-resources.zip)
 * [ملف Trinket أونلاين يحتوي على جميع مصادر "المجلة"](http://jumpto.cc/web-magazine)
-* [قالب Trinket أونلاين](http://jumpto.cc/trinket-template)
-* [ملف Trinket فارغ](http://jumpto.cc/trinket-blank)
+* [قالب Trinket عبر الإنترنت](http://jumpto.cc/trinket-template)
+* [Trinket فارغ عبر الإنترنت](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [intro/index.html](resources/intro-index.html)
@@ -97,10 +97,10 @@
 * [magazine/spacerobot.png](resources/magazine-spacerobot.png)
 * [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
-## موارد المعلمين
+## موارد قادة النادي
 
 * [ملف.zip يحتوي على جميع موارد المشروع المكتملة](resources/magazine-volunteer-resources.zip)
-* [مشروع Trinket المكتمل على الإنترنت](https://trinket.io/html/a41e4e1c5c)
+* [مشروع Trinket مكتمل على الإنترنت](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
 * [magazine-finished/script.js](resources/magazine-finished-script.js)
@@ -109,4 +109,4 @@
 * [magazine-finished/greenrobot.png](resources/magazine-finished-greenrobot.png)
 * [magazine-finished/spacerobot.png](resources/magazine-finished-spacerobot.png)
 
-\--- collapse \---
+\--- /collapse \---
