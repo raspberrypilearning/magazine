@@ -8,4 +8,4 @@ Lass uns eine lustige Animation für die Zeitschrift programmieren.
 
 + Und ergänze dann das CSS um deinen Roboter zu bewegen:
 
-![Screenshot](images/magazine-animation-css.png)
+![screenshot](images/magazine-animation-css.png)
