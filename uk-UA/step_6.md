@@ -16,7 +16,7 @@
 
 ![знімок екрану](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
++ Тепер вам потрібно посилання між вашими сторінками, щоб ви могли перейти на сторінку 2 і повернутися на першу.
 
 Поверніться до `index.html`. Додайте посилання в середині div у колонці 2 в `index.html`:
 
