@@ -16,7 +16,7 @@ Merk op dat beide pagina's dezelfde ` style.css ` gebruiken, zodat ze stijlen ku
 
 ![screenshot](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
++ Nu heb je links (verbindingen) tussen je pagina's nodig om naar pagina 2 en weer terug naar de voorpagina te kunnen gaan.
 
 Ga terug naar ` index.html `. Voeg een link in een div toe in kolom 2 van ` index.html `:
 
