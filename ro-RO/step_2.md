@@ -1,27 +1,27 @@
-## Heading and Background
+## Titlu și fundal
 
-Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
+Website-urile de tip revistă au, de cele mai multe ori, multe elemente mici pe prima pagină. Mai întâi, vei crea un titlu și fundal pentru revista ta.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Deschide acest trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    The project should look like this:
+    Proiectul ar trebui să arate astfel:
     
-    ![screenshot](images/magazine-starter.png)
+    ![captură de ecran](images/magazine-starter.png)
 
-+ Let's add a heading.
++ Haide să adăugăm un titlu.
     
-    You can think of a better title for your magazine.
+    Te poți gândi la un titlu mai bun pentru revista ta.
     
-    ![screenshot](images/magazine-heading.png)
+    ![captură de ecran](images/magazine-heading.png)
 
-+ Can you style the heading?
++ Poți să înfrumusețezi titlul?
     
-    Here's an example, but you can choose your own style:
+    Iată un exemplu, dar tu poți să îți alegi propriul stil:
     
-    ![screenshot](images/magazine-heading-style.png)
+    ![captură de ecran](images/magazine-heading-style.png)
 
-+ Now let's create an interesting background using a gradient and choose a font for the magazine.
++ Acum, haide să creăm un fundal interesant folosind un gradient și să alegem un font pentru revistă.
     
-    Here's some example style as a reminder of how to create a gradient:
+    Iată câteva exemple pentru a îți reaminti cum să creezi un gradient:
     
-    ![screenshot](images/magazine-background.png)
+    ![captură de ecran](images/magazine-background.png)
