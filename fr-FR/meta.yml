@@ -11,11 +11,11 @@ description: Créer un site Web magazine à plusieurs pages.
 original_url: https://codeclubprojects.org/fr-FR/webdev/magazine
 interests: art
 technologies: html-css-javascript
-site_areas: projects
+site_areas: projets
 hardware: ''
 software: html-css-javascript
 version: 3
-last_tested: 2017-01-01
+last_tested: 01/01/2017
 steps:
   - 
     title: Introduction
