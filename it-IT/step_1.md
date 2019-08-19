@@ -3,7 +3,7 @@
 In questo progetto imparerai come usare HTML e CSS per creare un sito Web in stile rivista con due pagine. Inoltre, ripasserai tante tecniche di HTML e CSS che hai già incontrato in altri progetti.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/2211918949?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/8ed7521fe5?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/magazine-final.png">
 </div>
@@ -16,6 +16,7 @@ Se intendete stampare questo progetto, cliccate su [Versione stampabile](https:/
 ---
 title: Note per gli organizzatori di club
 ---
+
 ## Introduzione:
 
 In questo progetto, i ragazzi impareranno come creare una struttura a due colonne per una pagina web. Inoltre, ritroveranno molte tecniche di HTML e CSS che hanno già imparato in altri progetti.
@@ -30,7 +31,7 @@ I ragazzi possono anche usare questo trinket vuoto [(jumpto.cc/html-blank)](http
 
 È disponibile anche un trinket con un esempio di soluzione alle challenges:
 
-* ['Magazine' finito -- trinket.io/html/2211918949](https://trinket.io/html/2211918949)
+* ['Magazine' finito -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/8ed7521fe5)
 
 ## Risorse offline
 
@@ -77,6 +78,7 @@ Questo progetto include elementi tratti dalle seguenti sezioni del [Digital Maki
 ---
 title: Materiali del progetto
 ---
+
 ## Risorse del progetto
 
 * [File .zip con tutte le risorse del progetto](resources/magazine-project-resources.zip)
@@ -100,7 +102,7 @@ title: Materiali del progetto
 ## Risorse per gli organizzatori di club
 
 * [File .zip con tutte le risorse del progetto completate](resources/magazine-volunteer-resources.zip)
-* [Trinket online completato](https://trinket.io/html/2211918949)
+* [Trinket online completato](https://trinket.io/html/8ed7521fe5)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
 * [magazine-finished/script.js](resources/magazine-finished-script.js)

@@ -1,0 +1,29 @@
+---
+title: Revistă
+hero_image: images/magazine.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Creează un website pentru o revistă cu mai multe pagini.
+original_url: https://codeclubprojects.org/en-GB/webdev/magazine
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Introducere
+  - title: Titlu și fundal
+  - title: Crearea coloanelor
+  - title: Stilizează elementele revistei
+  - title: 'Provocare: adaugă elemente în coloana stângă'
+  - title: Adaugă o a doua pagină
+  - title: 'Provocare: adaugă un link înapoi către prima pagină'
+  - title: 'Provocare: umple a doua pagină'
+  - title: Adaugă o animație
+  - title: 'Provocare: adaugă altă animație'
