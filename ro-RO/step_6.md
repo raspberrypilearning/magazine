@@ -1,25 +1,25 @@
-## Add a second page
+## Adaugă o a doua pagină
 
-Let's add another page to your magazine website.
+Haide să adăugăm o altă pagină website-ului revistei.
 
-+ Add a new page to your project and name it `page2.html`:
++ Adaugă o nouă pagină la proiect și denumește-o `page2.html`:
 
-![screenshot](images/magazine-page2.png)
+![captură de ecran](images/magazine-page2.png)
 
-+ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
++ Pagina 2 va fi destul de similară cu prima pagină a revistei, așa că poți copia codul html de la `index.html` și să îl inserezi în `page2.html`.
 
-![screenshot](images/magazine-page2-html.png)
+![captură de ecran](images/magazine-page2-html.png)
 
-Notice that both pages use the same `style.css` so they will share styles.
+Observă că ambele pagini folosesc același `style.css` și vor împărtăși stiluri.
 
-+ Change the `<h1>` title for page2:
++ Schimbă titlul `<h1>` pentru page2:
 
-![screenshot](images/magazine-page2-h1.png)
+![captură de ecran](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
++ Acum, vei avea nevoie de link-uri între paginile tale pentru a putea ajunge la pagina 2 și înapoi la prima pagină.
 
-Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
+Revino la `index.html`. Adaugă un link în interiorul unui div în coloana 2 în `index.html`:
 
-![screenshot](images/magazine-page2-link.png)
+![captură de ecran](images/magazine-page2-link.png)
 
-+ Test that you can click on your new link and move to page 2 of your magazine.
++ Testează că poți da click pe noul tău link și să te deplasezi la pagina 2 a revistei tale.
