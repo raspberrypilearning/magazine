@@ -1,11 +1,11 @@
-## Add an animation
+## Adaugă o animație
 
-Let's add a fun animation to your magazine.
+Haide să adăugăm o animație distractivă revistei tale.
 
-+ Go to `index.html` and include the `greenrobot.png` image at the top of your page.
++ Mergi la `index.html` și include imaginea `greenrobot.png` în partea de sus a paginii.
 
-![screenshot](images/magazine-animation-image.png)
+![captură de ecran](images/magazine-animation-image.png)
 
-+ Now add the CSS to animate your robot:
++ Acum adaugă CSS pentru a anima robotul:
 
-![screenshot](images/magazine-animation-css.png)
+![captură de ecran](images/magazine-animation-css.png)
