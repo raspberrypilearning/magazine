@@ -1,27 +1,27 @@
-## Heading and Background
+## Tiêu đề và nền
 
-Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
+Các trang web kiểu tạp chí thường có rất nhiều mục nhỏ trên một trang. Trước tiên, bạn sẽ tạo một tiêu đề và nền cho tạp chí của bạn.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Mở trinket này: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    The project should look like this:
+    Dự án sẽ như thế này:
     
-    ![screenshot](images/magazine-starter.png)
+    ![ảnh chụp màn hình](images/magazine-starter.png)
 
-+ Let's add a heading.
++ Hãy thêm một tiêu đề.
     
-    You can think of a better title for your magazine.
+    Bạn có thể nghĩ về một tiêu đề tốt hơn cho tạp chí của bạn.
     
-    ![screenshot](images/magazine-heading.png)
+    ![ảnh chụp màn hình](images/magazine-heading.png)
 
-+ Can you style the heading?
++ Bạn có thể phong cách tiêu đề?
     
-    Here's an example, but you can choose your own style:
+    Đây là một ví dụ, nhưng bạn có thể chọn phong cách của riêng bạn:
     
-    ![screenshot](images/magazine-heading-style.png)
+    ![ảnh chụp màn hình](images/magazine-heading-style.png)
 
-+ Now let's create an interesting background using a gradient and choose a font for the magazine.
++ Bây giờ, hãy tạo một nền thú vị bằng cách sử dụng một gradient và chọn một phông chữ cho tạp chí.
     
-    Here's some example style as a reminder of how to create a gradient:
+    Dưới đây là một số kiểu mẫu như một lời nhắc nhở về cách tạo gradient:
     
-    ![screenshot](images/magazine-background.png)
+    ![ảnh chụp màn hình](images/magazine-background.png)
