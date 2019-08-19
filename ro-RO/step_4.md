@@ -1,13 +1,13 @@
-## Style magazine items
+## Stilizează elementele revistei
 
-Let's make the layout a bit more interesting.
+Haide să facem aspectul puțin mai interesant.
 
-+ Add a `div` around your image with a `class` and add a `h2` heading:
++ Adaugă un `div` în jurul imaginii cu `class` și adaugă un titlu `h2`:
     
-    ![screenshot](images/magazine-item.png)
+    ![captură de ecran](images/magazine-item.png)
 
-+ Now style the item and heading.
++ Acum, stilizează elementul și titlul.
     
-    Here's an example, but you can make changes:
+    Iată un exemplu, dar poți face modificări:
     
-    ![screenshot](images/magazine-item-style.png)
+    ![captură de ecran](images/magazine-item-style.png)
