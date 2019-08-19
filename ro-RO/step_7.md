@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Add a link back to the first page
+## Provocare: Adaugă un link înapoi către prima pagină
 
-Can you add a link to `page2.html` so that you can click on it to get back to the first page?
+Poți adăuga un link către `page2.html` astfel încât să poți da click pe acesta pentru a te întoarce la prima pagină?
 
-Hint: Look at the HTML you used to create a link to page 2.
+Indiciu: Te poți uita la codul HTML pe care l-ai folosit pentru a crea un link către pagina 2.
 
-![screenshot](images/magazine-page1-link.png)
+![captură de ecran](images/magazine-page1-link.png)
 
 \--- /challenge \---
