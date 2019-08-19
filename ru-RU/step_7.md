@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Add a link back to the first page
+## Задача: Добавь ссылку на первую страницу
 
-Can you add a link to `page2.html` so that you can click on it to get back to the first page?
+Можешь ли ты добавить в `page2.html` ссылку, чтобы можно было по ней перемещаться обратно на первую страницу?
 
-Hint: Look at the HTML you used to create a link to page 2.
+Подсказка: Посмотри на HTML-код, использованный нами для создания ссылки на страницу 2.
 
-![screenshot](images/magazine-page1-link.png)
+![снимок экрана](images/magazine-page1-link.png)
 
 \--- /challenge \---
