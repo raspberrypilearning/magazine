@@ -1,6 +1,6 @@
-## Introduction
+## Giới thiệu
 
-In this project, you'll learn how to use HTML and CSS to create a multi-page magazine website with a two page layout. You'll also revisit lots of HTML and CSS techiques from other projects.
+Trong dự án này, bạn sẽ tìm hiểu cách sử dụng HTML và CSS để tạo trang web tạp chí nhiều trang với bố cục hai trang. Bạn cũng sẽ xem lại rất nhiều công nghệ HTML và CSS từ các dự án khác.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,105 +8,105 @@ In this project, you'll learn how to use HTML and CSS to create a multi-page mag
   <img src="images/magazine-final.png">
 </div>
 
-### Additional information for club leaders
+### Thông tin bổ sung cho lãnh đạo câu lạc bộ
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/magazine/print).
+Nếu bạn cần in dự án này, vui lòng sử dụng [Máy in phiên bản](https://projects.raspberrypi.org/en/projects/magazine/print)thân thiện.
 
-## \--- collapse \---
+## \--- sự sụp đổ \---
 
-## title: Club leader notes
+## tiêu đề: ghi chú lãnh đạo câu lạc bộ
 
-## Introduction:
+## Giới thiệu:
 
-In this project, children will learn how to create a two-column layout. They will also recap lots of the HTML & CSS that they have learned in other projects.
+Trong dự án này, trẻ sẽ học cách tạo bố cục hai cột. Họ cũng sẽ tóm tắt lại rất nhiều CSS & CSS mà họ đã học được trong các dự án khác.
 
-## Online Resources
+## Những nguồn thông tin trên mạng
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Chúng tôi khuyên bạn nên sử dụng [trinket](https://trinket.io/) để viết CSS & CSS trực tuyến. Dự án này chứa các đồ trang sức sau:
 
-* ['Magazine' starting point -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* [Điểm xuất phát của 'Tạp chí' - jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Trẻ em cũng có thể sử dụng trinket trống [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) để viết CSS & HTML của riêng mình hoặc thay vào đó, chúng có thể sử dụng mẫu trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Ngoài ra còn có một vật trang sức chứa một giải pháp mẫu cho các thách thức:
 
-* ['Magazine' Finished -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* ['Tạp chí' Đã hoàn thành - trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
-## Offline Resources
+## Tài nguyên ngoại tuyến
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Dự án này có thể là [hoàn thành ngoại tuyến](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) nếu thích. Bạn có thể truy cập tài nguyên dự án bằng cách nhấp vào liên kết 'Tài liệu dự án' cho dự án này. Liên kết này chứa phần 'Tài nguyên dự án', bao gồm các tài nguyên mà trẻ em sẽ cần để hoàn thành dự án này ngoại tuyến. Hãy chắc chắn rằng mỗi đứa trẻ có quyền truy cập vào một bản sao của các tài nguyên này. Phần này bao gồm các tệp sau:
 
-* intro/index.html
-* template/template.html
-* template/style.css
-* magazine/index.html
-* magazine/style.css
-* magazine/script.js
-* magazine/mutliple .png images
+* giới thiệu / index.html
+* mẫu / template.html
+* mẫu / style.css
+* tạp chí / index.html
+* tạp chí / style.css
+* tạp chí / script.js
+* hình ảnh tạp chí / mutlipl .png
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Bạn cũng có thể tìm thấy phiên bản hoàn chỉnh của các thách thức của dự án này trong phần 'Tài nguyên tình nguyện', có chứa:
 
-* magazine-finished/index.html
-* magazine-finished/style.css
-* magazine-finished/script.js
-* magazine-finished/kitten.jpg
-* magazine-finished/recipe-finished.jpg
-* magazine-finished/greenrobot.png
-* magazine-finished/spacerobot.png
+* tạp chí đã hoàn thành / index.html
+* tạp chí đã hoàn thành / style.css
+* tạp chí đã hoàn thành / script.js
+* tạp chí đã hoàn thành / kitten.jpg
+* tạp chí đã hoàn thành / công thức-finish.jpg
+* tạp chí đã hoàn thành / greenrobot.png
+* tạp chí đã hoàn thành / spacerobot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Tất cả các tài nguyên ở trên cũng có thể tải xuống dưới dạng tệp dự án và tình nguyện `.zip`)
 
-## Learning Objectives
+## Mục tiêu học tập
 
-* This project teaches children how to create a two-column magazine style layout using `float:`. It also recaps lots of the HTML & CSS that is covered in more detail in other projects. Examples are given so children will be able to complete this project even if they have not completed some of the earlier projects. 
+* Dự án này dạy cho trẻ em cách tạo bố cục kiểu tạp chí hai cột bằng cách sử dụng `float:`. Nó cũng tóm tắt rất nhiều CSS HTML & được trình bày chi tiết hơn trong các dự án khác. Các ví dụ được đưa ra để trẻ em có thể hoàn thành dự án này ngay cả khi chúng chưa hoàn thành một số dự án trước đó. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Dự án này bao gồm các yếu tố từ các chuỗi sau của Chương trình tạo kỹ thuật số [Raspberry Pi](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Thiết kế tài sản 2D và 3D cơ bản](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Thử thách
 
-* "Add items to the left column" - placing items inside a floated element;
-* "Add a link back to the first page" - creating links between pages in a project;
-* "Fill in your second page" - recapping more HTML & CSS;
-* "Add another animation" - recapping animations.
+* "Thêm các mục vào cột bên trái" - đặt các mục bên trong một phần tử nổi;
+* "Thêm một liên kết trở lại trang đầu tiên" - tạo liên kết giữa các trang trong một dự án;
+* "Điền vào trang thứ hai của bạn" - tóm tắt thêm HTML & CSS;
+* "Thêm một hình ảnh động khác" - tóm tắt lại hình ảnh động.
 
-\--- /collapse \---
+\--- /sự sụp đổ \---
 
-## \--- collapse \---
+## \--- sự sụp đổ \---
 
-## title: Project materials
+## tiêu đề: Tài liệu dự án
 
-## Project resources
+## Tài nguyên dự án
 
-* [.zip file containing all project resources](resources/magazine-project-resources.zip)
-* [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
-* [template/index.html](resources/template-index.html)
-* [template/style.css](resources/template-style.css)
-* [intro/index.html](resources/intro-index.html)
-* [intro/style.css](resources/intro-style.css)
-* [magazine/index.html](resources/magazine-index.html)
-* [magazine/style.css](resources/magazine-style.css)
-* [magazine/script.js](resources/magazine-script.js)
-* [magazine/kitten.jpg](resources/magazine-kitten.jpg)
-* [magazine/recipe-final.png](resources/magazine-recipe-final.png)
-* [magazine/greenrobot.png](resources/magazine-greenrobot.png)
-* [magazine/firerobot.png](resources/magazine-firerobot.png)
-* [magazine/spacerobot.png](resources/magazine-spacerobot.png)
-* [magazine/dogrobot.png](resources/magazine-dogrobot.png)
+* [Tệp .zip chứa tất cả tài nguyên dự án](resources/magazine-project-resources.zip)
+* [Trinket trực tuyến chứa tất cả tài nguyên dự án 'Tạp chí'](http://jumpto.cc/web-magazine)
+* [Mẫu trinket trực tuyến](http://jumpto.cc/trinket-template)
+* [Trinket trống trực tuyến](http://jumpto.cc/trinket-blank)
+* [mẫu / index.html](resources/template-index.html)
+* [mẫu / style.css](resources/template-style.css)
+* [giới thiệu / index.html](resources/intro-index.html)
+* [giới thiệu / style.css](resources/intro-style.css)
+* [tạp chí / index.html](resources/magazine-index.html)
+* [tạp chí / style.css](resources/magazine-style.css)
+* [tạp chí / script.js](resources/magazine-script.js)
+* [tạp chí / kitten.jpg](resources/magazine-kitten.jpg)
+* [tạp chí / công thức-Final.png](resources/magazine-recipe-final.png)
+* [tạp chí / greenrobot.png](resources/magazine-greenrobot.png)
+* [tạp chí / Firerobot.png](resources/magazine-firerobot.png)
+* [tạp chí / spacerobot.png](resources/magazine-spacerobot.png)
+* [tạp chí / dogrobot.png](resources/magazine-dogrobot.png)
 
-## Club leader resources
+## Câu lạc bộ lãnh đạo tài nguyên
 
-* [.zip file containing all completed project resources](resources/magazine-volunteer-resources.zip)
-* [Online completed Trinket project](https://trinket.io/html/a41e4e1c5c)
-* [magazine-finished/index.html](resources/magazine-finished-index.html)
-* [magazine-finished/style.css](resources/magazine-finished-style.css)
-* [magazine-finished/script.js](resources/magazine-finished-script.js)
-* [magazine-finished/kitten.jpg](resources/magazine-finished-kitten.jpg)
-* [magazine-finished/recipe-final.png](resources/magazine-finished-recipe-final.png)
-* [magazine-finished/greenrobot.png](resources/magazine-finished-greenrobot.png)
-* [magazine-finished/spacerobot.png](resources/magazine-finished-spacerobot.png)
+* [tập tin .zip chứa tất cả các tài nguyên dự án đã hoàn thành](resources/magazine-volunteer-resources.zip)
+* [Dự án Trinket hoàn thành trực tuyến](https://trinket.io/html/a41e4e1c5c)
+* [tạp chí đã hoàn thành / index.html](resources/magazine-finished-index.html)
+* [tạp chí đã hoàn thành / style.css](resources/magazine-finished-style.css)
+* [tạp chí đã hoàn thành / script.js](resources/magazine-finished-script.js)
+* [tạp chí đã hoàn thành / kitten.jpg](resources/magazine-finished-kitten.jpg)
+* [tạp chí đã hoàn thành / công thức-Final.png](resources/magazine-finished-recipe-final.png)
+* [tạp chí đã hoàn thành / greenrobot.png](resources/magazine-finished-greenrobot.png)
+* [tạp chí đã hoàn thành / spacerobot.png](resources/magazine-finished-spacerobot.png)
 
-\--- /collapse \---
+\--- /sự sụp đổ \---
