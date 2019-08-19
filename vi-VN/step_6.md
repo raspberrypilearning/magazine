@@ -1,25 +1,25 @@
-## Add a second page
+## Thêm một trang thứ hai
 
-Let's add another page to your magazine website.
+Hãy thêm một trang khác vào trang web tạp chí của bạn.
 
-+ Add a new page to your project and name it `page2.html`:
++ Thêm một trang mới vào dự án của bạn và đặt tên là `page2.html`:
 
-![screenshot](images/magazine-page2.png)
+![ảnh chụp màn hình](images/magazine-page2.png)
 
-+ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
++ Trang 2 sẽ khá giống với trang đầu tiên của tạp chí của bạn để bạn có thể sao chép html từ `index.html` và dán nó vào `page2.html`.
 
-![screenshot](images/magazine-page2-html.png)
+![ảnh chụp màn hình](images/magazine-page2-html.png)
 
-Notice that both pages use the same `style.css` so they will share styles.
+Lưu ý rằng cả hai trang đều sử dụng cùng `style.css` để chúng sẽ chia sẻ kiểu.
 
-+ Change the `<h1>` title for page2:
++ Thay đổi tiêu đề `<h1>` cho trang2:
 
-![screenshot](images/magazine-page2-h1.png)
+![ảnh chụp màn hình](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
++ Bây giờ bạn sẽ cần các liên kết giữa các trang của mình để bạn có thể đến trang 2 và quay lại trang trước.
 
-Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
+Quay trở lại `index.html`. Thêm một liên kết bên trong một div trong cột 2 trong `index.html`:
 
-![screenshot](images/magazine-page2-link.png)
+![ảnh chụp màn hình](images/magazine-page2-link.png)
 
-+ Test that you can click on your new link and move to page 2 of your magazine.
++ Kiểm tra xem bạn có thể nhấp vào liên kết mới của bạn và chuyển đến trang 2 của tạp chí của bạn.
