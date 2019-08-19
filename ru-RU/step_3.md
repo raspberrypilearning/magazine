@@ -1,43 +1,43 @@
-## Creating Columns
+## Создание колонок
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+Веб-сайты часто используют множество колонок. Давай создадим разметку из двух колонок для твоего журнала.
 
-+ First create two column `div`s.
++ Для начала создай по блоку `div` для каждой из твоих колонок.
     
-    Add the highlighted HTML to `index.html`:
+    Добавь выделенный HTML-код в `index.html`:
     
-    ![screenshot](images/magazine-columns.png)
+    ![снимок экрана](images/magazine-columns.png)
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
++ Теперь задай этим блокам div стиль так, чтобы одна колонка стремилась влево, в другая — вправо.
     
-    ![screenshot](images/magazine-columns-style.png)
+    ![снимок экрана](images/magazine-columns-style.png)
     
-    Each column is less than 50% so there's room for padding.
+    Каждая колонка по ширине меньше 50%, так что у нас есть ещё место для добавления внутренних отступов (padding) для текста внутри div-ов.
     
-    You'll need to add something to a column to see the effect.
+    Тебе нужно добавить что-нибудь в колонки, чтобы увидеть отступы внутри div-ов.
 
-+ Let's add a kitten picture to the top of column 2.
++ Давай добавим изображение котёнка в верхушку второй колонки.
     
-    ![screenshot](images/magazine-kitten.png)
+    ![снимок экрана](images/magazine-kitten.png)
     
-    Notice that the kitten image is positioned about half-way across the page, in the second column.
+    Обрати внимание, что изображение котёнка расположилось во второй половине страницы, во второй колонке.
     
-    It's a bit big though!
+    Правда, оно немного большевато!
 
-+ Let's use `max-width:` to make images fit within their container.
++ Давай добавим `max-width:`, чтобы изображения не превышали размер контейнера (т.е. div-а колонки).
     
-    Add the following style to `style.css`.
+    Добавь следующий стиль в `style.css`.
     
-    ![screenshot](images/magazine-img-width.png)
+    ![снимок экрана](images/magazine-img-width.png)
     
-    This will apply to all images you use in your magazine, not just the kitten.
+    Стиль будет применён ко всем изображениям в твоём журнале, не только к изображению котёнка.
 
-+ Now add a class `photo` to the image so that you can style it:
++ Теперь добавь класс `photo` к изображению котёнка, чтобы его можно было стилизовать:
     
-    ![screenshot](images/magazine-photo.png)
+    ![снимок экрана](images/magazine-photo.png)
 
-+ And style the image to add a shadow and a twist to make the photo pop out of the page:
++ Также задай правила стиля для изображения, добавляющие тень и поворот, чтобы фотография как бы вываливалась из страницы:
     
-    ![screenshot](images/magazine-photo-style.png)
+    ![снимок экрана](images/magazine-photo-style.png)
     
-    Make some changes until you like the result.
+    Поэкспериментируй со стилями, пока не получишь результат, который тебе нравится.
