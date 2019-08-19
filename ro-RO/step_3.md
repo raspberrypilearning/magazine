@@ -1,43 +1,43 @@
-## Creating Columns
+## Crearea coloanelor
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+Website-urile adesea folosesc mai multe coloane. Haide să creăm o structură cu două coloane pentru revista ta.
 
-+ First create two column `div`s.
++ Mai întâi crează două elemente `div` pentru coloane.
     
-    Add the highlighted HTML to `index.html`:
+    Adaugă codul HTML evidențiat la `index.html`:
     
-    ![screenshot](images/magazine-columns.png)
+    ![captură de ecran](images/magazine-columns.png)
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
++ Acum, adaugă stiluri elementelor div pentru coloane astfel încât unul să plutească la stânga, iar celălalt la dreapta.
     
-    ![screenshot](images/magazine-columns-style.png)
+    ![captură de ecran](images/magazine-columns-style.png)
     
-    Each column is less than 50% so there's room for padding.
+    Fiecare coloană este mai mică de 50%, astfel că există loc pentru spațiere.
     
-    You'll need to add something to a column to see the effect.
+    Va trebui să adaugi ceva într-o coloană pentru a vedea efectul.
 
-+ Let's add a kitten picture to the top of column 2.
++ Haide să adăugăm o fotografie a unei pisici în partea de sus a coloanei 2.
     
-    ![screenshot](images/magazine-kitten.png)
+    ![captură de ecran](images/magazine-kitten.png)
     
-    Notice that the kitten image is positioned about half-way across the page, in the second column.
+    Observă că imaginea pisicii este poziționată la jumătatea paginii, în a doua coloană.
     
-    It's a bit big though!
+    Este un pic cam mare!
 
-+ Let's use `max-width:` to make images fit within their container.
++ Haide să folosim `max-width:` pentru a face imaginile să se potrivească în container-ul lor.
     
-    Add the following style to `style.css`.
+    Adaugă următorul stil la `style.css`.
     
-    ![screenshot](images/magazine-img-width.png)
+    ![captură de ecran](images/magazine-img-width.png)
     
-    This will apply to all images you use in your magazine, not just the kitten.
+    Acesta se va aplica tuturor imaginilor pe care le vei utiliza în revista ta, nu doar pisicii.
 
-+ Now add a class `photo` to the image so that you can style it:
++ Acum adaugă o clasă imaginii `photo`, astfel încât să o poți modela:
     
-    ![screenshot](images/magazine-photo.png)
+    ![captură de ecran](images/magazine-photo.png)
 
-+ And style the image to add a shadow and a twist to make the photo pop out of the page:
++ Și modifică imaginea pentru a adăuga o umbră și o rotație pentru a face fotografia să iasă afară din pagină:
     
-    ![screenshot](images/magazine-photo-style.png)
+    ![captură de ecran](images/magazine-photo-style.png)
     
-    Make some changes until you like the result.
+    Fă câteva modificări până când îți place rezultatul.
