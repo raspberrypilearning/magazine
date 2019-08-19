@@ -1,17 +1,17 @@
-\--- challenge \---
+\--- thử thách \---
 
-## Challenge: Fill in your second page
+## Thử thách: Điền vào trang thứ hai của bạn
 
-Here's the code for the examples, but you can change the `div`s or come up with your own ideas.
+Đây là mã cho các ví dụ, nhưng bạn có thể thay đổi `div`s hoặc đưa ra ý tưởng của riêng mình.
 
-![screenshot](images/magazine-page2-challenge.png)
+![ảnh chụp màn hình](images/magazine-page2-challenge.png)
 
-Click the images icon to see the images that are available to use:
+Nhấp vào biểu tượng hình ảnh để xem hình ảnh có sẵn để sử dụng:
 
-![screenshot](images/magazine-images.png)
+![ảnh chụp màn hình](images/magazine-images.png)
 
-Remember that you can upload your own images to use. Make sure you have permission to use any images that you upload.
+Hãy nhớ rằng bạn có thể tải lên hình ảnh của riêng bạn để sử dụng. Đảm bảo bạn có quyền sử dụng bất kỳ hình ảnh nào mà bạn tải lên.
 
-![screenshot](images/magazine-upload-images.png)
+![ảnh chụp màn hình](images/magazine-upload-images.png)
 
-\--- /challenge \---
+\--- /thử thách \---
