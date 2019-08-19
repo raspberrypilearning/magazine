@@ -1,11 +1,11 @@
-\--- challenge \---
+\--- thử thách \---
 
-## Challenge: Add a link back to the first page
+## Thách thức: Thêm một liên kết trở lại trang đầu tiên
 
-Can you add a link to `page2.html` so that you can click on it to get back to the first page?
+Bạn có thể thêm một liên kết đến `page2.html` để bạn có thể nhấp vào liên kết đó để quay lại trang đầu tiên không?
 
-Hint: Look at the HTML you used to create a link to page 2.
+Gợi ý: Nhìn vào HTML bạn đã sử dụng để tạo liên kết đến trang 2.
 
-![screenshot](images/magazine-page1-link.png)
+![ảnh chụp màn hình](images/magazine-page1-link.png)
 
-\--- /challenge \---
+\--- /thử thách \---
