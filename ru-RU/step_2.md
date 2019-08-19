@@ -1,27 +1,27 @@
-## Heading and Background
+## Заголовок и фон
 
-Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
+Веб-сайты в стиле журнала строятся из множества небольших компонент на странице. Сперва тебе предлагается создать заголовок и фон для твоего журнала.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Открой этот trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    The project should look like this:
+    Проект должен выглядеть следующим образом:
     
-    ![screenshot](images/magazine-starter.png)
+    ![снимок экрана](images/magazine-starter.png)
 
-+ Let's add a heading.
++ Давай добавим заголовок.
     
-    You can think of a better title for your magazine.
+    Ты можешь придумать другой заголовок для своего журнала.
     
-    ![screenshot](images/magazine-heading.png)
+    ![снимок экрана](images/magazine-heading.png)
 
-+ Can you style the heading?
++ Можешь ли ты добавить стиль к заголовку?
     
-    Here's an example, but you can choose your own style:
+    Вот пример, но ты можешь создать свой собственный стиль:
     
-    ![screenshot](images/magazine-heading-style.png)
+    ![снимок экрана](images/magazine-heading-style.png)
 
-+ Now let's create an interesting background using a gradient and choose a font for the magazine.
++ Теперь давай зададим привлекательный фон, используя градиент, а также выберем шрифт для журнала.
     
-    Here's some example style as a reminder of how to create a gradient:
+    Вот, к примеру, стиль, задающий градиент:
     
-    ![screenshot](images/magazine-background.png)
+    ![снимок экрана](images/magazine-background.png)
