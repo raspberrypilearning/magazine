@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Sfida: Riempi la seconda pagina
+## Sfida: compila la seconda pagina
 
 Ecco un esempio di codice, ma puoi modificare i `div` o usare le tue idee.
 

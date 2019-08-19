@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Sfida: Aggiungi un link per tornare alla prima pagina
+## Sfida: aggiungi un link per tornare alla prima pagina
 
 Riesci ad aggiungere un link in `page2.html` da cliccare per tornare alla prima pagina?
 

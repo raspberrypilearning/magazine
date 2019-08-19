@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Sfida: Aggiungi elementi alla colonna di sinistra
+## Sfida: aggiungi elementi alla colonna di sinistra
 
 Sei in grado di aggiungere una lista ordinata e un testo colorato tramite gradiente alla colonna di sinistra?
 
