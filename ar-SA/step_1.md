@@ -14,7 +14,7 @@
 
 ## \--- collapse \---
 
-## title: ملاحظات قادة النادي
+## العنوان: ملاحظات قائد النادي
 
 ## مقدمة:
 
@@ -24,7 +24,7 @@
 
 لكتابة ملفات HTML & CSS نوصي بإستخدام [trinket](https://trinket.io/). يحتوي هذا المشروع على ملفات trinket التالية:
 
-* ['المجلة' نقطة البداية -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* [ نقطة بداية 'المجلة' -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
 يمكن أن يستخدم الأطفال أيضًا ملف trinket الفارغ هذا [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) لكتابة ملفات HTML و & CSS، أو يمكنهم استخدام قالب trinket هذا [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
@@ -69,13 +69,13 @@
 * إضافة عناصر إلى العمود الأيسر - وضع عنصر داخل جزء غير مستقر floated;
 * “أضف رابطًا للعودة إلى الصفحة الأولى” - إنشاء روابط للتنقل مابين الصفحات داخل مشروع;
 * “ملء الصفحة الثانية” - مراجعة المزيد من تقنيات HTML & CSS؛;
-* “إضافة رسمًا متحركًا آخر” - مراجعة الرسوم المتحركة.
+* “إضافة رسماً متحركاً آخر” - مراجعة الرسوم المتحركة.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## مواد المشروع
+## العنوان: مواد المشروع
 
 ## موارد المشروع
 
@@ -97,7 +97,7 @@
 * [magazine/spacerobot.png](resources/magazine-spacerobot.png)
 * [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
-## موارد قادة النادي
+## موارد قائد النادي
 
 * [ملف.zip يحتوي على جميع موارد المشروع المكتملة](resources/magazine-volunteer-resources.zip)
 * [مشروع Trinket مكتمل على الإنترنت](https://trinket.io/html/a41e4e1c5c)
