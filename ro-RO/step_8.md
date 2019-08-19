@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Provocare: Umple a doua pagină
+## Provocare: umple a doua pagină
 
 Iată codul pentru exemple, dar poți schimba elementele `div` sau poți veni cu ideile proprii.
 
