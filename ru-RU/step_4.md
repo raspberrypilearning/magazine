@@ -1,13 +1,13 @@
-## Style magazine items
+## Стилизация компонент журнала
 
-Let's make the layout a bit more interesting.
+Давай сделаем разметку немного более интересной.
 
-+ Add a `div` around your image with a `class` and add a `h2` heading:
++ Оберни в `div` твоё изображение с `классом` и добавь заголовок через `h2`:
     
-    ![screenshot](images/magazine-item.png)
+    ![снимок экрана](images/magazine-item.png)
 
-+ Now style the item and heading.
++ Теперь стилизуй компоненты и заголовок.
     
-    Here's an example, but you can make changes:
+    Вот тебе пример, но ты можешь добавить что-нибудь своё:
     
-    ![screenshot](images/magazine-item-style.png)
+    ![снимок экрана](images/magazine-item-style.png)
