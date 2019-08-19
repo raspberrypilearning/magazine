@@ -1,25 +1,25 @@
-## Add a second page
+## Добавь вторую страницу
 
-Let's add another page to your magazine website.
+Давай добавим ещё одну страницу в твой журнал.
 
-+ Add a new page to your project and name it `page2.html`:
++ Добавь новую страницу (новый файл) в твой проект и назови её `page2.html`:
 
-![screenshot](images/magazine-page2.png)
+![снимок экрана](images/magazine-page2.png)
 
-+ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
++ Страница 2 будет несколько похожа на первую страницу твоего журнала, так что ты можешь скопировать html-код из `index.html` и вставить его в `page2.html`.
 
-![screenshot](images/magazine-page2-html.png)
+![снимок экрана](images/magazine-page2-html.png)
 
-Notice that both pages use the same `style.css` so they will share styles.
+Заметь, что обе страницы используют тот же `style.css`, так что они будут иметь общий стиль.
 
-+ Change the `<h1>` title for page2:
++ Измени заголовок `<h1>` в page2.html:
 
-![screenshot](images/magazine-page2-h1.png)
+![снимок экрана](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
++ Теперь тебе понадобятся ссылки между страницами, чтобы можно было переходить на страницу 2 и обратно на фронтовую страницу.
 
-Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
+Вернись к `index.html`. Внутри div-а во 2ую колонку `index.html` добавь ссылку:
 
-![screenshot](images/magazine-page2-link.png)
+![снимок экрана](images/magazine-page2-link.png)
 
-+ Test that you can click on your new link and move to page 2 of your magazine.
++ Убедись, что ты можешь кликать по твоей новой ссылке и перемещаться на 2ую страницу журнала.
