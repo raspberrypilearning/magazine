@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: Add items to the left column
+## Задача: Добавь компоненты в левую колонку
 
-Can you add a ordered list and a gradient text sticker to the left column?
+Можешь ли ты добавить в левую колонку упорядоченный список и наклейку с текстом на фоне градиента?
 
-Here's an example:
+Вот тебе пример:
 
-![screenshot](images/magazine-challenge1-example.png)
+![снимок экрана](images/magazine-challenge1-example.png)
 
-This is the code for the example, but you can change it or come up with your own.
+Этот код для примера, ты можешь изменить его или придумать что-то своё.
 
 HTML:
 
-![screenshot](images/magazine-challenge1.png)
+![снимок экрана](images/magazine-challenge1.png)
 
 CSS:
 
-![screenshot](images/magazine-challenge1-style.png)
+![снимок экрана](images/magazine-challenge1-style.png)
 
 \--- /challenge \---
