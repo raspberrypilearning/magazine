@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Add another animation
+## Provocare: Adaugă altă animație
 
-Can you add an animation to the second page of your magazine?
+Poți adăuga o animație în a doua pagină a revistei tale?
 
-![screenshot](images/magazine-animation-challenge.png)
+![captură de ecran](images/magazine-animation-challenge.png)
 
 \--- /challenge \---
