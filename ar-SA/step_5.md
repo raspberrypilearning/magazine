@@ -1,25 +1,21 @@
 --- challenge ---
+
 ## التحدي: أضف عناصر إلى العمود الأيسر
 
 هل يمكنك إضافة قائمة مرتَّبة وملصق نص متدرج إلى العمود الأيسر؟
 
-إليك مثالًا:
+إليك مثالاً:
 
-![screenshot](images/magazine-challenge1-example.png)
+![لقطة الشاشة](images/magazine-challenge1-example.png)
 
-هذه هي التعليمات البرمجية للمثال، لكن يمكنك تغييرها أو وضع تعليمات برمجية من عندك.
+هذه هي التعليمات البرمجية للمثال ، لكن يمكنك تغييرها أو وضع تعليمات برمجية من عندك.
 
 HTML:
 
-![screenshot](images/magazine-challenge1.png)
+![لقطة الشاشة](images/magazine-challenge1.png)
 
 CSS:
 
-![screenshot](images/magazine-challenge1-style.png)
-
-
-
-
-
+![لقطة الشاشة](images/magazine-challenge1-style.png)
 
 --- /challenge ---
