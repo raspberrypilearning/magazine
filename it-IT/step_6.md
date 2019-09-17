@@ -1,6 +1,6 @@
 ## Aggiungi una seconda pagina
 
-Aggiungiamo un'altra pagina al nostro sito Web in stile rivista.
+Aggiungiamo un'altra pagina al nostro sito web in stile rivista.
 
 + Aggiungi una nuova pagina al tuo progetto e chiamala `page2.html`:
 
@@ -12,14 +12,14 @@ Aggiungiamo un'altra pagina al nostro sito Web in stile rivista.
 
 Nota che entrambe le pagine usano `style.css`, quindi condivideranno lo stile.
 
-+ Cambia l'intestazione `<h1>` title: nella seconda pagina:
++ Cambia il contenuto dell'intestazione `<h1>` della seconda pagina:
 
 ![screenshot](images/magazine-page2-h1.png)
 
-+ Ora avrai bisogno di alcuni link tra le tue pagine per andare alla seconda pagina e viceversa.
++ Ora avrai bisogno di collegare le tue pagine per raggiungere la seconda pagina partendo dalla prima e viceversa.
 
 Torna a `index.html`. Aggiungi un link in un div nella seconda colonna in `index.html`:
 
 ![screenshot](images/magazine-page2-link.png)
 
-+ Assicurati di poter cliccare sul tuo nuovo link e andare alla seconda pagina della tua rivista.
++ Assicurati che cliccando si apra la seconda pagina della tua rivista.
