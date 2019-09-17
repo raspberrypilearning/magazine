@@ -8,4 +8,4 @@
 
 ![لقطة الشاشة](images/magazine-page1-link.png)
 
---- challenge/ ---
+--- /challenge ---
