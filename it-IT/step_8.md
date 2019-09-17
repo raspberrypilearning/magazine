@@ -2,11 +2,11 @@
 
 ## Sfida: Riempi la seconda pagina
 
-Ecco un esempio di codice, ma puoi modificare i `div` o usare le tue idee.
+Ecco un esempio di codice, ma puoi modificare i `div` o inventarti qualcos'altro.
 
 ![screenshot](images/magazine-page2-challenge.png)
 
-Clicca sull'icona delle immagine per vedere le immagini disponibili:
+Clicca sull'icona delle immagini per vedere quelle disponibili:
 
 ![screenshot](images/magazine-images.png)
 
