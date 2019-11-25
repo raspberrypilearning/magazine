@@ -1,43 +1,43 @@
 ## Crear columnas
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+Los sitios web a menudo usan varias columnas. Vamos a crear un diseño de dos columnas para tu revista.
 
-+ First create two column `div`s.
++ Primero crea dos columnas `div`.
     
-    Add the highlighted HTML to `index.html`:
+    Añade el HTML resaltado a `index.html`:
     
-    ![captura de pantalla](images/magazine-columns.png)
+    ![screenshot](images/magazine-columns.png)
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
++ Ahora, dale estilo a los div de las columnas para que uno flote a la izquierda y el otro a la derecha.
     
-    ![captura de pantalla](images/magazine-columns-style.png)
+    ![screenshot](images/magazine-columns-style.png)
     
-    Each column is less than 50% so there's room for padding.
+    Cada columna es inferior al 50% para que quede espacio de relleno.
     
-    You'll need to add something to a column to see the effect.
+    Necesitarás añadir algo a una columna para ver el efecto.
 
-+ Let's add a kitten picture to the top of column 2.
++ Vamos a añadir la imagen de un gatito en la parte superior de la columna 2.
     
     ![screenshot](images/magazine-kitten.png)
     
-    Notice that the kitten image is positioned about half-way across the page, in the second column.
+    Observa que la imagen del gatito está situada más o menos en la mitad de la página, en la segunda columna.
     
-    It's a bit big though!
+    ¡Aunque es un poco grande!
 
-+ Let's use `max-width:` to make images fit within their container.
++ Vamos a usar `max-width:` para hacer que las imágenes encajen dentro de su contenedor.
     
-    Add the following style to `style.css`.
+    Añade el siguiente estilo a `style.css`.
     
-    ![captura de pantalla](images/magazine-img-width.png)
+    ![screenshot](images/magazine-img-width.png)
     
-    This will apply to all images you use in your magazine, not just the kitten.
+    Este estilo se aplicará a todas las imágenes que utilices en tu revista, no solo al gatito.
 
-+ Now add a class `photo` to the image so that you can style it:
++ Ahora, añade una clase `photo` a la imagen para que puedas darle estilo:
     
     ![screenshot](images/magazine-photo.png)
 
-+ And style the image to add a shadow and a twist to make the photo pop out of the page:
++ Y estiliza la imagen añadiéndole una sombra y girándola para hacer que la foto sobresalga de la página:
     
-    ![captura de pantalla](images/magazine-photo-style.png)
+    ![screenshot](images/magazine-photo-style.png)
     
-    Make some changes until you like the result.
+    Haz varios cambios hasta que te guste el resultado.
