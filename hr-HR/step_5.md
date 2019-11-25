@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Izazov: dodajte stavke u lijevi stupac
+## Izazov: Dodajte elemente u lijevi stupac
 
-Možete li dodati naručeni popis i naljepnicu s tekstom s gradijentom u lijevi stupac?
+Možete li dodati brojevnu listu i tekstualni okvir s gradijentom u lijevi stupac?
 
 Evo primjera:
 
