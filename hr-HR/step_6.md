@@ -1,8 +1,8 @@
 ## Dodajte drugu stranicu
 
-Dodajte još jednu stranicu na web mjesto časopisa.
+Dodajte još jednu stranicu na web sjedište časopisa.
 
-+ Dodajte novu stranicu u svoj projekt i nazovite ga `page2.html`:
++ Dodajte novu stranicu u svoj projekt i nazovite ju `page2.html`:
 
 ![screenshot](images/magazine-page2.png)
 
@@ -16,10 +16,10 @@ Imajte na umu da obje stranice koriste isti `style.css` tako da će dijeliti sti
 
 ![screenshot](images/magazine-page2-h1.png)
 
-+ Sada ćete trebati linkve između vaših stranica kako bi mogli doći do stranice 2 i natrag na početnu stranicu.
++ Sada ćete trebati poveznice između vaših stranica kako bi mogli doći do stranice 2 i natrag na početnu stranicu.
 
 Vratite se na `index.html`. Dodajte vezu unutar diva u stupcu 2 u `index.html`:
 
 ![screenshot](images/magazine-page2-link.png)
 
-+ Ispitajte da možete kliknuti na svoju novu vezu i prijeći na stranicu 2 svog časopisa.
++ Provjerite možete li na svoju novu vezu i prijeći na stranicu 2 svog časopisa.
