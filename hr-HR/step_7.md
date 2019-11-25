@@ -8,4 +8,4 @@ Savjet: Pogledajte HTML koji ste koristili za izradu veze na stranicu 2.
 
 ![screenshot](images/magazine-page1-link.png)
 
---- challenge ---
+--- /challenge ---
