@@ -1,8 +1,8 @@
 ## Naslov i pozadina
 
-Web-lokacije časopisa često imaju puno sitnih stavki na stranici. Najprije ćete stvoriti naslov i pozadinu svog časopisa.
+Web sjedišta časopisa često imaju puno sitnih elemenata na stranici. Najprije ćete stvoriti naslov i pozadinu svog časopisa.
 
-+ Otvori ovaj trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Otvorite ovaj trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
     Projekt bi trebao izgledati ovako:
     
@@ -10,11 +10,11 @@ Web-lokacije časopisa često imaju puno sitnih stavki na stranici. Najprije će
 
 + Dodajte naslov.
     
-    Možete misliti na bolji naslov svog časopisa.
+    Možete smisliti bolji naslov svog časopisa.
     
     ![screenshot](images/magazine-heading.png)
 
-+ Možete li stilirati naslov?
++ Možete li oblikovati naslov?
     
     Evo primjera, ali možete odabrati svoj stil:
     
@@ -22,6 +22,6 @@ Web-lokacije časopisa često imaju puno sitnih stavki na stranici. Najprije će
 
 + Sada stvorimo zanimljivu pozadinu koristeći gradijent i odaberite font za časopis.
     
-    Evo nekog primjera stila kao podsjetnika o tome kako izraditi gradijent:
+    Evo jednog primjera stila kao podsjetnika o tome kako napraviti gradijent:
     
     ![screenshot](images/magazine-background.png)
