@@ -1,7 +1,7 @@
 ---
 title: Revista
 hero_image: images/magazine.png
-theme: rojo
+theme: red
 duration: 2
 listed: true
 ingredient: false
@@ -9,7 +9,7 @@ copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 description: Crea un sitio web con una revista de varias páginas.
 original_url: https://codeclubprojects.org/en-GB/webdev/magazine
-interests: arte
+interests: art
 technologies: html-css-javascript
 site_areas: projects
 hardware: ''
@@ -30,10 +30,10 @@ steps:
   - 
     title: Añade otra página
   - 
-    title: 'Desafío: Añade un enlace que te devuelva a la primera páginae'
+    title: 'Desafío: Añade un enlace que te devuelva a la primera página'
   - 
     title: 'Desafío: Completa la segunda página'
   - 
-    title: Incluir una animación
+    title: Añade una animación
   - 
     title: 'Desafío: Incluye otra animación'
