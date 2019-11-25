@@ -1,30 +1,30 @@
 ## Stvaranje stupaca
 
-Web-lokacije često upotrebljavaju više stupaca. Izradimo izgled za dva stupca za svoj časopis.
+Web sjedišta često upotrebljavaju više stupaca. Izradimo predložak s dva stupca za svoj časopis.
 
-+ Prvo izradite dva stupca `div`s.
++ Prvo izradite `div` za dva stupca.
     
     Dodajte označeni HTML u `index.html`:
     
     ![screenshot](images/magazine-columns.png)
 
-+ Sada oblikujte divove stupca tako da jedan lebdi lijevo, a drugi pluta desno.
++ Sada oblikujte divove stupca tako da jedan stoji lijevo, a drugi desno.
     
     ![screenshot](images/magazine-columns-style.png)
     
-    Svaki stupac je manji od 50% pa postoji mjesta za padanje.
+    Svaki stupac je manji od 50% pa postoji ima mjesta za odmak(padding).
     
     Morat ćete dodati nešto u stupac da biste vidjeli učinak.
 
-+ Dodaj sliku mačića na vrh stupca 2.
++ Dodajte sliku mačića na vrh stupca 2.
     
     ![screenshot](images/magazine-kitten.png)
     
-    Primijetite da je slika mačića postavljena oko pola puta preko stranice, u drugom stupcu.
+    Primijetite da je slika mačića postavljena otprilike na pola stranice, u drugom stupcu.
     
     Ipak, malo je velika!
 
-+ Koristimo `maks. Širinu:` da bi slike bile prikladne u njihovom spremniku.
++ Koristit ćemo `max-width:` da bi slike bile prikladne u njihovom spremniku.
     
     Dodajte sljedeći stil na `style.css`.
     
@@ -32,12 +32,12 @@ Web-lokacije često upotrebljavaju više stupaca. Izradimo izgled za dva stupca 
     
     To će se odnositi na sve slike koje koristite u svom časopisu, a ne samo na mačića.
 
-+ Sada dodaj sliku `` na sliku da biste ga mogli oblikovati:
++ Sada dodajte klasu `photo` na sliku da biste ju mogli oblikovati:
     
     ![screenshot](images/magazine-photo.png)
 
-+ I stilizirati sliku da biste dodali sjenu i pomaknuti kako bi fotografija nestala sa stranice:
++ I oblikujte sliku tako da dodate sjenu i uvijanje kako bi slika nestala sa stranice:
     
     ![screenshot](images/magazine-photo-style.png)
     
-    Izvršite izmjene dok ne poželite rezultat.
+    Napravite dodatne promjene sve dok niste zadovoljni rezultatom.
