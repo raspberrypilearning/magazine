@@ -1,6 +1,6 @@
 ## Introdução
 
-In this project, you'll learn how to use HTML and CSS to create a multi-page magazine website with a two page layout. You'll also revisit lots of HTML and CSS techiques from other projects.
+Neste projeto, você vai aprender como usar HTML e CSS para criar um website em formato de revista, com um layout de duas páginas. Você também vai rever muitas técnicas de HTML e CSS de outros projetos.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -18,23 +18,23 @@ Se você precisar imprimir este projeto, use a [Versão para Impressão](https:/
 
 ## Introdução:
 
-In this project, children will learn how to create a two-column layout. They will also recap lots of the HTML & CSS that they have learned in other projects.
+Neste projeto, as crianças vão aprender como criar um layout de duas colunas. Elas também vão revisar muitas coisas de HTML & CSS que elas aprenderam em outros projetos.
 
 ## Recursos Online
 
 Recomendamos usar o[ trinket ](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém os seguintes trinkets:
 
-* ['Magazine' starting point -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* [Ponto de partida da 'Revista' - jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
 As crianças também podem fazer uso deste editor html em branco [ (jumpto.cc/html-blank) ](http://jumpto.cc/html-blank) para escrever seu próprio HTML & CSS, ou como alternativa, eles podem usar este template [ (jumpto.cc/html-template) ](http://jumpto.cc/html-template).
 
 Há também um projeto thinket contendo uma solução de amostra para os desafios:
 
-* ['Magazine' Finished -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* ['Revista' Finalizada-- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
 ## Recursos Offline
 
-Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se você preferir. Você pode acessar os recursos do projeto clicando no link 'Materiais do Projeto' para este projeto. Este link contém uma seção 'Recursos do Projeto', que inclui recursos que as crianças precisarão para concluir esse projeto off-line. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
+Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se você preferir. Você pode acessar os recursos do projeto clicando no link 'Materiais do Projeto' para este projeto. Este link contém uma seção 'Recursos do Projeto', que inclui recursos que as crianças precisarão para concluir esse projeto offline. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
 
 * intro/index.html
 * template/template.html
@@ -42,7 +42,7 @@ Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-G
 * magazine/index.html
 * magazine/style.css
 * magazine/script.js
-* magazine/mutliple .png images
+* magazine/muitos arquivos .png
 
 Você também pode encontrar uma versão completa dos desafios deste projeto na seção "Recursos para Voluntários", que contém:
 
@@ -58,7 +58,7 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
 
 ## Objetivos de aprendizado
 
-* This project teaches children how to create a two-column magazine style layout using `float:`. It also recaps lots of the HTML & CSS that is covered in more detail in other projects. Examples are given so children will be able to complete this project even if they have not completed some of the earlier projects. 
+* Este projeto ensina as crianças a criar um layout de revista de duas colunas usando `float:`. Ele também recapitula muito o HTML & CSS que são abordados com mais detalhes em outros projetos. São fornecidos exemplos para que as crianças possam concluir este projeto, mesmo que não tenham concluído alguns dos projetos anteriores. 
 
 Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
 
@@ -66,21 +66,21 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 
 ## Desafios
 
-* "Add items to the left column" - placing items inside a floated element;
-* "Add a link back to the first page" - creating links between pages in a project;
-* "Fill in your second page" - recapping more HTML & CSS;
-* "Add another animation" - recapping animations.
+* "Adicionar itens na coluna esquerda" - colocando itens dentro de um elemento flutuante;
+* "Adicionar um link de volta para a primeira página" -criando links entre páginas em um projeto;
+* "Preencher sua segunda página" - recapitulando mais HTML & CSS;
+* "Adicionar outra animação" -recapitulando animações.
 
 \--- /collapse \---
 
-## \--- colapso \---
+## \--- collapse \---
 
 ## Título: Materiais do projeto
 
 ## Recursos do projeto
 
 * [arquivo.zip contendo todos os recursos do projeto](resources/magazine-project-resources.zip)
-* [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
+* [Projeto Online Trinket contendo todos os recursos do projeto 'Revista'](http://jumpto.cc/web-magazine)
 * [Template Online Trinket](http://jumpto.cc/trinket-template)
 * [Trinket online em branco](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
