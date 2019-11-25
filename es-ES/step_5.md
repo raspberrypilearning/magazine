@@ -1,21 +1,21 @@
-\--- desafío \---
+\--- challenge \---
 
 ## Desafío: Añade objetos en la columna izquierda
 
-Can you add a ordered list and a gradient text sticker to the left column?
+¿Puedes añadir una lista ordenada y una pegatina con fondo degradado y texto en la columna izquierda?
 
-Aquí está un ejemplo:
+Aquí tienes un ejemplo:
 
-![captura de pantalla](images/magazine-challenge1-example.png)
+![screenshot](images/magazine-challenge1-example.png)
 
-This is the code for the example, but you can change it or come up with your own.
+Este es el código para el ejemplo, pero puedes cambiarlo o crear el tuyo propio.
 
 HTML:
 
-![captura de pantalla](images/magazine-challenge1.png)
+![screenshot](images/magazine-challenge1.png)
 
 CSS:
 
-![captura de pantalla](images/magazine-challenge1-style.png)
+![screenshot](images/magazine-challenge1-style.png)
 
 \--- /challenge \---
