@@ -1,10 +1,10 @@
 \--- challenge \---
 
-## Challenge: Add a link back to the first page
+## Výzva: Přidej odkaz odkazující na první stránku
 
-Can you add a link to `page2.html` so that you can click on it to get back to the first page?
+Dokážeš přidat odkaz na `page2.html`, který když na něho klikneš, vezme tě na první stránku?
 
-Hint: Look at the HTML you used to create a link to page 2.
+Nápověda: Podívej se na HTML, kde máš vytvořený odkaz na stránku 2.
 
 ![screenshot](images/magazine-page1-link.png)
 
