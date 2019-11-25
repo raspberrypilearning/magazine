@@ -30,7 +30,7 @@ Les enfants peuvent également utiliser ce trinket vide [(jumpto.cc/html-blank)]
 
 Il y a également un trinket contenant un example de solution à tous les défis :
 
-* ['Magazine' Finished -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* ['Magazine' Fini -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
 ## Ressources hors-ligne
 
@@ -42,7 +42,7 @@ Ce projet peut être [terminé hors-ligne](https://www.codeclubprojects.org/en-G
 * magazine/index.html
 * magazine/style.css
 * magazine/script.js
-* magazine/mutliple .png images
+* magazine/multiple image .png
 
 Vous pouvez aussi trouver une version complétée du projet dans la section "Ressources du bénévole" qui contient :
 
