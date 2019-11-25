@@ -1,6 +1,6 @@
 ## Uvod
 
-U ovom ćete projektu saznati kako koristiti HTML i CSS za izradu web stranice časopisa s više stranica s izgledom od dvije stranice. Također ćete pregledati puno HTML i CSS techiques iz drugih projekata.
+U ovom ćete projektu naučiti kako koristiti HTML i CSS za izradu web sjedišta časopisa s više stranica s dva predloška za stranice. Također ćete pregledati mnogo HTML i CSS tehnika iz drugih projekata.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -18,15 +18,15 @@ Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je pril
 
 ## Uvod:
 
-U ovom projektu djeca će naučiti kako stvoriti izgled u dva stupca. Oni će također napisati puno HTML & CSS-a koji su naučili u drugim projektima.
+U ovom projektu djeca će naučiti kako stvoriti predložak u dva stupca. Također će napisati puno HTML & CSS-a koje su naučili u drugim projektima.
 
 ## Online izvori
 
-Preporučujemo korištenje [trinket](https://trinket.io/) pisati HTML & amp; CSS online. Ovaj projekt sadrži sljedeće stvari:
+Preporučujemo korištenje [trinketa](https://trinket.io/) za pisanje HTML & CSS-a online. Ovaj projekt sadrži sljedeće stvari:
 
 * [Polazna točka "Magazine" - jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Djeca također mogu koristiti ovu praznu trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) napisati vlastiti HTML & CSS ili alternativno mogu upotrijebiti ovaj predložak trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Djeca također mogu koristiti ovaj prazni trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) da napišu svoj vlastiti HTML & CSS ili alternativno mogu upotrijebiti ovaj predložak trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
@@ -34,7 +34,7 @@ Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
 ## Offline izvori
 
-Ako želite, ovaj projekt može bit [završen offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materijalima projekta možete pristupiti klikom na poveznicu 'Project Materials'. Poveznica sadrži odjeljak 'Project Resources' u kojem se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
+Ako želite, ovaj projekt može biti [završen offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materijalima projekta možete pristupiti klikom na poveznicu 'Project Materials'. Poveznica sadrži odjeljak 'Project Resources' u kojemu se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
 
 * Uvod / index.html
 * template/template.html
@@ -44,7 +44,7 @@ Ako želite, ovaj projekt može bit [završen offline](https://www.codeclubproje
 * časopis / script.js
 * časopis / mutliple .png slike
 
-Dovršenu verziju projekta challenges možete pronaći i u odjeljku 'Volunteer Resources' koji sadrži:
+Dovršenu verziju projektnih izazova možete pronaći i u odjeljku 'Volunteer Resources' koji sadrži:
 
 * magazin-gotovih / index.html
 * magazin-gotovih / style.css
@@ -58,7 +58,7 @@ Dovršenu verziju projekta challenges možete pronaći i u odjeljku 'Volunteer R
 
 ## Ishodi učenja
 
-* Ovaj projekt podučava djecu kako stvoriti izgled stila časopisa u dva stupca pomoću `plovaka:`. Također recaps puno HTML & CSS koji je detaljnije objašnjen u drugim projektima. Primljeni su primjeri kako bi djeca mogla dovršiti ovaj projekt čak i ako nisu dovršili neke od ranijih projekata. 
+* Ovaj projekt podučava djecu kako stvoriti stil za predložak časopisa u dva stupca pomoću atributa `float:`. Također ponavlja i mnogo HTML & CSS-a koji je detaljnije objašnjen u drugim projektima. Primjeri su dani kako bi djeca mogla dovršiti ovaj projekt čak i ako nisu dovršili neke od ranijih projekata. 
 
 Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Making](http://rpf.io/curriculum) nastavnog plana i programa:
 
@@ -68,8 +68,8 @@ Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Mak
 
 * "Dodavanje stavki u lijevi stupac" - stavljanje stavki unutar plutajućeg elementa;
 * "Dodaj vezu natrag na prvu stranicu" - stvaranje veza između stranica u projektu;
-* "Ispunite drugu stranicu" - recapping više HTML & CSS;
-* "Dodajte još jednu animaciju" - preusmjeravajući animacije.
+* "Ispunite drugu stranicu" - ponavljanje dodatnog HTML & CSS-a;
+* "Dodajte još jednu animaciju" - ponavljanje animacije.
 
 \--- /collapse \---
 
