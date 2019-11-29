@@ -25,7 +25,7 @@ W tym projekcie dzieci nauczą się tworzyć układ dwukolumnowy. Podsumują tak
 
 Do pisania kodu HTML i CSS online zalecamy użytkowanie edytora [trinket](https://trinket.io/). Ten projekt zawiera następujące szablony:
 
-* [Punkt początkowy "Magazine" - jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* [Punkt początkowy "Czasopismo" - jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
 Dzieci mogą również skorzystać z tego pustego wzorca [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank), aby napisać własny kod HTML i CSS, lub mogą skorzystać z wcześniej przygotowanego wzorca [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
