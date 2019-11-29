@@ -1,4 +1,4 @@
---- wyzwanie ---
+--- challenge ---
 
 ## Wyzwanie: wypełnij drugą stronę
 
