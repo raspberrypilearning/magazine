@@ -1,0 +1,29 @@
+---
+title: Czasopismo
+hero_image: images/magazine.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Utwórz witrynę wielostronicowego magazynu.
+original_url: https://codeclubprojects.org/pl-PL/webdev/magazine
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Wprowadzenie
+  - title: Nagłówek i tło
+  - title: Tworzenie kolumn
+  - title: Stylizacja zawartości czasopisma
+  - title: 'Wyzwanie: dodaj elementy do lewej kolumny'
+  - title: Dodaj drugą stronę
+  - title: 'Wyzwanie: dodaj link powracający do pierwszej strony'
+  - title: 'Wyzwanie: wypełnij drugą stronę'
+  - title: Dodaj animację
+  - title: 'Wyzwanie: dodaj kolejną animację'
