@@ -13,8 +13,9 @@ W tym projekcie nauczysz się, jak używać HTML i CSS, aby utworzyć wielostron
 Jeśli chcesz wydrukować ten projekt, skorzystaj z [wersji do druku](https://projects.raspberrypi.org/pl-PL/projects/magazine/print).
 
 --- collapse ---
-
-## tytuł: Notatki prowadzących klub
+---
+title: Notatki prowadzących klub
+---
 
 ## Wprowadzenie:
 
