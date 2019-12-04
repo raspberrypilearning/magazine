@@ -1,17 +1,17 @@
 --- challenge ---
+
 ## Desafío: Completa la segunda página
 
-Aquí tienes el código para los ejemplos, aunque también puedes cambiar los `div` o aplicar tus propias ideas.  
+Aquí está el código para los ejemplos, pero puedes cambiar las etiquetas `div` o elaborar tus propias ideas.
 
 ![screenshot](images/magazine-page2-challenge.png)
 
-Haz clic en el icono de las imágenes para ver qué imágenes se pueden usar:
+Haz clic en el icono de las imágenes para ver qué imágenes están disponibles para usar:
 
 ![screenshot](images/magazine-images.png)
 
-Recuerda que puedes cargar tus propias imágenes para usarlas. Asegúrate de que tienes permiso para usar las imágenes que cargues.
+Recuerda que puedes subir tus propias imágenes a utilizar. Asegúrate de que tienes permiso para usar cualquier imagen que cargues.
 
 ![screenshot](images/magazine-upload-images.png)
-
 
 --- /challenge ---
