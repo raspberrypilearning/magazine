@@ -1,16 +1,16 @@
 \--- challenge \---
 
-## Challenge: Fill in your second page
+## 挑战：填写第二页
 
-Here's the code for the examples, but you can change the `div`s or come up with your own ideas.
+这是用于样例的代码, 但是你可以修改`div`或加入你自己的想法.
 
 ![screenshot](images/magazine-page2-challenge.png)
 
-Click the images icon to see the images that are available to use:
+点击图片图标查看可用的图片:
 
 ![screenshot](images/magazine-images.png)
 
-Remember that you can upload your own images to use. Make sure you have permission to use any images that you upload.
+记住, 你可以上传自己的图片来使用. 确保你有权利来使用你上传的图片.
 
 ![screenshot](images/magazine-upload-images.png)
 
