@@ -1,13 +1,14 @@
 --- challenge ---
+
 ## Desafío: Añade objetos en la columna izquierda
 
-¿Puedes añadir una lista numerada y una etiqueta con texto y degradado en la columna de la izquierda?
+¿Puedes añadir una lista ordenada y una pegatina con fondo degradado y texto en la columna izquierda?
 
-Fíjate en este ejemplo:
+Aquí tienes un ejemplo:
 
 ![screenshot](images/magazine-challenge1-example.png)
 
-Este es el código del ejemplo, pero puedes cambiarlo o inventarte tu propio código.
+Este es el código para el ejemplo, pero puedes cambiarlo o crear el tuyo propio.
 
 HTML:
 
@@ -16,9 +17,5 @@ HTML:
 CSS:
 
 ![screenshot](images/magazine-challenge1-style.png)
-
-
-
-
 
 --- /challenge ---

@@ -1,45 +1,43 @@
 ## Crear columnas
 
-Las páginas web a menudo utilizan varias columnas. Vamos a hacer que tu revista tenga una distribución de dos columnas.
+Los sitios web a menudo usan varias columnas. Vamos a crear un diseño de dos columnas para tu revista.
 
-+ Primero, crea dos `div` de columna.
++ Primero crea dos columnas `div`.
+    
+    Añade el HTML resaltado a `index.html`:
+    
+    ![screenshot](images/magazine-columns.png)
 
-	Añade el siguiente HTML a `index.html`:
++ Ahora, dale estilo a los div de las columnas para que uno flote a la izquierda y el otro a la derecha.
+    
+    ![screenshot](images/magazine-columns-style.png)
+    
+    Cada columna es inferior al 50% para que quede espacio de relleno.
+    
+    Necesitarás añadir algo a una columna para ver el efecto.
 
-	![screenshot](images/magazine-columns.png)
++ Vamos a añadir la imagen de un gatito en la parte superior de la columna 2.
+    
+    ![screenshot](images/magazine-kitten.png)
+    
+    Observa que la imagen del gatito está situada más o menos en la mitad de la página, en la segunda columna.
+    
+    ¡Aunque es un poco grande!
 
-+ A continuación, dale estilo a los div de columna para que uno flote a la izquierda y el otro a la derecha.
++ Vamos a usar `max-width:` para hacer que las imágenes encajen dentro de su contenedor.
+    
+    Añade el siguiente estilo a `style.css`.
+    
+    ![screenshot](images/magazine-img-width.png)
+    
+    Este estilo se aplicará a todas las imágenes que utilices en tu revista, no solo al gatito.
 
-	![screenshot](images/magazine-columns-style.png)
++ Ahora, añade una clase `photo` a la imagen para que puedas darle estilo:
+    
+    ![screenshot](images/magazine-photo.png)
 
-	Las columnas ocupan menos del 50% para dejar espacio de relleno.
-
-	Tendrás que añadir algo a una columna para ver el efecto.
-
-+ Vamos a añadir la foto de un gatito en la parte superior de la columna 2.
-
-	![screenshot](images/magazine-kitten.png)
-
-	Fíjate que la imagen del gatito está situada más o menos en la mitad de la página, en la segunda columna.
-
-	¡Parece un poco grande!
-
-+ Vamos a usar `max-width: ` para hacer que las imágenes encajen en su contenedor.
-
-	Añade este estilo en `style.css`.
-
-	![screenshot](images/magazine-img-width.png)
-
-	Este estilo se aplicará a todas las imágenes que uses en tu revista, no sólo a la del gatito.
-
-+ Ahora añade una categoría ("class") de `foto` a la imagen para poder darle estilo:
-
-	![screenshot](images/magazine-photo.png)
-
-+ Dale estilo a la imagen añadiendo sombra e inclinándola para que parezca que sobresale de la página:
-
-	![screenshot](images/magazine-photo-style.png)
-
-	Haz varios cambios hasta que te guste el resultado.
-
-
++ Y estiliza la imagen añadiéndole una sombra y girándola para hacer que la foto sobresalga de la página:
+    
+    ![screenshot](images/magazine-photo-style.png)
+    
+    Haz varios cambios hasta que te guste el resultado.
