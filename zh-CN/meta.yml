@@ -6,12 +6,12 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
 description: 创建一个多页面的杂志网站。
 original_url: https://codeclubprojects.org/en-GB/webdev/magazine
-interests: art
-technologies: html/css
-site_areas: codeclub, webdev
+interests: 艺术
+technologies: html-css-javascript
+site_areas: 项目
 hardware: ''
 software: html-css-javascript
 version: 3
@@ -24,9 +24,9 @@ steps:
   - 
     title: 创建栏目
   - 
-    title: 设置杂志条目样式
+    title: 设置杂志项目样式
   - 
-    title: '挑战：向左侧栏目添加条目'
+    title: '挑战：向左侧栏目添加项目'
   - 
     title: 添加第二页
   - 
