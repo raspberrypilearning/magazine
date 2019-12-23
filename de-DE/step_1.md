@@ -66,7 +66,7 @@ Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digit
 
 ## Herausforderungen
 
-* "Inhalte in der linken Spalte hinzufügen" - Inhalte in einem fliessenden Element platzieren;
+* "Inhalte in der linken Spalte hinzufügen" - Inhalte in einem fließenden Element platzieren;
 * "Einen Link zurück zur ersten Seite hinzufügen" - Links zwischen den Seiten eines Projekts erstellen;
 * "Eine zweite Seite mit Inhalten füllen" - mehr HTML & CSS wiederverwenden;
 * "Eine neue Animation verwenden" - Animationen wiederverwenden.
