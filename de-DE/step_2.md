@@ -16,11 +16,11 @@ Webseiten im Zeitschriften-Stil haben oft viele kleine Dinge auf einer Seite. Al
 
 + Kannst du die Überschrift grafisch gestalten?
     
-    Hier ist ein Beispiel, aber du kannst deinen eigenen Stil wählen:
+    Hier ist ein Beispiel, aber du kannst auch deinen eigenen Stil wählen:
     
     ![Screenshot](images/magazine-heading-style.png)
 
-+ Lass uns jetzt einen interessanten Hintergrung mit einem Farbverlauf erstellen und eine Schrifttype für die Zeitschrift wählen.
++ Lass uns jetzt einen interessanten Hintergrung mit einem Farbverlauf erstellen und eine Schriftart für die Zeitschrift wählen.
     
     Hier ist Stil-Beispiel als Erinnerung, wie man einen Farbverlauf macht:
     
