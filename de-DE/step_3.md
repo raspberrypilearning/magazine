@@ -8,7 +8,7 @@ Webseiten verwenden oft mehrere Spalten. Lass uns ein Zwei-Spalten-Layout für d
     
     ![Screenshot](images/magazine-columns.png)
 
-+ Gestalte die Spalten-div's so, dass eine nach links und die andere nach rechts fliesst.
++ Gestalte die Spalten-div's so, dass eine nach links und die andere nach rechts fließt.
     
     ![screenshot](images/magazine-columns-style.png)
     
@@ -24,7 +24,7 @@ Webseiten verwenden oft mehrere Spalten. Lass uns ein Zwei-Spalten-Layout für d
     
     Aber es ist etwas zu gross!
 
-+ Damit das Bild an den vorhandenen Platz angepasst wird, müssen wir `max-width:` verwenden.
++ Damit das Bild an den vorhandenen Platz angepasst wird, müssen wir `max-width:` (maximale Breite) verwenden.
     
     Füge folgenden Stil in `style.css` hinzu.
     
