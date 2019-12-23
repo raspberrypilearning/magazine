@@ -16,7 +16,7 @@ Beide Seiten verwenden das gleiche `style.css`, können also auf die gleichen St
 
 ![Screenshot](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
++ Jetzt fehlen dir noch Links (Verbindungen) zwische den Seiten, so dass du zu Seite 2 navigieren kannst und von dort auch wieder zurück zur Startseite kommst.
 
 Gehe zurück zu `index.html`. Füge in Spalte 2 von `index.html` einen Link in einem div hinzu:
 
