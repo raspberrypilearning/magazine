@@ -1,43 +1,43 @@
 ## Creating Columns
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+Les sites Web utilisent souvent plusieurs colonnes. Créons une mise en page sur deux colonnes pour votre magazine.
 
-+ First create two column `div`s.
++ Commençons pas créer deux `div`s pour les colonnes.
     
-    Add the highlighted HTML to `index.html`:
+    Ajoutez le HTML en surbrillance à `index.html` :
     
     ![screenshot](images/magazine-columns.png)
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
++ Maintenant, stylisez les <0>div</0>s des colonnes de façon à ce que l'un flotte à gauche et l'autre à droite.
     
     ![screenshot](images/magazine-columns-style.png)
     
-    Each column is less than 50% so there's room for padding.
+    Chaque colonne est inférieure à 50%, il y a donc de la place pour les remplissages.
     
-    You'll need to add something to a column to see the effect.
+    Vous aurez besoin d'ajouter quelque chose à une colonne pour voir l'effet.
 
-+ Let's add a kitten picture to the top of column 2.
++ Ajoutons une image de chaton en haut de la seconde colonne.
     
     ![screenshot](images/magazine-kitten.png)
     
-    Notice that the kitten image is positioned about half-way across the page, in the second column.
+    Remarquez que l'image du chaton est positionnée à peu près au milieu de la page, dans la deuxième colonne.
     
-    It's a bit big though!
+    Mais c'est un peu gros !
 
-+ Let's use `max-width:` to make images fit within their container.
++ Utilisons `max-width:` pour faire tenir les images dans leur conteneur.
     
-    Add the following style to `style.css`.
+    Ajoutez le style suivant à `style.css`.
     
     ![screenshot](images/magazine-img-width.png)
     
-    This will apply to all images you use in your magazine, not just the kitten.
+    Cela s'applique à toutes les images que vous utilisez dans votre magazine, et pas seulement au chaton.
 
-+ Now add a class `photo` to the image so that you can style it:
++ Ajoutons maintenant une classe `photo` à l'image pour pouvoir la styliser :
     
     ![screenshot](images/magazine-photo.png)
 
-+ And style the image to add a shadow and a twist to make the photo pop out of the page:
++ Et stylisons l'image pour ajouter une ombre et une déformation pour faire ressortir la photo de la page :
     
     ![screenshot](images/magazine-photo-style.png)
     
-    Make some changes until you like the result.
+    Faites quelques changements jusqu'à ce que vous aimiez le résultat.
