@@ -1,27 +1,27 @@
 ## Heading and Background
 
-Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
+Les sites Web de type magazine contiennent souvent beaucoup de petits articles sur une page. Dans un premier temps, vous allez créer un titre et un arrière-plan pour votre magazine.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Ouvrez ce trinket : <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    The project should look like this:
+    Le projet devrait ressembler à ceci:
     
     ![screenshot](images/magazine-starter.png)
 
-+ Let's add a heading.
++ Ajoutons un en-tête.
     
-    You can think of a better title for your magazine.
+    Vous pouvez penser à un meilleur titre pour votre magazine.
     
     ![screenshot](images/magazine-heading.png)
 
-+ Can you style the heading?
++ Pouvez-vous styliser le titre ?
     
-    Here's an example, but you can choose your own style:
+    Voici un exemple, mais vous pouvez choisir votre propre style:
     
     ![screenshot](images/magazine-heading-style.png)
 
-+ Now let's create an interesting background using a gradient and choose a font for the magazine.
++ Maintenant, créons un arrière-plan intéressant en utilisant un dégradé et choisissons une police pour le magazine.
     
-    Here's some example style as a reminder of how to create a gradient:
+    Voici un exemple de style pour vous rappeler comment créer un dégradé :
     
     ![screenshot](images/magazine-background.png)
