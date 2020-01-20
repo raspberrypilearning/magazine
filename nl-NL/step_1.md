@@ -16,7 +16,7 @@ Als je dit project wilt afdrukken, gebruik dan de [ printvriendelijke versie ](h
 
 ## title: Clubleider notities
 
-## Inleiding:
+## Introduction
 
 In dit project leren kinderen een lay-out met twee kolommen te maken. Ze zullen ook veel van de HTML & CSS die ze hebben geleerd in andere projecten gebruiken.
 
