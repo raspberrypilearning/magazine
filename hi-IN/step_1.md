@@ -16,7 +16,7 @@ In this project, you'll learn how to use HTML and CSS to create a multi-page mag
 
 ## title: क्लब नेता नोट्स
 
-## परिचय:
+## Introduction
 
 In this project, children will learn how to create a two-column layout. They will also recap lots of the HTML & CSS that they have learned in other projects.
 
