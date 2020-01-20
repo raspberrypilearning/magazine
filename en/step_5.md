@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: Add items to the left column
 
 Can you add a ordered list and a gradient text sticker to the left column?
@@ -16,10 +17,5 @@ HTML:
 CSS:
 
 ![screenshot](images/magazine-challenge1-style.png)
-
-
-
-
-
 
 --- /challenge ---

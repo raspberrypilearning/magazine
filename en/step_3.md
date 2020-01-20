@@ -2,8 +2,6 @@
 
 Websites often use multiple columns. Let's create a two column layout for your magazine.
 
-
-
 + First create two column `div`s.
 
 	Add the highlighted HTML to `index.html`:

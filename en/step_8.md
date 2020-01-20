@@ -1,4 +1,5 @@
 --- challenge ---
+
 ## Challenge: Fill in your second page
 
 Here's the code for the examples, but you can change the `div`s or come up with your own ideas.  
@@ -12,6 +13,5 @@ Click the images icon to see the images that are available to use:
 Remember that you can upload your own images to use. Make sure you have permission to use any images that you upload.
 
 ![screenshot](images/magazine-upload-images.png)
-
 
 --- /challenge ---
