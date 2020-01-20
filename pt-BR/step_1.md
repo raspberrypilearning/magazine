@@ -16,7 +16,7 @@ Se você precisar imprimir este projeto, use a [Versão para Impressão](https:/
 
 ## title: Notas do líder do clube
 
-## Introdução:
+## Introduction
 
 Neste projeto, as crianças vão aprender como criar um layout de duas colunas. Elas também vão revisar muitas coisas de HTML & CSS que elas aprenderam em outros projetos.
 
