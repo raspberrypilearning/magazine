@@ -16,7 +16,7 @@ Potřebujete-li tento projekt vytisknout, použijte verzi [pro tisk](https://pro
 
 ## title: Club leader notes
 
-## Úvod:
+## Introduction
 
 V tomto projektu se děti naučí, jak vytvořit dvousloupcové rozložení. Také si připomenou mnoho HTML a CSS triků, které se naučily v ostatních projektech.
 
