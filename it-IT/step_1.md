@@ -16,7 +16,7 @@ Se intendete stampare questo progetto, cliccate su [Versione stampabile](https:/
 
 ## title: Note per gli organizzatori di club
 
-## Introduzione:
+## Introduction
 
 In questo progetto, i ragazzi impareranno come creare una struttura a due colonne per una pagina web. Inoltre, ritroveranno molte tecniche di HTML e CSS che hanno già imparato in altri progetti.
 
