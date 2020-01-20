@@ -16,7 +16,7 @@ Falls Sie dieses Projekt ausdrucken müssen, verwenden Sie bitte die [druckfreun
 
 ## title: Anmerkungen für Clubleiter
 
-## Einleitung:
+## Introduction
 
 In diesem Projekt lernen die Kinder, wie man ein Layout mit zwei Spalten programmiert. Sie werden auch viele der HTML & CSS-Konzepte verwenden, die sie in früheren Projekten gelernt haben.
 
