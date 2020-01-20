@@ -16,7 +16,7 @@ Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [Version imprimabl
 
 ## title: Notes de leader du club
 
-## Introduction :
+## Introduction
 
 Dans ce projet, les enfants apprendront à créer un agencement à deux colonnes. Ils reverront aussi beaucoup d'HTML & CSS appris lors de projets précédents.
 
