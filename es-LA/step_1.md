@@ -16,7 +16,7 @@ Si necesita imprimir este proyecto, use la [versión para imprimir](https://proj
 
 ## title: Notas para el líder del club
 
-## Introducción:
+## Introduction
 
 In this project, children will learn how to create a two-column layout. They will also recap lots of the HTML & CSS that they have learned in other projects.
 
