@@ -16,7 +16,7 @@ Dacă vrei să printezi acest proiect, folosește [Versiunea printabilă](https:
 
 ## title: Note pentru liderul clubului
 
-## Introducere:
+## Introduction
 
 În acest proiect, copiii vor învăța cum să creeze o structură cu două coloane. De asemenea, ei vor recapitula o mulțime de HTML & CSS pe care le-au învățat în alte proiecte.
 
