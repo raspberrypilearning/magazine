@@ -2,8 +2,6 @@
 
 Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
 
-
-
 + Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
 
 	The project should look like this:

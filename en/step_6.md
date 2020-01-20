@@ -2,8 +2,6 @@
 
 Let's add another page to your magazine website.
 
-
-
 + Add a new page to your project and name it `page2.html`:
 
 ![screenshot](images/magazine-page2.png)
