@@ -16,7 +16,7 @@ Ako želite ispisati ovaj projekt, molimo Vas da koristite [verziju koja je pril
 
 ## title: Bilješke za voditelja kluba
 
-## Uvod:
+## Introduction
 
 U ovom projektu djeca će naučiti kako stvoriti predložak u dva stupca. Također će napisati puno HTML & CSS-a koje su naučili u drugim projektima.
 
