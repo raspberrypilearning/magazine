@@ -16,7 +16,7 @@ Nếu bạn cần in dự án này, vui lòng sử dụng [Máy in phiên bản]
 
 ## tiêu đề: ghi chú lãnh đạo câu lạc bộ
 
-## Giới thiệu:
+## Introduction
 
 Trong dự án này, trẻ sẽ học cách tạo bố cục hai cột. Họ cũng sẽ tóm tắt lại rất nhiều CSS & CSS mà họ đã học được trong các dự án khác.
 
