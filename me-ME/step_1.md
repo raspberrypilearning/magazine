@@ -16,7 +16,7 @@ Ukoliko je potrebno da odštampate ovaj projekat, koristite [Verziju za štampu]
 
 ## title: Bilješke za vođe kluba
 
-## Uvod:
+## Introduction
 
 U ovom projektu djeca će naučiti kako da naprave raspored u dvije kolone. Takođe će ponoviti mnogo tehnika HTML-a i CSS-a koje su naučila u prethodnim projektima.
 
