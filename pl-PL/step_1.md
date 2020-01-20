@@ -16,7 +16,7 @@ Jeśli chcesz wydrukować ten projekt, skorzystaj z [wersji do druku](https://pr
 
 ## tytuł: Notatki prowadzących klub
 
-## Wprowadzenie:
+## Introduction
 
 W tym projekcie dzieci nauczą się tworzyć układ dwukolumnowy. Podsumują także wiele właściwości CSS i HTML, których nauczyli się w innych projektach.
 
