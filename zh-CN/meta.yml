@@ -1,5 +1,5 @@
 ---
-title: 杂志
+title: Magazine
 hero_image: images/magazine.png
 theme: red
 duration: 2
@@ -7,33 +7,33 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: 创建一个多页面的杂志网站。
+description: Create a multi-page magazine website.
 original_url: https://codeclubprojects.org/en-GB/webdev/magazine
-interests: 艺术
+interests: art
 technologies: html-css-javascript
-site_areas: 项目
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 介绍
+    title: Introduction
   - 
-    title: 标题和背景
+    title: Heading and Background
   - 
-    title: 创建栏目
+    title: Creating Columns
   - 
-    title: 设置杂志项目样式
+    title: Style magazine items
   - 
-    title: '挑战：向左侧栏目添加项目'
+    title: 'Challenge: Add items to the left column'
   - 
-    title: 添加第二页
+    title: Add a second page
   - 
-    title: '挑战：添加一个返回首页的链接'
+    title: 'Challenge: Add a link back to the first page'
   - 
-    title: '挑战：填写第二页'
+    title: 'Challenge: Fill in your second page'
   - 
-    title: 添加动画
+    title: Add an animation
   - 
-    title: '挑战：添加另一个动画'
+    title: 'Challenge: Add another animation'
