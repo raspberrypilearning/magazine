@@ -1,4 +1,4 @@
-## दूसरा पेज जोड़ें
+## Add a second page
 
 Let's add another page to your magazine website.
 
@@ -8,18 +8,18 @@ Let's add another page to your magazine website.
 
 + Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
 
-![स्क्रीनशॉट](images/magazine-page2-html.png)
+![screenshot](images/magazine-page2-html.png)
 
 Notice that both pages use the same `style.css` so they will share styles.
 
 + Change the `<h1>` title for page2:
 
-![स्क्रीनशॉट](images/magazine-page2-h1.png)
+![screenshot](images/magazine-page2-h1.png)
 
 + Now you'll need links between your pages so you can get to page 2 and back to the front page.
 
 Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
 
-![स्क्रीनशॉट](images/magazine-page2-link.png)
+![screenshot](images/magazine-page2-link.png)
 
 + Test that you can click on your new link and move to page 2 of your magazine.
