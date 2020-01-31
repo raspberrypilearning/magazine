@@ -1,9 +1,9 @@
-\---挑戰\---
+\--- challenge \---
 
-## 挑戰：添加另一個動畫
+## Challenge: Add another animation
 
-你能在雜誌的第二頁添加動畫嗎？
+Can you add an animation to the second page of your magazine?
 
-![截圖](images/magazine-animation-challenge.png)
+![screenshot](images/magazine-animation-challenge.png)
 
-\--- /挑戰\---
+\--- /challenge \---
