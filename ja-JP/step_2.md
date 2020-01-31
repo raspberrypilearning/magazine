@@ -1,27 +1,27 @@
-## 見出しと背景
+## Heading and Background
 
-雑誌スタイルのウェブサイトでは、多くの場合、ページに小さなアイテムがたくさんあります。まず、雑誌の見出しと背景を作成します。
+Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
 
-+ Trinketをひらく: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    プロジェクトはこのようになります。
+    The project should look like this:
     
-    ![スクリーンショット](images/magazine-starter.png)
+    ![screenshot](images/magazine-starter.png)
 
-+ 見出しを追加しましょう。
++ Let's add a heading.
     
-    あなたはあなたの雑誌のより良いタイトルを考えることができます。
+    You can think of a better title for your magazine.
     
-    ![スクリーンショット](images/magazine-heading.png)
+    ![screenshot](images/magazine-heading.png)
 
-+ 見出しを書式設定できますか？
++ Can you style the heading?
     
-    ここに例がありますが、独自のスタイルを選択できます：
+    Here's an example, but you can choose your own style:
     
-    ![スクリーンショット](images/magazine-heading-style.png)
+    ![screenshot](images/magazine-heading-style.png)
 
-+ グラデーションを使用して面白い背景を作成し、雑誌のフォントを選択しましょう。
++ Now let's create an interesting background using a gradient and choose a font for the magazine.
     
-    グラデーションの作成方法を覚えておくためのスタイルの例をいくつか示します：
+    Here's some example style as a reminder of how to create a gradient:
     
-    ![スクリーンショット](images/magazine-background.png)
+    ![screenshot](images/magazine-background.png)
