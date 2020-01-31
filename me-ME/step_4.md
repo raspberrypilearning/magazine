@@ -1,13 +1,13 @@
-## Stilizuj objekte časopisa
+## Style magazine items
 
-Napravimo izgled stranice malo zanimljivijim.
+Let's make the layout a bit more interesting.
 
-+ Dodaj `div` sa `class` oko svoje slike i dodaj `h2` naslov:
++ Add a `div` around your image with a `class` and add a `h2` heading:
     
     ![screenshot](images/magazine-item.png)
 
-+ Sada stilizuj objekat (item) i naslov.
++ Now style the item and heading.
     
-    Evo primjera koji možeš izmijeniti ako želiš:
+    Here's an example, but you can make changes:
     
     ![screenshot](images/magazine-item-style.png)
