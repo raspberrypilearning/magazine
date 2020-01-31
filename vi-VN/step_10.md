@@ -1,9 +1,9 @@
-\--- thử thách \---
+\--- challenge \---
 
-## Thử thách: Thêm một hình ảnh động khác
+## Challenge: Add another animation
 
-Bạn có thể thêm một hình ảnh động vào trang thứ hai của tạp chí của bạn?
+Can you add an animation to the second page of your magazine?
 
-![ảnh chụp màn hình](images/magazine-animation-challenge.png)
+![screenshot](images/magazine-animation-challenge.png)
 
-\--- /thử thách \---
+\--- /challenge \---
