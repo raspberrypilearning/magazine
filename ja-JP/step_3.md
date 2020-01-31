@@ -1,43 +1,43 @@
-## 列の作成
+## Creating Columns
 
-ウェブサイトでは複数の列が使用されることがよくありますマガジンの2列のレイアウトを作成しましょう。
+Websites often use multiple columns. Let's create a two column layout for your magazine.
 
-+ 最初に2つの列 `div`作成します。
++ First create two column `div`s.
     
-    強調表示されたHTMLを `追加するindex.html`：
+    Add the highlighted HTML to `index.html`:
     
-    ![スクリーンショット](images/magazine-columns.png)
+    ![screenshot](images/magazine-columns.png)
 
-+ 1つは左に浮動し、もう1つは右に浮動するように列divをスタイルします。
++ Now style the column divs so that one floats to the left and the other floats to the right.
     
-    ![スクリーンショット](images/magazine-columns-style.png)
+    ![screenshot](images/magazine-columns-style.png)
     
-    各列は50％未満ですので、パディングの余地があります。
+    Each column is less than 50% so there's room for padding.
     
-    その効果を見るには、何かを列に追加する必要があります。
+    You'll need to add something to a column to see the effect.
 
-+ 列2の上部に子猫の画像を追加しましょう。
++ Let's add a kitten picture to the top of column 2.
     
-    ![スクリーンショット](images/magazine-kitten.png)
+    ![screenshot](images/magazine-kitten.png)
     
-    子猫の画像は、第2列のページのほぼ中間に配置されていることに注意してください。
+    Notice that the kitten image is positioned about half-way across the page, in the second column.
     
-    それは少し大きいです！
+    It's a bit big though!
 
-+ `max-width：` を使って画像をコンテナ内に収めてみましょう。
++ Let's use `max-width:` to make images fit within their container.
     
-    次のスタイルを `style.cssに追加します`。
+    Add the following style to `style.css`.
     
-    ![スクリーンショット](images/magazine-img-width.png)
+    ![screenshot](images/magazine-img-width.png)
     
-    これは、子猫だけでなく、雑誌で使用しているすべての画像に適用されます。
+    This will apply to all images you use in your magazine, not just the kitten.
 
-+ 今度はクラス `写真` を画像に追加して、スタイルをつけることができます：
++ Now add a class `photo` to the image so that you can style it:
     
-    ![スクリーンショット](images/magazine-photo.png)
+    ![screenshot](images/magazine-photo.png)
 
-+ また、画像のスタイルを変更して、写真をページから外に出すように影とひねりを加えます。
++ And style the image to add a shadow and a twist to make the photo pop out of the page:
     
-    ![スクリーンショット](images/magazine-photo-style.png)
+    ![screenshot](images/magazine-photo-style.png)
     
-    結果が好きになるまで少し変更してください。
+    Make some changes until you like the result.
