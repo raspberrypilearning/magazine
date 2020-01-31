@@ -1,13 +1,13 @@
-## Itens de estilo da revista
+## Style magazine items
 
-Vamos fazer o layout ser um pouco mais interessante.
+Let's make the layout a bit more interesting.
 
-+ Adicione uma `div` em volta da sua imagem com uma `class` e adiciona um cabeçalho `h2`:
++ Add a `div` around your image with a `class` and add a `h2` heading:
     
     ![screenshot](images/magazine-item.png)
 
-+ Agora adicione estilo ao item e ao cabeçalho.
++ Now style the item and heading.
     
-    Aqui está um exemplo, mas você pode fazer mudanças:
+    Here's an example, but you can make changes:
     
     ![screenshot](images/magazine-item-style.png)
