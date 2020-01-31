@@ -1,16 +1,16 @@
 \--- challenge \---
 
-## Výzva: Zaplň druhou stránku
+## Challenge: Fill in your second page
 
-Tady vidíš vzorový kód, ale pokud chceš, můžeš změnit elementy `div` nebo přijít s vlastním nápadem.
+Here's the code for the examples, but you can change the `div`s or come up with your own ideas.
 
 ![screenshot](images/magazine-page2-challenge.png)
 
-Klikni na ikonu obrázků a podívej se, které obrázky jsou dostupné k použití:
+Click the images icon to see the images that are available to use:
 
 ![screenshot](images/magazine-images.png)
 
-Vezmi v potaz, že můžeš nahrát vlastní obrázky a také je použít. Ujisti se, že máš oprávnění používat každý obrázek, který nahraješ.
+Remember that you can upload your own images to use. Make sure you have permission to use any images that you upload.
 
 ![screenshot](images/magazine-upload-images.png)
 
