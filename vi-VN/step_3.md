@@ -1,43 +1,43 @@
-## Tạo cột
+## Creating Columns
 
-Trang web thường sử dụng nhiều cột. Hãy tạo bố cục hai cột cho tạp chí của bạn.
+Websites often use multiple columns. Let's create a two column layout for your magazine.
 
-+ Đầu tiên tạo hai cột `div`s.
++ First create two column `div`s.
     
-    Thêm HTML được tô sáng vào `index.html`:
+    Add the highlighted HTML to `index.html`:
     
-    ![ảnh chụp màn hình](images/magazine-columns.png)
+    ![screenshot](images/magazine-columns.png)
 
-+ Bây giờ tạo kiểu cho các div cột sao cho một cái nổi bên trái và cái kia nổi bên phải.
++ Now style the column divs so that one floats to the left and the other floats to the right.
     
-    ![ảnh chụp màn hình](images/magazine-columns-style.png)
+    ![screenshot](images/magazine-columns-style.png)
     
-    Mỗi cột nhỏ hơn 50% nên có chỗ để đệm.
+    Each column is less than 50% so there's room for padding.
     
-    Bạn sẽ cần thêm một cái gì đó vào một cột để thấy hiệu quả.
+    You'll need to add something to a column to see the effect.
 
-+ Chúng ta hãy thêm một hình ảnh mèo con vào đầu cột 2.
++ Let's add a kitten picture to the top of column 2.
     
-    ![ảnh chụp màn hình](images/magazine-kitten.png)
+    ![screenshot](images/magazine-kitten.png)
     
-    Lưu ý rằng hình ảnh mèo con được định vị khoảng một nửa trên trang, trong cột thứ hai.
+    Notice that the kitten image is positioned about half-way across the page, in the second column.
     
-    Mặc dù nó hơi lớn!
+    It's a bit big though!
 
-+ Hãy sử dụng `độ rộng tối đa:` để làm cho hình ảnh vừa với thùng chứa của chúng.
++ Let's use `max-width:` to make images fit within their container.
     
-    Thêm kiểu sau vào `style.css`.
+    Add the following style to `style.css`.
     
-    ![ảnh chụp màn hình](images/magazine-img-width.png)
+    ![screenshot](images/magazine-img-width.png)
     
-    Điều này sẽ áp dụng cho tất cả các hình ảnh bạn sử dụng trong tạp chí của bạn, không chỉ con mèo con.
+    This will apply to all images you use in your magazine, not just the kitten.
 
-+ Bây giờ thêm ảnh `lớp` vào ảnh để bạn có thể tạo kiểu cho nó:
++ Now add a class `photo` to the image so that you can style it:
     
-    ![ảnh chụp màn hình](images/magazine-photo.png)
+    ![screenshot](images/magazine-photo.png)
 
-+ Và tạo kiểu cho ảnh để thêm bóng và xoắn để làm cho ảnh bật ra khỏi trang:
++ And style the image to add a shadow and a twist to make the photo pop out of the page:
     
-    ![ảnh chụp màn hình](images/magazine-photo-style.png)
+    ![screenshot](images/magazine-photo-style.png)
     
-    Thực hiện một số thay đổi cho đến khi bạn thích kết quả.
+    Make some changes until you like the result.
