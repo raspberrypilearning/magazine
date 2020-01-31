@@ -1,13 +1,13 @@
-## Mục tạp chí phong cách
+## Style magazine items
 
-Hãy làm cho bố cục thú vị hơn một chút.
+Let's make the layout a bit more interesting.
 
-+ Thêm `div` xung quanh hình ảnh của bạn với `lớp` và thêm tiêu đề `h2`:
++ Add a `div` around your image with a `class` and add a `h2` heading:
     
-    ![ảnh chụp màn hình](images/magazine-item.png)
+    ![screenshot](images/magazine-item.png)
 
-+ Bây giờ phong cách các mục và tiêu đề.
++ Now style the item and heading.
     
-    Đây là một ví dụ, nhưng bạn có thể thay đổi:
+    Here's an example, but you can make changes:
     
-    ![ảnh chụp màn hình](images/magazine-item-style.png)
+    ![screenshot](images/magazine-item-style.png)
