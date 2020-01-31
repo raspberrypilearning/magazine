@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## 課題：別のアニメーションを追加する
+## Challenge: Add another animation
 
-雑誌の2ページ目にアニメーションを追加できますか？
+Can you add an animation to the second page of your magazine?
 
-![スクリーンショット](images/magazine-animation-challenge.png)
+![screenshot](images/magazine-animation-challenge.png)
 
 \--- /challenge \---
