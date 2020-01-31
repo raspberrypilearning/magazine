@@ -1,21 +1,21 @@
-\---挑戰\---
+\--- challenge \---
 
-## 挑戰：將項目添加到左欄
+## Challenge: Add items to the left column
 
-您可以在左欄中添加有序列表和漸變文字標籤嗎？
+Can you add a ordered list and a gradient text sticker to the left column?
 
-這是一個例子：
+Here's an example:
 
-![截圖](images/magazine-challenge1-example.png)
+![screenshot](images/magazine-challenge1-example.png)
 
-這是示例的代碼，但您可以更改它或提出自己的代碼。
+This is the code for the example, but you can change it or come up with your own.
 
-HTML：
+HTML:
 
-![截圖](images/magazine-challenge1.png)
+![screenshot](images/magazine-challenge1.png)
 
-CSS：
+CSS:
 
-![截圖](images/magazine-challenge1-style.png)
+![screenshot](images/magazine-challenge1-style.png)
 
-\--- /挑戰\---
+\--- /challenge \---
