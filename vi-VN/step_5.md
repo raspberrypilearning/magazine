@@ -1,21 +1,21 @@
-\--- thử thách \---
+\--- challenge \---
 
-## Thách thức: Thêm các mục vào cột bên trái
+## Challenge: Add items to the left column
 
-Bạn có thể thêm một danh sách theo thứ tự và nhãn dán văn bản gradient vào cột bên trái không?
+Can you add a ordered list and a gradient text sticker to the left column?
 
-Đây là một ví dụ:
+Here's an example:
 
-![ảnh chụp màn hình](images/magazine-challenge1-example.png)
+![screenshot](images/magazine-challenge1-example.png)
 
-Đây là mã cho ví dụ, nhưng bạn có thể thay đổi nó hoặc tự đưa ra.
+This is the code for the example, but you can change it or come up with your own.
 
 HTML:
 
-![ảnh chụp màn hình](images/magazine-challenge1.png)
+![screenshot](images/magazine-challenge1.png)
 
 CSS:
 
-![ảnh chụp màn hình](images/magazine-challenge1-style.png)
+![screenshot](images/magazine-challenge1-style.png)
 
-\--- /thử thách \---
+\--- /challenge \---
