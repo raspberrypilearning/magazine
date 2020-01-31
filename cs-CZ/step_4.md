@@ -1,13 +1,13 @@
-## Stylizování položek v časopisu
+## Style magazine items
 
-Pojďme udělat rozložení trochu více zajímavější.
+Let's make the layout a bit more interesting.
 
-+ Přidej `div` kolem svého obrázku pomocí `class` a přidej nadpis `h2`:
++ Add a `div` around your image with a `class` and add a `h2` heading:
     
     ![screenshot](images/magazine-item.png)
 
-+ Nyní stylizuj položku a nadpis.
++ Now style the item and heading.
     
-    Tady je příklad, ale můžeš to také udělat podle svého uvážení:
+    Here's an example, but you can make changes:
     
     ![screenshot](images/magazine-item-style.png)
