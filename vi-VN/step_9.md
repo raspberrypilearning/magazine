@@ -1,11 +1,11 @@
-## Thêm một hình ảnh động
+## Add an animation
 
-Hãy thêm một hình ảnh động vui nhộn vào tạp chí của bạn.
+Let's add a fun animation to your magazine.
 
-+ Truy cập `index.html` và bao gồm hình ảnh `greenrobot.png` ở đầu trang của bạn.
++ Go to `index.html` and include the `greenrobot.png` image at the top of your page.
 
-![ảnh chụp màn hình](images/magazine-animation-image.png)
+![screenshot](images/magazine-animation-image.png)
 
-+ Bây giờ hãy thêm CSS để tạo hiệu ứng cho robot của bạn:
++ Now add the CSS to animate your robot:
 
-![ảnh chụp màn hình](images/magazine-animation-css.png)
+![screenshot](images/magazine-animation-css.png)
