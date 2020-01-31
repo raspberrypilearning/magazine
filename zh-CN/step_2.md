@@ -1,27 +1,27 @@
-## 标题和背景
+## Heading and Background
 
-杂志样式网站在一个页面上经常有一些小的项目. 首先你会创建杂志的标题和背景.
+Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
 
-+ 打开这个Trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>。
++ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    效果应该是这样：
+    The project should look like this:
     
     ![screenshot](images/magazine-starter.png)
 
-+ 让我们添加标题.
++ Let's add a heading.
     
-    你可以思考你的杂志的更好的标题.
+    You can think of a better title for your magazine.
     
     ![screenshot](images/magazine-heading.png)
 
-+ 你能设置标题的样式吗?
++ Can you style the heading?
     
-    这是一个例子, 但是你可以选择你自己的样式:
+    Here's an example, but you can choose your own style:
     
     ![screenshot](images/magazine-heading-style.png)
 
-+ 现在让我使用gradient和选择字体创建杂志的有吸引力的背景.
++ Now let's create an interesting background using a gradient and choose a font for the magazine.
     
-    这里是一些示例样式, 提醒你如何创建倾斜度:
+    Here's some example style as a reminder of how to create a gradient:
     
     ![screenshot](images/magazine-background.png)
