@@ -1,39 +1,39 @@
 ---
-title: Tạp chí
-hero_image: hình ảnh / tạp chí.png
-theme: màu đỏ
+title: Magazine
+hero_image: images/magazine.png
+theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, thiết kế-1, lập trình-0, Phys-comp-0, sản xuất-0, cộng đồng-0
-description: Tạo một trang web tạp chí nhiều trang.
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Create a multi-page magazine website.
 original_url: https://codeclubprojects.org/en-GB/webdev/magazine
-interests: nghệ thuật
+interests: art
 technologies: html-css-javascript
-site_areas: dự án
+site_areas: projects
 hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Giới thiệu
+    title: Introduction
   - 
-    title: Tiêu đề và nền
+    title: Heading and Background
   - 
-    title: Tạo cột
+    title: Creating Columns
   - 
-    title: Mục tạp chí phong cách
+    title: Style magazine items
   - 
-    title: 'Thách thức: Thêm các mục vào cột bên trái'
+    title: 'Challenge: Add items to the left column'
   - 
-    title: Thêm một trang thứ hai
+    title: Add a second page
   - 
-    title: 'Thách thức: Thêm một liên kết trở lại trang đầu tiên'
+    title: 'Challenge: Add a link back to the first page'
   - 
-    title: 'Thử thách: Điền vào trang thứ hai của bạn'
+    title: 'Challenge: Fill in your second page'
   - 
-    title: Thêm một hình ảnh động
+    title: Add an animation
   - 
-    title: 'Thử thách: Thêm một hình ảnh động khác'
+    title: 'Challenge: Add another animation'
