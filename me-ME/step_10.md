@@ -1,8 +1,8 @@
 \--- challenge \---
 
-## Izazov: Dodaj još jednu animaciju
+## Challenge: Add another animation
 
-Možeš li da dodaš animaciju na drugu stranicu svog časopisa?
+Can you add an animation to the second page of your magazine?
 
 ![screenshot](images/magazine-animation-challenge.png)
 
