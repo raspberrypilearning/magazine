@@ -1,25 +1,25 @@
-## Dodaj drugu stranicu
+## Add a second page
 
-Dodajmo još jednu stranicu na veb-sajt tvog časopisa.
+Let's add another page to your magazine website.
 
-+ Dodaj novu stranicu u svoj projekat i nazovi je `page2.html`:
++ Add a new page to your project and name it `page2.html`:
 
 ![screenshot](images/magazine-page2.png)
 
-+ Stranica 2 biće veoma slična prvoj stranici tvog časopisa, tako da možeš da kopiraš html iz `index.html` i preneseš ga u `page2.html`.
++ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
 
 ![screenshot](images/magazine-page2-html.png)
 
-Imaj u vidu da obje stranice koriste isti `style.css`, tako da će dijeliti iste stilove.
+Notice that both pages use the same `style.css` so they will share styles.
 
-+ Promijeni `<h1>` naslov za stranicu 2:
++ Change the `<h1>` title for page2:
 
 ![screenshot](images/magazine-page2-h1.png)
 
-+ Sada će nam biti potrebni linkovi između stranica kako bismo mogli da pređemo na stranicu 2 i da se vratimo na početnu stranicu.
++ Now you'll need links between your pages so you can get to page 2 and back to the front page.
 
-Vrati se na `index.html`. Dodaj link unutar div u koloni 2 u `index.html`:
+Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
 
 ![screenshot](images/magazine-page2-link.png)
 
-+ Isprobaj da li možeš da klikneš na novi link i pređeš na stranicu 2 svog časopisa.
++ Test that you can click on your new link and move to page 2 of your magazine.
