@@ -1,27 +1,27 @@
-## Cabeçalho e plano de fundo
+## Heading and Background
 
-Os sites no estilo de revistas geralmente têm muitos itens pequenos em uma página. Primeiro, você criará um cabeçalho e um plano de fundo para sua revista.
+Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
 
-+ Abra este trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    O projeto deve ficar assim:
+    The project should look like this:
     
-    ![captura de tela](images/magazine-starter.png)
+    ![screenshot](images/magazine-starter.png)
 
-+ Vamos adicionar um cabeçalho.
++ Let's add a heading.
     
-    Você pode pensar em um título melhor para sua revista.
+    You can think of a better title for your magazine.
     
     ![screenshot](images/magazine-heading.png)
 
-+ Você consegue dar estilo ao cabeçalho?
++ Can you style the heading?
     
-    Aqui tem um exemplo, mas você pode escolher seu próprio estilo:
+    Here's an example, but you can choose your own style:
     
     ![screenshot](images/magazine-heading-style.png)
 
-+ Agora vamos criar um plano de fundo interessante usando um gradiente e escolher uma fonte para a revista.
++ Now let's create an interesting background using a gradient and choose a font for the magazine.
     
-    Aqui estão alguns exemplos de estilo para lembrar de como criar um gradiente:
+    Here's some example style as a reminder of how to create a gradient:
     
     ![screenshot](images/magazine-background.png)
