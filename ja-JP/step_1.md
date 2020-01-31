@@ -1,6 +1,6 @@
-## はじめに
+## Introduction
 
-このプロジェクトでは、HTMLとCSSを使用して2ページレイアウトのマルチページマガジンウェブサイトを作成する方法を学習します。また、他のプロジェクトから多くのHTMLやCSSテクニックを再訪します。
+In this project, you'll learn how to use HTML and CSS to create a multi-page magazine website with a two page layout. You'll also revisit lots of HTML and CSS techiques from other projects.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,105 +8,105 @@
   <img src="images/magazine-final.png">
 </div>
 
-### クラブリーダーのための追加情報
+### Additional information for club leaders
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/magazine/print)を使用してください。
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/magazine/print).
 
 ## \--- collapse \---
 
-## title：クラブリーダー・ノート
+## title: Club leader notes
 
 ## Introduction
 
-このプロジェクトでは、子供たちは2列のレイアウトを作成する方法を学びます。彼らはまた、他のプロジェクトで学んだ多くのHTML & CSSを要約します。
+In this project, children will learn how to create a two-column layout. They will also recap lots of the HTML & CSS that they have learned in other projects.
 
-## オンライン・リソース
+## Online Resources
 
-オンラインでHTMLやCSSを書くため[小道具](https://trinket.io/)を使うことをおすすめします。このプロジェクトでは次の小道具が含まれています。
+We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
 
-* ['Magazine'の出発点 - jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* ['Magazine' starting point -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-子供はこの空白の小物 [（jumpto.cc/html-blank）](http://jumpto.cc/html-blank) を使って独自のHTML & CSSを書くことができます。あるいは、このテンプレートtrinket [（jumpto.cc/html-template）](http://jumpto.cc/html-template)使用することもできます。
+Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-また、チャレンジ(課題)に対しての回答例を含むtrinketもあります(以下参照)。
+There is also a trinket containing a sample solution to the challenges:
 
-* ['雑誌'が完成しました - trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* ['Magazine' Finished -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
-## オフライン・リソース
+## Offline Resources
 
-このプロジェクトは[オフライン](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)で完成することが可能です。 必要なリソースを入手するには、「プロジェクト資料のダウンロード」をクリックしてください。 リンク先ページの「プロジェクト・リソース」セクションからダウンロードできますので 、必ず子供達各自が必要資料を全て持っているようにしてください。 本セクションには、以下のファイルが含まれます：
+This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
-* イントロ/ index.html
-* template / template.html
-* template / style.css
-* magazine / index.html
-* 雑誌/ style.css
-* magazine / script.js
-* 雑誌/複数の.png画像
+* intro/index.html
+* template/template.html
+* template/style.css
+* magazine/index.html
+* magazine/style.css
+* magazine/script.js
+* magazine/mutliple .png images
 
-なお、プロジェクト課題の完成版をボランティア・リソースのセクションに含まれています。
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
-* magazine-finished / index.html
-* magazine-finished / style.css
-* magazine-finished / script.js
-* magazine-finished / kitten.jpg
-* 雑誌仕上げ/レシピ完成.jpg
-* magazine-finished / greenrobot.png
-* magazine-finished / spacerobot.png
+* magazine-finished/index.html
+* magazine-finished/style.css
+* magazine-finished/script.js
+* magazine-finished/kitten.jpg
+* magazine-finished/recipe-finished.jpg
+* magazine-finished/greenrobot.png
+* magazine-finished/spacerobot.png
 
-(上述の全リソースは、project and volunteer`.zip`ファイル形式でダウンロード可能です。)
+(All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## 学習目標
+## Learning Objectives
 
-* このプロジェクトは、使用して2列の雑誌スタイルのレイアウトを作成する方法を子供たちに教え `：フロート`。 また、他のプロジェクトでより詳しく説明されているHTML & CSSの多くを要約しています。 例は与えられているので、子供たちは以前のプロジェクトのいくつかを完了していなくてもこのプロジェクトを完了することができます。 
+* This project teaches children how to create a two-column magazine style layout using `float:`. It also recaps lots of the HTML & CSS that is covered in more detail in other projects. Examples are given so children will be able to complete this project even if they have not completed some of the earlier projects. 
 
-本プロジェクトは、[Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum)に含まれる下記項目をカバーしています。
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [基本2Dおよび3Dアセットを設計する](https://www.raspberrypi.org/curriculum/design/creator)。
+* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
 
-## チャレンジ
+## Challenges
 
-* "左の列に項目を追加する" - 浮動した要素の中に項目を配置する。
-* "最初のページにリンクを戻す" - プロジェクト内のページ間のリンクを作成する。
-* "あなたの2番目のページを埋める" - より多くのHTML & CSSを要約する;
-* "別のアニメーションを追加する" - アニメーションをリキャッピングする。
+* "Add items to the left column" - placing items inside a floated element;
+* "Add a link back to the first page" - creating links between pages in a project;
+* "Fill in your second page" - recapping more HTML & CSS;
+* "Add another animation" - recapping animations.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: プロジェクト資料
+## title: Project materials
 
-## プロジェクト資料
+## Project resources
 
-* [全プロジェクト・リソースの入った.zipファイル](resources/magazine-project-resources.zip)
-* [すべての「Magazine」プロジェクトリソースを含むオンライン小物](http://jumpto.cc/web-magazine)
-* [Online Trinketテンプレート](http://jumpto.cc/trinket-template)
-* [オンラインブランク小物](http://jumpto.cc/trinket-blank)
-* [template / index.html](resources/template-index.html)
-* [template / style.css](resources/template-style.css)
-* [イントロ/ index.html](resources/intro-index.html)
-* [intro / style.css](resources/intro-style.css)
-* [magazine / index.html](resources/magazine-index.html)
-* [雑誌/ style.css](resources/magazine-style.css)
-* [magazine / script.js](resources/magazine-script.js)
-* [magazine / kitten.jpg](resources/magazine-kitten.jpg)
-* [magazine / recipe-final.png](resources/magazine-recipe-final.png)
-* [magazine / greenrobot.png](resources/magazine-greenrobot.png)
-* [magazine / firerobot.png](resources/magazine-firerobot.png)
-* [magazine / spacobot.png](resources/magazine-spacerobot.png)
-* [magazine / dogrobot.png](resources/magazine-dogrobot.png)
+* [.zip file containing all project resources](resources/magazine-project-resources.zip)
+* [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
+* [Online Trinket template](http://jumpto.cc/trinket-template)
+* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [intro/index.html](resources/intro-index.html)
+* [intro/style.css](resources/intro-style.css)
+* [magazine/index.html](resources/magazine-index.html)
+* [magazine/style.css](resources/magazine-style.css)
+* [magazine/script.js](resources/magazine-script.js)
+* [magazine/kitten.jpg](resources/magazine-kitten.jpg)
+* [magazine/recipe-final.png](resources/magazine-recipe-final.png)
+* [magazine/greenrobot.png](resources/magazine-greenrobot.png)
+* [magazine/firerobot.png](resources/magazine-firerobot.png)
+* [magazine/spacerobot.png](resources/magazine-spacerobot.png)
+* [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
-## クラブ・リーダー向けリソース
+## Club leader resources
 
-* [全プロジェクトの完成版リソースの入った.zipファイル](resources/magazine-volunteer-resources.zip)
-* [完成版プロジェクトのオンラインtrinket](https://trinket.io/html/a41e4e1c5c)
-* [magazine-finished / index.html](resources/magazine-finished-index.html)
-* [magazine-finished / style.css](resources/magazine-finished-style.css)
-* [magazine-finished / script.js](resources/magazine-finished-script.js)
-* [magazine-finished / kitten.jpg](resources/magazine-finished-kitten.jpg)
-* [magazine-finished / recipe-final.png](resources/magazine-finished-recipe-final.png)
-* [magazine-finished / greenrobot.png](resources/magazine-finished-greenrobot.png)
-* [magazine-finished / spacerobot.png](resources/magazine-finished-spacerobot.png)
+* [.zip file containing all completed project resources](resources/magazine-volunteer-resources.zip)
+* [Online completed Trinket project](https://trinket.io/html/a41e4e1c5c)
+* [magazine-finished/index.html](resources/magazine-finished-index.html)
+* [magazine-finished/style.css](resources/magazine-finished-style.css)
+* [magazine-finished/script.js](resources/magazine-finished-script.js)
+* [magazine-finished/kitten.jpg](resources/magazine-finished-kitten.jpg)
+* [magazine-finished/recipe-final.png](resources/magazine-finished-recipe-final.png)
+* [magazine-finished/greenrobot.png](resources/magazine-finished-greenrobot.png)
+* [magazine-finished/spacerobot.png](resources/magazine-finished-spacerobot.png)
 
 \--- /collapse \---
