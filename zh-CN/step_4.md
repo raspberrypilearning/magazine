@@ -1,13 +1,13 @@
-## 设置杂志项目样式
+## Style magazine items
 
-让我们做点更有意思的布局.
+Let's make the layout a bit more interesting.
 
-+ 围绕你的图片增加一个`div`, 这个div包含`class` 并且增加 `h2` 标题标签:
++ Add a `div` around your image with a `class` and add a `h2` heading:
     
     ![screenshot](images/magazine-item.png)
 
-+ 现在设置项目和标题的样式.
++ Now style the item and heading.
     
-    这是一个例子, 但是你可以做些修改:
+    Here's an example, but you can make changes:
     
     ![screenshot](images/magazine-item-style.png)
