@@ -1,4 +1,4 @@
-## एनिमेशन जोड़ें
+## Add an animation
 
 Let's add a fun animation to your magazine.
 
@@ -8,4 +8,4 @@ Let's add a fun animation to your magazine.
 
 + Now add the CSS to animate your robot:
 
-![स्क्रीनशॉट](images/magazine-animation-css.png)
+![screenshot](images/magazine-animation-css.png)
