@@ -1,11 +1,11 @@
-\---挑戰\---
+\--- challenge \---
 
-## 挑戰：將鏈接添加回第一頁
+## Challenge: Add a link back to the first page
 
-你能添加 `page2.html` 的鏈接，以便點擊它回到第一頁嗎？
+Can you add a link to `page2.html` so that you can click on it to get back to the first page?
 
-提示：查看用於創建第2頁鏈接的HTML。
+Hint: Look at the HTML you used to create a link to page 2.
 
-![截圖](images/magazine-page1-link.png)
+![screenshot](images/magazine-page1-link.png)
 
-\--- /挑戰\---
+\--- /challenge \---
