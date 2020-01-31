@@ -1,25 +1,25 @@
-## Přidej druhou stránku
+## Add a second page
 
-Pojďme přidat další stránku do tvé časopisové webové stránky.
+Let's add another page to your magazine website.
 
-+ Přidej do svého projektu novou stránku a pojmenuj ji `page2.html`:
++ Add a new page to your project and name it `page2.html`:
 
 ![screenshot](images/magazine-page2.png)
 
-+ Stránka 2 bude docela podobná první stránce tvého časopisu, takže můžeš zkopírovat html kód z `index.html` a vložit jej na `page2.html`.
++ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
 
 ![screenshot](images/magazine-page2-html.png)
 
-Povšimni si, že obě stránky používají stejný CSS soubor `style.css`, takže budou mezi sebou sdílet styly.
+Notice that both pages use the same `style.css` so they will share styles.
 
-+ Změň nadpis `<h1>` pro stránku2:
++ Change the `<h1>` title for page2:
 
 ![screenshot](images/magazine-page2-h1.png)
 
-+ Nyní budeš potřebovat odkazy mezi svými stránkami tak, abychom se mohli dostat na stránku 2 a zpět na hlavní stránku.
++ Now you'll need links between your pages so you can get to page 2 and back to the front page.
 
-Přejdi zpět na `index.html`. Přidej odkaz do elementu div ve sloupci 2 v `index.html`:
+Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
 
 ![screenshot](images/magazine-page2-link.png)
 
-+ Vyzkoušej, že se po kliknutí na svůj nový odkaz přemístíš na druhou stránku svého časopisu.
++ Test that you can click on your new link and move to page 2 of your magazine.
