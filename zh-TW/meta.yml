@@ -1,39 +1,39 @@
 ---
-title: 雜誌
-hero_image: 圖片/ magazine.png
-theme: 紅色
+title: Magazine
+hero_image: images/magazine.png
+theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1，design-1，programming-0，phys-comp-0，製造-0，社區-0
-description: 創建一個多頁雜誌網站。
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Create a multi-page magazine website.
 original_url: https://codeclubprojects.org/en-GB/webdev/magazine
-interests: 藝術
-technologies: HTML，CSS，JavaScript的
-site_areas: 項目
+interests: art
+technologies: html-css-javascript
+site_areas: projects
 hardware: ''
-software: HTML，CSS，JavaScript的
+software: html-css-javascript
 version: 3
-last_tested: 2017年1月1日
+last_tested: 2017-01-01
 steps:
   - 
-    title: 介紹
+    title: Introduction
   - 
-    title: 標題和背景
+    title: Heading and Background
   - 
-    title: 創建列
+    title: Creating Columns
   - 
-    title: 風格雜誌項目
+    title: Style magazine items
   - 
-    title: '挑戰：將項目添加到左欄'
+    title: 'Challenge: Add items to the left column'
   - 
-    title: 添加第二頁
+    title: Add a second page
   - 
-    title: '挑戰：將鏈接添加回第一頁'
+    title: 'Challenge: Add a link back to the first page'
   - 
-    title: '挑戰：填寫你的第二頁'
+    title: 'Challenge: Fill in your second page'
   - 
-    title: 添加動畫
+    title: Add an animation
   - 
-    title: '挑戰：添加另一個動畫'
+    title: 'Challenge: Add another animation'
