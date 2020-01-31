@@ -1,27 +1,27 @@
-## Záhlaví a pozadí
+## Heading and Background
 
-Webové stránky ve stylu časopisu mají často na stránce menší položky. Do svého časopisu nejprve přidej záhlaví a pozadí.
+Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
 
-+ Otevři tento trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    Projekt by měl vypadat takto:
+    The project should look like this:
     
     ![screenshot](images/magazine-starter.png)
 
-+ Pojďme přidat záhlaví.
++ Let's add a heading.
     
-    Pro svůj časopis můžeš vymyslet lepší název.
+    You can think of a better title for your magazine.
     
     ![screenshot](images/magazine-heading.png)
 
-+ Dokážeš stylizovat nadpis?
++ Can you style the heading?
     
-    Tady je příklad, ale můžeš to také udělat podle svého uvážení:
+    Here's an example, but you can choose your own style:
     
     ![screenshot](images/magazine-heading-style.png)
 
-+ Nyní pojďme vytvořit zajímavé pozadí pomocí přechodu a také vyberme pro časopis písmo.
++ Now let's create an interesting background using a gradient and choose a font for the magazine.
     
-    Tady je vzorový styl, aby ti připomenul, jak vytvořit přechod:
+    Here's some example style as a reminder of how to create a gradient:
     
     ![screenshot](images/magazine-background.png)
