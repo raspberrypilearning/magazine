@@ -1,11 +1,11 @@
-## 添加动画
+## Add an animation
 
-让我们添加一个有趣的动画到你的杂志中.
+Let's add a fun animation to your magazine.
 
-+ 进入`index.html`文件并在你的页面顶部包含 `greenrobot.png` 图片.
++ Go to `index.html` and include the `greenrobot.png` image at the top of your page.
 
 ![screenshot](images/magazine-animation-image.png)
 
-+ 现在添加CSS来使你的机器人动起来:
++ Now add the CSS to animate your robot:
 
 ![screenshot](images/magazine-animation-css.png)
