@@ -1,5 +1,5 @@
 ---
-title: マガジン
+title: Magazine
 hero_image: images/magazine.png
 theme: red
 duration: 2
@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: 複数ページの雑誌のウェブサイトを作成します。
+description: Create a multi-page magazine website.
 original_url: https://codeclubprojects.org/en-GB/webdev/magazine
 interests: art
 technologies: html-css-javascript
@@ -18,22 +18,22 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: 前書き
+    title: Introduction
   - 
-    title: 見出しと背景
+    title: Heading and Background
   - 
-    title: 列の作成
+    title: Creating Columns
   - 
-    title: スタイル雑誌のアイテム
+    title: Style magazine items
   - 
-    title: '課題：左の列に項目を追加する'
+    title: 'Challenge: Add items to the left column'
   - 
-    title: 2番目のページを追加する
+    title: Add a second page
   - 
-    title: '課題：最初のページにリンクを戻す'
+    title: 'Challenge: Add a link back to the first page'
   - 
-    title: '課題：2ページ目を記入してください'
+    title: 'Challenge: Fill in your second page'
   - 
-    title: アニメーションを追加する
+    title: Add an animation
   - 
-    title: '課題：別のアニメーションを追加する'
+    title: 'Challenge: Add another animation'
