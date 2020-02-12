@@ -1,10 +1,11 @@
 --- challenge ---
-## Aufgabe: Füge einen Link zurück zur ersten Seite ein 
-Kannst du einen Link zu `page2.html` (Seite2) herstellen, damit du darauf klicken kannst, um wieder zurück zur ersten Seite zu gelangen?
 
-Tipp: Schau dir den HTML Code an, den du benutzt hast, um einen Link zu Seite 2 zu erstellen. 
+## Herausforderung: Füge einen Link hinzu, mit dem du zurück zur ersten Seite kommst
+
+Kannst du in `seite2.html` einen Link einfügen, mit dem du beim anklicken zurück auf die Startseite kommst?
+
+Hinweis: Sieh dir den HTML-Code an, mit dem du den Link nach Seite 2 gemacht hast.
 
 ![screenshot](images/magazine-page1-link.png)
-
 
 --- /challenge ---

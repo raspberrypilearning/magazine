@@ -1,26 +1,25 @@
 ## Eine zweite Seite hinzufügen
 
-Lass uns eine weitere Seite zu deiner Zeitschriften-Webseite hinzufügen. 
+Lass uns eine weitere Seite zu deiner Zeitschriften-Website hinzufügen.
 
-+ Füge eine neue Seite zu deinem Projekt hinzu und nenne sie `page2.html` (Seite2 HTML) :
++ Füge deinem Projekt eine neue Seite hinzu und nenne sie `seite2.html`:
 
-![screenshot](images/magazine-page2.png)
+![Screenshot](images/magazine-page2.png)
 
-+ Seite 2 wird sehr ähnlich zur ersten Seite deiner Zeitschrift sein, du kannst daher den HTML Code vom `index.html` (Inhaltsverzeichnis) kopieren und ihn in `page2.html` (Seite2) einfügen.
++ Seite 2 wird sehr ähnlich wie die erste Seite deiner Zeitschrift, du kannst also den HTML-Code von `index.html` kopieren und ihn in `seite2.html` einfügen.
 
 ![screenshot](images/magazine-page2-html.png)
 
-Siehst du, dass beide Seiten das gleiche `style.css` benutzen? Sie werden daher den gleichen Stil teilen. 
+Beide Seiten verwenden das gleiche `style.css`, können also auf die gleichen Stile zurückgreifen.
 
-+ Ändere den `<h1>` Titel für Seite2: 
++ Ändere die `<h1>`-Überschrift von seite2:
 
-![screenshot](images/magazine-page2-h1.png)
+![Screenshot](images/magazine-page2-h1.png)
 
-+ Jetzt brauchst du Links zwischen den Seiten, damit du zu Seite 2 gelangen kannst und auch wieder zurück zur Titelseite. 
++ Jetzt fehlen dir noch Links (Verbindungen) zwische den Seiten, so dass du zu Seite 2 navigieren kannst und von dort auch wieder zurück zur Startseite kommst.
 
-Gehe zurück zum `index.html` (Inhaltsverzeichnis). Füge einen Link in einem Div in Spalte 2 im `index.html` (Inhaltsverzeichnis) ein:
+Gehe zurück zu `index.html`. Füge in Spalte 2 von `index.html` einen Link in einem div hinzu:
 
-![screenshot](images/magazine-page2-link.png)
+![Screenshot](images/magazine-page2-link.png)
 
-+ Teste, ob du auf deinen neuen Link klicken kannst und so zu Seite 2 deiner Zeitschrift gelangen kannst. 
-
++ Teste, ob du auf den neuen Link klicken kannst und auf die Seite 2 deiner Zeitschrift gelangst.

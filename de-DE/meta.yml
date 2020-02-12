@@ -1,3 +1,4 @@
+---
 title: Zeitschrift
 hero_image: images/magazine.png
 theme: red
@@ -15,14 +16,14 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Einführung
-- title: Überschrift und Hintergrund
-- title: Spalten erstellen
-- title: Zeitschriftenartikel grafisch gestalten
-- title: 'Aufgabe: Füge Posten in der linken Spalte hinzu'
-- title: Eine zweite Seite hinzufügen
-- title: 'Aufgabe: Füge einen Link zurück zur ersten Seite ein'
-- title: 'Aufgabe: Fülle deine zweite Seite'
-- title: Eine Animation hinzufügen
-- title: 'Aufgabe: Füge eine weitere Animation hinzu'
+steps:
+  - title: Einleitung
+  - title: Überschrift und Hintergrund
+  - title: Spalten erstellen
+  - title: Zeitschriftenartikel grafisch gestalten
+  - title: 'Herausforderung: Füge Inhalte in der linken Spalte hinzu'
+  - title: Eine zweite Seite hinzufügen
+  - title: 'Herausforderung: Füge einen Link hinzu, mit dem du zurück zur ersten Seite kommst'
+  - title: 'Herausforderung: Fülle deine zweite Seite mit Inhalt'
+  - title: Eine Animation hinzufügen
+  - title: 'Herausforderung: Füge eine weitere Animation hinzu'
