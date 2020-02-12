@@ -1,43 +1,43 @@
 ## Spalten erstellen
 
-Webseiten benutzen oftmals mehrere Spalten. Lass uns ein Zwei-Spalten-Layout für deine Zeitschrift erstellen. 
+Webseiten verwenden oft mehrere Spalten. Lass uns ein Zwei-Spalten-Layout für deine Zeitschrift programmieren.
 
-+ Lass uns als erstes zwei Spalten `div` erstellen.
++ Als erstes müssen wir zwei Spalten mit `div` erstellen.
+    
+    Füge nun den markierten HTML-Code in der Datei `index.html` hinzu:
+    
+    ![Screenshot](images/magazine-columns.png)
 
-	Füge den markierten HTML Code zum `index.html` (Inhaltsverzeichnis) hinzu:
++ Gestalte die Spalten-div's so, dass eine nach links und die andere nach rechts fließt.
+    
+    ![screenshot](images/magazine-columns-style.png)
+    
+    Jede Spalte ist kleiner als 50%, so dass Platz für den Zwischenraum bleibt.
+    
+    Um die Wirkung zu sehen, musst du etwas in die Spalten schreiben.
 
-	![screenshot](images/magazine-columns.png)
++ Setzen wir das Bild von einem Kätzchen oben in die zweite Spalte.
+    
+    ![Screenshot](images/magazine-kitten.png)
+    
+    Wie du siehst, nimmt das Bild des Kätzchens ungefähr die Hälfte der Seite in der zweiten Spalte ein.
+    
+    Aber es ist etwas zu gross!
 
-+ Gestalte die Spalten Divs jetzt so, dass eine nach links und die andere nach rechts „floatet“ (gleitet). 
++ Damit das Bild an den vorhandenen Platz angepasst wird, müssen wir `max-width:` (maximale Breite) verwenden.
+    
+    Füge folgenden Stil in `style.css` hinzu.
+    
+    ![Screenshot](images/magazine-img-width.png)
+    
+    Dies gilt für alle Bilder, die du in deiner Zeitschrift benutzt, nicht nur für das des Kätzchens.
 
-	![screenshot](images/magazine-columns-style.png)
++ Füge jetzt eine Klasse namens `Photo` zum Bild hinzu, damit du es grafisch gestalten kannst:
+    
+    ![screenshot](images/magazine-photo.png)
 
-	Jede Spalte beträgt weniger als 50 %, es gibt also Freiraum für die Füllung. 
-
-	Du musst etwas in die Spalte schreiben, um die Wirkung sehen zu können. 
-
-+ Lass uns ein Bild von einem kleinen Kätzchen oben in die 2. Spalte setzen. 
-
-	![screenshot](images/magazine-kitten.png)
-
-	Siehst du, dass das Kätzchenbild ungefähr halbwegs in der Mitte der Seite in der zweiten Spalte positioniert ist? 
-
-	Es ist jedoch ein wenig zu groß!
-
-+ Lass uns `max-width: ` (maximale Breite) benutzen, damit die Bilder in den jeweiligen Kasten passen. 
-
-	Füge den folgenden Stil zu `style.css` hinzu.
-
-	![screenshot](images/magazine-img-width.png)
-
-	Dies gilt für alle Bilder, die du in deiner Zeitschrift benutzt und nicht nur für das Kätzchenbild.
-
-+ Füge jetzt eine Klasse namens `photo` (Foto) zum Bild hinzu, damit du es grafisch gestalten kannst:
-
-	![screenshot](images/magazine-photo.png)
-
-+ Gestalte jetzt das Bild grafisch, um einen Schatten hinzuzufügen sowie einen kleinen Twist, damit das Foto aus der Seite hervorsticht:
-
-	![screenshot](images/magazine-photo-style.png)
-
-	Nimm die Veränderungen so lange vor, bis du mit dem Ergebnis zufrieden bist. 
++ Und gestalte das Aussehen des Bildes so, dass es einen Schatten wirft, und drehe es etwas, damit es aussieht als ob es aus der Seite herausspringt:
+    
+    ![Screenshot](images/magazine-photo-style.png)
+    
+    Ändere die Parameter, bis du mit dem Ergebnis zufrieden bist.

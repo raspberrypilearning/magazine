@@ -1,12 +1,11 @@
 ## Eine Animation hinzufügen
 
-Lass uns deiner Zeitschrift eine tolle Animation hinzufügen. 
+Lass uns eine lustige Animation für die Zeitschrift programmieren.
 
-+ Gehe zum `index.html` (Inhaltsverzeichnis) und füge das `greenrobot.png` (grüner Roboter) Bild oben auf deiner Seite ein. 
++ Gehe zu `index.html` und füge das Bild `greenrobot.png` oben auf der Seite ein.
 
-![screenshot](images/magazine-animation-image.png)
+![Screenshot](images/magazine-animation-image.png)
 
-+ Füge jetzt den CSS Code hinzu, um deinen Roboter zu animieren:
++ Und ergänze dann das CSS um deinen Roboter zu bewegen:
 
 ![screenshot](images/magazine-animation-css.png)
-

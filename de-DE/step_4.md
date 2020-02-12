@@ -1,14 +1,13 @@
 ## Zeitschriftenartikel grafisch gestalten
 
-Lass uns das Layout noch ein wenig interessanter gestalten. 
+Lass uns das Layout etwas interessanter machen.
 
-+ Füge ein `div` rund um dein Bild mit einer `class` (Klasse) und einer `h2` Überschrift hinzu:
++ Mache mit einer `class` ein `div` um dein Bild herum und füge eine `h2`-Überschrift hinzu:
+    
+    ![Screenshot](images/magazine-item.png)
 
-	![screenshot](images/magazine-item.png)
-
-+ Gestalte jetzt den Posten und die Überschrift grafisch. 
-
-	Hier ist ein Beispiel, du kannst aber gerne Veränderungen vornehmen:
-
-	![screenshot](images/magazine-item-style.png)
-
++ Gestalte jetzt den Inhalt und die Überschrift.
+    
+    Hier ist ein Beispiel, aber du kannst es gerne verändern:
+    
+    ![Screenshot](images/magazine-item-style.png)

@@ -1,69 +1,114 @@
-## Einführung
+## Einleitung
 
-In diesem Projekt lernst du, wie du HTML und CSS benutzen kannst, um eine Zeitschriften-Webseite mit einem Zwei-Seiten-Layout zu erstellen. Du wirst etliche der HTML und CSS Techniken aus früheren Projekten wiederholen. 
+In diesem Projekt lernst du, wie du HTML und CSS benutzen kannst, um eine Zeitschriften-Website mit zwei Seiten zu erstellen. Du wirst auch viele HTML- und CSS-Techniken aus früheren Projekten wiederholen.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/9b7b4f0dd7?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/magazine-final.png">
 </div>
 
+### Zusätzliche Information für Clubleiter
+
+Falls Sie dieses Projekt ausdrucken müssen, verwenden Sie bitte die [druckfreundliche Version](https://projects.raspberrypi.org/de-DE/projects/magazine/print).
 
 --- collapse ---
 ---
-title: Notizen für den Club-Leiter
+title: Anmerkungen für Clubleiter
 ---
 
+## Einleitung
 
-## Einführung:
-In diesem Projekt lernen die Kinder, wie man ein Zwei-Spalten-Layout erstellt. Sie werden erneut viele Aspekte des HTML und CSS Codes wiederholen, den sie in anderen Projekten erlernt haben. 
+In diesem Projekt lernen die Kinder, wie man ein Layout mit zwei Spalten programmiert. Sie werden auch viele der HTML & CSS-Konzepte verwenden, die sie in früheren Projekten gelernt haben.
 
-## Online Ressourcen
+## Online-Ressourcen
 
-Wir empfehlen [Trinket](https://trinket.io/) zu benutzen, um HTML und CSS online zu schreiben. Dieses Projekt enthält die folgenden Trinkets:
+Wir empfehlen die Verwendung von [trinket](https://trinket.io/) um online HTML & CSS schreiben zu können. Dieses Projekt enthält folgende Trinkets:
 
-+ ['Magazine' starting point  -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* [Start für das 'Zeitschrift'-Projekt -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Die Kinder können auch von diesem leeren Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) Gebrauch machen, um ihren eigenen HTML und CSS Code zu schreiben, bzw. alternativ können sie dieses Vorlage-Trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) benutzen.
+Die Kinder können auch dieses leere Trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) verwenden um ihr eigenes HTML & CSS zu schreiben, oder sie können als Alternative dazu dieses Trinket als Vorlage verwenden [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Es gibt auch ein Trinket, dass eine Lösungsvorlage für die Aufgaben enthält:
+Es gibt auch ein Trinket mit einem Lösungsbeispiel für die Herausforderungen:
 
-+ ['Magazine' Finished -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* [Fertige 'Zeitschrift' -- trinket.io/html/9b7b4f0dd7](https://trinket.io/html/9b7b4f0dd7)
 
-## Offline Ressourcen
-Dieses Projekt kann [offline fertig gestellt werden](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) , falls bevorzugt. Zugang zu den Projekt-Ressourcen ist durch das Klicken auf den „Projekt-Materialien“ Link für dieses Projekt möglich. Dieser Link enthält einen Abschnitt über „Projekt-Ressourcen“, die u.a. auch Ressourcen beinhalten, welche die Kinder benötigen, um dieses Projekt offline beenden zu können. Achten Sie darauf, dass jedes Kind Zugang zu einer Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
+## Offline-Ressourcen
 
-+ intro/index.html
-+ template/template.html
-+ template/style.css
-+ magazine/index.html
-+ magazine/style.css
-+ magazine/script.js
-+ magazine/mutliple .png images
+Dieses Projekt kann wahlweise auch [offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) durchgeführt werden. Sie können auf die Projektressourcen zugreifen, indem Sie auf den Link "Projektmaterial" für dieses Projekt klicken. Dieser Link enthält einen Abschnitt "Projektressourcen" mit Ressourcen, die die Kinder benötigen, um das Projekt offline abschließen zu können. Stellen Sie sicher, dass jedes Kind Zugriff auf eine Kopie dieser Ressourcen hat. Dieser Abschnitt enthält die folgenden Dateien:
 
-Sie können eine fertig gestellte Version dieses Projekts im Abschnitt „Helfer Ressourcen“ finden, welcher u.a. Folgendes enthält:
+* intro/index.html
+* template/template.html
+* template/style.css
+* magazine/index.html
+* magazine/style.css
+* magazine/script.js
+* magazine/zahlreiche .png Bilder
 
-+ magazine-finished/index.html
-+ magazine-finished/style.css
-+ magazine-finished/script.js
-+ magazine-finished/kitten.jpg
-+ magazine-finished/recipe-finished.jpg
-+ magazine-finished/greenrobot.png
-+ magazine-finished/spacerobot.png
+Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressourcen für Freiwillige". Diese enthält:
 
-(Alle der o.g. Ressourcen können auch als Projekt und Helfer `.zip` Dateien heruntergeladen werden.)
+* magazine-finished/index.html
+* magazine-finished/style.css
+* magazine-finished/script.js
+* magazine-finished/kitten.jpg
+* magazine-finished/recipe-finished.jpg
+* magazine-finished/greenrobot.png
+* magazine-finished/spacerobot.png
+
+(Alle oben genannten Ressourcen werden auch zum Download als `.zip`-Dateien für das Projekt und für Freiwillige bereitgestellt.)
 
 ## Lernziele
-+ Dieses Projekt zeigt den Kindern, wie man einen Zwei-Spalten-Layout im Zeitschriftenstil mit Hilfe von `float:` (wörtl.: gleiten/schweben) erstellt. Es wiederholt viele Aspekte der HTML und CSS Codes, welche im Detail bereits in anderen Projekten behandelt worden sind. Die Beispiele werden hierin genannt, damit die Kinder in der Lage sind, dieses Projekt fertig zu stellen, auch wenn sie nicht manche der anfänglichen Projekte fertig gestellt haben sollten. 
 
-Dieses Projekt deckt Elemente aus den folgenden Bereichen des [Raspberry Pi Lehrplans zur digitalen Produktion](http://rpf.io/curriculum):
+* In diesem Projekt lernen die Kinder wie man mit `float:` ein Layout mit zwei Spalten - wie in einer Zeitschrift - programmiert. Es werden auch viele HTML & CSS Befehle verwendet, die in anderen Projekten bereits ausführlich behandelt wurden. Wir verwenden viele Beispiele so dass die Kinder das Projekt beenden können, auch wenn sie nicht alle vorigen Projekte durchgeführt haben. 
 
-+ [Design Grundlagen: 2D und 3D Assets](https://www.raspberrypi.org/curriculum/design/creator).
+Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-## Aufgaben
-+ „Füge Dinge in der linken Spalte hinzu“: Platziere Posten in einem sog. „floated“ Element;
-+ „Füge einen Link zurück zur ersten Seite hinzu“: Erstelle Links zwischen den Seiten in einem Projekt;
-+ „Fülle deine zweite Seite aus“: Wiederholung von weiteren HTML und CSS Codes;
-+ „Füge eine weitere Animation hinzu“: Wiederholung von Animationen.
+* [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator).
+
+## Herausforderungen
+
+* "Inhalte in der linken Spalte hinzufügen" - Inhalte in einem fließenden Element platzieren;
+* "Einen Link zurück zur ersten Seite hinzufügen" - Links zwischen den Seiten eines Projekts erstellen;
+* "Eine zweite Seite mit Inhalten füllen" - mehr HTML & CSS wiederverwenden;
+* "Eine neue Animation verwenden" - Animationen wiederverwenden.
+
+--- /collapse ---
+
+--- collapse ---
+---
+title: Projektmaterialien
+---
+
+## Projektressourcen
+
+* [.zip-Datei mit allen Projektressourcen](resources/magazine-project-resources.zip)
+* [Online Trinket mit allen Ressourcen des 'Zeitschrift'-Projekts](http://jumpto.cc/web-magazine)
+* [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
+* [Leeres online-Trinket](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [intro/index.html](resources/intro-index.html)
+* [intro/style.css](resources/intro-style.css)
+* [magazine/index.html](resources/magazine-index.html)
+* [magazine/style.css](resources/magazine-style.css)
+* [magazine/script.js](resources/magazine-script.js)
+* [magazine/kitten.jpg](resources/magazine-kitten.jpg)
+* [magazine/recipe-final.png](resources/magazine-recipe-final.png)
+* [magazine/greenrobot.png](resources/magazine-greenrobot.png)
+* [magazine/firerobot.png](resources/magazine-firerobot.png)
+* [magazine/spacerobot.png](resources/magazine-spacerobot.png)
+* [magazine/dogrobot.png](resources/magazine-dogrobot.png)
+
+## Ressourcen für Clubleiter
+
+* [.zip-Datei mit allen Ressourcen vom fertigen Projekt](resources/magazine-volunteer-resources.zip)
+* [Fertiges online Trinket-Projekt](https://trinket.io/html/9b7b4f0dd7)
+* [magazine-finished/index.html](resources/magazine-finished-index.html)
+* [magazine-finished/style.css](resources/magazine-finished-style.css)
+* [magazine-finished/script.js](resources/magazine-finished-script.js)
+* [magazine-finished/kitten.jpg](resources/magazine-finished-kitten.jpg)
+* [magazine-finished/recipe-final.png](resources/magazine-finished-recipe-final.png)
+* [magazine-finished/greenrobot.png](resources/magazine-finished-greenrobot.png)
+* [magazine-finished/spacerobot.png](resources/magazine-finished-spacerobot.png)
 
 --- /collapse ---
