@@ -9,3 +9,5 @@ Hinweis: Sieh dir den HTML-Code an, mit dem du den Link nach Seite 2 gemacht has
 ![screenshot](images/magazine-page1-link.png)
 
 Und ergänze den CSS-Code in <0>style.css</0>, um das Bild zu positionieren.
+
+--- /challenge ---
