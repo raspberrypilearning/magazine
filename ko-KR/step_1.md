@@ -79,7 +79,7 @@
 
 ## 프로젝트 리소스
 
-* [프로젝트의 모든 리소스가 들어있는 .zip 파일](resources/magazine-project-resources.zip)
+* [프로젝트의 모든 리소스가 들어있는 .zip 파일](https://rpf.io/p/en/magazine-go)
 * [매거진 프로젝트 자료가 포함된 온라인 Trinket](http://jumpto.cc/web-magazine)
 * [온라인 Trinket 템플릿](http://jumpto.cc/trinket-template)
 * [빈 Trinket](http://jumpto.cc/trinket-blank)
@@ -99,7 +99,7 @@
 
 ## 교육자를 위한 자료
 
-* [완성된 모든 프로젝트 리소스가 들어있는 .zip 파일](resources/magazine-volunteer-resources.zip)
+* [완성된 모든 프로젝트 리소스가 들어있는 .zip 파일](https://rpf.io/p/en/magazine-go)
 * [완성된 온라인 Trinket 프로젝트](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
