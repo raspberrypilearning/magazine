@@ -79,7 +79,7 @@ Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digit
 
 ## Projektressourcen
 
-* [.zip-Datei mit allen Projektressourcen](resources/magazine-project-resources.zip)
+* [.zip-Datei mit allen Projektressourcen](https://rpf.io/p/en/magazine-go)
 * [Online Trinket mit allen Ressourcen des 'Zeitschrift'-Projekts](http://jumpto.cc/web-magazine)
 * [Online Trinket-Vorlage](http://jumpto.cc/trinket-template)
 * [Leeres online-Trinket](http://jumpto.cc/trinket-blank)
@@ -99,7 +99,7 @@ Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digit
 
 ## Ressourcen für Clubleiter
 
-* [.zip-Datei mit allen Ressourcen vom fertigen Projekt](resources/magazine-volunteer-resources.zip)
+* [.zip-Datei mit allen Ressourcen vom fertigen Projekt](https://rpf.io/p/en/magazine-go)
 * [Fertiges online Trinket-Projekt](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
