@@ -1,11 +1,11 @@
-## Додайте анімацію
+## Додай анімацію
 
-Додайте веселу анімацію до вашого журналу.
+Давай додамо веселу анімацію до твого журналу.
 
-+ Перейдіть на `index.html` і додайте `greenrobot.png` зображення на початок сторінки.
++ Перейди до `index.html` і додай зображення `greenrobot.png` вгорі сторінки.
 
-![знімок екрану](images/magazine-animation-image.png)
+![знімок екрана](images/magazine-animation-image.png)
 
-+ Тепер додайте CSS, щоб ваш робот рухався:
++ Тепер додай CSS, щоб твій робот почав рухатися:
 
-![знімок екрану](images/magazine-animation-css.png)
+![знімок екрана](images/magazine-animation-css.png)

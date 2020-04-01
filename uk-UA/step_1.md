@@ -1,117 +1,113 @@
 ## Вступ
 
-У цьому проекті ви дізнаєтеся як використовувати HTML та CSS для створення кілька сторінок веб-сайт журналу з обсягом в дві сторінки. Також, ви переглянете багато HTML та CSS технік з інших проектів.
+У цьому проєкті ти дізнаєшся як використовувати HTML та CSS для створення багатосторінкового вебсайту журналу. Також, ти повториш багато прийомів HTML та CSS з інших проєктів.
 
 <div class="trinket">
-  <iframe src="https://trinket.io/embed/html/eb54a74035?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
+  <iframe src="https://trinket.io/embed/html/669a6ee55c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
   </iframe>
   <img src="images/magazine-final.png">
 </div>
 
 ### Додаткова інформація для лідерів клубу
 
-Якщо вам потрібно роздрукувати цей проект, будь ласка скористайтеся [версією для друку](https://projects.raspberrypi.org/uk-UA/projects/magazine/print).
-
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/uk-UA new/projects/magazine/print).
 
 --- collapse ---
 ---
-title: Нотатки керівника гуртка
+title: Нотатки керівника клубу
 ---
+## Вступ
 
-## Вступ:
-
-У цьому проекті діти навчаться створювати двошаровий макет. Вони також повторять матеріа HTML & CSS, який вони вивчили раніше.
+У цьому проєкті діти навчаться створювати двоколонковий макет. Вони також повторять матеріал по HTML та CSS, який вони вивчали в інших проєктах.
 
 ## Онлайн Ресурси
 
-Ми рекомендуємо використовувати [трінкет](https://trinket.io/) щоб написати HTML & CSS онлайн. Цей проект містить такі трінкети:
+Ми рекомендуємо використовувати [trinket](https://trinket.io/) щоб писати код HTML та CSS онлайн. Цей проєкт містить такі ресурси trinket:
 
-+ ["Журнал" відправна точка -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* [Шаблон "Журнал" -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Діти також можуть скористатися цим пустим трінкетом [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) щоб написати свій власний HTML & CSS, або вони можуть по черзі використовувати цей шаблон трінкетів [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Діти також можуть скористатися порожнім проєктом [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) щоб писати свій власний код HTML та CSS, або вони можуть використовувати шаблон [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Також існує трінкет, що містить зразок вирішення завдань:
+Також, існує проєкт, що містить приклади вирішення завдань:
 
-+ ["Журнал" Завершений -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/eb54a74035)
+* [Завершений проєкт "Журнал" -- trinket.io/html/669a6ee55c](https://trinket.io/html/669a6ee55c)
 
 ## Офлайн Ресурси
 
-Цей проект може бути [завершений офлайн](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), якщо ви так бхочете. Ви можете отримати доступ до ресурсів проекту, натиснувши посилання " Матеріали проекту" для цього проекту. Це посилання містить розділ "Ресурси проекту", який включає в себе ресурси, які дітям доведеться використовувати, щоб завершити цей проект в режимі офдайн. Переконайтеся, що кожна дитина має доступ до копії цих ресурсів. Ця версія містить наступні файли:
+За бажанням цей проєкт може бути [реалізовано офлайн](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Ви можете отримати доступ до ресурсів проєкту, натиснувши на посилання "Матеріали проєкту". Це посилання містить розділ "Ресурси проєкту", який включає в себе ресурси, необхідні дітям для реалізації цього проєкту в режимі офлайн. Переконайтеся, що кожна дитина має доступ до копії цих ресурсів. Цей розділ містить наступні файли:
 
-+ intro/index.html
-+ template/template.html
-+ template/style.css
-+ magazine/index.html
-+ magazine/style.css
-+ magazine/script.js
-+ magazine/mutliple .png images
+* intro/index.html
+* template/template.html
+* template/style.css
+* magazine/index.html
+* magazine/style.css
+* magazine/script.js
+* magazine/кілька зображень .png
 
-Також ви можете знайти завершену версію завдань цього проекту в секції "Волонтерські ресурси", яка містить:
+Також, ви можете знайти завершену версію цього проєкту в розділі "Ресурси керівника клубу", яка містить:
 
-+ magazine-finished/index.html
-+ magazine-finished/style.css
-+ magazine-finished/script.js
-+ magazine-finished/kitten.jpg
-+ magazine-finished/recipe-finished.jpg
-+ magazine-finished/greenrobot.png
-+ magazine-finished/spacerobot.png
+* magazine-finished/index.html
+* magazine-finished/style.css
+* magazine-finished/script.js
+* magazine-finished/kitten.jpg
+* magazine-finished/recipe-finished.jpg
+* magazine-finished/greenrobot.png
+* magazine-finished/spacerobot.png
 
-(Усі вищезазначені ресурси можна також завантажувати як проекти та волонтерські файли `.zip` files.)
+(Всі вищезгадані ресурси доступні для завантаження як `.zip`-файли проєкта та керівника клубу.)
 
 ## Цілі навчання
 
-+ Цей проект вчить дітей як створювати двоколонний макет журналу використовуючи `платформу:`. Він також включає багато матеріалу HTML & CSS з попередніх проектів. Приклади подані таким чином, щоб діти змогли завершити цей проект, навіть якщо вони не завершили деякі попередні проекти. 
+* Цей проєкт навчить дітей створювати двоколонковий макет журналу за допомогою `float:`. Він також включає багато матеріалу по HTML та CSS з попередніх проєктів. Наведено приклади, щоб діти змогли завершити цей проєкт, навіть якщо вони не виконували якісь із попередніх проєктів. 
 
-Цей проект охоплює елементи з наступними стандартами оформлення навчального плану [Raspberry Pi](http://rpf.io/curriculum):
+Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum):
 
-+ [Розробка основних 2D та 3D активів](https://www.raspberrypi.org/curriculum/design/creator).
+* [Розробка простих ресурсів 2D та 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Завдання
 
-+ "Додати елементи до лівого стовпця" - розміщення елементів всередині плаваючого елемента;
-+ "Додати посилання назад до першої сторінки" - створити посилання між сторінками в проекті;
-+ "Заповніть другу сторінку" - повторення HTML & CSS;
-+ "Додати інші анімації" - відтворення анімацій.
-
+* "Додай об'єкти в ліву колонку" — розміщення фрагментів всередині плаваючого елемента;
+* "Додай посилання на першу сторінку" — створення зв’язків між сторінками в проєкті;
+* "Заповни другу сторінку" — повторення HTML та CSS;
+* "Додаткова анімація" — повторення анімацій.
 
 --- /collapse ---
 
-
 --- collapse ---
 ---
-title: Проектні матеріали
+title: Матеріали проєкту
 ---
 
-## Проектні ресурси
+## Ресурси проєкту
 
-+ [.zip файли, що містять всі проектні ресурси](resources/magazine-project-resources.zip)
-+ [Онлайн трінкети, що містять всі ресурси проекту "Журнал"](http://jumpto.cc/web-magazine)
-+ [Онлайн шаблони трінкетів](http://jumpto.cc/trinket-template)
-+ [Пусті трінкети онлайн](http://jumpto.cc/trinket-blank)
-+ [template/index.html](resources/template-index.html)
-+ [template/style.css](resources/template-style.css)
-+ [intro/index.html](resources/intro-index.html)
-+ [intro/style.css](resources/intro-style.css)
-+ [magazine/index.html](resources/magazine-index.html)
-+ [magazine/style.css](resources/magazine-style.css)
-+ [magazine/script.js](resources/magazine-script.js)
-+ [magazine/kitten.jpg](resources/magazine-kitten.jpg)
-+ [magazine/recipe-final.png](resources/magazine-recipe-final.png)
-+ [magazine/greenrobot.png](resources/magazine-greenrobot.png)
-+ [magazine/firerobot.png](resources/magazine-firerobot.png)
-+ [magazine/spacerobot.png](resources/magazine-spacerobot.png)
-+ [magazine/dogrobot.png](resources/magazine-dogrobot.png)
+* [.zip-файл, що містить всі ресурси проєкту](https://rpf.io/p/uk-UA new/magazine-go)
+* [Онлайн проєкт Trinket, що містить всі ресурси проєкту "Журнал"](http://jumpto.cc/web-magazine)
+* [Онлайн шаблон проєкту Trinket](http://jumpto.cc/trinket-template)
+* [Порожній онлайн проєкт Trinket](http://jumpto.cc/trinket-blank)
+* [template/index.html](resources/template-index.html)
+* [template/style.css](resources/template-style.css)
+* [intro/index.html](resources/intro-index.html)
+* [intro/style.css](resources/intro-style.css)
+* [magazine/index.html](resources/magazine-index.html)
+* [magazine/style.css](resources/magazine-style.css)
+* [magazine/script.js](resources/magazine-script.js)
+* [magazine/kitten.jpg](resources/magazine-kitten.jpg)
+* [magazine/recipe-final.png](resources/magazine-recipe-final.png)
+* [magazine/greenrobot.png](resources/magazine-greenrobot.png)
+* [magazine/firerobot.png](resources/magazine-firerobot.png)
+* [magazine/spacerobot.png](resources/magazine-spacerobot.png)
+* [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
 ## Ресурси керівника клубу
 
-+ [.zip файли, що містять всі проектні ресурси](resources/magazine-volunteer-resources.zip)
-+ [Завершений трінкет проект онлайн](https://trinket.io/html/eb54a74035)
-+ [magazine-finished/index.html](resources/magazine-finished-index.html)
-+ [magazine-finished/style.css](resources/magazine-finished-style.css)
-+ [magazine-finished/script.js](resources/magazine-finished-script.js)
-+ [magazine-finished/kitten.jpg](resources/magazine-finished-kitten.jpg)
-+ [magazine-finished/recipe-final.png](resources/magazine-finished-recipe-final.png)
-+ [magazine-finished/greenrobot.png](resources/magazine-finished-greenrobot.png)
-+ [magazine-finished/spacerobot.png](resources/magazine-finished-spacerobot.png)
+* [.zip-файл, що містить всі завершені проєктні ресурси](https://rpf.io/p/uk-UA new/magazine-go)
+* [Завершений онлайн проєкт Trinket](https://trinket.io/html/669a6ee55c)
+* [magazine-finished/index.html](resources/magazine-finished-index.html)
+* [magazine-finished/style.css](resources/magazine-finished-style.css)
+* [magazine-finished/script.js](resources/magazine-finished-script.js)
+* [magazine-finished/kitten.jpg](resources/magazine-finished-kitten.jpg)
+* [magazine-finished/recipe-final.png](resources/magazine-finished-recipe-final.png)
+* [magazine-finished/greenrobot.png](resources/magazine-finished-greenrobot.png)
+* [magazine-finished/spacerobot.png](resources/magazine-finished-spacerobot.png)
 
 --- /collapse ---
