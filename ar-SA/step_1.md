@@ -79,7 +79,7 @@
 
 ## موارد المشروع
 
-* [ملف.zip يحتوي على جميع موارد المشروع](resources/magazine-project-resources.zip)
+* [ملف.zip يحتوي على جميع موارد المشروع](https://rpf.io/p/en/magazine-go)
 * [ملف Trinket أونلاين يحتوي على جميع مصادر "المجلة"](http://jumpto.cc/web-magazine)
 * [قالب Trinket عبر الإنترنت](http://jumpto.cc/trinket-template)
 * [Trinket فارغ عبر الإنترنت](http://jumpto.cc/trinket-blank)
@@ -99,7 +99,7 @@
 
 ## موارد قائد النادي
 
-* [ملف.zip يحتوي على جميع موارد المشروع المكتملة](resources/magazine-volunteer-resources.zip)
+* [ملف.zip يحتوي على جميع موارد المشروع المكتملة](https://rpf.io/p/en/magazine-go)
 * [مشروع Trinket مكتمل على الإنترنت](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
