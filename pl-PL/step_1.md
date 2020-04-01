@@ -79,7 +79,7 @@ Projekt ten pokrywa elementy z następujących wątków [Cyfrowego programu nauc
 
 ## Zasoby projektu
 
-* [Plik.zip zawierający wszystkie zasoby potrzebne do wykonania projektu](resources/magazine-project-resources.zip)
+* [Plik.zip zawierający wszystkie zasoby potrzebne do wykonania projektu](https://rpf.io/p/en/magazine-go)
 * [Szablon startowy zawierający wszystkie zasoby potrzebne do realizacji projektu "Czasopismo"](http://jumpto.cc/web-magazine)
 * [Pusty szablon](http://jumpto.cc/trinket-template)
 * [Pusty szablon Trinket](http://jumpto.cc/trinket-blank)
@@ -99,7 +99,7 @@ Projekt ten pokrywa elementy z następujących wątków [Cyfrowego programu nauc
 
 ## Zasoby dla lidera klubu
 
-* [Plik.zip zawierający zasoby z ukończonym projektem](resources/magazine-volunteer-resources.zip)
+* [Plik.zip zawierający zasoby z ukończonym projektem](https://rpf.io/p/en/magazine-go)
 * [Szablon zawierający ukończony projekt](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
