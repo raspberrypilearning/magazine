@@ -79,7 +79,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry P
 
 ## Projectbronnen
 
-* [.zip-bestand met alle projectbestanden](resources/magazine-project-resources.zip)
+* [.zip-bestand met alle projectbestanden](https://rpf.io/p/en/magazine-go)
 * [Online Trinket met alle projectbestanden van het 'Tijdschrift'](http://jumpto.cc/web-magazine)
 * [Online Trinket template](http://jumpto.cc/trinket-template)
 * [Online lege Trinket](http://jumpto.cc/trinket-blank)
@@ -99,7 +99,7 @@ Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry P
 
 ## Clubleider bronnen
 
-* [.zip-bestand met alle voltooide projectbestanden](resources/magazine-volunteer-resources.zip)
+* [.zip-bestand met alle voltooide projectbestanden](https://rpf.io/p/en/magazine-go)
 * [ Voltooid online Trinket-project](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
