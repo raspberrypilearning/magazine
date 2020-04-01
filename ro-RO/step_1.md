@@ -79,7 +79,7 @@ Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digit
 
 ## Resursele proiectului
 
-* [fișier .zip care conține toate resursele proiectului](resources/magazine-project-resources.zip)
+* [fișier .zip care conține toate resursele proiectului](https://rpf.io/p/en/magazine-go)
 * [Trinket online care conține toate resursele proiectului „Revistă”](http://jumpto.cc/web-magazine)
 * [Șablon Trinket online](http://jumpto.cc/trinket-template)
 * [Trinket online gol](http://jumpto.cc/trinket-blank)
@@ -99,7 +99,7 @@ Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digit
 
 ## Resursele liderului de club
 
-* [fișier .zip care conține toate resursele proiectului, completate](resources/magazine-volunteer-resources.zip)
+* [fișier .zip care conține toate resursele proiectului, completate](https://rpf.io/p/en/magazine-go)
 * [Proiect Trinket online, completat](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
