@@ -79,7 +79,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Project resources
 
-* [.zip file containing all project resources](resources/magazine-project-resources.zip)
+* [.zip file containing all project resources](https://rpf.io/p/en/magazine-go)
 * [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
 * [Online Trinket template](http://jumpto.cc/trinket-template)
 * [Online blank Trinket](http://jumpto.cc/trinket-blank)
@@ -99,7 +99,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Club leader resources
 
-* [.zip file containing all completed project resources](resources/magazine-volunteer-resources.zip)
+* [.zip file containing all completed project resources](https://rpf.io/p/en/magazine-go)
 * [Online completed Trinket project](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
