@@ -79,7 +79,7 @@
 
 ## Πόροι του έργου
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/magazine-project-resources.zip)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](https://rpf.io/p/en/magazine-go)
 * [Online Trinket που περιέχει όλους τους πόρους του έργου 'Περιοδικό'](http://jumpto.cc/web-magazine)
 * [Online πρότυπο Trinket](http://jumpto.cc/trinket-template)
 * [Online κενό Trinket](http://jumpto.cc/trinket-blank)
@@ -99,7 +99,7 @@
 
 ## Πόροι συντονιστή ομάδας
 
-* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](resources/magazine-volunteer-resources.zip)
+* [αρχείο .zip που περιέχει όλους τους πόρους του έργου](https://rpf.io/p/en/magazine-go)
 * [Online ολοκληρωμένο έργο στο Τrinket](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
