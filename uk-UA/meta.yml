@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Створіть багатосторінковий онлайн журналу.
+description: Створи багатосторінковий онлайн-журнал.
 original_url: https://codeclubprojects.org/en-GB/webdev/magazine
 interests: art
 technologies: html-css-javascript
@@ -24,16 +24,16 @@ steps:
   - 
     title: Створення колонок
   - 
-    title: Стилізуйте предмети журналу
+    title: Стилі для елементів журналу
   - 
-    title: 'Завдання: додайте об''єкти до лівої колонки'
+    title: 'Завдання: додай об''єкти в ліву колонку'
   - 
-    title: Додайте другу сторінку
+    title: Додай другу сторінку
   - 
-    title: 'Завдання: додайте посилання на першу сторінку'
+    title: 'Завдання: додай посилання на першу сторінку'
   - 
-    title: 'Завдання: заповніть другу сторінку'
+    title: 'Завдання: заповни другу сторінку'
   - 
-    title: Додайте анімацію
+    title: Додай анімацію
   - 
-    title: 'Завдання: додайте інші анімації'
+    title: 'Завдання: додаткова анімація'
