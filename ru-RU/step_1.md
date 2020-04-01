@@ -79,7 +79,7 @@
 
 ## Ресурсы проекта
 
-* [.zip-файл, содержащий все ресурсы проекта](resources/magazine-project-resources.zip)
+* [.zip-файл, содержащий все ресурсы проекта](https://rpf.io/p/en/magazine-go)
 * [Trinket, содержащий все ресурсы проекта «Журнал» (онлайн)](http://jumpto.cc/web-magazine)
 * [Шаблон trinket-а (онлайн)](http://jumpto.cc/trinket-template)
 * [Пустой trinket (онлайн)](http://jumpto.cc/trinket-blank)
@@ -99,7 +99,7 @@
 
 ## Ресурсы для руководителя клуба
 
-* [.zip-файл, содержащий все ресурсы завершённого проекта](resources/magazine-volunteer-resources.zip)
+* [.zip-файл, содержащий все ресурсы завершённого проекта](https://rpf.io/p/en/magazine-go)
 * [Завершённый проект в trinket (онлайн)](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
