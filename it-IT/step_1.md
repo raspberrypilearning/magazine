@@ -79,7 +79,7 @@ Questo progetto include elementi tratti dalle seguenti sezioni del [Digital Maki
 
 ## Risorse del progetto
 
-* [File .zip con tutte le risorse del progetto](resources/magazine-project-resources.zip)
+* [File .zip con tutte le risorse del progetto](https://rpf.io/p/en/magazine-go)
 * [Trinket online contenente tutte le risorse del progetto 'Magazine'](http://jumpto.cc/web-magazine)
 * [Modello di Trinket online](http://jumpto.cc/trinket-template)
 * [Trinket online vuoto](http://jumpto.cc/trinket-blank)
@@ -99,7 +99,7 @@ Questo progetto include elementi tratti dalle seguenti sezioni del [Digital Maki
 
 ## Risorse per gli organizzatori di club
 
-* [File .zip con tutte le risorse del progetto completate](resources/magazine-volunteer-resources.zip)
+* [File .zip con tutte le risorse del progetto completate](https://rpf.io/p/en/magazine-go)
 * [Trinket online completato](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
