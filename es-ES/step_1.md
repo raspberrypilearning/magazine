@@ -79,7 +79,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 ## Recursos del proyecto
 
-* [Archivo .zip que contiene todos los recursos del proyecto](resources/magazine-project-resources.zip)
+* [Archivo .zip que contiene todos los recursos del proyecto](https://rpf.io/p/en/magazine-go)
 * [Trinket en línea que contiene todos los recursos del proyecto 'Revista'](http://jumpto.cc/web-magazine)
 * [Plantilla de Trinket en línea](http://jumpto.cc/trinket-template)
 * [Trinket en blanco en línea](http://jumpto.cc/trinket-blank)
@@ -99,7 +99,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 ## Recursos para los líderes de los clubes
 
-* [Archivo .zip que contiene todos los recursos de proyecto terminado](resources/magazine-volunteer-resources.zip)
+* [Archivo .zip que contiene todos los recursos de proyecto terminado](https://rpf.io/p/en/magazine-go)
 * [Proyecto Trinket terminado en línea](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
