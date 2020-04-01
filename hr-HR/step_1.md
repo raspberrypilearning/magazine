@@ -79,7 +79,7 @@ Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Mak
 
 ## Resursi projekta
 
-* [.zip datoteka koja sadrži sve materijale projekta](resources/magazine-project-resources.zip)
+* [.zip datoteka koja sadrži sve materijale projekta](https://rpf.io/p/en/magazine-go)
 * [Online Trinket koji sadrži sve resurse projekta 'Magazine'](http://jumpto.cc/web-magazine)
 * [Online Trinket predložak](http://jumpto.cc/trinket-template)
 * [Online prazan Trinket](http://jumpto.cc/trinket-blank)
@@ -99,7 +99,7 @@ Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Mak
 
 ## Resursi voditelja kluba
 
-* [.zip datoteka koja sadrži sve dovršene resurse projekta](resources/magazine-volunteer-resources.zip)
+* [.zip datoteka koja sadrži sve dovršene resurse projekta](https://rpf.io/p/en/magazine-go)
 * [Dovršeni Online Trinket projekt](https://trinket.io/html/a41e4e1c5c)
 * [magazin-gotovih / index.html](resources/magazine-finished-index.html)
 * [magazin-gotovih / style.css](resources/magazine-finished-style.css)
