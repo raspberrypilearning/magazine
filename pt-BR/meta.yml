@@ -1,5 +1,5 @@
 ---
-title: Magazine
+title: Revista
 hero_image: images/magazine.png
 theme: red
 duration: 2
@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Create a multi-page magazine website.
+description: Neste projeto, você vai aprender a usar HTML e CSS para criar um website em formato de revista, com um layout de duas páginas.
 original_url: https://codeclubprojects.org/en-GB/webdev/magazine
 interests: art
 technologies: html-css-javascript
@@ -18,22 +18,22 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Introdução
   - 
-    title: Heading and Background
+    title: Cabeçalho e pano de fundo
   - 
-    title: Creating Columns
+    title: Criando colunas
   - 
-    title: Style magazine items
+    title: Itens de estilo da revista
   - 
-    title: 'Challenge: Add items to the left column'
+    title: 'Desafio: Adicionar itens na coluna a esquerda'
   - 
-    title: Add a second page
+    title: Adicionar a segunda página
   - 
-    title: 'Challenge: Add a link back to the first page'
+    title: 'Desafio: Adicionar um link na primeira página'
   - 
-    title: 'Challenge: Fill in your second page'
+    title: 'Desafio: Preencha sua segunda página'
   - 
-    title: Add an animation
+    title: Adicionar uma animação
   - 
-    title: 'Challenge: Add another animation'
+    title: 'Desafio: Adicionar outra animação'
