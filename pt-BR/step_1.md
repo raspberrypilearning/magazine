@@ -30,7 +30,7 @@ As crianças também podem fazer uso deste editor html em branco [(jumpto.cc/htm
 
 Há também um projeto trinket contendo um exemplo de solução para os desafios:
 
-* ['Revista' Finalizada-- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* ['Revista' Finalizada -- trinket.io/html/9b590bcbc4](https://trinket.io/html/a41e4e1c5c)
 
 ## Recursos Offline
 
