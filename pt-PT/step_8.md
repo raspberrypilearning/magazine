@@ -12,6 +12,6 @@ Clica no ícone das imagens para ver que estão imagens estão disponíveis para
 
 Lembra-te que podes fazer upload das tuas próprias imagens para usar. Certifica-te que tens permissão para usar quaisquer imagens que enviares.
 
-![screenshot](images/magazine-upload-images.png)
+![captura de ecrã](images/magazine-upload-images.png)
 
 \--- /challenge \---
