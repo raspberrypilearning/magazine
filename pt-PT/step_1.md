@@ -1,6 +1,6 @@
-## Introduction
+## Introdução
 
-In this project, you'll learn how to use HTML and CSS to create a multi-page magazine website with a two page layout. You'll also revisit lots of HTML and CSS techiques from other projects.
+Neste projeto, vais aprender a usar HTML e CSS para criar um site de revista multi-página com um layout de duas páginas. Também vais revisitar muitas técnicas de HTML e CSS de outros projetos.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,33 +8,33 @@ In this project, you'll learn how to use HTML and CSS to create a multi-page mag
   <img src="images/magazine-final.png">
 </div>
 
-### Additional information for club leaders
+### Informações adicionais para os líderes do clube
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/magazine/print).
+Se precisar imprimir este projeto, por favor, use a [versão para impressão](https://projects.raspberrypi.org/en/projects/magazine/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notas para os líderes de clube
 
-## Introduction
+## Introdução
 
-In this project, children will learn how to create a two-column layout. They will also recap lots of the HTML & CSS that they have learned in other projects.
+Neste projeto, as crianças vão aprender a criar um layout de duas colunas e recapitular muito do HTML & CSS que aprenderam noutros projetos.
 
-## Online Resources
+## Recursos online
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Recomendamos usar o [trinket](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém os seguintes trinkets:
 
-* ['Magazine' starting point -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* [Ponto de partida da 'Revista' - jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Os participantes podem utilizar este trinket em branco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escrever o seu próprio HTML & CSS, ou então usar este modelo de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Há também um trinket que contém um exemplo de solução para os desafios:
 
-* ['Magazine' Finished -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* ['Revista' concluída - trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
-## Offline Resources
+## Recursos offline
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Este projeto pode ser [ concluído offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se preferires. Podes aceder aos recursos do projeto clicando no link 'Materiais de Projeto' deste projeto. Este link contém uma secção 'Recursos do projeto', que inclui os recursos necessários à conclusão deste projeto em modo offline. Certifique-se de que cada participante tem acesso a uma cópia destes recursos. Esta secção inclui os seguintes arquivos:
 
 * intro/index.html
 * template/template.html
@@ -44,7 +44,7 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * magazine/script.js
 * magazine/mutliple .png images
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Também pode encontrar uma versão completa dos desafios deste projeto na secção 'Recursos para Voluntários', que contém:
 
 * magazine-finished/index.html
 * magazine-finished/style.css
@@ -54,35 +54,35 @@ You can also find a completed version of this project's challenges in the 'Volun
 * magazine-finished/greenrobot.png
 * magazine-finished/spacerobot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Todos os recursos acima também são transferíveis como arquivos `.zip` do projeto e voluntários.)
 
-## Learning Objectives
+## Objetivos de Aprendizagem
 
-* This project teaches children how to create a two-column magazine style layout using `float:`. It also recaps lots of the HTML & CSS that is covered in more detail in other projects. Examples are given so children will be able to complete this project even if they have not completed some of the earlier projects. 
+* Este projeto ensina as crianças a criar um layout de revista de duas colunas usando ` float: `. Ele também recapitula muito do CSS e do HTML & coberto em mais detalhes nutros projetos. São dados exemplos para que as crianças possam concluir este projeto, mesmo que não tenham concluído alguns dos projetos anteriores. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este projeto abrange elementos das seguintes vertentes do [ Curriculo Raspberry Pi Digital Making ](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Criar conteúdos básicos em 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Desafios
 
-* "Add items to the left column" - placing items inside a floated element;
-* "Add a link back to the first page" - creating links between pages in a project;
-* "Fill in your second page" - recapping more HTML & CSS;
-* "Add another animation" - recapping animations.
+* "Adicionar itens à coluna esquerda" - colocando itens dentro de um elemento flutuante;
+* "Adicionar um link de volta à primeira página" - criando links entre páginas num projeto;
+* "Preencher a tua segunda página" - recapitulando mais HTML & CSS;
+* "Adicionar outra animação" - recapitulando animações.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiais do projeto
 
-## Project resources
+## Recursos do projeto
 
-* [.zip file containing all project resources](https://rpf.io/p/en/magazine-go)
-* [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [arquivo.zip contendo todos os recursos do projeto](https://rpf.io/p/en/magazine-go)
+* [Trinket Online contendo todos os recursos do projeto 'Revista'](http://jumpto.cc/web-magazine)
+* [Trinket modelo on-line](http://jumpto.cc/trinket-template)
+* [Trinket em branco on-line](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [intro/index.html](resources/intro-index.html)
@@ -97,10 +97,10 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [magazine/spacerobot.png](resources/magazine-spacerobot.png)
 * [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
-## Club leader resources
+## Recursos do líder de clube
 
-* [.zip file containing all completed project resources](https://rpf.io/p/en/magazine-go)
-* [Online completed Trinket project](https://trinket.io/html/a41e4e1c5c)
+* [Arquivo.zip contendo todos os recursos do projeto concluídos](https://rpf.io/p/en/magazine-go)
+* [Projeto Trinket concluido on-line](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
 * [magazine-finished/script.js](resources/magazine-finished-script.js)
