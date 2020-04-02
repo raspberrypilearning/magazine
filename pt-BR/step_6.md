@@ -1,6 +1,6 @@
-## Add a second page
+## Adicionando a segunda página
 
-Let's add another page to your magazine website.
+Vamos adicionar outra página ao site da sua revista.
 
 + Add a new page to your project and name it `page2.html`:
 
