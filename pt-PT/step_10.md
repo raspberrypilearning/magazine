@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Add another animation
+## Desafio: Adicionar outra animação
 
-Can you add an animation to the second page of your magazine?
+Consegues adicionar uma animação na segunda página da tua revista?
 
-![screenshot](images/magazine-animation-challenge.png)
+![captura de ecrã](images/magazine-animation-challenge.png)
 
 \--- /challenge \---
