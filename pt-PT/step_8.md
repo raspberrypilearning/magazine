@@ -1,16 +1,16 @@
 \--- challenge \---
 
-## Challenge: Fill in your second page
+## Desafio: Preencher a tua segunda página
 
-Here's the code for the examples, but you can change the `div`s or come up with your own ideas.
+Aqui está o código para os exemplos, mas podes alterar a div ` ` ou inventar as tuas próprias ideias.
 
-![screenshot](images/magazine-page2-challenge.png)
+![captura de ecrã](images/magazine-page2-challenge.png)
 
-Click the images icon to see the images that are available to use:
+Clica no ícone das imagens para ver que estão imagens estão disponíveis para usar:
 
-![screenshot](images/magazine-images.png)
+![captura de ecrã](images/magazine-images.png)
 
-Remember that you can upload your own images to use. Make sure you have permission to use any images that you upload.
+Lembra-te que podes fazer upload das tuas próprias imagens para usar. Certifica-te que tens permissão para usar quaisquer imagens que enviares.
 
 ![screenshot](images/magazine-upload-images.png)
 
