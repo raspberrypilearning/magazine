@@ -62,27 +62,27 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
 
 Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Design de ilustrações 2D e 3D básicas](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Desafios
 
-* "Add items to the left column" - placing items inside a floated element;
-* "Add a link back to the first page" - creating links between pages in a project;
-* "Fill in your second page" - recapping more HTML & CSS;
-* "Add another animation" - recapping animations.
+* "Adicionar itens à coluna esquerda" - inserindo itens dentro de um elemento flutuante;
+* "Adicionar um link de volta para a primeira página" - criando links entre páginas em um projeto;
+* "Preencher sua segunda página" - recapitulando mais HTML & CSS;
+* "Adicionar outra animação" - recapitulando animações.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## Título: Materiais do projeto
 
-## Project resources
+## Recursos do projeto
 
-* [.zip file containing all project resources](https://rpf.io/p/en/magazine-go)
-* [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [Arquivo.zip contendo todos os recursos do projeto](https://rpf.io/p/en/magazine-go)
+* [Projeto Online Trinket contendo todos os recursos do projeto 'Revista'](http://jumpto.cc/web-magazine)
+* [Template Online Trinket](http://jumpto.cc/trinket-template)
+* [Trinket Online em branco](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [intro/index.html](resources/intro-index.html)
@@ -97,10 +97,10 @@ Este projeto abrange elementos das seguintes vertentes do [Currículo de Criaç�
 * [magazine/spacerobot.png](resources/magazine-spacerobot.png)
 * [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
-## Club leader resources
+## Recursos do líder do clube
 
-* [.zip file containing all completed project resources](https://rpf.io/p/en/magazine-go)
-* [Online completed Trinket project](https://trinket.io/html/a41e4e1c5c)
+* [Arquivo .zip contendo todos os recursos do projeto](https://rpf.io/p/en/magazine-go)
+* [Trinket Online completo](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
 * [magazine-finished/script.js](resources/magazine-finished-script.js)
