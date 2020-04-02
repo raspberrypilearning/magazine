@@ -1,43 +1,43 @@
-## Creating Columns
+## Criando colunas
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+Os sites costumam usar várias colunas. Vamos criar um layout de duas colunas para sua revista.
 
-+ First create two column `div`s.
++ Primeiro crie uma `div` de duas colunas.
     
-    Add the highlighted HTML to `index.html`:
+    Adicione o HTML em destaque ao `index.html`:
     
     ![screenshot](images/magazine-columns.png)
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
++ Agora, estilize as colunas da div para que uma flutue para a esquerda e a outra flutue para a direita.
     
     ![screenshot](images/magazine-columns-style.png)
     
-    Each column is less than 50% so there's room for padding.
+    Cada coluna tem menos de 50%, portanto, há espaço para preenchimento.
     
-    You'll need to add something to a column to see the effect.
+    Você precisará adicionar algo a uma coluna para ver o efeito.
 
-+ Let's add a kitten picture to the top of column 2.
++ Vamos adicionar uma imagem de gatinho no topo da coluna 2.
     
     ![screenshot](images/magazine-kitten.png)
     
-    Notice that the kitten image is positioned about half-way across the page, in the second column.
+    Observe que a imagem do gatinho está posicionada na metade da página, na segunda coluna.
     
-    It's a bit big though!
+    Está um pouco grande!
 
-+ Let's use `max-width:` to make images fit within their container.
++ Vamos usar `max-width:` para as imagens se ajustarem ao contêiner.
     
-    Add the following style to `style.css`.
+    Adicione o seguinte estilo ao `style.css`.
     
     ![screenshot](images/magazine-img-width.png)
     
-    This will apply to all images you use in your magazine, not just the kitten.
+    Isso se aplicará a todas as imagens que você usa na sua revista, não apenas ao gatinho.
 
-+ Now add a class `photo` to the image so that you can style it:
++ Agora adicione uma classe `foto` à imagem para poder estilizá-la:
     
     ![screenshot](images/magazine-photo.png)
 
-+ And style the image to add a shadow and a twist to make the photo pop out of the page:
++ E estilize a imagem para adicionar uma sombra e um toque para fazer a foto sair da página:
     
     ![screenshot](images/magazine-photo-style.png)
     
-    Make some changes until you like the result.
+    Faça algumas alterações até gostar do resultado.
