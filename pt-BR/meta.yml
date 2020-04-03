@@ -1,3 +1,4 @@
+---
 title: Revista
 hero_image: images/magazine.png
 theme: red
@@ -15,5 +16,14 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
-- title: Revista
+steps:
+  - title: Introdução
+  - title: Cabeçalho e pano de fundo
+  - title: Criando colunas
+  - title: Itens de estilo da revista
+  - title: 'Desafio: Adicionar itens na coluna a esquerda'
+  - title: Adicionar a segunda página
+  - title: 'Desafio: Adicionar um link na primeira página'
+  - title: 'Desafio: Preencha sua segunda página'
+  - title: Adicionar uma animação
+  - title: 'Desafio: Adicionar outra animação'
