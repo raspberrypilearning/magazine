@@ -1,22 +1,22 @@
-## Creating Columns
+## 列の作成
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+ウェブサイトでは複数の列が使用されることがよくあります。雑誌の2段組を作成しましょう。
 
-+ First create two column `div`s.
++ まず、2列の`div`を作成します。
     
-    Add the highlighted HTML to `index.html`:
+    強調表示されたHTMLを`index.html`に追加：
     
     ![screenshot](images/magazine-columns.png)
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
++ 1つは左にフロートし、残りの1つは右にフロートするように列のdivを設定します。
     
     ![screenshot](images/magazine-columns-style.png)
     
-    Each column is less than 50% so there's room for padding.
+    各列は50％未満ですので、パディングの余地があります。
     
-    You'll need to add something to a column to see the effect.
+    その効果を見るには、列に何かを追加する必要があります。
 
-+ Let's add a kitten picture to the top of column 2.
++ 列2の上部に子猫の画像を追加しましょう。
     
     ![screenshot](images/magazine-kitten.png)
     
