@@ -1,0 +1,29 @@
+---
+title: Revista
+hero_image: images/magazine.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Crea un lloc web de revistes de diverses pàgines.
+original_url: https://codeclubprojects.org/en-GB/webdev/magazine
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Introducció
+  - title: Títol i Fons
+  - title: Creant columnes
+  - title: Afegint estil als elements de la revista
+  - title: 'Repte: afegeix elements a la columna de l’esquerra'
+  - title: Afegeix una segona pàgina
+  - title: 'Repte: afegeix un enllaç per retrocedir a la primera pàgina'
+  - title: 'Repte: omple la segona pàgina'
+  - title: Afegeix una animació
+  - title: 'Repte: afegeix una altra animació'

@@ -1,25 +1,21 @@
 --- challenge ---
+
 ## चुनौती: बाएँ कॉलम में आइटम्स जोड़ें
 
-क्या आप बाएँ कॉलम में क्रमबद्ध सूची और ग्रेडीयंट टेक्स्ट स्टिकर जोड़ सकते हैं?
+क्या आप बायीं कॉलम में एक आदेशित सूची और ग्रैडिएंट पाठ स्टिकर जोड़ सकते हैं?
 
-उदाहरण इस प्रकार है:
+यहाँ एक उदाहरण है:
 
-![screenshot](images/magazine-challenge1-example.png)
+![स्क्रीनशॉट](images/magazine-challenge1-example.png)
 
-उदाहरण के तौर पर यह कोड है, परन्तु आप इसमें परिवर्तन कर सकते हैं या अपना स्वयं का कोड बना सकते हैं।
+यह उदाहरण के लिए कोड है, लेकिन आप इसे बदल सकते हैं या अपना खुद भी बना सकते है।
 
 HTML:
 
-![screenshot](images/magazine-challenge1.png)
+![स्क्रीनशॉट](images/magazine-challenge1.png)
 
 CSS:
 
-![screenshot](images/magazine-challenge1-style.png)
-
-
-
-
-
+![स्क्रीनशॉट](images/magazine-challenge1-style.png)
 
 --- /challenge ---
