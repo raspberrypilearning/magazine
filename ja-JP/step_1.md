@@ -58,28 +58,28 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 ## 学習目標
 
-* This project teaches children how to create a two-column magazine style layout using `float:`. It also recaps lots of the HTML & CSS that is covered in more detail in other projects. Examples are given so children will be able to complete this project even if they have not completed some of the earlier projects. 
+* This project teaches children how to create a two-column magazine style layout using `float:`. また、他のプロジェクトでより詳しく説明されているHTMLやCSSもまとめます。 例があるので、子どもたちが前のプロジェクトを完了していなかったとしても、このプロジェクトを完了できます。 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+このプロジェクトは、[Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum)に含まれる以下の項目を取り扱います：
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [基本的な2Dおよび3Dアセットの設計](https://www.raspberrypi.org/curriculum/design/creator)
 
-## Challenges
+## チャレンジ
 
-* "Add items to the left column" - placing items inside a floated element;
-* "Add a link back to the first page" - creating links between pages in a project;
-* "Fill in your second page" - recapping more HTML & CSS;
-* "Add another animation" - recapping animations.
+* 「左の列に項目を追加」 - フロート要素の内部に項目を配置する。
+* 「最初のページに戻るリンクの追加」 - プロジェクトにページ間のリンクを作成する。
+* 「2ページ目に書き込む」 - より多くのHTMLとCSSをまとめる。
+* 「別のアニメーションを追加する」 - アニメーションをまとめる。
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: プロジェクト資料
 
-## Project resources
+## プロジェクト資料
 
-* [.zip file containing all project resources](https://rpf.io/p/en/magazine-go)
+* [プロジェクトの全資料が入った.zipファイル](https://rpf.io/p/en/magazine-go)
 * [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
 * [Online Trinket template](http://jumpto.cc/trinket-template)
 * [Online blank Trinket](http://jumpto.cc/trinket-blank)
