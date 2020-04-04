@@ -4,22 +4,22 @@
 
 + プロジェクトに新しいページを追加して、名前を `page2.html`にします：
 
-![screenshot](images/magazine-page2.png)
+![スクリーンショット](images/magazine-page2.png)
 
-+ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
++ ページ2はあなたの雑誌の最初のページとよく似ているので、`index.html`からHTMLをコピーして`page2.html`に貼り付けることができます。
 
-![screenshot](images/magazine-page2-html.png)
+![スクリーンショット](images/magazine-page2-html.png)
 
-Notice that both pages use the same `style.css` so they will share styles.
+両方のページで同じ`style.css`を使用するので、スタイルを共有することに注意してください。
 
-+ Change the `<h1>` title for page2:
++ ページ2の`<h1>`見出しを変更
 
-![screenshot](images/magazine-page2-h1.png)
+![スクリーンショット](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
++ ページ2にたどり着き、フロントページに戻ることができるようにページ間にリンクが必要です。
 
-Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
+`index.html`に戻りましょう。 `index.html`にある列2のdiv内にリンクを追加します：
 
-![screenshot](images/magazine-page2-link.png)
+![スクリーンショット](images/magazine-page2-link.png)
 
-+ Test that you can click on your new link and move to page 2 of your magazine.
++ 新しいリンクをクリックして、雑誌の2ページに移動できることをテストします。
