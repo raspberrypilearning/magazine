@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Fill in your second page
+## Repte: omple la segona pàgina
 
-Here's the code for the examples, but you can change the `div`s or come up with your own ideas.
+Aquí tens el codi dels exemples, però pots canviar els `div` o plantejar les teves pròpies idees.
 
-![screenshot](images/magazine-page2-challenge.png)
+![captura de pantalla](images/magazine-page2-challenge.png)
 
-Click the images icon to see the images that are available to use:
+Fes clic a la icona imatges per veure les imatges disponibles:
 
-![screenshot](images/magazine-images.png)
+![captura de pantalla](images/magazine-images.png)
 
-Remember that you can upload your own images to use. Make sure you have permission to use any images that you upload.
+Recorda que pots carregar les teves pròpies imatges per utilitzar-les. Assegura't que tens permís per utilitzar qualsevol imatge que pengis.
 
-![screenshot](images/magazine-upload-images.png)
+![captura de pantalla](images/magazine-upload-images.png)
 
 \--- /challenge \---
