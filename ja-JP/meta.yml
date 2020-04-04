@@ -1,0 +1,29 @@
+---
+title: 雑誌
+hero_image: images/magazine.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: 複数のページがある雑誌のウェブサイトの作成
+original_url: https://codeclubprojects.org/en-GB/webdev/magazine
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: はじめに
+  - title: 見出しと背景
+  - title: 列の作成
+  - title: 雑誌項目の体裁を整える
+  - title: 'チャレンジ：左の列に項目を追加する'
+  - title: 2ページ目の追加
+  - title: 'チャレンジ：1ページ目に戻るリンクの追加'
+  - title: 'チャレンジ：2ページ目に書き込む'
+  - title: アニメーションの追加
+  - title: 'チャレンジ：別のアニメーションを追加する'
