@@ -6,22 +6,22 @@
     
     プロジェクトはこのようになります。
     
-    ![screenshot](images/magazine-starter.png)
+    ![スクリーンショット](images/magazine-starter.png)
 
-+ Let's add a heading.
++ 見出しを追加しましょう。
     
-    You can think of a better title for your magazine.
+    より良い雑誌の見出しを考えてみましょう。
     
-    ![screenshot](images/magazine-heading.png)
+    ![スクリーンショット](images/magazine-heading.png)
 
-+ Can you style the heading?
++ 見出しの書式を設定してみましょう。
     
-    Here's an example, but you can choose your own style:
+    以下に例がありますが、自分で書式を選択できます：
     
-    ![screenshot](images/magazine-heading-style.png)
+    ![スクリーンショット](images/magazine-heading-style.png)
 
-+ Now let's create an interesting background using a gradient and choose a font for the magazine.
++ グラデーションを使用して面白い背景を作成し、雑誌のフォントを選択しましょう。
     
-    Here's some example style as a reminder of how to create a gradient:
+    グラデーションの作成方法を思い出せるように書式の例を示します：
     
-    ![screenshot](images/magazine-background.png)
+    ![スクリーンショット](images/magazine-background.png)
