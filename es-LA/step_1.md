@@ -60,29 +60,29 @@ También puedes encontrar una versión completa de los desafíos de este proyect
 
 * Este proyecto enseña a los niños cómo crear una revista con un estilo de diseño de dos columnas usando `float:`. También se repasa un montón de HTML & CSS cubierto con más detalle en otros proyectos. Se proporcionan ejemplos para que los niños puedan completar este proyecto incluso si no han completado algunos de los proyectos anteriores. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este proyecto abarca elementos de los siguientes aspectos de la [Creación digital de curriculum en Raspberry Pi Digital](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Desafíos
 
-* "Add items to the left column" - placing items inside a floated element;
-* "Add a link back to the first page" - creating links between pages in a project;
-* "Fill in your second page" - recapping more HTML & CSS;
-* "Add another animation" - recapping animations.
+* "Añade artículos en la columna izquierda" - coloca artículos dentro del elemento flotante;
+* "Añade un enlace que te devuelva a la primera página" - crea enlaces entre las páginas de un proyecto;
+* "Completa tu segunda página" - repasa más HTML & CSS;
+* "Añade otra animación" - repasa las animaciones.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiales del proyecto
 
-## Project resources
+## Recursos del proyecto
 
-* [.zip file containing all project resources](https://rpf.io/p/en/magazine-go)
-* [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [Archivo .zip que contiene todos los recursos del proyecto](https://rpf.io/p/en/magazine-go)
+* [Trinket en línea que contiene todos los recursos del proyecto 'Revista'](http://jumpto.cc/web-magazine)
+* [Plantilla de Trinket en línea](http://jumpto.cc/trinket-template)
+* [Trinket en blanco en línea](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [intro/index.html](resources/intro-index.html)
@@ -97,10 +97,10 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [magazine/spacerobot.png](resources/magazine-spacerobot.png)
 * [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
-## Club leader resources
+## Recursos para los líderes del club
 
-* [.zip file containing all completed project resources](https://rpf.io/p/en/magazine-go)
-* [Online completed Trinket project](https://trinket.io/html/a41e4e1c5c)
+* [Archivo .zip que contiene todos los recursos del proyecto terminado](https://rpf.io/p/en/magazine-go)
+* [Proyecto Trinket completado en línea](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
 * [magazine-finished/script.js](resources/magazine-finished-script.js)
