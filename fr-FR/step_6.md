@@ -12,7 +12,7 @@ Ajoutons une autre page à ton site Web magazine.
 
 Note que les deux pages utilisent le même `style.css` afin qu'ils partagent des styles.
 
-+ Change le titre titre de la `<h1>`page2</0> :
++ Change le titre de la `<h1>`page2</0> :
 
 ![capture d'écran](images/magazine-page2-h1.png)
 
