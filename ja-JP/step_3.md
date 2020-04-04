@@ -6,11 +6,11 @@
     
     強調表示されたHTMLを`index.html`に追加：
     
-    ![screenshot](images/magazine-columns.png)
+    ![スクリーンショット](images/magazine-columns.png)
 
 + 1つは左にフロートし、残りの1つは右にフロートするように列のdivを設定します。
     
-    ![screenshot](images/magazine-columns-style.png)
+    ![スクリーンショット](images/magazine-columns-style.png)
     
     各列は50％未満ですので、パディングの余地があります。
     
@@ -18,26 +18,26 @@
 
 + 列2の上部に子猫の画像を追加しましょう。
     
-    ![screenshot](images/magazine-kitten.png)
+    ![スクリーンショット](images/magazine-kitten.png)
     
-    Notice that the kitten image is positioned about half-way across the page, in the second column.
+    子猫の画像が第2列のページのほぼ中間に配置されていることに注意してください。
     
-    It's a bit big though!
+    少し大きいですね！
 
-+ Let's use `max-width:` to make images fit within their container.
++ `max-width:` を使って画像をコンテナ内に収めてみましょう。
     
-    Add the following style to `style.css`.
+    次のスタイルを `style.css`に追加します。
     
-    ![screenshot](images/magazine-img-width.png)
+    ![スクリーンショット](images/magazine-img-width.png)
     
-    This will apply to all images you use in your magazine, not just the kitten.
+    これは、子猫の画像だけではなく、雑誌で使用するすべての画像に適用されます。
 
-+ Now add a class `photo` to the image so that you can style it:
++ 今度はクラス`photo`を画像に追加して、表示を変えられるようにします：
     
-    ![screenshot](images/magazine-photo.png)
+    ![スクリーンショット](images/magazine-photo.png)
 
-+ And style the image to add a shadow and a twist to make the photo pop out of the page:
++ そして、影を追加し、写真をページから出るにひねりを加えて画像に設定：
     
-    ![screenshot](images/magazine-photo-style.png)
+    ![スクリーンショット](images/magazine-photo-style.png)
     
-    Make some changes until you like the result.
+    望む結果になるまで変更してください。
