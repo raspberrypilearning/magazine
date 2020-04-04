@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Add a link back to the first page
+## チャレンジ：1ページ目に戻るリンクの追加
 
-Can you add a link to `page2.html` so that you can click on it to get back to the first page?
+`page2.html`に1ページ目に戻るためにクリックするリンクを追加してみましょう。
 
-Hint: Look at the HTML you used to create a link to page 2.
+ヒント：ページ2へのリンクを作成するために使用したHTMLを見てください。
 
-![screenshot](images/magazine-page1-link.png)
+![スクリーンショット](images/magazine-page1-link.png)
 
 \--- /challenge \---
