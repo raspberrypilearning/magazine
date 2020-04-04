@@ -2,7 +2,7 @@
 
 ## チャレンジ：2ページ目に書き込む
 
-Here's the code for the examples, but you can change the `div`s or come up with your own ideas.
+サンプルのコードは次のとおりですが、 `div`を変更することも、独自のアイデアを追加することもできます。
 
 ![スクリーンショット](images/magazine-page2-challenge.png)
 
