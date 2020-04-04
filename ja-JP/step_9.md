@@ -1,11 +1,11 @@
-## Add an animation
+## アニメーションの追加
 
-Let's add a fun animation to your magazine.
+雑誌に楽しいアニメーションを追加しましょう。
 
-+ Go to `index.html` and include the `greenrobot.png` image at the top of your page.
++ `index.html`に移動し、ページの上部に画像`greenrobot.png`を入れます。
 
-![screenshot](images/magazine-animation-image.png)
+![スクリーンショット](images/magazine-animation-image.png)
 
-+ Now add the CSS to animate your robot:
++ CSSを追加してロボットを動かします。
 
-![screenshot](images/magazine-animation-css.png)
+![スクリーンショット](images/magazine-animation-css.png)
