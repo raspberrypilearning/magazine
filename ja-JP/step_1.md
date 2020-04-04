@@ -44,7 +44,7 @@
 * magazine/script.js
 * magazine/mutliple .png images
 
-なお、このプロジェクトにあるチャレンジの完成版は「ボランティア資料」の部分にもあり、以下を含んでいます：
+You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
 * magazine-finished/index.html
 * magazine-finished/style.css
@@ -56,7 +56,7 @@
 
 (All of the resources above are also downloadable as project and volunteer `.zip` files.)
 
-## Learning Objectives
+## 学習目標
 
 * This project teaches children how to create a two-column magazine style layout using `float:`. It also recaps lots of the HTML & CSS that is covered in more detail in other projects. Examples are given so children will be able to complete this project even if they have not completed some of the earlier projects. 
 
