@@ -1,8 +1,8 @@
-## Add a second page
+## 2ページ目の追加
 
-Let's add another page to your magazine website.
+雑誌のウェブサイトに別のページを追加しましょう。
 
-+ Add a new page to your project and name it `page2.html`:
++ プロジェクトに新しいページを追加して、名前を `page2.html`にします：
 
 ![screenshot](images/magazine-page2.png)
 
