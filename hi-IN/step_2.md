@@ -1,27 +1,27 @@
-## Heading and Background
+## शीर्षक और पृष्ठभूमि
 
-Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
+मैगज़ीन-शैली की वेबसाइटों में अक्सर एक पेज पर बहुत सारी छोटी वस्तुएं होती हैं। सबसे पहले आप अपनी मैगज़ीन के लिए एक शीर्षक और पृष्ठभूमि बनाने जा रहे हैं।
 
-+ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ इस Trinket को खोलें: <a href="http://jumpto.cc/web-magazine" target="_blank"> jumpto.cc/web-magazine </a> ।
     
-    The project should look like this:
+    परियोजना इस तरह दिखनी चाहिए:
     
-    ![screenshot](images/magazine-starter.png)
+    ![स्क्रीनशॉट](images/magazine-starter.png)
 
-+ Let's add a heading.
++ चलिए एक शीर्षक बनाते है।
     
-    You can think of a better title for your magazine.
+    आप अपनी मैगज़ीन के लिए एक बेहतर शीर्षक के बारे में भी सोच सकते हैं।
     
-    ![screenshot](images/magazine-heading.png)
+    ![स्क्रीनशॉट](images/magazine-heading.png)
 
-+ Can you style the heading?
++ क्या आप अपने हेडिंग को स्टाइल कर सकते हैं?
     
-    Here's an example, but you can choose your own style:
+    यहाँ एक उदाहरण है लेकिन आप अपनी खुद की शैली भी चुन सकते हैं:
     
-    ![screenshot](images/magazine-heading-style.png)
+    ![स्क्रीनशॉट](images/magazine-heading-style.png)
 
-+ Now let's create an interesting background using a gradient and choose a font for the magazine.
++ चलिए अब अपने मैगज़ीन के लिए, ग्रैडिएंट का इस्तेमाल करते हुए एक दिलचस्प पृष्ठभूमि बनाते है और मैगज़ीन के लिए एक फ़ॉन्ट चुनते हैं।
     
-    Here's some example style as a reminder of how to create a gradient:
+    यहाँ ग्रेडिएंट बनाने के लिए कुछ उदाहरण शैली है:
     
-    ![screenshot](images/magazine-background.png)
+    ![स्क्रीनशॉट](images/magazine-background.png)
