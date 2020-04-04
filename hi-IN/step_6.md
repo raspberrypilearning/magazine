@@ -1,25 +1,25 @@
-## Add a second page
+## दूसरा पेज जोड़ें
 
-Let's add another page to your magazine website.
+आइये आपकी मैगज़ीन वेबसाइट में एक और पेज जोड़ते है।
 
-+ Add a new page to your project and name it `page2.html`:
++ अपने प्रोजेक्ट में एक नया पेज जोड़ें और इसे `page2.html `: नाम दें |
 
-![screenshot](images/magazine-page2.png)
+![स्क्रीनशॉट](images/magazine-page2.png)
 
-+ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
++ पेज 2 आपकी मैगज़ीन के पहले पेज से काफी मिलता-जुलता होगा तो आप Html कोड को यहाँ से `index.html` से कॉपी कर सकें और इसे `page2.html ` में पेस्ट करें ।
 
-![screenshot](images/magazine-page2-html.png)
+![स्क्रीनशॉट](images/magazine-page2-html.png)
 
-Notice that both pages use the same `style.css` so they will share styles.
+ध्यान दें कि दोनों पेज समान `style.css` का उपयोग करते हैं इसलिए उनकी शैलियों एकजैसी होंगी।
 
-+ Change the `<h1>` title for page2:
++ पेज 2 के लिए `<h1>` शीर्षक बदलें:
 
-![screenshot](images/magazine-page2-h1.png)
+![स्क्रीनशॉट](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
++ अब आपको अपने पृष्ठों के बीच लिंक की आवश्यकता होगी ताकि आप पेज 2 और पीछे के पेज पर जा सकें।
 
-Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
+`index.html` पर वापस जाएं । `index.html`: में कॉलम 2 में एक div के अंदर एक लिंक जोड़ें |
 
-![screenshot](images/magazine-page2-link.png)
+![स्क्रीनशॉट](images/magazine-page2-link.png)
 
-+ Test that you can click on your new link and move to page 2 of your magazine.
++ परीक्षण करें कि आप अपनी नई लिंक पर क्लिक कर सकते हैं और अपनी मैगज़ीन के पेज 2 पर जा सकते हैं।
