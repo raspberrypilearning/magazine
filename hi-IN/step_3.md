@@ -1,43 +1,43 @@
-## Creating Columns
+## कॉलम बनाना
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+वेब्सीटेस अक्सर कई कॉलम का उपयोग करती हैं। चलिए आपकी मैगज़ीन के लिए दो कॉलम लेआउट बनाते है |
 
-+ First create two column `div`s.
++ पहले दो कॉलमस बनाएं ` div `
     
-    Add the highlighted HTML to `index.html`:
+    हाइलाइट किए गए HTML को ` index.html ` में जोड़ें:
     
-    ![screenshot](images/magazine-columns.png)
+    ![स्क्रीनशॉट](images/magazine-columns.png)
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
++ अब कॉलम को स्टाइल करें ताकि एक बायीं ओर और दूसरा दाईं ओर घूमता रहे।
     
-    ![screenshot](images/magazine-columns-style.png)
+    ![स्क्रीनशॉट](images/magazine-columns-style.png)
     
-    Each column is less than 50% so there's room for padding.
+    प्रत्येक कॉलम 50% से कम है इसलिए आपके लिए चीज़ें जोड़ने के लिए जगह है।
     
-    You'll need to add something to a column to see the effect.
+    प्रभाव देखने के लिए आपको कॉलम में कुछ जोड़ना होगा।
 
-+ Let's add a kitten picture to the top of column 2.
++ चलिए, कॉलम 2 के शुरुआत में एक बिल्ली के बच्चे का चित्र जोड़ें।
     
-    ![screenshot](images/magazine-kitten.png)
+    ![स्क्रीनशॉट](images/magazine-kitten.png)
     
-    Notice that the kitten image is positioned about half-way across the page, in the second column.
+    ध्यान दें कि बिल्ली के बच्चे की छवि दूसरे कॉलम में है।
     
-    It's a bit big though!
+    लेकिन यह थोड़ा बड़ा है!
 
-+ Let's use `max-width:` to make images fit within their container.
++ चित्रों को उनके कंटेनर में फिट करने के लिए, `max-width:` का प्रयोग करें |
     
-    Add the following style to `style.css`.
+    निम्नलिखित शैली को ` style.css ` में जोड़ें |
     
-    ![screenshot](images/magazine-img-width.png)
+    ![स्क्रीनशॉट](images/magazine-img-width.png)
     
-    This will apply to all images you use in your magazine, not just the kitten.
+    यह आपकी मैगज़ीन में आपके द्वारा उपयोग की जाने वाली सभी चित्रों पर लागू होगा, न कि केवल बिल्ली के बच्चे के लिए।
 
-+ Now add a class `photo` to the image so that you can style it:
++ अब एक क्लास `photo` अपने चित्र में जोड़े ताकि आप इसे स्टाइल कर सकें:
     
-    ![screenshot](images/magazine-photo.png)
+    ![स्क्रीनशॉट](images/magazine-photo.png)
 
-+ And style the image to add a shadow and a twist to make the photo pop out of the page:
++ अपने चित्र की शैली बदलने के लिए, चित्र का साया जोड़े और ऐसा मोड़ दे की लगे की आपका चित्र पृष्ट से बहार आ रहा है |
     
-    ![screenshot](images/magazine-photo-style.png)
+    ![स्क्रीनशॉट](images/magazine-photo-style.png)
     
-    Make some changes until you like the result.
+    परिणाम पसंद आने तक कुछ बदलाव करते रहे।
