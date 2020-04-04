@@ -44,7 +44,7 @@
 * magazine/script.js
 * magazine/mutliple .png images
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+なお、このプロジェクトにあるチャレンジの完成版は「ボランティア資料」（プロジェクト資料）の部分にもあり、以下を含んでいます：
 
 * magazine-finished/index.html
 * magazine-finished/style.css
@@ -54,11 +54,11 @@ You can also find a completed version of this project's challenges in the 'Volun
 * magazine-finished/greenrobot.png
 * magazine-finished/spacerobot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(上の資料はすべてプロジェクト`.zip`ファイルとしてもダウンロード可能です。)(動作確認する際には、ファイル名を変更する等の工夫が必要です)
 
 ## 学習目標
 
-* This project teaches children how to create a two-column magazine style layout using `float:`. また、他のプロジェクトでより詳しく説明されているHTMLやCSSもまとめます。 例があるので、子どもたちが前のプロジェクトを完了していなかったとしても、このプロジェクトを完了できます。 
+* このプロジェクトでは、`float:`を使用して2列組の雑誌のレイアウトを作成する方法を子どもたちに教えます。 また、他のプロジェクトでより詳しく説明されているHTMLやCSSもまとめます。 例があるので、子どもたちが前のプロジェクトを完了していなかったとしても、このプロジェクトを完了できます。 
 
 このプロジェクトは、[Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum)に含まれる以下の項目を取り扱います：
 
@@ -80,7 +80,7 @@ You can also find a completed version of this project's challenges in the 'Volun
 ## プロジェクト資料
 
 * [プロジェクトの全資料が入った.zipファイル](https://rpf.io/p/en/magazine-go)
-* [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
+* [「雑誌」プロジェクトの全資料を含むオンラインtrinket](http://jumpto.cc/web-magazine)
 * [オンラインのTrinketテンプレート](http://jumpto.cc/trinket-template)
 * [オンラインの何も書かれていないTrinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
@@ -94,7 +94,7 @@ You can also find a completed version of this project's challenges in the 'Volun
 * [magazine/recipe-final.png](resources/magazine-recipe-final.png)
 * [magazine/greenrobot.png](resources/magazine-greenrobot.png)
 * [magazine/firerobot.png](resources/magazine-firerobot.png)
-* [magazine/spacerobot.png](resources/magazine-spacerobot.png)
+* [magazine/spacobot.png](resources/magazine-spacerobot.png)
 * [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
 ## クラブ・リーダー向け資料
