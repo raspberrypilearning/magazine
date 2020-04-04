@@ -8,7 +8,7 @@
 
 ![スクリーンショット](images/magazine-challenge1-example.png)
 
-This is the code for the example, but you can change it or come up with your own.
+これはサンプルのコードですが、変更することも、独自のコードを追加することもできます。
 
 HTML：
 
