@@ -1,11 +1,11 @@
-## Add an animation
+## एनिमेशन जोड़ें
 
-Let's add a fun animation to your magazine.
+आइये आपकी मैगज़ीन में एक मजेदार एनीमेशन जोड़ें।
 
-+ Go to `index.html` and include the `greenrobot.png` image at the top of your page.
++ `index.html` पर जाएँ और `greenrobot.png` चित्र को अपने पेज के सबसे ऊपर शामिल करें ।
 
-![screenshot](images/magazine-animation-image.png)
+![स्क्रीनशॉट](images/magazine-animation-image.png)
 
-+ Now add the CSS to animate your robot:
++ अब अपने रोबोट को एनिमेट करने के लिए CSS जोड़ें:
 
-![screenshot](images/magazine-animation-css.png)
+![स्क्रीनशॉट](images/magazine-animation-css.png)
