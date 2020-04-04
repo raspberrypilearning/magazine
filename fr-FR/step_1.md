@@ -44,7 +44,7 @@ Ce projet peut être [terminé hors-ligne](https://www.codeclubprojects.org/en-G
 * magazine/script.js
 * magazine/multiple image .png
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+Vous pouvez aussi trouver une version terminée du projet dans la section « Ressources du bénévole » qui contient :
 
 * magazine-finished/index.html
 * magazine-finished/style.css
@@ -54,35 +54,35 @@ You can also find a completed version of this project's challenges in the 'Volun
 * magazine-finished/greenrobot.png
 * magazine-finished/spacerobot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Toutes les ressources ci-dessus peuvent aussi être téléchargées dans les fichiers`.zip` projet et bénévole)
 
-## Learning Objectives
+## Objectifs d'apprentissage
 
-* This project teaches children how to create a two-column magazine style layout using `float:`. It also recaps lots of the HTML & CSS that is covered in more detail in other projects. Examples are given so children will be able to complete this project even if they have not completed some of the earlier projects. 
+* Ce projet enseigne aux enfants comment créer une mise en page de style magazine sur deux colonnes en utilisant `float:`. Il reprend également une grande partie du HTML & CSS qui sont abordés plus en détail dans d'autres projets. Des exemples sont donnés pour que les enfants puissent terminer ce projet même s'ils n'ont pas terminé certains des projets antérieurs. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum) :
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Défis
 
-* "Add items to the left column" - placing items inside a floated element;
-* "Add a link back to the first page" - creating links between pages in a project;
-* "Fill in your second page" - recapping more HTML & CSS;
-* "Add another animation" - recapping animations.
+* « Ajouter des éléments à la colonne de gauche » - placer des éléments à l'intérieur d'un élément flottant ;
+* « Ajouter un lien vers la première page » - créer des liens entre les pages d'un projet ;
+* « Remplir ta deuxième page » - récapitulatif sur HTML & CSS ;
+* « Ajouter une autre animation » - récapitulatif sur les animations.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Matériel pour le projet
 
-## Project resources
+## Ressources pour le projet
 
-* [.zip file containing all project resources](https://rpf.io/p/en/magazine-go)
-* [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [Fichier .zip contenant toutes les ressources du projet](https://rpf.io/p/en/magazine-go)
+* [Trinket en ligne contenant toutes les ressources du projet « Magazine »](http://jumpto.cc/web-magazine)
+* [Modèle de Trinket en ligne](http://jumpto.cc/trinket-template)
+* [Trinket vierge](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [intro/index.html](resources/intro-index.html)
@@ -97,10 +97,10 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [magazine/spacerobot.png](resources/magazine-spacerobot.png)
 * [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
-## Club leader resources
+## Ressources pour le responsable de club
 
-* [.zip file containing all completed project resources](https://rpf.io/p/en/magazine-go)
-* [Online completed Trinket project](https://trinket.io/html/a41e4e1c5c)
+* [Fichier .zip contenant toutes les ressources du projet terminé](https://rpf.io/p/en/magazine-go)
+* [Projet Trinket en ligne terminé](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
 * [magazine-finished/script.js](resources/magazine-finished-script.js)
