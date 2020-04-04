@@ -1,17 +1,17 @@
 \--- challenge \---
 
-## Challenge: Fill in your second page
+## Desafío: Completa la segunda página
 
-Here's the code for the examples, but you can change the `div`s or come up with your own ideas.
+Aquí está el código para los ejemplos, pero puedes cambiar las etiquetas `div` o elaborar tus propias ideas.
 
-![screenshot](images/magazine-page2-challenge.png)
+![Captura de pantalla](images/magazine-page2-challenge.png)
 
-Click the images icon to see the images that are available to use:
+Haz clic en el icono de las imágenes para ver qué imágenes están disponibles:
 
-![screenshot](images/magazine-images.png)
+![Captura de pantalla](images/magazine-images.png)
 
-Remember that you can upload your own images to use. Make sure you have permission to use any images that you upload.
+Recuerda que puedes subir tus propias imágenes a utilizar. Asegúrate de que tienes permiso para usar cualquier imagen que cargues.
 
-![screenshot](images/magazine-upload-images.png)
+![Captura de pantalla](images/magazine-upload-images.png)
 
 \--- /challenge \---
