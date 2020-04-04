@@ -1,27 +1,27 @@
-## Heading and Background
+## Títol i Fons
 
-Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
+Els llocs web de l'estil revista solen tenir molts elements petits en una pàgina. Primer crearàs un encapçalament i un fons per a la teva revista.
 
-+ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ Obre aquest trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    The project should look like this:
+    El teu projecte hauria de ser així:
     
-    ![screenshot](images/magazine-starter.png)
+    ![captura de pantalla](images/magazine-starter.png)
 
-+ Let's add a heading.
++ Afegim un encapçalament.
     
-    You can think of a better title for your magazine.
+    Pots pensar en un títol millor per a la teva revista.
     
-    ![screenshot](images/magazine-heading.png)
+    ![captura de pantalla](images/magazine-heading.png)
 
-+ Can you style the heading?
++ Pot afegir estil al títol?
     
-    Here's an example, but you can choose your own style:
+    Aquí tens un exemple, però pots triar el teu propi estil:
     
-    ![screenshot](images/magazine-heading-style.png)
+    ![captura de pantalla](images/magazine-heading-style.png)
 
-+ Now let's create an interesting background using a gradient and choose a font for the magazine.
++ Ara crearem un fons interessant amb un degradat i escollirem un tipus de lletra per a la revista.
     
-    Here's some example style as a reminder of how to create a gradient:
+    A continuació, es detallen alguns exemples d’estils per fer memòria de com crear un degradat:
     
-    ![screenshot](images/magazine-background.png)
+    ![captura de pantalla](images/magazine-background.png)
