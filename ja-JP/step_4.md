@@ -1,13 +1,13 @@
-## Style magazine items
+## 雑誌項目の体裁を整える
 
-Let's make the layout a bit more interesting.
+レイアウトをもう少し面白くしてみましょう。
 
-+ Add a `div` around your image with a `class` and add a `h2` heading:
++ 画像の周りに`class`を付けた`div`を追加し、見出し`h2`を追加：
     
-    ![screenshot](images/magazine-item.png)
+    ![スクリーンショット](images/magazine-item.png)
 
-+ Now style the item and heading.
++ 今度は項目と見出しの体裁を整えます。
     
-    Here's an example, but you can make changes:
+    以下に例がありますが、変更できます：
     
-    ![screenshot](images/magazine-item-style.png)
+    ![スクリーンショット](images/magazine-item-style.png)
