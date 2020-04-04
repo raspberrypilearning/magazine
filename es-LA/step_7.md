@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Desafío: Añade un enlace que te devuelva a la primera página
+## Desafío: añade un enlace que te devuelva a la primera página
 
 ¿Puedes añadir un enlace en `page2.html` que te devuelva a la primera página al hacer clic en él?
 

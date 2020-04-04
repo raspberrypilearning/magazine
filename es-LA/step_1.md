@@ -10,7 +10,7 @@ En este proyecto, aprenderás a usar HTML y CSS para crear el sitio web de una r
 
 ### Información adicional para los líderes del club
 
-Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/magazine/print).
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/es-LA/projects/magazine/print).
 
 --- collapse ---
 ---

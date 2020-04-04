@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Desafío: Añade otra animación
+## Desafío: agrega otra animación
 
 ¿Puedes añadir una animación en la segunda página de tu revista?
 

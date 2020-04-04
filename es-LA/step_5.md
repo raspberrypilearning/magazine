@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Desafío: Añade objetos en la columna izquierda
+## Desafío: añade objetos en la columna izquierda
 
 ¿Puedes añadir una lista ordenada y una pegatina con fondo de gradiente y texto en la columna izquierda?
 

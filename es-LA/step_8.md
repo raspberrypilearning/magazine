@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Desafío: Completa la segunda página
+## Desafío: completa la segunda página
 
 Aquí está el código para los ejemplos, pero puedes cambiar las etiquetas `div` o elaborar tus propias ideas.
 

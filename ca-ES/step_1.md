@@ -10,7 +10,7 @@ En aquest projecte, aprendràs a utilitzar HTML i CSS per crear un lloc web de r
 
 ### Informació addicional per als líders del club
 
-Si necessites imprimir aquest projecte, si us plau utilitza la [Versió per a imprimir](https://projects.raspberrypi.org/en/projects/magazine/print).
+Si necessites imprimir aquest projecte, si us plau utilitza la [Versió per a imprimir](https://projects.raspberrypi.org/ca-ES/projects/magazine/print).
 
 --- collapse ---
 ---
