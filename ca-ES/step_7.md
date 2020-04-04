@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Add a link back to the first page
+## Repte: afegeix un enllaç per retrocedir a la primera pàgina
 
-Can you add a link to `page2.html` so that you can click on it to get back to the first page?
+Pots afegir un enllaç a `pàgina2.html` de manera que pots fer clic sobre ell per tornar a la primera pàgina?
 
-Hint: Look at the HTML you used to create a link to page 2.
+Suggeriment: Mira l’HTML que has utilitzat per crear un enllaç a la pàgina 2.
 
-![screenshot](images/magazine-page1-link.png)
+![captura de pantalla](images/magazine-page1-link.png)
 
 \--- /challenge \---
