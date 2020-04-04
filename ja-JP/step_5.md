@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: Add items to the left column
+## チャレンジ：左の列に項目を追加する
 
-Can you add a ordered list and a gradient text sticker to the left column?
+左列に順序付きリストとグラデーション・テキスト・ステッカーを追加してみましょう。
 
-Here's an example:
+以下に例を示します：
 
-![screenshot](images/magazine-challenge1-example.png)
+![スクリーンショット](images/magazine-challenge1-example.png)
 
 This is the code for the example, but you can change it or come up with your own.
 
-HTML:
+HTML：
 
-![screenshot](images/magazine-challenge1.png)
+![スクリーンショット](images/magazine-challenge1.png)
 
-CSS:
+CSS：
 
-![screenshot](images/magazine-challenge1-style.png)
+![スクリーンショット](images/magazine-challenge1-style.png)
 
 \--- /challenge \---
