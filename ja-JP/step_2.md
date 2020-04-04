@@ -1,10 +1,10 @@
-## Heading and Background
+## 見出しと背景
 
-Magazine-style websites often have lots of small items on a page. First you're going to create a heading and background for your magazine.
+雑誌形式のウェブサイトでは、ページ上に小さな項目がたくさんあることが多いです。まず、雑誌の見出しと背景を作成します。
 
-+ Open this trinket: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
++ trinketをひらく: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>。
     
-    The project should look like this:
+    プロジェクトはこのようになります。
     
     ![screenshot](images/magazine-starter.png)
 
