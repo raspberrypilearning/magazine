@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Fill in your second page
+## チャレンジ：2ページ目に書き込む
 
 Here's the code for the examples, but you can change the `div`s or come up with your own ideas.
 
