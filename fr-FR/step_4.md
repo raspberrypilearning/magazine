@@ -1,13 +1,13 @@
-## Style magazine items
+## Styliser les éléments du magazine
 
-Let's make the layout a bit more interesting.
+Rendons la mise en page un peu plus intéressante.
 
-+ Add a `div` around your image with a `class` and add a `h2` heading:
++ Ajouter un `div` autour de ton image avec une `classe` et ajoute un en-tête `h2` :
     
     ![screenshot](images/magazine-item.png)
 
-+ Now style the item and heading.
++ Maintenant, stylise l'élément et l'en-tête.
     
-    Here's an example, but you can make changes:
+    Voici un exemple, mais tu peux apporter des modifications :
     
     ![screenshot](images/magazine-item-style.png)
