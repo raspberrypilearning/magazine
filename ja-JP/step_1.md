@@ -34,7 +34,7 @@
 
 ## オフラインの情報源
 
-このプロジェクトは必要であれば[オフラインで完了](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)できます。 必要なプロジェクト資料を入手するには、「プロジェクト資料」のリンクをクリックしてください。 This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+このプロジェクトは必要であれば[オフラインで完了](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)できます。 必要なプロジェクト資料を入手するには、「プロジェクト資料」のリンクをクリックしてください。 このリンクには「プロジェクト資料」の部分があり、子どもたちがこのプロジェクトをオフラインで完了するのに必要な資料が含まれています。 子どもたちがこれらの資料のコピーにアクセスできるか確認してください。 この部分には以下のファイルが含まれます：
 
 * intro/index.html
 * template/template.html
@@ -44,7 +44,7 @@
 * magazine/script.js
 * magazine/mutliple .png images
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+なお、このプロジェクトにあるチャレンジの完成版は「ボランティア資料」の部分にもあり、以下を含んでいます：
 
 * magazine-finished/index.html
 * magazine-finished/style.css
