@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: Add items to the left column
+## Repte: afegeix elements a la columna de l’esquerra
 
-Can you add a ordered list and a gradient text sticker to the left column?
+Pots afegir una llista ordenada i un degradat amb text a la columna de l’esquerra?
 
-Here's an example:
+Aquí tens un exemple:
 
-![screenshot](images/magazine-challenge1-example.png)
+![captura de pantalla](images/magazine-challenge1-example.png)
 
-This is the code for the example, but you can change it or come up with your own.
+Aquí tens el codi de l'exemple, però pots canviar-lo o crear el teu propi.
 
 HTML:
 
-![screenshot](images/magazine-challenge1.png)
+![captura de pantalla](images/magazine-challenge1.png)
 
 CSS:
 
-![screenshot](images/magazine-challenge1-style.png)
+![captura de pantalla](images/magazine-challenge1-style.png)
 
 \--- /challenge \---
