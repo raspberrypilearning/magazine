@@ -1,6 +1,6 @@
-## Introduction
+## はじめに
 
-In this project, you'll learn how to use HTML and CSS to create a multi-page magazine website with a two page layout. You'll also revisit lots of HTML and CSS techiques from other projects.
+このプロジェクトでは、2ページ構成になっている雑誌のウェブサイトを作成するために、HTMLとCSSを利用する方法を学びます。他のプロジェクトが提供しているHTMLやCSSのテクニックもおさらいしましょう。
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,33 +8,33 @@ In this project, you'll learn how to use HTML and CSS to create a multi-page mag
   <img src="images/magazine-final.png">
 </div>
 
-### Additional information for club leaders
+### クラブ・リーダーのための追加情報
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/magazine/print).
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/magazine/print)を使用してください。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title：クラブ・リーダー用の覚書
 
-## Introduction
+## はじめに
 
-In this project, children will learn how to create a two-column layout. They will also recap lots of the HTML & CSS that they have learned in other projects.
+このプロジェクトでは、子どもたちは2段組のレイアウトを作成する方法を学びます。他のプロジェクトで学んだ多くのHTMLとCSSについてもまとめます。
 
-## Online Resources
+## オンライン上にある情報源
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+オンラインでHTMLやCSSを書くために[trinket](https://trinket.io/)を使うことをおすすめします。このプロジェクトには以下のtrinketが含まれています。
 
-* ['Magazine' starting point -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* [「雑誌」出発地点 - jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+子どもたちは何も書かれていないtrinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) を使って、自分たちのHTMLやCSSを書くこともできますし、テンプレートtrinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template)を使用することもできます。
 
-There is also a trinket containing a sample solution to the challenges:
+また、チャレンジの回答例を含むtrinketもあります。
 
-* ['Magazine' Finished -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* [「雑誌」完成 -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
-## Offline Resources
+## オフラインの情報源
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+このプロジェクトは必要であれば[オフラインで完了](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)できます。 必要なプロジェクト資料を入手するには、「プロジェクト資料」のリンクをクリックしてください。 This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
 
 * intro/index.html
 * template/template.html
