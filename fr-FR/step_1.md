@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, you'll learn how to use HTML and CSS to create a multi-page magazine website with a two page layout. You'll also revisit lots of HTML and CSS techiques from other projects.
+Dans ce projet, tu apprendras à utiliser HTML et CSS pour créer un magazine en ligne à plusieurs pages avec un agencement à deux colonnes. Tu révéras également beaucoup de techniques HTML et CSS apprises dans d’autres projets.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,33 +8,33 @@ In this project, you'll learn how to use HTML and CSS to create a multi-page mag
   <img src="images/magazine-final.png">
 </div>
 
-### Additional information for club leaders
+### Informations complémentaires pour les responsables de club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/magazine/print).
+Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimable](https://projects.raspberrypi.org/en/projects/magazine/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notes pour le responsable de club
 
 ## Introduction
 
-In this project, children will learn how to create a two-column layout. They will also recap lots of the HTML & CSS that they have learned in other projects.
+Dans ce projet, les enfants apprendront à créer un agencement à deux colonnes. Ils reverront aussi beaucoup d'HTML & CSS appris lors de projets précédents.
 
-## Online Resources
+## Ressources en ligne
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Nous recommandons d'utiliser [trinket](https://trinket.io/) pour écrire du HTML & CSS en ligne. Ce projet contient les trinkets suivants :
 
-* ['Magazine' starting point -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* [Point de départ « Magazine » -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Les enfants peuvent également utiliser ce trinket vide [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pour écrire leur propre code HTML & CSS, ou utiliser ce trinket modèle [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-There is also a trinket containing a sample solution to the challenges:
+Il y a aussi un Trinket contenant un exemple de solution pour les défis :
 
-* ['Magazine' Finished -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* [« Magazine « terminé -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
-## Offline Resources
+## Ressources hors-ligne
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Ce projet peut être [terminé hors-ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien « Matériaux du projet ». Ce lien contient une section « Ressources du projet » qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
 
 * intro/index.html
 * template/template.html
@@ -42,7 +42,7 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * magazine/index.html
 * magazine/style.css
 * magazine/script.js
-* magazine/mutliple .png images
+* magazine/multiple image .png
 
 You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
 
