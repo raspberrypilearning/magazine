@@ -81,8 +81,8 @@ You can also find a completed version of this project's challenges in the 'Volun
 
 * [プロジェクトの全資料が入った.zipファイル](https://rpf.io/p/en/magazine-go)
 * [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [オンラインのTrinketテンプレート](http://jumpto.cc/trinket-template)
+* [オンラインの何も書かれていないTrinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [intro/index.html](resources/intro-index.html)
@@ -97,10 +97,10 @@ You can also find a completed version of this project's challenges in the 'Volun
 * [magazine/spacerobot.png](resources/magazine-spacerobot.png)
 * [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
-## Club leader resources
+## クラブ・リーダー向け資料
 
-* [.zip file containing all completed project resources](https://rpf.io/p/en/magazine-go)
-* [Online completed Trinket project](https://trinket.io/html/a41e4e1c5c)
+* [完成したプロジェクトの全資料が入った.zipファイル](https://rpf.io/p/en/magazine-go)
+* [オンラインの完成版Trinketプロジェクト](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
 * [magazine-finished/script.js](resources/magazine-finished-script.js)
