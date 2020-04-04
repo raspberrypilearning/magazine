@@ -1,13 +1,13 @@
-## Style magazine items
+## स्टाइल मैगज़ीन आइटम्स
 
-Let's make the layout a bit more interesting.
+चलिए, लेआउट को थोड़ा और दिलचस्प बनाते हैं।
 
-+ Add a `div` around your image with a `class` and add a `h2` heading:
++ ये `div` अपने चित्र के आस पास जोड़े और इसके साथ `class` और शीर्षक के लिए ये `h2` जोड़े:
     
-    ![screenshot](images/magazine-item.png)
+    ![स्क्रीनशॉट](images/magazine-item.png)
 
-+ Now style the item and heading.
++ अब आइटम और हेडिंग को स्टाइल करें |
     
-    Here's an example, but you can make changes:
+    यहाँ एक उदाहरण है, लेकिन आप बदलाव कर सकते हैं:
     
-    ![screenshot](images/magazine-item-style.png)
+    ![स्क्रीनशॉट](images/magazine-item-style.png)
