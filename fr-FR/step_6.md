@@ -1,26 +1,25 @@
 ## Ajouter une seconde page
 
-Ajoutons une seconde page à votre site Web magazine. 
+Ajoutons une autre page à ton site Web magazine.
 
-+ Ajoutez une nouvelle page à votre projet et nommez-la `page2.html` :
++ Ajoute une nouvelle page à ton projet et nomme-la `page2.html`:
 
-![screenshot](images/magazine-page2.png)
+![capture d'écran](images/magazine-page2.png)
 
-+ La Page 2 sera trés similaire à la première page de votre magazine pour que vous puissiez copier le html de `index.html` et le coller dans `page2.html`.
++ La page 2 sera assez similaire à la première page de ton magazine donc tu peux copier le code html de `index.html` et colle-le dans `page2.html`.
 
-![screenshot](images/magazine-page2-html.png)
+![capture d’écran](images/magazine-page2-html.png)
 
-Remarquez que les deux pages utilisent le même `style.css`. Elles partageront donc le même style. 
+Note que les deux pages utilisent le même `style.css` afin qu'ils partagent des styles.
 
-+ Modifiez le titre `<h1>` par page2 : 
++ Change le `<h1>` titre de la page2:
 
-![screenshot](images/magazine-page2-h1.png)
+![capture d'écran](images/magazine-page2-h1.png)
 
-+ Maintenant, il vous faudra des liens entre vos pages pour pouvoir accéder à la page 2 et revenir à la première page. 
++ Maintenant, tu auras besoin de liens entre tes pages pour accéder à la page 2 et revenir à la page d'accueil.
 
-Retourner à `index.html`. Ajoutez un lien dans une div à l'intérieur de la colonne 2 dans `index.html`:
+Retourne à `index.html`. Ajoute un lien à l'intérieur d'un div dans la colonne 2 dans `index.html`:
 
-![screenshot](images/magazine-page2-link.png)
+![capture d'écran](images/magazine-page2-link.png)
 
-+ Testez qu'il est possible de cliquer sur votre nouveau lien et de passer à la page 2 de votre magazine. 
-
++ Teste que tu peux cliquer sur ton nouveau lien et passer à la page 2 de ton magazine.

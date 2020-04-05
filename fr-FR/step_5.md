@@ -1,24 +1,21 @@
 --- challenge ---
-## Défi : Ajouter des objets à la colonne de gauche
 
-Pouvez-vous ajouter une liste ordonnée et un sticker de texte dégradé à la colonne de gauche ? 
+## Défi: Ajouter des éléments à la colonne de gauche
 
-Voici un exemple :
+Peux-tu ajouter une liste ordonnée et un autocollant de texte dégradé dans la colonne de gauche?
 
-![screenshot](images/magazine-challenge1-example.png)
+Voici un exemple:
 
-Voici le code pour l'exemple, mais vous pouvez le changer ou faire le vôtre.
+![capture d'écran](images/magazine-challenge1-example.png)
 
-HTML :
+Il s'agit du code de l'exemple, mais tu peux le modifier ou proposer le tient.
 
-![screenshot](images/magazine-challenge1.png)
+HTML:
 
-CSS :
+![capture d'écran](images/magazine-challenge1.png)
 
-![screenshot](images/magazine-challenge1-style.png)
+CSS:
 
-
-
-
+![capture d'écran](images/magazine-challenge1-style.png)
 
 --- /challenge ---
