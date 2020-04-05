@@ -1,16 +1,13 @@
-## Styliser les objets du magazine
+## Styliser les éléments du magazine
 
-Appliquons-nous à rendre l'agencement un peu plus intéressant. 
+Rendons la mise en page un peu plus intéressante.
 
-+ Ajoutez une balise `div` autour de votre image avec une `class` et ajoutez un en-tête `h2` :
++ Ajouter un `div` autour de ton image avec une `classe` et ajoute un en-tête `h2`:
+    
+    ![capture d'écran](images/magazine-item.png)
 
-	![screenshot](images/magazine-item.png)
-
-+ Maintenant, stylisez l'objet et l'en-tête. 
-
-	Voici un exemple, mais vous pouvez faire quelque changements :
-
-	![screenshot](images/magazine-item-style.png)
-
-
-
++ Maintenant, stylise l'élément et l'en-tête.
+    
+    Voici un exemple, mais tu peux apporter des modifications:
+    
+    ![capture d'écran](images/magazine-item-style.png)

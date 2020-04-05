@@ -1,29 +1,27 @@
 ## En-tête et arrière-plan
 
-Les sites Web de style magazine ont souvent beaucoup de petits objets sur une page. Tout d'abord, vous allez créer un en-tête et un arrière-plan pour votre magazine. 
+Les sites Web de type magazine contiennent souvent beaucoup de petits articles sur une page. Dans un premier temps, tu vas créer un titre et un arrière-plan pour ton magazine.
 
-+ Ouvrez ce trinket : <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>. 
++ Ouvre ce trinket : <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
+    
+    Le projet devrait ressembler à ceci:
+    
+    ![capture d'écran](images/magazine-starter.png)
 
-	Le projet doit ressembler à ça :
++ Ajoutons un en-tête.
+    
+    Tu peux réfléchir à un meilleur titre pour ton magazine.
+    
+    ![capture d'écran](images/magazine-heading.png)
 
-	![screenshot](images/magazine-starter.png)
++ Peux-tu styliser le titre?
+    
+    Voici un exemple, mais tu peux choisir ton propre style:
+    
+    ![capture d'écran](images/magazine-heading-style.png)
 
-+ Ajoutons un en-tête. 
-
-	Vous pouvez trouver un meilleur titre pour votre magazine. 
-
-	![screenshot](images/magazine-heading.png)
-
-+ Pouvez-vous appliquer un style à l'en-tête ?
-
-	Voici un exemple, mais vous pouvez choisir votre propre style :
-
-	![screenshot](images/magazine-heading-style.png)
-
-+ Maintenant, créons un arrière-plan intéressant en utilisant un dégradé et en choisissant une police pour le magazine. 
-
-	Voici quelques exemples de style pour vous rapeller comment créer un dégradé : 
-
-	![screenshot](images/magazine-background.png)
-
-
++ Maintenant, créons un arrière-plan intéressant en utilisant un dégradé et choisissons une police pour le magazine.
+    
+    Voici un exemple de style pour te rappeler comment créer un dégradé:
+    
+    ![capture d'écran](images/magazine-background.png)

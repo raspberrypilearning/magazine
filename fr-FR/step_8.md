@@ -1,17 +1,17 @@
 --- challenge ---
-## Défi : Remplir votre seconde page
 
-Voici le code pour les exemples, mais vous pouvez modifier les `div` ou utiliser vos propres idées.  
+## Défi: Remplir ta seconde page
 
-![screenshot](images/magazine-page2-challenge.png)
+Voici le code des exemples, mais tu peux changer le `div`s ou proposer tes propres idées.
 
-Cliquez sur l'icône images pour voir les images qui sont disponibles à l'utilisation :
+![capture d’écran](images/magazine-page2-challenge.png)
 
-![screenshot](images/magazine-images.png)
+Clique sur l'icône d'images pour voir les images disponibles à utiliser:
 
-Souvenez-vous que vous pouvez mettre en ligne vos propres images pour les utiliser. Assurez-vous d'avoir les autorisations nécessaires pour utiliser les images que vous mettez en ligne. 
+![capture d'écran](images/magazine-images.png)
 
-![screenshot](images/magazine-upload-images.png)
+N'oublie pas que tu peux télécharger tes propres images. Assure-toi que tu es autorisé à utiliser les images que tu télécharges.
 
+![capture d'écran](images/magazine-upload-images.png)
 
 --- /challenge ---
