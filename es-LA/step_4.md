@@ -1,4 +1,4 @@
-## Dar estilo a los objetos de la revista
+## Dar estilo a los elementos de la revista
 
 Vamos a hacer el diseño un poco más interesante.
 
