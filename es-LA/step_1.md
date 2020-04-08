@@ -18,23 +18,23 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 ## Introducción
 
-En este proyecto, los niños aprenderán a crear un diseño de dos columnas. También repasarán un montón de HTML & CSS que han aprendido en otros proyectos.
+En este proyecto, los infantes aprenderán a crear un diseño de dos columnas. También repasarán un montón de HTML & CSS que han aprendido en otros proyectos.
 
 ## Recursos en línea
 
 Recomendamos usar [trinket](https://trinket.io/) para escribir HTML & CSS en línea. Este proyecto incluye los siguientes trinkets:
 
-* [Punto de partida de la 'Revista' -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* [Punto de partida de la «Revista» -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Los niños también pueden hacer uso de este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS o alternativamente pueden usar esta plantilla de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Los infantes también pueden hacer uso de este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS o alternativamente pueden usar esta plantilla de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 También hay un trinket que contiene una solución de muestra para los desafíos:
 
-* ['Revista' Finalizada -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* [«Revista» Finalizada -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
 ## Recursos sin conexión
 
-Si prefieres, puedes completar este proyecto [sin conexión](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Puedes acceder a los recursos del proyecto haciendo clic en el enlace 'Materiales del proyecto' para este proyecto. Este enlace contiene una sección de 'Recursos del proyecto', que incluye los recursos que los niños necesitarán para completar este proyecto offline. Asegúrate de que cada niño tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
+Si prefieres, puedes completar este proyecto [sin conexión](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Puedes acceder a los recursos del proyecto haciendo clic en el enlace «Materiales del proyecto» para este proyecto. Este enlace contiene una sección de «Recursos del proyecto», que incluye los recursos que los niños necesitarán para completar este proyecto offline. Asegúrate de que cada infante tenga acceso a una copia de estos recursos. Esta sección incluye los siguientes archivos:
 
 * intro/index.html
 * template/template.html
@@ -44,7 +44,7 @@ Si prefieres, puedes completar este proyecto [sin conexión](https://www.codeclu
 * magazine/script.js
 * magazine/mutliple .png images
 
-También puedes encontrar una versión completa de los desafíos de este proyecto en la sección 'Recursos para voluntarios', que contiene:
+También puedes encontrar una versión completa de los desafíos de este proyecto en la sección «Recursos para voluntarios», que contiene:
 
 * magazine-finished/index.html
 * magazine-finished/style.css
@@ -58,7 +58,7 @@ También puedes encontrar una versión completa de los desafíos de este proyect
 
 ## Objetivos del Aprendizaje
 
-* Este proyecto enseña a los niños cómo crear una revista con un estilo de diseño de dos columnas usando `float:`. También se repasa un montón de HTML & CSS cubierto con más detalle en otros proyectos. Se proporcionan ejemplos para que los niños puedan completar este proyecto incluso si no han completado algunos de los proyectos anteriores. 
+* Este proyecto enseña a los infantes cómo crear una revista con un estilo de diseño de dos columnas usando `float:`. También se repasa un montón de HTML & CSS cubierto con más detalle en otros proyectos. Se proporcionan ejemplos para que los infantes puedan completar este proyecto incluso si no han completado algunos de los proyectos anteriores. 
 
 Este proyecto abarca elementos de los siguientes aspectos de la [Creación digital de curriculum en Raspberry Pi Digital](http://rpf.io/curriculum):
 
@@ -66,10 +66,10 @@ Este proyecto abarca elementos de los siguientes aspectos de la [Creación digit
 
 ## Desafíos
 
-* "Añade artículos en la columna izquierda" - coloca artículos dentro del elemento flotante;
-* "Añade un enlace que te devuelva a la primera página" - crea enlaces entre las páginas de un proyecto;
-* "Completa tu segunda página" - repasa más HTML & CSS;
-* "Añade otra animación" - repasa las animaciones.
+* «Añade artículos en la columna izquierda» - coloca artículos dentro del elemento flotante;
+* «Añade un enlace que te devuelva a la primera página» - crea enlaces entre las páginas de un proyecto;
+* «Completa tu segunda página» - repasa más HTML & CSS;
+* «Añade otra animación» - repasa las animaciones.
 
 \--- /collapse \---
 
@@ -80,7 +80,7 @@ Este proyecto abarca elementos de los siguientes aspectos de la [Creación digit
 ## Recursos del proyecto
 
 * [Archivo .zip que contiene todos los recursos del proyecto](https://rpf.io/p/en/magazine-go)
-* [Trinket en línea que contiene todos los recursos del proyecto 'Revista'](http://jumpto.cc/web-magazine)
+* [Trinket en línea que contiene todos los recursos del proyecto «Revista»](http://jumpto.cc/web-magazine)
 * [Plantilla de Trinket en línea](http://jumpto.cc/trinket-template)
 * [Trinket en blanco en línea](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
