@@ -1,6 +1,6 @@
-## Introduction
+## 簡介
 
-In this project, you'll learn how to use HTML and CSS to create a multi-page magazine website with a two page layout. You'll also revisit lots of HTML and CSS techiques from other projects.
+你會在這個專案中學習如何使用HTML和CSS，創建一本雜誌網站，並為雜誌設計各個不同的頁面。同時，還會重新熟悉在其他專案中，各種各樣的HTML和CSS程式碼。
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,105 +8,105 @@ In this project, you'll learn how to use HTML and CSS to create a multi-page mag
   <img src="images/magazine-final.png">
 </div>
 
-### Additional information for club leaders
+### 提供教師的補充資訊
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/magazine/print).
+如果需要列印本專案，請使用 [友善列印](https://projects.raspberrypi.org/en/projects/magazine/print)。
 
-## \--- collapse \---
+## - - 坍方 - -
 
-## title: Club leader notes
+## title：給教師的補充筆記
 
-## Introduction
+## 介紹
 
-In this project, children will learn how to create a two-column layout. They will also recap lots of the HTML & CSS that they have learned in other projects.
+本專案中，孩子們會學習如何在網頁中創建兩個欄位版面。同時，還會重新回顧其他專案中，學到的許多HTML & CSS程式碼。
 
-## Online Resources
+## 線上資源
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+我們建議線上使用 [Trinket](https://trinket.io/) 編寫HTML & CSS 。本專案包含的 Trinkets 程式碼如下：
 
-* ['Magazine' starting point -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* [前往查看本專案《雜誌》的程式編碼 - jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+孩子們也能利用空白的Trinket[（jumpto.cc/html-blank）](http://jumpto.cc/html-blank)編寫自己的HTML & CSS，也可以使用這個Trinket模板[（jumpto.cc/html-template）](http://jumpto.cc/html-template)來建置網頁。
 
-There is also a trinket containing a sample solution to the challenges:
+下列成品包含所有挑戰，為Trinket上專案的完成版：
 
-* ['Magazine' Finished -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* [《雜誌》成品 - trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
-## Offline Resources
+## 離線資源
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+依據個人喜好，本專案也能夠以[離線方式完成](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)。 你可以從下方的「專案資料」取得專案的相關資源。 「專案資料」包含學生以離線方式完成本專案，他們會需要用到的學習資源。 請確保每一個孩子都能取用得到所有資源副本。 本節包括以下文件：
 
-* intro/index.html
-* template/template.html
-* template/style.css
-* magazine/index.html
-* magazine/style.css
-* magazine/script.js
-* magazine/mutliple .png images
+* 前奏/ index.html的
+* 模板/ template.html
+* 模板/ style.css文件
+* 雜誌/ index.html的
+* 雜誌/ style.css文件
+* 雜誌/的script.js
+* magazine / mutliple .png圖片
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+你也可以在「志工相關資源」中找到包含挑戰的完整版專案，包括以下文件：
 
-* magazine-finished/index.html
-* magazine-finished/style.css
-* magazine-finished/script.js
-* magazine-finished/kitten.jpg
-* magazine-finished/recipe-finished.jpg
-* magazine-finished/greenrobot.png
-* magazine-finished/spacerobot.png
+* 雜誌成品/ index.html的
+* 雜誌成品/ style.css文件
+* 雜誌成品/的script.js
+* 雜誌成品/ kitten.jpg
+* 雜誌成品/配方，finished.jpg
+* 雜誌成品/ greenrobot.png
+* 雜誌成品/ spacerobot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+（以上所有資源也能以專案和志願者`.zip` 檔案作下載）。
 
-## Learning Objectives
+## 學習目標
 
-* This project teaches children how to create a two-column magazine style layout using `float:`. It also recaps lots of the HTML & CSS that is covered in more detail in other projects. Examples are given so children will be able to complete this project even if they have not completed some of the earlier projects. 
+* 本專案教孩子使用 `float：`浮動語法創建兩欄位版面。 同時，還會更細節回顧其他專案中，學到的許多HTML & CSS程式碼。 這邊提供一些範例，即使孩子沒做過早期的專案，也能夠學習完成這個專案。 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+本專案涵蓋 [Raspberry Pi數位創造課程](http://rpf.io/curriculum)的下列學習要素：
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [設計2D和3D的基本物件](https://www.raspberrypi.org/curriculum/design/creator)。
 
-## Challenges
+## 挑戰
 
-* "Add items to the left column" - placing items inside a floated element;
-* "Add a link back to the first page" - creating links between pages in a project;
-* "Fill in your second page" - recapping more HTML & CSS;
-* "Add another animation" - recapping animations.
+* 「添加左欄內容」—寫入CSS浮動語法，創作欄位內容；
+* 「添加回到第一頁的連結鈕」—在頁面之間創建連結；
+* 「設計雜誌的第二頁」—再複習編寫一次HTML & CSS程式碼；
+* 「加入另一個動畫」—再製作一次動畫。
 
-\--- /collapse \---
+- - /坍方 - -
 
-## \--- collapse \---
+## - - 坍方 - -
 
-## title: Project materials
+## title：專案教材
 
-## Project resources
+## 專案資源
 
-* [.zip file containing all project resources](https://rpf.io/p/en/magazine-go)
-* [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
-* [template/index.html](resources/template-index.html)
-* [template/style.css](resources/template-style.css)
-* [intro/index.html](resources/intro-index.html)
-* [intro/style.css](resources/intro-style.css)
-* [magazine/index.html](resources/magazine-index.html)
-* [magazine/style.css](resources/magazine-style.css)
-* [magazine/script.js](resources/magazine-script.js)
-* [magazine/kitten.jpg](resources/magazine-kitten.jpg)
-* [magazine/recipe-final.png](resources/magazine-recipe-final.png)
-* [magazine/greenrobot.png](resources/magazine-greenrobot.png)
-* [magazine/firerobot.png](resources/magazine-firerobot.png)
-* [magazine/spacerobot.png](resources/magazine-spacerobot.png)
-* [magazine/dogrobot.png](resources/magazine-dogrobot.png)
+* [包含所有項目資源的.zip文件](https://rpf.io/p/en/magazine-go)
+* [線上Trinket包含「雜誌」的所有專案資源](http://jumpto.cc/web-magazine)
+* [線上Trinket模板](http://jumpto.cc/trinket-template)
+* [在線空白飾品](http://jumpto.cc/trinket-blank)
+* [模板/ index.html的](resources/template-index.html)
+* [模板/ style.css文件](resources/template-style.css)
+* [前奏/ index.html的](resources/intro-index.html)
+* [前奏/ style.css文件](resources/intro-style.css)
+* [雜誌/ index.html](resources/magazine-index.html)
+* [雜誌/ style.css文件](resources/magazine-style.css)
+* [雜誌/script.js](resources/magazine-script.js)
+* [雜誌/ kitten.jpg](resources/magazine-kitten.jpg)
+* [雜誌/recipe-final.png](resources/magazine-recipe-final.png)
+* [雜誌/ greenrobot.png](resources/magazine-greenrobot.png)
+* [雜誌/ firerobot.png](resources/magazine-firerobot.png)
+* [雜誌/ spacerobot.png](resources/magazine-spacerobot.png)
+* [雜誌/ dogrobot.png](resources/magazine-dogrobot.png)
 
-## Club leader resources
+## 教師資源
 
-* [.zip file containing all completed project resources](https://rpf.io/p/en/magazine-go)
-* [Online completed Trinket project](https://trinket.io/html/a41e4e1c5c)
-* [magazine-finished/index.html](resources/magazine-finished-index.html)
-* [magazine-finished/style.css](resources/magazine-finished-style.css)
-* [magazine-finished/script.js](resources/magazine-finished-script.js)
-* [magazine-finished/kitten.jpg](resources/magazine-finished-kitten.jpg)
-* [magazine-finished/recipe-final.png](resources/magazine-finished-recipe-final.png)
-* [magazine-finished/greenrobot.png](resources/magazine-finished-greenrobot.png)
-* [magazine-finished/spacerobot.png](resources/magazine-finished-spacerobot.png)
+* [包含所有專案資源的.zip文件](https://rpf.io/p/en/magazine-go)
+* [線上完成的Trinket專案](https://trinket.io/html/a41e4e1c5c)
+* [雜誌成品/ index.html的](resources/magazine-finished-index.html)
+* [雜誌成品/ style.css文件](resources/magazine-finished-style.css)
+* [雜誌成品/script.js](resources/magazine-finished-script.js)
+* [雜誌成品/ kitten.jpg](resources/magazine-finished-kitten.jpg)
+* [雜誌成品/recipe-final.png](resources/magazine-finished-recipe-final.png)
+* [雜誌成品/ greenrobot.png](resources/magazine-finished-greenrobot.png)
+* [雜誌成品/ spacerobot.png](resources/magazine-finished-spacerobot.png)
 
-\--- /collapse \---
+- - /坍方 - -
