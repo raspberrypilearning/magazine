@@ -1,4 +1,4 @@
----挑戰---
+--- challenge ---
 
 ## 挑戰：添加回到第一頁的連結鈕
 
@@ -8,4 +8,4 @@
 
 ![截圖](images/magazine-page1-link.png)
 
---- /挑戰---
+--- /challenge ---

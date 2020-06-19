@@ -1,4 +1,4 @@
----挑戰---
+--- challenge ---
 
 ## 挑戰：設計雜誌的第二頁
 
@@ -14,4 +14,4 @@
 
 ![截圖](images/magazine-upload-images.png)
 
---- /挑戰---
+--- /challenge ---

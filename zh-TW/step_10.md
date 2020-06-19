@@ -1,4 +1,4 @@
----挑戰---
+--- challenge ---
 
 ## 挑戰：加入另一個動畫
 
@@ -6,7 +6,7 @@
 
 ![截圖](images/magazine-animation-challenge.png)
 
---- /挑戰---
+--- /challenge ---
 
 ***
 

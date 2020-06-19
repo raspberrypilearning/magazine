@@ -1,4 +1,4 @@
----挑戰---
+--- challenge ---
 
 ## 挑戰：添加左欄內容
 
@@ -18,4 +18,4 @@ CSS 樣式編碼：
 
 ![截圖](images/magazine-challenge1-style.png)
 
---- /挑戰---
+--- /challenge ---
