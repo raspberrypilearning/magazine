@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: Add items to the left column
+## Výzva: Přidej položky do levého sloupce
 
-Can you add a ordered list and a gradient text sticker to the left column?
+Dokážeš přidat číslovaný seznam a textovou samolepku s přechodem do levého sloupce?
 
-Here's an example:
+Tady je ukázka:
 
-![screenshot](images/magazine-challenge1-example.png)
+![snímek obrazovky](images/magazine-challenge1-example.png)
 
-This is the code for the example, but you can change it or come up with your own.
+Tohle je pouze vzorový kód, ale můžeš jej změnit nebo přijít s něčím originálním.
 
 HTML:
 
-![screenshot](images/magazine-challenge1.png)
+![snímek obrazovky](images/magazine-challenge1.png)
 
 CSS:
 
-![screenshot](images/magazine-challenge1-style.png)
+![snímek obrazovky](images/magazine-challenge1-style.png)
 
 \--- /challenge \---
