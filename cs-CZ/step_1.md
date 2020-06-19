@@ -1,6 +1,6 @@
-## Introduction
+## Úvod
 
-In this project, you'll learn how to use HTML and CSS to create a multi-page magazine website with a two page layout. You'll also revisit lots of HTML and CSS techiques from other projects.
+V tomto projektu se naučíš, jak používat HTML a CSS, a vytvořit tak vícestránkovou časopisovou webovou stránku s dvoustránkovým rozložením. Také si připomeneš hodně HTML a CSS postupů z ostatních projektů.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -8,33 +8,33 @@ In this project, you'll learn how to use HTML and CSS to create a multi-page mag
   <img src="images/magazine-final.png">
 </div>
 
-### Additional information for club leaders
+### Dodatečné informace pro vedoucí klubu
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/magazine/print).
+Potřebujete-li tento projekt vytisknout, použijte verzi [pro tisk](https://projects.raspberrypi.org/en/projects/magazine/print).
 
 ## \--- collapse \---
 
 ## title: Club leader notes
 
-## Introduction
+## Úvod
 
-In this project, children will learn how to create a two-column layout. They will also recap lots of the HTML & CSS that they have learned in other projects.
+V tomto projektu se děti naučí, jak vytvořit dvousloupcové rozložení. Také si připomenou mnoho HTML a CSS triků, které se naučily v ostatních projektech.
 
-## Online Resources
+## Online zdroje
 
-We recommend using [trinket](https://trinket.io/) to write HTML & CSS online. This project contains the following trinkets:
+Pro psaní HTML a CSS online doporučujeme [trinket](https://trinket.io/). Tento projekt obsahuje následující trinkets:
 
-* ['Magazine' starting point -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* [Výchozí bod pro „Časopis" -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Children can also make use of this blank trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) to write their own HTML & CSS, or alternatively they can use this template trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Děti mohou také použít prázdný trinket [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) a napsat si vlastní HTML a CSS kód. Popřípadě mohou použít tento trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template) s předlohou.
 
-There is also a trinket containing a sample solution to the challenges:
+K dispozici je také trinket obsahující vzorové řešení výzev:
 
-* ['Magazine' Finished -- trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* [Dokončený „Časopis" - trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
-## Offline Resources
+## Offline zdroje
 
-This project can be [completed offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) if preferred. You can access the project resources by clicking the 'Project Materials' link for this project. This link contains a 'Project Resources' section, which includes resources that children will need to complete this project offline. Make sure that each child has access to a copy of these resources. This section includes the following files:
+Pokud tomu dáváte přednost, můžete tento projekt [dokončit offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Ke zdrojům projektu se dostanete kliknutím na odkaz "materiály pro projekt". Tento odkaz obsahuje sekci "zdroje projektu", se zdroji, které děti budou potřebovat k dokončení projektu offline. Ujistěte se, že každé dítě má přístup ke kopii těchto zdrojů. Tato sekce obsahuje následující soubory:
 
 * intro/index.html
 * template/template.html
@@ -42,9 +42,9 @@ This project can be [completed offline](https://www.codeclubprojects.org/en-GB/r
 * magazine/index.html
 * magazine/style.css
 * magazine/script.js
-* magazine/mutliple .png images
+* magazine/vícero .png obrázků
 
-You can also find a completed version of this project's challenges in the 'Volunteer Resources' section, which contains:
+V sekci "zdroje dobrovolníků" také můžete najít dokončenou verzi s výzvami tohoto projektu, která obsahuje:
 
 * magazine-finished/index.html
 * magazine-finished/style.css
@@ -54,35 +54,35 @@ You can also find a completed version of this project's challenges in the 'Volun
 * magazine-finished/greenrobot.png
 * magazine-finished/spacerobot.png
 
-(All of the resources above are also downloadable as project and volunteer `.zip` files.)
+(Všechny výše zmíněné zdroje jsou také stažitelné jako `.zip` soubory.)
 
-## Learning Objectives
+## Výukové cíle
 
-* This project teaches children how to create a two-column magazine style layout using `float:`. It also recaps lots of the HTML & CSS that is covered in more detail in other projects. Examples are given so children will be able to complete this project even if they have not completed some of the earlier projects. 
+* Tento projekt naučí děti, jak vytvořit dvousloupcové rozložení v časopisovém stylu za pomocí vlastnosti `float:`. Také shrnuje mnoho HTML a CSS triků, které jsou více rozvedeny v ostatních projektech. Příklady jsou zadány tak, že děti budou schopny dokončit tento projekt i pokud nedokončili některé dřívější projekty. 
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Tento projekt zahrnuje prvky z následujících částí výukových osnov [Raspberry Pi digitální bastlení](http://rpf.io/curriculum):
 
-* [Design basic 2D and 3D assets](https://www.raspberrypi.org/curriculum/design/creator).
+* [Designování základních 2D a 3D konstrukcí](https://www.raspberrypi.org/curriculum/design/creator).
 
-## Challenges
+## Výzvy
 
-* "Add items to the left column" - placing items inside a floated element;
-* "Add a link back to the first page" - creating links between pages in a project;
-* "Fill in your second page" - recapping more HTML & CSS;
-* "Add another animation" - recapping animations.
+* „Přidej položky do levého sloupce" - umisťování položek do elementu s vlastností float;
+* „Přidej odkaz odkazující na první stránku" - vytváření odkazů mezi stránkami v projektu;
+* „Zaplň druhou stránku" - shrnutí dalších HTML a CSS technik;
+* „Přidej další animaci" - shrnutí animací.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiály projektu
 
-## Project resources
+## Zdroje projektu
 
-* [.zip file containing all project resources](https://rpf.io/p/en/magazine-go)
-* [Online Trinket containing all 'Magazine' project resources](http://jumpto.cc/web-magazine)
-* [Online Trinket template](http://jumpto.cc/trinket-template)
-* [Online blank Trinket](http://jumpto.cc/trinket-blank)
+* [.zip soubor se všemi zdroji projektu](https://rpf.io/p/en/magazine-go)
+* [Online trinket se všemi zdroji projektu „Časopis"](http://jumpto.cc/web-magazine)
+* [Online trinket s předlohou](http://jumpto.cc/trinket-template)
+* [Online prázdný trinket](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [intro/index.html](resources/intro-index.html)
@@ -97,10 +97,10 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [magazine/spacerobot.png](resources/magazine-spacerobot.png)
 * [magazine/dogrobot.png](resources/magazine-dogrobot.png)
 
-## Club leader resources
+## Zdroje pro vedoucí klubu
 
-* [.zip file containing all completed project resources](https://rpf.io/p/en/magazine-go)
-* [Online completed Trinket project](https://trinket.io/html/a41e4e1c5c)
+* [.zip soubor se všemi zdroji dokončeného projektu](https://rpf.io/p/en/magazine-go)
+* [Online trinket s dokončeným projektem](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
 * [magazine-finished/script.js](resources/magazine-finished-script.js)
