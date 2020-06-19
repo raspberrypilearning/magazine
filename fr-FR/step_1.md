@@ -1,6 +1,6 @@
 ## Introduction
 
-Dans ce projet, tu apprendras à utiliser HTML et CSS pour créer un magazine en ligne à plusieurs pages avec un agencement à deux colonnes. Tu reverras également beaucoup de techniques HTML et CSS apprises dans d’autres projets.
+Dans ce projet, tu apprendras à utiliser HTML et CSS pour créer un magazine en ligne de plusieurs pages avec un agencement à deux colonnes. Tu reverras également beaucoup de techniques HTML et CSS apprises dans d’autres projets.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
