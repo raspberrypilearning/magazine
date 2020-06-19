@@ -1,43 +1,43 @@
-## Creating Columns
+## Vytváření sloupců
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+Webové stránky často používají více sloupců. Pojďme vytvořit dvousloupcové rozložení pro tvůj časopis.
 
-+ First create two column `div`s.
++ Nejprve vytvoř dva elementy `div` pro sloupce.
     
-    Add the highlighted HTML to `index.html`:
+    Přidej zvýrazněný HTML kód do `index.html`:
     
-    ![screenshot](images/magazine-columns.png)
+    ![snímek obrazovky](images/magazine-columns.png)
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
++ Nyní nastylizuj elementy div tak, aby jeden měl vlastnost float: left a druhý float: right.
     
-    ![screenshot](images/magazine-columns-style.png)
+    ![snímek obrazovky](images/magazine-columns-style.png)
     
-    Each column is less than 50% so there's room for padding.
+    Každý sloupec je menší než 50%, máme tedy místo pro padding.
     
-    You'll need to add something to a column to see the effect.
+    Pro zobrazení výsledku musíš něco vložit do sloupce.
 
-+ Let's add a kitten picture to the top of column 2.
++ Pojďme přidat obrázek koťátka na začátek druhého sloupce.
     
-    ![screenshot](images/magazine-kitten.png)
+    ![snímek obrazovky](images/magazine-kitten.png)
     
-    Notice that the kitten image is positioned about half-way across the page, in the second column.
+    Povšimni si, že obrázek koťátka je umístěn v polovině stránky v druhém sloupci.
     
-    It's a bit big though!
+    Je ale dost velký!
 
-+ Let's use `max-width:` to make images fit within their container.
++ Zkusme použít `max-width:`, aby se mohly obrázky vejít do svého kontejneru.
     
-    Add the following style to `style.css`.
+    Přidej následující styl do `style.css`.
     
-    ![screenshot](images/magazine-img-width.png)
+    ![snímek obrazovky](images/magazine-img-width.png)
     
-    This will apply to all images you use in your magazine, not just the kitten.
+    Tento styl bude použit na všechny obrázky v časopisu, a ne jenom na koťátko.
 
-+ Now add a class `photo` to the image so that you can style it:
++ Nyní přidej obrázku třídu `photo`, poté jej budeš moci nastylizovat:
     
-    ![screenshot](images/magazine-photo.png)
+    ![snímek obrazovky](images/magazine-photo.png)
 
-+ And style the image to add a shadow and a twist to make the photo pop out of the page:
++ Nyní nastylizuj obrázek - přidej stín a natoč ho, aby obrázek ze stránky vyčníval:
     
-    ![screenshot](images/magazine-photo-style.png)
+    ![snímek obrazovky](images/magazine-photo-style.png)
     
-    Make some changes until you like the result.
+    Udělej nějaké změny, než budeš s výsledkem spokojený.
