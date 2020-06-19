@@ -1,5 +1,5 @@
 ---
-title: Magazine
+title: Časopis
 hero_image: images/magazine.png
 theme: red
 duration: 2
@@ -7,7 +7,7 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Create a multi-page magazine website.
+description: Vytvoř vícestrankový časopis jako webovou stránku.
 original_url: https://codeclubprojects.org/en-GB/webdev/magazine
 interests: art
 technologies: html-css-javascript
@@ -18,22 +18,22 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Úvod
   - 
-    title: Heading and Background
+    title: Záhlaví a pozadí
   - 
-    title: Creating Columns
+    title: Vytváření sloupců
   - 
-    title: Style magazine items
+    title: Stylizování položek v časopisu
   - 
-    title: 'Challenge: Add items to the left column'
+    title: 'Výzva: Přidej položky do levého sloupce'
   - 
-    title: Add a second page
+    title: Přidej druhou stránku
   - 
-    title: 'Challenge: Add a link back to the first page'
+    title: 'Výzva: Přidej odkaz vedoucí na první stránku'
   - 
-    title: 'Challenge: Fill in your second page'
+    title: 'Výzva: Zaplň druhou stránku'
   - 
-    title: Add an animation
+    title: Přidej animaci
   - 
-    title: 'Challenge: Add another animation'
+    title: 'Výzva: Přidej další animaci'
