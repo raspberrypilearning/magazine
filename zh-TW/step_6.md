@@ -1,25 +1,25 @@
-## Add a second page
+## 加入第二頁
 
-Let's add another page to your magazine website.
+一起為你的雜誌網站再寫一頁版面。
 
-+ Add a new page to your project and name it `page2.html`:
++ 新增一頁並命名為 `page2.html`：
 
-![screenshot](images/magazine-page2.png)
+![截圖](images/magazine-page2.png)
 
-+ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
++ 第二頁與第一頁會非常相似，因此你可以直接複製 `index.html` 的html編碼，再貼到 `page2.html` 頁面上即可。
 
-![screenshot](images/magazine-page2-html.png)
+![截圖](images/magazine-page2-html.png)
 
-Notice that both pages use the same `style.css` so they will share styles.
+請特別注意，兩個頁面會共同使用同個 `style.css` 編碼，在此頁面寫入的程式碼，兩個頁面都能共用。
 
-+ Change the `<h1>` title for page2:
++ 修改`<h1>`標籤將標題改為第二頁：
 
-![screenshot](images/magazine-page2-h1.png)
+![截圖](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
++ 接著，你需要在頁面之間建立連結，能到第二頁以及返回第一頁的連結鈕。
 
-Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
+回到 `index.html`頁面，找到column 2的`div`區塊標籤，下方寫入連結的div編碼：
 
-![screenshot](images/magazine-page2-link.png)
+![截圖](images/magazine-page2-link.png)
 
-+ Test that you can click on your new link and move to page 2 of your magazine.
++ 點擊測試連結到雜誌的第二頁。
