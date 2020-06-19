@@ -22,11 +22,11 @@ En este proyecto, los infantes aprenderán a crear un diseño de dos columnas. T
 
 ## Recursos en línea
 
-Recomendamos usar [trinket](https://trinket.io/) para escribir HTML & CSS en línea. Este proyecto incluye los siguientes trinkets:
+Recomendamos usar [trinket](https://trinket.io/) un editor que permite escribir HTML & CSS en línea. Este proyecto incluye los siguientes trinkets:
 
 * [Punto de partida de la «Revista» -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Los infantes también pueden hacer uso de este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS o alternativamente pueden usar esta plantilla de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Los niños también pueden hacer uso de este trinket en blanco [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) para escribir su propio HTML & CSS o alternativamente pueden usar esta plantilla de trinket [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 También hay un trinket que contiene una solución de muestra para los desafíos:
 
