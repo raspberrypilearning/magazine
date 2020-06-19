@@ -10,7 +10,7 @@ Los sitios web diseñados al estilo de una revista a menudo tienen muchos elemen
 
 + Vamos a añadir un encabezado.
     
-    Puedes pensar en un mejor título para tu revista.
+    Puedes pensar en un título mejor para tu revista.
     
     ![screenshot](images/magazine-heading.png)
 
