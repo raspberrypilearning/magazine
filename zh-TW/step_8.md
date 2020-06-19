@@ -1,17 +1,17 @@
-\--- challenge \---
+\---挑戰\---
 
-## Challenge: Fill in your second page
+## 挑戰：設計雜誌的第二頁
 
-Here's the code for the examples, but you can change the `div`s or come up with your own ideas.
+這邊提供編碼範例，但你自行將 `div` 區塊標籤裡的內容作變化，或想個屬於自己的編碼。
 
-![screenshot](images/magazine-page2-challenge.png)
+![截圖](images/magazine-page2-challenge.png)
 
-Click the images icon to see the images that are available to use:
+點圖片小圖示查看可供使用的圖片：
 
-![screenshot](images/magazine-images.png)
+![截圖](images/magazine-images.png)
 
-Remember that you can upload your own images to use. Make sure you have permission to use any images that you upload.
+你能夠自行上傳使用自己的圖片。但請記住一點，任何上傳的圖片都必須經過持有者的許可下，方可使用。
 
-![screenshot](images/magazine-upload-images.png)
+![截圖](images/magazine-upload-images.png)
 
-\--- /challenge \---
+\--- /挑戰\---
