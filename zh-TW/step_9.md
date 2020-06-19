@@ -1,11 +1,11 @@
-## Add an animation
+## 加入動畫
 
-Let's add a fun animation to your magazine.
+為你的雜誌加個好玩有趣的動畫。
 
-+ Go to `index.html` and include the `greenrobot.png` image at the top of your page.
++ 至 `index.html` 頁面並在body標籤下，寫入包含 `greenrobot.png` 的img標籤。
 
-![screenshot](images/magazine-animation-image.png)
+![截圖](images/magazine-animation-image.png)
 
-+ Now add the CSS to animate your robot:
++ 再加入CSS編碼，將圖片中的機器人設置成動畫：
 
-![screenshot](images/magazine-animation-css.png)
+![截圖](images/magazine-animation-css.png)
