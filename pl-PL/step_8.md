@@ -10,7 +10,7 @@ Kliknij ikonę obrazów, aby wyświetlić obrazy, które możesz użyć:
 
 ![zrzut ekranu](images/magazine-images.png)
 
-Pamiętaj, że możesz przesłać własne obrazy do wykorzystania. Upewnij się jednak, że masz pozwolenie na użycie przesłanych zdjęć.
+Pamiętaj, że możesz przesłać własne obrazy do wykorzystania. Upewnij się jednak, że masz pozwolenie na ich użycie.
 
 ![zrzut ekranu](images/magazine-upload-images.png)
 
