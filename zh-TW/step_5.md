@@ -1,21 +1,21 @@
-\--- challenge \---
+\---挑戰\---
 
-## Challenge: Add items to the left column
+## 挑戰：添加左欄內容
 
-Can you add a ordered list and a gradient text sticker to the left column?
+可以在雜誌的左欄寫份有趣的順序清單，以及有著漸層背景的文字版面嗎？
 
-Here's an example:
+範例如下：
 
-![screenshot](images/magazine-challenge1-example.png)
+![截圖](images/magazine-challenge1-example.png)
 
-This is the code for the example, but you can change it or come up with your own.
+這邊提供編碼範例，你可以自行作變化，找到屬於自己的風格。
 
-HTML:
+HTML 編碼：
 
-![screenshot](images/magazine-challenge1.png)
+![截圖](images/magazine-challenge1.png)
 
-CSS:
+CSS 樣式編碼：
 
-![screenshot](images/magazine-challenge1-style.png)
+![截圖](images/magazine-challenge1-style.png)
 
-\--- /challenge \---
+\--- /挑戰\---
