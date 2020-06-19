@@ -16,7 +16,7 @@ Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://pro
 
 ## title: Notas del líder del club
 
-## Introduction
+## Introducción
 
 En este proyecto, los niños aprenderán a crear un diseño de dos columnas. También repasarán un montón de HTML & CSS que han aprendido en otros proyectos.
 
