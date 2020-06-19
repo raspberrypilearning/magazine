@@ -10,7 +10,7 @@ Haz clic en el icono de las imágenes para ver qué imágenes están disponibles
 
 ![screenshot](images/magazine-images.png)
 
-Recuerda que puedes subir tus propias imágenes a utilizar. Asegúrate de que tienes permiso para usar cualquier imagen que cargues.
+Recuerda que puedes subir y utilizar tus propias imágenes. Asegúrate de que tienes permiso para usar cualquier imagen que cargues.
 
 ![screenshot](images/magazine-upload-images.png)
 
