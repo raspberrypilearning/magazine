@@ -1,6 +1,6 @@
 ## Wprowadzenie
 
-W tym projekcie nauczysz się, jak używać HTML i CSS, aby utworzyć wielostronicową witrynę z magazynem z układem dwóch stron. Będziesz korzystać z wielu technologii HTML i CSS już użytych przy innych projektach.
+W tym projekcie nauczysz się, jak używać HTML i CSS, aby utworzyć wielostronicową witrynę w stylu czasopisma z układem dwóch stron. Będziesz korzystać z wielu technologii HTML i CSS już użytych przy innych projektach.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a41e4e1c5c?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -14,27 +14,27 @@ Jeśli chcesz wydrukować ten projekt, skorzystaj z [wersji do druku](https://pr
 
 ## \--- collapse \---
 
-## tytuł: Notatki prowadzących klub
+## title: Notatki dla liderów klubu
 
-## Introduction
+## Wprowadzenie
 
-W tym projekcie dzieci nauczą się tworzyć układ dwukolumnowy. Podsumują także wiele właściwości CSS i HTML, których nauczyli się w innych projektach.
+W tym projekcie dzieci nauczą się tworzyć układ dwukolumnowy. Powtórzą także wiele właściwości CSS i HTML, których nauczyły się w innych projektach.
 
 ## Zasoby online
 
-Do pisania kodu HTML i CSS online zalecamy użytkowanie edytora [trinket](https://trinket.io/). Ten projekt zawiera następujące szablony:
+Do pisania kodu HTML i CSS online zalecamy używanie edytora [trinket](https://trinket.io/). Ten projekt zawiera następujące szablony:
 
-* [Punkt początkowy "Magazine" - jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
+* [Punkt początkowy "Czasopismo" - jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
-Dzieci mogą również skorzystać z tego pustego wzorca [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank), aby napisać własny kod HTML i CSS, lub mogą skorzystać z wcześniej przygotowanego wzorca [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
+Dzieci mogą również skorzystać z tego pustego szablonu [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank), aby napisać własny kod HTML i CSS lub mogą użyć uzupełnionego szablonu [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
 Dostępny jest także projekt zawierający przykładowe rozwiązania wyzwań:
 
-* [Skończone czasopismo - trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
+* [Ukończone "Czasopismo" - trinket.io/html/a41e4e1c5c](https://trinket.io/html/a41e4e1c5c)
 
 ## Zasoby offline
 
-Ten projekt może być [zakończony w trybie offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Można znaleźć tam sekcję "Źródła", która zawieraj zasoby, potrzebne dzieciom do wykonania projektu w wersji offline. Upewnij się, że każde dziecko ma dostęp do własnej kopii zasobów. Ta sekcja zawiera następujące pliki:
+Ten projekt może być [ukończony w trybie offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Można znaleźć tam sekcję "Zasoby", która zawiera materiały potrzebne dzieciom do wykonania projektu w wersji offline. Upewnij się, że każde dziecko ma dostęp do własnej kopii zasobów. Ta sekcja zawiera następujące pliki:
 
 * intro/index.html
 * template/template.html
@@ -44,7 +44,7 @@ Ten projekt może być [zakończony w trybie offline](https://www.codeclubprojec
 * magazine/script.js
 * magazine/mutliple.png obrazy
 
-Pełną wersję tego projektu można również znaleźć w sekcji "Zasoby dla wolontariuszy", która zawiera:
+Ukończoną wersję wyzwań tego projektu możesz znaleźć w sekcji "Zasoby dla wolontariuszy", która zawiera:
 
 * magazine-finished/index.html
 * magazine-finished/style.css
@@ -58,7 +58,7 @@ Pełną wersję tego projektu można również znaleźć w sekcji "Zasoby dla wo
 
 ## Cele dydaktyczne
 
-* Ten projekt uczy dzieci, jak utworzyć dwukolumnowy układ stylu czasopisma, używając `float:`. Pomaga również w przypomnieniu sporej ilości właściwości HTML i CSS, które są bardziej szczegółowo omówione w innych projektach. W projekcie podano przykłady, tak, aby dzieci były w stanie wykonać wyzwania nawet jeśli nie ukończyły wcześniejszych projektów. 
+* Ten projekt uczy dzieci, jak utworzyć dwukolumnowy układ stylu czasopisma, używając `float:`. Pomaga również w przypomnieniu sporej ilości właściwości HTML i CSS, które są bardziej szczegółowo omówione w innych projektach. W projekcie podano przykłady, aby dzieci były w stanie wykonać wyzwania, nawet jeśli nie ukończyły wcześniejszych projektów. 
 
 Projekt ten pokrywa elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
 
@@ -80,9 +80,9 @@ Projekt ten pokrywa elementy z następujących wątków [Cyfrowego programu nauc
 ## Zasoby projektu
 
 * [Plik.zip zawierający wszystkie zasoby potrzebne do wykonania projektu](https://rpf.io/p/en/magazine-go)
-* [Szablon startowy zawierający wszystkie zasoby potrzebne do realizacji projektu "Czasopismo"](http://jumpto.cc/web-magazine)
-* [Pusty szablon](http://jumpto.cc/trinket-template)
-* [Pusty szablon Trinket](http://jumpto.cc/trinket-blank)
+* [Szablon zawierający wszystkie zasoby potrzebne do realizacji projektu "Czasopismo"](http://jumpto.cc/web-magazine)
+* [Uzupełniony szablon](http://jumpto.cc/trinket-template)
+* [Pusty szablon](http://jumpto.cc/trinket-blank)
 * [template/index.html](resources/template-index.html)
 * [template/style.css](resources/template-style.css)
 * [intro/index.html](resources/intro-index.html)
@@ -99,7 +99,7 @@ Projekt ten pokrywa elementy z następujących wątków [Cyfrowego programu nauc
 
 ## Zasoby dla lidera klubu
 
-* [Plik.zip zawierający zasoby z ukończonym projektem](https://rpf.io/p/en/magazine-go)
+* [Plik .zip zawierający zasoby z ukończonym projektem](https://rpf.io/p/en/magazine-go)
 * [Szablon zawierający ukończony projekt](https://trinket.io/html/a41e4e1c5c)
 * [magazine-finished/index.html](resources/magazine-finished-index.html)
 * [magazine-finished/style.css](resources/magazine-finished-style.css)
