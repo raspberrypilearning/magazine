@@ -1,6 +1,6 @@
 ## Nagłówek i tło
 
-Witryny w stylizowane na magazyny często zawierają wiele małych elementów na stronie. Najpierw utworzymy nagłówek i tło dla twojego czasopisma.
+Witryny stylizowane na magazyny często zawierają wiele małych elementów na stronie. Najpierw utworzysz nagłówek i tło dla twojego czasopisma.
 
 + Otwórz edytor: <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
@@ -10,7 +10,7 @@ Witryny w stylizowane na magazyny często zawierają wiele małych elementów na
 
 + Dodajmy nagłówek.
     
-    Możesz wymyślić lepszy tytuł do swojego magazynu.
+    Możesz wymyślić lepszy tytuł dla twojego czasopisma.
     
     ![zrzut ekranu](images/magazine-heading.png)
 
@@ -20,8 +20,8 @@ Witryny w stylizowane na magazyny często zawierają wiele małych elementów na
     
     ![zrzut ekranu](images/magazine-heading-style.png)
 
-+ Teraz stwórzmy ciekawe tło za pomocą gradientu i wybierzmy czcionkę do magazynu.
++ Teraz stwórzmy ciekawe tło za pomocą gradientu i wybierzmy font do czasopisma.
     
-    Oto przykładowy styl przypominający, jak tworzy się gradientu:
+    Oto przykładowy styl przypominający, jak tworzy się gradient:
     
     ![zrzut ekranu](images/magazine-background.png)
