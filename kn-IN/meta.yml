@@ -1,0 +1,39 @@
+---
+title: ಪತ್ರಿಕೆ
+hero_image: images/magazine.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: ಬಹು ಪುಟಗಳ ನಿಯತಕಾಲಿಕ ವೆಬ್‌ಸೈಟ್ ರಚಿಸಿ.
+original_url: https://codeclubprojects.org/en-GB/webdev/magazine
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: ಪರಿಚಯ
+  - 
+    title: ಶೀರ್ಷಿಕೆ ಮತ್ತು ಹಿನ್ನೆಲೆ
+  - 
+    title: ಕಾಲಮ್‌ಗಳನ್ನು ರಚಿಸಲಾಗುತ್ತಿದೆ
+  - 
+    title: ಸ್ಟೈಲ್ magazine( ಪತ್ರಿಕೆ) ವಸ್ತುಗಳು
+  - 
+    title: 'ಸವಾಲು: ವಸ್ತುಗಳನ್ನು ಸಾಲಿನ ಎಡಭಾಗಕ್ಕೆ ಸೇರಿಸಿ'
+  - 
+    title: ಎರಡನೇ ಪುಟವನ್ನು ಸೇರಿಸಿ
+  - 
+    title: 'ಸವಾಲು: ಮೊದಲ ಪುಟಕ್ಕೆ ಲಿಂಕ್ ಅನ್ನು ಮತ್ತೆ ಸೇರಿಸಿ'
+  - 
+    title: 'ಸವಾಲು: ನಿಮ್ಮ ಎರಡನೇ ಪುಟವನ್ನು ಭರ್ತಿ ಮಾಡಿ'
+  - 
+    title: ಅನಿಮೇಷನ್ ಸೇರಿಸಿ
+  - 
+    title: 'ಇನ್ನೊಂದ್ದು ಅನಿಮೇಷನ್ ಸೇರಿಸಿ'
