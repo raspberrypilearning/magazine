@@ -1,0 +1,39 @@
+---
+title: मैगझिन
+hero_image: images/magazine.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: बहु-पृष्ठ मॅगझिन वेबसाइट तयार करा.
+original_url: https://codeclubprojects.org/en-GB/webdev/magazine
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: परिचय
+  - 
+    title: शीर्षक आणि पार्श्वभूमी
+  - 
+    title: स्तंभ तयार करीत आहे
+  - 
+    title: मॅगझिनआयटम्सला स्टाइल करा
+  - 
+    title: 'आव्हान: डाव्या स्तंभात आयटम जोडा'
+  - 
+    title: दुसरे पेज जोडा
+  - 
+    title: 'आव्हान: पहिल्या पृष्ठावर परत एक लिंक जोडा'
+  - 
+    title: 'आव्हान: आपले दुसरे पेज भरा'
+  - 
+    title: अ‍ॅनिमेशन जोडा
+  - 
+    title: 'आव्हान: आणखी एक अ‍ॅनिमेशन जोडा'
