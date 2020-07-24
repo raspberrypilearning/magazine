@@ -22,7 +22,7 @@ En este proyecto, los infantes aprenderán a crear un diseño de dos columnas. T
 
 ## Recursos en línea
 
-Recomendamos usar [trinket](https://trinket.io/) un editor que permite escribir HTML & CSS en línea. Este proyecto incluye los siguientes trinkets:
+Recomendamos usar [trinket](https://trinket.io/), un editor que permite escribir HTML & CSS en línea. Este proyecto incluye los siguientes trinkets:
 
 * [Punto de partida de la «Revista» -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
