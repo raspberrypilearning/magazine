@@ -60,7 +60,7 @@ También puedes encontrar una versión completa de los desafíos de este proyect
 
 * Este proyecto enseña a los niños cómo crear una revista con un estilo de diseño de dos columnas usando `float:`. También se repasa un montón de HTML & CSS cubierto con más detalle en otros proyectos. Se proporcionan ejemplos para que los niños puedan completar este proyecto incluso si no han completado algunos de los proyectos anteriores. 
 
-Este proyecto abarca elementos de los siguientes aspectos de la [Creación digital de curriculum en Raspberry Pi Digital](http://rpf.io/curriculum):
+Este proyecto abarca elementos de los siguientes aspectos de la [Creación digital de curriculum en Raspberry Pi Digital](https://rpf.io/curriculum):
 
 * [Diseño de elementos básicos en 2D y 3D](https://www.raspberrypi.org/curriculum/design/creator).
 

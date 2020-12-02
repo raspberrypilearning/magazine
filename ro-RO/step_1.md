@@ -61,7 +61,7 @@ De asemenea, poți găsi o versiune completă a provocărilor din acest proiect 
 
 * Acest proiect învață copiii cum să creeze o revistă cu două coloane folosind `float:`. De asemenea, recapitulează HTML & CSS prezentat în detaliu în alte proiecte. Sunt prezentate exemple, astfel încât copiii vor putea să finalizeze acest proiect chiar dacă nu au finalizat unele dintre proiectele anterioare. 
 
-Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Proiectarea elementelor grafice 2D și 3D de bază](https://www.raspberrypi.org/curriculum/design/creator).
 

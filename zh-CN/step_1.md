@@ -61,7 +61,7 @@ title: 俱乐部领导备注
 ## 学习目标
 + 本项目教孩子们如何使用 `float:`（浮动）来创建一个两栏杂志的样式布局。还回顾了大量在其他项目中详细介绍的 HTML & CSS。通过列举一些示例，使孩子们即使还未完成先前的某些项目，也能够完成本项目。 
 
-本项目包括 [Raspberry Pi 数字制作课程](http://rpf.io/curriculum) 以下几个部分的元素：
+本项目包括 [Raspberry Pi 数字制作课程](https://rpf.io/curriculum) 以下几个部分的元素：
 
 + [设计基本的 2D 和 3D 资源](https://www.raspberrypi.org/curriculum/design/creator)。
 

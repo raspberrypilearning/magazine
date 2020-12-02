@@ -61,7 +61,7 @@ Dovršenu verziju projektnih izazova možete pronaći i u odjeljku 'Volunteer Re
 
 * Ovaj projekt podučava djecu kako stvoriti stil za predložak časopisa u dva stupca pomoću atributa `float:`. Također ponavlja i mnogo HTML & CSS-a koji je detaljnije objašnjen u drugim projektima. Primjeri su dani kako bi djeca mogla dovršiti ovaj projekt čak i ako nisu dovršili neke od ranijih projekata. 
 
-Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Making](http://rpf.io/curriculum) nastavnog plana i programa:
+Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Making](https://rpf.io/curriculum) nastavnog plana i programa:
 
 * [Dizajnirajte osnovna 2D i 3D sredstva](https://www.raspberrypi.org/curriculum/design/creator).
 
