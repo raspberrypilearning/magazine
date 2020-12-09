@@ -61,7 +61,7 @@ Una versione completa delle sfide di questo progetto è presente anche nella sez
 
 * Questo progetto insegna ai ragazzi come creare una struttura di una rivista a due colonne usando l'attributo `float:`. Inoltre, include molte tecniche di HTML e CSS che sono state approfondite in altri progetti. Sono presenti degli esempi, per permettere ai ragazzi di completare questo progetto anche se non hanno completato alcuni di quelli precedenti. 
 
-Questo progetto include elementi tratti dalle seguenti sezioni del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum):
+Questo progetto include elementi tratti dalle seguenti sezioni del [Digital Making Curriculum di Raspberry Pi](https://rpf.io/curriculum):
 
 * [Design di base in 2D e risorse 3D](https://www.raspberrypi.org/curriculum/design/creator).
 

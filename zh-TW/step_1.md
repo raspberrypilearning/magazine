@@ -60,7 +60,7 @@ title: 給教師的補充筆記
 
 * 本專案教孩子使用 `float：`浮動語法創建兩欄位版面。 同時，還會更細節回顧其他專案中，學到的許多HTML & CSS程式碼。 這邊提供一些範例，即使孩子沒做過早期的專案，也能夠學習完成這個專案。 
 
-本專案涵蓋 [Raspberry Pi數位創造課程](http://rpf.io/curriculum)的下列學習要素：
+本專案涵蓋 [Raspberry Pi數位創造課程](https://rpf.io/curriculum)的下列學習要素：
 
 * [設計2D和3D的基本物件](https://www.raspberrypi.org/curriculum/design/creator)。
 

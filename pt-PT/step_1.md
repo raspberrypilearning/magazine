@@ -61,7 +61,7 @@ Também pode encontrar uma versão completa dos desafios deste projeto na secç�
 
 * Este projeto ensina as crianças a criar um layout de revista de duas colunas usando `float:`. Ele também recapitula muito do CSS e do HTML & coberto em mais detalhes nutros projetos. São dados exemplos para que as crianças possam concluir este projeto, mesmo que não tenham concluído alguns dos projetos anteriores. 
 
-Este projeto abrange elementos das seguintes vertentes do [Curriculo Raspberry Pi Digital Making](http://rpf.io/curriculum):
+Este projeto abrange elementos das seguintes vertentes do [Curriculo Raspberry Pi Digital Making](https://rpf.io/curriculum):
 
 * [Criar conteúdos básicos em 2D e 3D](https://www.raspberrypi.org/curriculum/design/creator).
 

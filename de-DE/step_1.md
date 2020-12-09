@@ -61,7 +61,7 @@ Eine vollständige Version dieses Projekts finden Sie auch im Abschnitt "Ressour
 
 * In diesem Projekt lernen die Kinder wie man mit `float:` ein Layout mit zwei Spalten - wie in einer Zeitschrift - programmiert. Es werden auch viele HTML & CSS Befehle verwendet, die in anderen Projekten bereits ausführlich behandelt wurden. Wir verwenden viele Beispiele so dass die Kinder das Projekt beenden können, auch wenn sie nicht alle vorigen Projekte durchgeführt haben. 
 
-Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Dieses Projekt umfasst Elemente aus den folgenden Teilen des [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Entwurf von grundlegenden 2D- and 3D-Konstruktionen](https://www.raspberrypi.org/curriculum/design/creator).
 

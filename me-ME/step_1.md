@@ -60,7 +60,7 @@ Takođe, završenu verziju izazova ovoga projekta možete naći u odjeljku 'Izvo
 
 * U ovom projektu djeca uče kako da naprave raspored u dvije kolone u stilu časopisa, koristeći `float:` (plutanje). Takođe se ponavlja puno tehnika HTML-a i CSS-a koje su detaljnije obrađene u ostalim projektima. Dati su primjeri, tako da će djeca moći da izrade ovaj projekat čak i ako nisu izradila neke od prethodnih projekata. 
 
-Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ovim projektom obuhvaćeni su elementi iz sljedećih dijelova [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Dizajniranje osnovnih 2D i 3D elemenata](https://www.raspberrypi.org/curriculum/design/creator).
 

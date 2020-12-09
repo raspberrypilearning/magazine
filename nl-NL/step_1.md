@@ -60,7 +60,7 @@ Je kunt ook een voltooide versie van de uitdagingen van dit project vinden in de
 
 * Dit project leert kinderen hoe ze een tweekoloms lay-out in tijdschriftstijl kunnen maken met `float:`. Het bevat ook veel van de HTML & CSS die meer in detail in andere projecten worden behandeld. Er worden voorbeelden gegeven zodat kinderen dit project kunnen voltooien, zelfs als ze sommige van de eerdere projecten niet hebben voltooid. 
 
-Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Ontwerp standaard 2D- en 3D-objecten](https://www.raspberrypi.org/curriculum/design/creator).
 

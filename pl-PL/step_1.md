@@ -61,7 +61,7 @@ Pełną wersję tego projektu można również znaleźć w sekcji "Zasoby dla wo
 
 * Ten projekt uczy dzieci, jak utworzyć dwukolumnowy układ stylu czasopisma, używając `float:`. Pomaga również w przypomnieniu sporej ilości właściwości HTML i CSS, które są bardziej szczegółowo omówione w innych projektach. W projekcie podano przykłady, tak, aby dzieci były w stanie wykonać wyzwania nawet jeśli nie ukończyły wcześniejszych projektów. 
 
-Projekt ten pokrywa elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
+Projekt ten pokrywa elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](https://rpf.io/curriculum):
 
 * [Projektowanie podstawowych zasobów 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
