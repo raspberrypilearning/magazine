@@ -2,7 +2,7 @@
 
 Ajoutons une autre page à ton site Web magazine.
 
-+ Ajoute une nouvelle page à ton projet et nomme-la `page2.html`:
++ Ajoute une nouvelle page à ton projet et nomme-la `page2.html` :
 
 ![capture d'écran](images/magazine-page2.png)
 
@@ -12,13 +12,13 @@ Ajoutons une autre page à ton site Web magazine.
 
 Note que les deux pages utilisent le même `style.css` afin qu'ils partagent des styles.
 
-+ Change le `<h1>` titre de la page2:
++ Change le `<h1>` titre de la page2 :
 
 ![capture d'écran](images/magazine-page2-h1.png)
 
 + Maintenant, tu auras besoin de liens entre tes pages pour accéder à la page 2 et revenir à la page d'accueil.
 
-Retourne à `index.html`. Ajoute un lien à l'intérieur d'un div dans la colonne 2 dans `index.html`:
+Retourne à `index.html`. Ajoute un lien à l'intérieur d'un div dans la colonne 2 dans `index.html` :
 
 ![capture d'écran](images/magazine-page2-link.png)
 

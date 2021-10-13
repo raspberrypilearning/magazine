@@ -1,10 +1,10 @@
 --- challenge ---
 
-## Défi: Ajouter des éléments à la colonne de gauche
+## Défi : Ajouter des éléments à la colonne de gauche
 
-Peux-tu ajouter une liste ordonnée et un autocollant de texte dégradé dans la colonne de gauche?
+Peux-tu ajouter une liste ordonnée et un autocollant de texte dégradé dans la colonne de gauche ?
 
-Voici un exemple:
+Voici un exemple :
 
 ![capture d'écran](images/magazine-challenge1-example.png)
 

@@ -4,7 +4,7 @@ Les sites Web de type magazine contiennent souvent beaucoup de petits articles s
 
 + Ouvre ce trinket : <a href="http://jumpto.cc/web-magazine" target="_blank">jumpto.cc/web-magazine</a>.
     
-    Le projet devrait ressembler à ceci:
+    Le projet devrait ressembler à ceci :
     
     ![capture d'écran](images/magazine-starter.png)
 
@@ -14,14 +14,14 @@ Les sites Web de type magazine contiennent souvent beaucoup de petits articles s
     
     ![capture d'écran](images/magazine-heading.png)
 
-+ Peux-tu styliser le titre?
++ Peux-tu styliser le titre ?
     
-    Voici un exemple, mais tu peux choisir ton propre style:
+    Voici un exemple, mais tu peux choisir ton propre style :
     
     ![capture d'écran](images/magazine-heading-style.png)
 
 + Maintenant, créons un arrière-plan intéressant en utilisant un dégradé et choisissons une police pour le magazine.
     
-    Voici un exemple de style pour te rappeler comment créer un dégradé:
+    Voici un exemple de style pour te rappeler comment créer un dégradé :
     
     ![capture d'écran](images/magazine-background.png)

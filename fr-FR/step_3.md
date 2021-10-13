@@ -4,7 +4,7 @@ Les sites Web utilisent souvent plusieurs colonnes. Créons une mise en page sur
 
 + Commençons pas créer deux `div`s pour les colonnes.
     
-    Ajoute le code HTML en surbrillance à `index.html`:
+    Ajoute le code HTML en surbrillance à `index.html` :
     
     ![capture d'écran](images/magazine-columns.png)
 
@@ -22,7 +22,7 @@ Les sites Web utilisent souvent plusieurs colonnes. Créons une mise en page sur
     
     Remarque que l'image du chaton est positionnée à peu près au milieu de la page, dans la deuxième colonne.
     
-    Mais c'est un peu gros!
+    Mais c'est un peu gros !
 
 + Utilisons `max-width:` pour faire tenir les images dans leur conteneur.
     
@@ -32,11 +32,11 @@ Les sites Web utilisent souvent plusieurs colonnes. Créons une mise en page sur
     
     Cela s'applique à toutes les images que tu utilises dans ton magazine, et pas seulement au chaton.
 
-+ Ajoutons maintenant une classe `photo` à l'image pour pouvoir la styliser:
++ Ajoutons maintenant une classe `photo` à l'image pour pouvoir la styliser :
     
     ![capture d'écran](images/magazine-photo.png)
 
-+ Et stylisons l'image pour ajouter une ombre et une déformation pour faire ressortir la photo de la page:
++ Et stylisons l'image pour ajouter une ombre et une déformation pour faire ressortir la photo de la page :
     
     ![capture d'écran](images/magazine-photo-style.png)
     

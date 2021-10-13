@@ -6,6 +6,6 @@ Ajoutons une animation amusante à ton magazine.
 
 ![capture d'écran](images/magazine-animation-image.png)
 
-+ Ajoute maintenant le CSS pour animer ton robot:
++ Ajoute maintenant le CSS pour animer ton robot :
 
 ![capture d’écran](images/magazine-animation-css.png)
