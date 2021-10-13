@@ -34,7 +34,7 @@ K dispozici je také trinket obsahující vzorové řešení výzev:
 
 ## Offline zdroje
 
-Pokud tomu dáváte přednost, můžete tento projekt [dokončit offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Ke zdrojům projektu se dostanete kliknutím na odkaz "materiály pro projekt". Tento odkaz obsahuje sekci "zdroje projektu", se zdroji, které děti budou potřebovat k dokončení projektu offline. Ujistěte se, že každé dítě má přístup ke kopii těchto zdrojů. Tato sekce obsahuje následující soubory:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Ke zdrojům projektu se dostanete kliknutím na odkaz "materiály pro projekt". Tento odkaz obsahuje sekci "zdroje projektu", se zdroji, které děti budou potřebovat k dokončení projektu offline. Ujistěte se, že každé dítě má přístup ke kopii těchto zdrojů. Tato sekce obsahuje následující soubory:
 
 * intro/index.html
 * template/template.html
@@ -60,7 +60,7 @@ V sekci "zdroje dobrovolníků" také můžete najít dokončenou verzi s výzva
 
 * Tento projekt naučí děti, jak vytvořit dvousloupcové rozložení v časopisovém stylu za pomocí vlastnosti `float:`. Také shrnuje mnoho HTML a CSS triků, které jsou více rozvedeny v ostatních projektech. Příklady jsou zadány tak, že děti budou schopny dokončit tento projekt i pokud nedokončili některé dřívější projekty. 
 
-Tento projekt zahrnuje prvky z následujících částí výukových osnov [Raspberry Pi digitální bastlení](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Designování základních 2D a 3D konstrukcí](https://www.raspberrypi.org/curriculum/design/creator).
 
