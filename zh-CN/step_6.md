@@ -1,25 +1,25 @@
-## Add a second page
+## 添加第二页
 
-Let's add another page to your magazine website.
+让我们添加另外一个页面到你的杂志网站.
 
-+ Add a new page to your project and name it `page2.html`:
++ 增加一个新的页面到你的项目并且起名`page2.html`:
 
-![screenshot](images/magazine-page2.png)
+![截图](images/magazine-page2.png)
 
-+ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
++ 第二页和第一页相似, 你可以从`index.html`页面拷贝一个,改名为`page2.html`.
 
-![screenshot](images/magazine-page2-html.png)
+![截屏](images/magazine-page2-html.png)
 
-Notice that both pages use the same `style.css` so they will share styles.
+注意,所有的页面使用同一个`style.css`因此他们会共享样式.
 
-+ Change the `<h1>` title for page2:
++ 改变`<h1>`第二页的标题:
 
-![screenshot](images/magazine-page2-h1.png)
+![截图](images/magazine-page2-h1.png)
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
++ 现在你需要在你的页面中建立连接以便你可以从第二页回到前一页.
 
-Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
+返回到 `index.html`. 在 `index.html`的第二栏的div内部加入一个link:
 
-![screenshot](images/magazine-page2-link.png)
+![截屏](images/magazine-page2-link.png)
 
-+ Test that you can click on your new link and move to page 2 of your magazine.
++ 测试一下你可以点击新连接跳转到杂志的第二页.
