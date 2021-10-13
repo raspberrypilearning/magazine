@@ -34,7 +34,7 @@ Il y a aussi un Trinket contenant un exemple de solution pour les défis :
 
 ## Ressources hors-ligne
 
-Ce projet peut être [terminé hors-ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien « Matériaux du projet ». Ce lien contient une section « Ressources du projet » qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
+Ce projet peut être [terminé hors-ligne](https://rpf.io/html-offline) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien « Matériaux du projet ». Ce lien contient une section « Ressources du projet » qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
 
 * intro/index.html
 * template/template.html
@@ -60,7 +60,7 @@ Vous pouvez aussi trouver une version terminée du projet dans la section « Res
 
 * Ce projet enseigne aux enfants comment créer une mise en page de style magazine sur deux colonnes en utilisant `float:`. Il reprend également une grande partie du HTML & CSS qui sont abordés plus en détail dans d'autres projets. Des exemples sont donnés pour que les enfants puissent terminer ce projet même s'ils n'ont pas terminé certains des projets antérieurs. 
 
-Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum) :
+Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](https://rpf.io/curriculum):
 
 * [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
