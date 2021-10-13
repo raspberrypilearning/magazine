@@ -34,7 +34,7 @@ Er is ook een trinket met een voorbeeldoplossing voor de uitdagingen:
 
 ## Offline bronnen
 
-Dit project kan indien gewenst [geheel offline ](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) voltooid worden. Je krijgt toegang tot de projectbestanden door op de koppeling 'Projectmateriaal' voor dit project te klikken. Deze link bevat een 'Projectbronnen'-sectie die bronnen bevat om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bestanden. Dit gedeelte bevat de volgende bestanden:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Je krijgt toegang tot de projectbestanden door op de koppeling 'Projectmateriaal' voor dit project te klikken. Deze link bevat een 'Projectbronnen'-sectie die bronnen bevat om dit project offline te voltooien. Zorg ervoor dat elk kind toegang heeft tot een kopie van deze bestanden. Dit gedeelte bevat de volgende bestanden:
 
 * intro/index.html
 * template/template.html
@@ -60,7 +60,7 @@ Je kunt ook een voltooide versie van de uitdagingen van dit project vinden in de
 
 * Dit project leert kinderen hoe ze een tweekoloms lay-out in tijdschriftstijl kunnen maken met ` float: `. Het bevat ook veel van de HTML & CSS die meer in detail in andere projecten worden behandeld. Er worden voorbeelden gegeven zodat kinderen dit project kunnen voltooien, zelfs als ze sommige van de eerdere projecten niet hebben voltooid. 
 
-Dit project behandelt elementen uit de volgende onderdelen van het [ Raspberry Pi Digital Making Curriculum ](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Ontwerp standaard 2D- en 3D-objecten](https://www.raspberrypi.org/curriculum/design/creator).
 
