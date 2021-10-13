@@ -34,7 +34,7 @@ Há também um projeto trinket contendo um exemplo de solução para os desafios
 
 ## Recursos Offline
 
-Este projeto pode ser [concluído offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/), se você preferir. Você pode acessar os recursos do projeto clicando no link 'Materiais do Projeto' para este projeto. Este link contém uma seção 'Recursos do Projeto', que inclui recursos que as crianças precisarão para concluir esse projeto offline. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Você pode acessar os recursos do projeto clicando no link 'Materiais do Projeto' para este projeto. Este link contém uma seção 'Recursos do Projeto', que inclui recursos que as crianças precisarão para concluir esse projeto offline. Certifique-se de que cada criança tenha acesso a uma cópia desses recursos. Esta seção inclui os seguintes arquivos:
 
 * intro/index.html
 * template/template.html
@@ -60,7 +60,7 @@ Você também pode encontrar uma versão completa dos desafios deste projeto na 
 
 * Este projeto ensina as crianças a criar um layout de revista de duas colunas usando `float:`. Ele também recapitula muito o HTML & CSS que são abordados com mais detalhes em outros projetos. São fornecidos exemplos para que as crianças possam concluir este projeto, mesmo que não tenham concluído alguns dos projetos anteriores. 
 
-Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Design de ilustrações 2D e 3D básicas](https://www.raspberrypi.org/curriculum/design/creator).
 
