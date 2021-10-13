@@ -1,21 +1,21 @@
 \--- challenge \---
 
-## Challenge: Add items to the left column
+## 挑战：向左侧栏目添加项目
 
-Can you add a ordered list and a gradient text sticker to the left column?
+你能增加一个排序列表以及一个倾斜的文本贴到左侧栏目中?
 
-Here's an example:
+下面是一个例子：
 
-![screenshot](images/magazine-challenge1-example.png)
+![截屏](images/magazine-challenge1-example.png)
 
-This is the code for the example, but you can change it or come up with your own.
+这是用于样例的代码, 但是你可以修改它或者找到你自己的.
 
 HTML:
 
-![screenshot](images/magazine-challenge1.png)
+![截屏](images/magazine-challenge1.png)
 
 CSS:
 
-![screenshot](images/magazine-challenge1-style.png)
+![截屏](images/magazine-challenge1-style.png)
 
 \--- /challenge \---
