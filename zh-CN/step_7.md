@@ -1,11 +1,11 @@
 \--- challenge \---
 
-## Challenge: Add a link back to the first page
+## 挑战：添加一个返回首页的链接
 
-Can you add a link to `page2.html` so that you can click on it to get back to the first page?
+你能添加一个链接到 `page2.html`? 以便你可以点击这个链接回到第一页?
 
-Hint: Look at the HTML you used to create a link to page 2.
+提示: 看一下你用来链接到第二页的HTML.
 
-![screenshot](images/magazine-page1-link.png)
+![截屏](images/magazine-page1-link.png)
 
 \--- /challenge \---
