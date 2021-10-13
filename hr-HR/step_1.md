@@ -34,7 +34,7 @@ Također je uključen i trinket koji sadrži prijedlog rješenja izazova:
 
 ## Offline izvori
 
-Ako želite, ovaj projekt može biti [završen offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materijalima projekta možete pristupiti klikom na poveznicu 'Project Materials'. Poveznica sadrži odjeljak 'Project Resources' u kojemu se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Materijalima projekta možete pristupiti klikom na poveznicu 'Project Materials'. Poveznica sadrži odjeljak 'Project Resources' u kojemu se nalaze materijali koji će djeci biti potrebni za izradu projekta offline. Pobrinite se da svako dijete ima pristup kopiji ovih materijala. U odjeljku se nalaze sljedeće datoteke:
 
 * Uvod / index.html
 * template/template.html
@@ -60,7 +60,7 @@ Dovršenu verziju projektnih izazova možete pronaći i u odjeljku 'Volunteer Re
 
 * Ovaj projekt podučava djecu kako stvoriti stil za predložak časopisa u dva stupca pomoću atributa `float:`. Također ponavlja i mnogo HTML & CSS-a koji je detaljnije objašnjen u drugim projektima. Primjeri su dani kako bi djeca mogla dovršiti ovaj projekt čak i ako nisu dovršili neke od ranijih projekata. 
 
-Ovaj projekt obuhvaća elemente iz sljedećih dijelova [Raspberry Pi Digital Making](http://rpf.io/curriculum) nastavnog plana i programa:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Dizajnirajte osnovna 2D i 3D sredstva](https://www.raspberrypi.org/curriculum/design/creator).
 
