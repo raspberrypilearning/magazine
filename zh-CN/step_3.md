@@ -1,43 +1,43 @@
-## Creating Columns
+## 创建栏目
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+网站经常使用多个栏目. 让我们创建一个杂志使用的两栏布局.
 
-+ First create two column `div`s.
++ 首先创建两个栏目`div`.
     
-    Add the highlighted HTML to `index.html`:
+    增加高亮的HTML到`index.html`.
     
-    ![screenshot](images/magazine-columns.png)
+    ![截屏](images/magazine-columns.png)
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
++ 现在设置栏目div的样式, 以便浮动到左侧并且其他的栏目浮动的右侧.
     
-    ![screenshot](images/magazine-columns-style.png)
+    ![截屏](images/magazine-columns-style.png)
     
-    Each column is less than 50% so there's room for padding.
+    每个栏目应该小于50%, 有一些空间.
     
-    You'll need to add something to a column to see the effect.
+    你需要在栏中添加一些内容以便看到效果.
 
-+ Let's add a kitten picture to the top of column 2.
++ 我们添加小猫的图片到第二栏的顶部.
     
-    ![screenshot](images/magazine-kitten.png)
+    ![截屏](images/magazine-kitten.png)
     
-    Notice that the kitten image is positioned about half-way across the page, in the second column.
+    请注意，小猫图像位于页面中间的第二列
     
-    It's a bit big though!
+    看上去有点大!
 
-+ Let's use `max-width:` to make images fit within their container.
++ 让我们使用`max-width:`使图片适合他们所在的容器.
     
-    Add the following style to `style.css`.
+    将下面的样式添加到`style.css`
     
-    ![screenshot](images/magazine-img-width.png)
+    ![截屏](images/magazine-img-width.png)
     
-    This will apply to all images you use in your magazine, not just the kitten.
+    这会应用到杂志中的所有图片, 不仅仅是小猫.
 
-+ Now add a class `photo` to the image so that you can style it:
++ 现在增加一个class`photo`到image, 以便你可以设置它的样式:
     
-    ![screenshot](images/magazine-photo.png)
+    ![截屏](images/magazine-photo.png)
 
-+ And style the image to add a shadow and a twist to make the photo pop out of the page:
++ 并且设置图片样式增加阴影和扭转, 使得图片突出页面:
     
-    ![screenshot](images/magazine-photo-style.png)
+    ![截屏](images/magazine-photo-style.png)
     
-    Make some changes until you like the result.
+    做一些调整, 直到你喜欢这个效果.
