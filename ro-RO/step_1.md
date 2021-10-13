@@ -34,7 +34,7 @@ De asemenea, există un trinket care conține soluția finală a provocărilor:
 
 ## Resurse offline
 
-Acest proiect poate fi [completat offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) dacă dorești. Poți accesa resursele proiectului dând click pe link-ul „Materialele proiectului” pentru acest proiect. Acest link conține o secțiune „Resursele proiectului” care include resurse de care copiii vor avea nevoie pentru a completa acest proiect offline. Asigură-te că fiecare copil are acces la o copie a acestor resurse. Această secțiune include următoarele fișiere:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Poți accesa resursele proiectului dând click pe link-ul „Materialele proiectului” pentru acest proiect. Acest link conține o secțiune „Resursele proiectului” care include resurse de care copiii vor avea nevoie pentru a completa acest proiect offline. Asigură-te că fiecare copil are acces la o copie a acestor resurse. Această secțiune include următoarele fișiere:
 
 * intro/index.html
 * template/template.html
@@ -60,7 +60,7 @@ De asemenea, poți găsi o versiune completă a provocărilor din acest proiect 
 
 * Acest proiect învață copiii cum să creeze o revistă cu două coloane folosind `float:`. De asemenea, recapitulează HTML & CSS prezentat în detaliu în alte proiecte. Sunt prezentate exemple, astfel încât copiii vor putea să finalizeze acest proiect chiar dacă nu au finalizat unele dintre proiectele anterioare. 
 
-Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Proiectarea elementelor grafice 2D și 3D de bază](https://www.raspberrypi.org/curriculum/design/creator).
 
