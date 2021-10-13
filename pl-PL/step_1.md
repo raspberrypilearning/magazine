@@ -34,7 +34,7 @@ Dostępny jest także projekt zawierający przykładowe rozwiązania wyzwań:
 
 ## Zasoby offline
 
-Ten projekt może być [ukończony w trybie offline](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Można znaleźć tam sekcję "Zasoby", która zawiera materiały potrzebne dzieciom do wykonania projektu w wersji offline. Upewnij się, że każde dziecko ma dostęp do własnej kopii zasobów. Ta sekcja zawiera następujące pliki:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Materiały potrzebne do wykonania projektu dostępne są po kliknięciu linku "Materiały do projektu". Można znaleźć tam sekcję "Zasoby", która zawiera materiały potrzebne dzieciom do wykonania projektu w wersji offline. Upewnij się, że każde dziecko ma dostęp do własnej kopii zasobów. Ta sekcja zawiera następujące pliki:
 
 * intro/index.html
 * template/template.html
@@ -60,7 +60,7 @@ Ukończoną wersję wyzwań tego projektu możesz znaleźć w sekcji "Zasoby dla
 
 * Ten projekt uczy dzieci, jak utworzyć dwukolumnowy układ stylu czasopisma, używając `float:`. Pomaga również w przypomnieniu sporej ilości właściwości HTML i CSS, które są bardziej szczegółowo omówione w innych projektach. W projekcie podano przykłady, aby dzieci były w stanie wykonać wyzwania, nawet jeśli nie ukończyły wcześniejszych projektów. 
 
-Projekt ten pokrywa elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Projektowanie podstawowych zasobów 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
