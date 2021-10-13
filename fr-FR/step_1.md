@@ -1,6 +1,6 @@
 ## Introduction
 
-Dans ce projet, tu apprendras à utiliser HTML et CSS pour créer un magazine en ligne à plusieurs pages avec un agencement à deux colonnes. Tu reverras également beaucoup de techniques HTML et CSS apprises dans d’autres projets.
+Dans ce projet, tu apprendras à utiliser HTML et CSS pour créer un magazine en ligne de plusieurs pages avec un agencement à deux colonnes. Tu reverras également beaucoup de techniques HTML et CSS apprises dans d’autres projets.
 
 <div class="trinket">
   <iframe src="https://trinket.io/embed/html/a142724fdf?outputOnly=true&start=result" width="600" height="505" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
@@ -23,19 +23,19 @@ Dans ce projet, les enfants apprendront à créer un agencement à deux colonnes
 
 ## Ressources en ligne
 
-Nous recommandons d'utiliser [trinket](https://trinket.io/) pour écrire du HTML & CSS en ligne. Ce projet contient les trinkets suivants:
+Nous recommandons d'utiliser [trinket](https://trinket.io/) pour écrire du HTML & CSS en ligne. Ce projet contient les trinkets suivants :
 
 * [Point de départ « Magazine » -- jumpto.cc/web-magazine](http://jumpto.cc/web-magazine)
 
 Les enfants peuvent également utiliser ce trinket vide [(jumpto.cc/html-blank)](http://jumpto.cc/html-blank) pour écrire leur propre code HTML & CSS, ou utiliser ce trinket modèle [(jumpto.cc/html-template)](http://jumpto.cc/html-template).
 
-Il y a aussi un Trinket contenant un exemple de solution pour les défis:
+Il y a aussi un Trinket contenant un exemple de solution pour les défis :
 
 * [« Magazine » terminé -- trinket.io/html/a142724fdf](https://trinket.io/html/a142724fdf)
 
 ## Ressources hors-ligne
 
-Ce projet peut être [terminé hors-ligne](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien « Matériaux du projet ». Ce lien contient une section « Ressources du projet » qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants:
+Ce projet peut être [terminé hors-ligne](https://rpf.io/html-offline) si désiré. Vous pouvez accéder aux ressources du projet en cliquant sur le lien « Matériaux du projet ». Ce lien contient une section « Ressources du projet » qui inclut les ressources dont les enfants auront besoin pour compléter le projet hors-ligne. Assurez-vous que les enfants ont accès à une copie de ces ressources. Cette section inclut les fichiers suivants :
 
 * intro/index.html
 * template/template.html
@@ -45,7 +45,7 @@ Ce projet peut être [terminé hors-ligne](https://www.codeclubprojects.org/en-G
 * magazine/script.js
 * magazine/multiple image .png
 
-Vous pouvez aussi trouver une version terminée du projet dans la section « Ressources du bénévole » qui contient:
+Vous pouvez aussi trouver une version terminée du projet dans la section « Ressources du bénévole » qui contient :
 
 * magazine-finished/index.html
 * magazine-finished/style.css
@@ -55,21 +55,21 @@ Vous pouvez aussi trouver une version terminée du projet dans la section « Res
 * magazine-finished/greenrobot.png
 * magazine-finished/spacerobot.png
 
-(Toutes les ressources ci-dessus peuvent aussi être téléchargées dans les fichiers`.zip` projet et bénévole)
+(Toutes les ressources ci-dessus peuvent aussi être téléchargées dans les fichiers `.zip` projet et bénévole)
 
 ## Objectifs d'apprentissage
 
 * Ce projet enseigne aux enfants comment créer une mise en page de style magazine sur deux colonnes en utilisant `float:`. Il reprend également une grande partie du HTML & CSS qui sont abordés plus en détail dans d'autres projets. Des exemples sont donnés pour que les enfants puissent terminer ce projet même s'ils n'ont pas terminé certains des projets antérieurs. 
 
-Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](https://rpf.io/curriculum):
+Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](http://rpf.io/curriculum) :
 
 * [Concevoir des éléments de base en 2D et 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
 ## Défis
 
-* « Ajouter des éléments à la colonne de gauche » - placer des éléments à l'intérieur d'un élément flottant;
-* « Ajouter un lien vers la première page » - créer des liens entre les pages d'un projet;
-* « Remplir ta deuxième page » - récapitulatif sur HTML & CSS;
+* « Ajouter des éléments à la colonne de gauche » - placer des éléments à l'intérieur d'un élément flottant ;
+* « Ajouter un lien vers la première page » - créer des liens entre les pages d'un projet ;
+* « Remplir ta deuxième page » - récapitulatif sur HTML & CSS ;
 * « Ajouter une autre animation » - récapitulatif sur les animations.
 
 --- /collapse ---
