@@ -34,7 +34,7 @@
 
 ## オフラインの情報源
 
-このプロジェクトは必要であれば[オフラインで完了](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/)できます。 必要なプロジェクト資料を入手するには、「プロジェクト資料」のリンクをクリックしてください。 このリンクには「プロジェクト資料」の部分があり、子どもたちがこのプロジェクトをオフラインで完了するのに必要な資料が含まれています。 子どもたちがこれらの資料のコピーにアクセスできるか確認してください。 この部分には以下のファイルが含まれます：
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. 必要なプロジェクト資料を入手するには、「プロジェクト資料」のリンクをクリックしてください。 このリンクには「プロジェクト資料」の部分があり、子どもたちがこのプロジェクトをオフラインで完了するのに必要な資料が含まれています。 子どもたちがこれらの資料のコピーにアクセスできるか確認してください。 この部分には以下のファイルが含まれます：
 
 * intro/index.html
 * template/template.html
@@ -60,7 +60,7 @@
 
 * このプロジェクトでは、`float:`を使用して2列組の雑誌のレイアウトを作成する方法を子どもたちに教えます。 また、他のプロジェクトでより詳しく説明されているHTMLやCSSもまとめます。 例があるので、子どもたちが前のプロジェクトを完了していなかったとしても、このプロジェクトを完了できます。 
 
-このプロジェクトは、[Raspberry Pi デジタル・メイキング・カリキュラム](http://rpf.io/curriculum)に含まれる以下の項目を取り扱います：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [基本的な2Dおよび3Dアセットの設計](https://www.raspberrypi.org/curriculum/design/creator)
 
