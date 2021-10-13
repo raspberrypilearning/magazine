@@ -34,7 +34,7 @@ També hi ha un "trinket" que conté una solució de mostra dels reptes:
 
 ## Recursos fora de línia
 
-Aquest projecte es pot [acabar fora de línia](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/) si així ho prefereixes. Pots accedir als recursos del projecte fent clic a l’enllaç “Materials del projecte”. Aquest enllaç conté una secció "Recursos del projecte", que inclou recursos que els nens necessitaran per completar el projecte fora de línia. Assegureu-vos que cada nen tingui accés a una còpia d'aquests recursos. Aquesta secció inclou els fitxers següents:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. Pots accedir als recursos del projecte fent clic a l’enllaç “Materials del projecte”. Aquest enllaç conté una secció "Recursos del projecte", que inclou recursos que els nens necessitaran per completar el projecte fora de línia. Assegureu-vos que cada nen tingui accés a una còpia d'aquests recursos. Aquesta secció inclou els fitxers següents:
 
 * intro/index.html
 * template/template.html
@@ -60,7 +60,7 @@ També pots trobar una versió completa dels reptes d'aquest projecte a la secci
 
 * Aquest projecte ensenya als nens com crear un disseny de revista de dues columnes aplicant l'estil `float:`. També recopila una gran part de HTML i CSS que es recull amb més detall en altres projectes. Es donen exemples perquè els nens puguin acabar aquest projecte encara que no hagin completat alguns dels anteriors. 
 
-Aquest projecte abasta elements de les següents línies del [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) (Currículum de Fabricació Digital de Raspberry Pi):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Disseny elemental 2D i 3D](https://www.raspberrypi.org/curriculum/design/creator).
 
