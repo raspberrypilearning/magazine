@@ -34,7 +34,7 @@ HTML & CSS लिहीण्यासाठी मुले ह्या रि
 
 ## ऑफलाइन संसाधने
 
-प्राधान्य असल्यास हा प्रकल्प [ऑफलाइन पूर्ण केला जाऊ शकतो](https://www.codeclubprojects.org/en-GB/resources/webdev-working-offline/). आपण या प्रकल्पाची सामग्री Project Material link वर​ क्लिक करून मिळवू शकता. या लिंक मध्ये 'Project Resources' विभाग आहे, ज्यामध्ये संसाधने आहेत जे मुलांना हा प्रकल्प ऑफलाइन पूर्ण करण्यासाठी आवश्यक असेल. प्रत्येक मुलाकडे संसाधनेची प्रती असल्याचे सुनिश्चित करा. या विभागात खालील फायली समाविष्ट आहेत:
+This project can be [completed offline](https://rpf.io/html-offline) if preferred. आपण या प्रकल्पाची सामग्री Project Material link वर​ क्लिक करून मिळवू शकता. या लिंक मध्ये 'Project Resources' विभाग आहे, ज्यामध्ये संसाधने आहेत जे मुलांना हा प्रकल्प ऑफलाइन पूर्ण करण्यासाठी आवश्यक असेल. प्रत्येक मुलाकडे संसाधनेची प्रती असल्याचे सुनिश्चित करा. या विभागात खालील फायली समाविष्ट आहेत:
 
 * intro/index.html
 * template/template.html
@@ -60,7 +60,7 @@ HTML & CSS लिहीण्यासाठी मुले ह्या रि
 
 * हा प्रकल्प मुलांना `float` वापरून द्वि-स्तंभ मॅगझिन स्टाइल कशी तयार करावी हे शिकवते. हे इतर प्रकल्पांमध्ये अधिक तपशीलात कव्हर केलेल्या बर्‍याच HTML & CSS ची पुर्नआव्रुत्ती करते. उदाहरणे दिली आहेत जेणेकरुन यापूर्वी काही प्रकल्प पूर्ण न केल्यासही मुले हा प्रकल्प पूर्ण करण्यास सक्षम असतील. 
 
-या प्रकल्पात [ ​​Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) च्या खालील घटक समाविष्ट आहेत:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [मूलभूत 2D आणि 3D ऍसेटस् डिझाइन करणे](https://www.raspberrypi.org/curriculum/design/creator).
 
