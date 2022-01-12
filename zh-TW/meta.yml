@@ -17,13 +17,15 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 介紹
-  - title: 網頁標題與背景
-  - title: 版面欄位設置
-  - title: 內容風格設計
-  - title: 挑戰：添加左欄內容
-  - title: 加入第二頁
-  - title: '挑戰：添加回到第一頁的連結鈕'
-  - title: '挑戰：設計雜誌的第二頁'
-  - title: 加入動畫
-  - title: '挑戰：加入另一個動畫'
+- title: 介紹
+  completion: engaged
+- title: 網頁標題與背景
+- title: 版面欄位設置
+- title: 內容風格設計
+- title: 挑戰：添加左欄內容
+- title: 加入第二頁
+- title: 挑戰：添加回到第一頁的連結鈕
+- title: 挑戰：設計雜誌的第二頁
+- title: 加入動畫
+  completion: internal
+- title: 挑戰：加入另一個動畫

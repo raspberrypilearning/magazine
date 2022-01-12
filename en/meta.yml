@@ -1,3 +1,4 @@
+---
 title: Magazine
 hero_image: images/magazine.png
 theme: red
@@ -15,8 +16,9 @@ hardware: ''
 software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
-steps: 
+steps:
 - title: Introduction
+  completion: engaged
 - title: Heading and Background
 - title: Creating Columns
 - title: Style magazine items
@@ -25,4 +27,5 @@ steps:
 - title: 'Challenge: Add a link back to the first page'
 - title: 'Challenge: Fill in your second page'
 - title: Add an animation
+  completion: internal
 - title: 'Challenge: Add another animation'

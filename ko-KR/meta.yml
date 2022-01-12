@@ -17,13 +17,15 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: 소개
-  - title: 제목과 배경
-  - title: 문단 만들기
-  - title: 매거진 스타일링하기
-  - title: '과제: 왼쪽 컬럼에 아이템 추가하기'
-  - title: 두 번째 페이지 추가
-  - title: '과제: 페이지 2에 페이지 1로 가는 링크 만들기'
-  - title: '과제: 두 번째 페이지 채우기'
-  - title: 애니메이션 추가하기
-  - title: '과제: 새로운 애니메이션 추가하기'
+- title: 소개
+  completion: engaged
+- title: 제목과 배경
+- title: 문단 만들기
+- title: 매거진 스타일링하기
+- title: '과제: 왼쪽 컬럼에 아이템 추가하기'
+- title: 두 번째 페이지 추가
+- title: '과제: 페이지 2에 페이지 1로 가는 링크 만들기'
+- title: '과제: 두 번째 페이지 채우기'
+- title: 애니메이션 추가하기
+  completion: internal
+- title: '과제: 새로운 애니메이션 추가하기'

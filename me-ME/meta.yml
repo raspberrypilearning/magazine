@@ -17,13 +17,15 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Uvod
-  - title: Naslov i pozadina
-  - title: Kreiranje kolona
-  - title: Stilizuj objekte časopisa
-  - title: 'Izazov: Dodaj objekte u lijevu kolonu'
-  - title: Dodaj drugu stranicu
-  - title: 'Izazov: Dodaj link za povratak na prvu stranicu'
-  - title: 'Izazov: Popuni drugu stranicu'
-  - title: Dodaj animaciju
-  - title: 'Izazov: Dodaj još jednu animaciju'
+- title: Uvod
+  completion: engaged
+- title: Naslov i pozadina
+- title: Kreiranje kolona
+- title: Stilizuj objekte časopisa
+- title: 'Izazov: Dodaj objekte u lijevu kolonu'
+- title: Dodaj drugu stranicu
+- title: 'Izazov: Dodaj link za povratak na prvu stranicu'
+- title: 'Izazov: Popuni drugu stranicu'
+- title: Dodaj animaciju
+  completion: internal
+- title: 'Izazov: Dodaj još jednu animaciju'

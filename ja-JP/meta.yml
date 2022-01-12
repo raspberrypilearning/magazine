@@ -17,13 +17,15 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: はじめに
-  - title: 見出しと背景
-  - title: 列の作成
-  - title: 雑誌項目の体裁を整える
-  - title: 'チャレンジ：左の列に項目を追加する'
-  - title: 2ページ目の追加
-  - title: 'チャレンジ：1ページ目に戻るリンクの追加'
-  - title: 'チャレンジ：2ページ目に書き込む'
-  - title: アニメーションの追加
-  - title: 'チャレンジ：別のアニメーションを追加する'
+- title: はじめに
+  completion: engaged
+- title: 見出しと背景
+- title: 列の作成
+- title: 雑誌項目の体裁を整える
+- title: チャレンジ：左の列に項目を追加する
+- title: 2ページ目の追加
+- title: チャレンジ：1ページ目に戻るリンクの追加
+- title: チャレンジ：2ページ目に書き込む
+- title: アニメーションの追加
+  completion: internal
+- title: チャレンジ：別のアニメーションを追加する
