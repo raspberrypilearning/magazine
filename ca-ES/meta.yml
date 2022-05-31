@@ -17,13 +17,17 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducció
-  - title: Títol i Fons
-  - title: Creant columnes
-  - title: Afegint estil als elements de la revista
-  - title: 'Repte: afegeix elements a la columna de l’esquerra'
-  - title: Afegeix una segona pàgina
-  - title: 'Repte: afegeix un enllaç per retrocedir a la primera pàgina'
-  - title: 'Repte: omple la segona pàgina'
-  - title: Afegeix una animació
-  - title: 'Repte: afegeix una altra animació'
+- title: Introducció
+- title: Títol i Fons
+- title: Creant columnes
+  completion:
+  - engaged
+- title: Afegint estil als elements de la revista
+- title: 'Repte: afegeix elements a la columna de l’esquerra'
+- title: Afegeix una segona pàgina
+- title: 'Repte: afegeix un enllaç per retrocedir a la primera pàgina'
+- title: 'Repte: omple la segona pàgina'
+- title: Afegeix una animació
+  completion:
+  - internal
+- title: 'Repte: afegeix una altra animació'

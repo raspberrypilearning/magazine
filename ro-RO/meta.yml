@@ -17,13 +17,17 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducere
-  - title: Titlu și fundal
-  - title: Crearea coloanelor
-  - title: Stilizează elementele revistei
-  - title: 'Provocare: adaugă elemente în coloana stângă'
-  - title: Adaugă o a doua pagină
-  - title: 'Provocare: adaugă un link înapoi către prima pagină'
-  - title: 'Provocare: umple a doua pagină'
-  - title: Adaugă o animație
-  - title: 'Provocare: adaugă altă animație'
+- title: Introducere
+- title: Titlu și fundal
+- title: Crearea coloanelor
+  completion:
+  - engaged
+- title: Stilizează elementele revistei
+- title: 'Provocare: adaugă elemente în coloana stângă'
+- title: Adaugă o a doua pagină
+- title: 'Provocare: adaugă un link înapoi către prima pagină'
+- title: 'Provocare: umple a doua pagină'
+- title: Adaugă o animație
+  completion:
+  - internal
+- title: 'Provocare: adaugă altă animație'

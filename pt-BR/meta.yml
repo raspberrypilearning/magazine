@@ -7,7 +7,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
-description: Neste projeto, você vai aprender a usar HTML e CSS para criar um website em formato de revista, com um layout de duas páginas.
+description: Neste projeto, você vai aprender a usar HTML e CSS para criar um website
+  em formato de revista, com um layout de duas páginas.
 original_url: https://codeclubprojects.org/en-GB/webdev/magazine
 interests: art
 technologies: html-css-javascript
@@ -17,13 +18,17 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introdução
-  - title: Cabeçalho e pano de fundo
-  - title: Criando colunas
-  - title: Itens de estilo da revista
-  - title: 'Desafio: Adicionar itens na coluna a esquerda'
-  - title: Adicionar a segunda página
-  - title: 'Desafio: Adicionar um link na primeira página'
-  - title: 'Desafio: Preencha sua segunda página'
-  - title: Adicionar uma animação
-  - title: 'Desafio: Adicionar outra animação'
+- title: Introdução
+- title: Cabeçalho e pano de fundo
+- title: Criando colunas
+  completion:
+  - engaged
+- title: Itens de estilo da revista
+- title: 'Desafio: Adicionar itens na coluna a esquerda'
+- title: Adicionar a segunda página
+- title: 'Desafio: Adicionar um link na primeira página'
+- title: 'Desafio: Preencha sua segunda página'
+- title: Adicionar uma animação
+  completion:
+  - internal
+- title: 'Desafio: Adicionar outra animação'

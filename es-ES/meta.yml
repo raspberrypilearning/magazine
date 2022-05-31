@@ -17,13 +17,17 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducción
-  - title: Encabezado y fondo
-  - title: Crear columnas
-  - title: Dar estilo a los objetos de la revista
-  - title: 'Desafío: Añade objetos en la columna izquierda'
-  - title: Añade otra página
-  - title: 'Desafío: Añade un enlace que te devuelva a la primera página'
-  - title: 'Desafío: Completa la segunda página'
-  - title: Añade una animación
-  - title: 'Desafío: Incluye otra animación'
+- title: Introducción
+- title: Encabezado y fondo
+- title: Crear columnas
+  completion:
+  - engaged
+- title: Dar estilo a los objetos de la revista
+- title: 'Desafío: Añade objetos en la columna izquierda'
+- title: Añade otra página
+- title: 'Desafío: Añade un enlace que te devuelva a la primera página'
+- title: 'Desafío: Completa la segunda página'
+- title: Añade una animación
+  completion:
+  - internal
+- title: 'Desafío: Incluye otra animación'

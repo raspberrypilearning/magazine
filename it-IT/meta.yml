@@ -17,13 +17,17 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introduzione
-  - title: Intestazione e sfondo
-  - title: Creazione di colonne
-  - title: Attribuisci uno stile agli elementi della rivista
-  - title: 'Sfida: aggiungi elementi alla colonna di sinistra'
-  - title: Aggiungi una seconda pagina
-  - title: 'Sfida: aggiungi un link per tornare alla prima pagina'
-  - title: 'Sfida: compila la seconda pagina'
-  - title: Aggiungi un’animazione
-  - title: 'Sfida: aggiungi un’altra animazione'
+- title: Introduzione
+- title: Intestazione e sfondo
+- title: Creazione di colonne
+  completion:
+  - engaged
+- title: Attribuisci uno stile agli elementi della rivista
+- title: 'Sfida: aggiungi elementi alla colonna di sinistra'
+- title: Aggiungi una seconda pagina
+- title: 'Sfida: aggiungi un link per tornare alla prima pagina'
+- title: 'Sfida: compila la seconda pagina'
+- title: Aggiungi un’animazione
+  completion:
+  - internal
+- title: 'Sfida: aggiungi un’altra animazione'
