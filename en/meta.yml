@@ -18,14 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Heading and Background
 - title: Creating Columns
+  completion:
+  - engaged
 - title: Style magazine items
 - title: 'Challenge: Add items to the left column'
 - title: Add a second page
 - title: 'Challenge: Add a link back to the first page'
 - title: 'Challenge: Fill in your second page'
 - title: Add an animation
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: Add another animation'

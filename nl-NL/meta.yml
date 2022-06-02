@@ -18,14 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Inleiding
-  completion: engaged
 - title: Titel en achtergrond
 - title: Maak kolommen
+  completion:
+  - engaged
 - title: Artikelen vormgeven
 - title: 'Uitdaging: voeg onderdelen toe aan de linker kolom'
 - title: Voeg een tweede pagina toe
 - title: 'Uitdaging: voeg een link toe naar de eerste pagina'
 - title: 'Uitdaging: vul je tweede pagina'
 - title: Voeg een animatie toe
-  completion: internal
+  completion:
+  - internal
 - title: 'Uitdaging: voeg nog een animatie toe'

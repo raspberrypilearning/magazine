@@ -18,14 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Uvod
-  completion: engaged
 - title: Naslov i pozadina
 - title: Stvaranje stupaca
+  completion:
+  - engaged
 - title: Oblikovanje elemenata u časopisu
 - title: 'Izazov: Dodajte elemente u lijevi stupac'
 - title: Dodajte drugu stranicu
 - title: 'Izazov: dodajte vezu natrag na prvu stranicu'
 - title: 'Izazov: Ispunite drugu stranicu'
 - title: Dodajte animaciju
-  completion: internal
+  completion:
+  - internal
 - title: 'Izazov: dodajte još jednu animaciju'

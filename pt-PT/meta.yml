@@ -18,14 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introdução
-  completion: engaged
 - title: Cabeçalho e Fundo
 - title: Criar Colunas
+  completion:
+  - engaged
 - title: Itens de Estilo da Revista
 - title: 'Desafio: Adicionar itens à coluna esquerda'
 - title: Adicionar uma segunda página
 - title: 'Desafio: Adicionar um link para voltar à primeira página'
 - title: 'Desafio: Preencher a tua segunda página'
 - title: Adicionar uma animação
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafio: Adicionar outra animação'

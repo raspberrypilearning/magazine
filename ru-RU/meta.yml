@@ -18,14 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Введение
-  completion: engaged
 - title: Заголовок и фон
 - title: Создание колонок
+  completion:
+  - engaged
 - title: Стилизация компонент журнала
 - title: 'Задача: Добавь компоненты в левую колонку'
 - title: Добавь вторую страницу
 - title: 'Задача: Добавь ссылку на первую страницу'
 - title: 'Задача: Заполни вторую страницу'
 - title: Добавь анимацию
-  completion: internal
+  completion:
+  - internal
 - title: 'Задача: Добавь ещё одну анимацию'

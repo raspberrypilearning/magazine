@@ -18,14 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Вступ
-  completion: engaged
 - title: Заголовок та фон
 - title: Створення колонок
+  completion:
+  - engaged
 - title: Стилі для елементів журналу
 - title: 'Завдання: додай об''єкти в ліву колонку'
 - title: Додай другу сторінку
 - title: 'Завдання: додай посилання на першу сторінку'
 - title: 'Завдання: заповни другу сторінку'
 - title: Додай анімацію
-  completion: internal
+  completion:
+  - internal
 - title: 'Завдання: додаткова анімація'

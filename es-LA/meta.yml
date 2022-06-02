@@ -18,14 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introducción
-  completion: engaged
 - title: Encabezado y fondo
 - title: Crear columnas
+  completion:
+  - engaged
 - title: Dar estilo a los objetos de la revista
 - title: 'Desafío: añade elementos en la columna izquierda'
 - title: Añade otra página
 - title: 'Desafío: añade un enlace que te devuelva a la primera página'
 - title: 'Desafío: completa la segunda página'
 - title: Incluir una animación
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafío: agrega otra animación'

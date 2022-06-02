@@ -18,14 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Wprowadzenie
-  completion: engaged
 - title: Nagłówek i tło
 - title: Tworzenie kolumn
+  completion:
+  - engaged
 - title: Stylizacja zawartości czasopisma
 - title: 'Wyzwanie: dodaj elementy do lewej kolumny'
 - title: Dodaj drugą stronę
 - title: 'Wyzwanie: dodaj link powracający do pierwszej strony'
 - title: 'Wyzwanie: wypełnij drugą stronę'
 - title: Dodaj animację
-  completion: internal
+  completion:
+  - internal
 - title: 'Wyzwanie: dodaj kolejną animację'

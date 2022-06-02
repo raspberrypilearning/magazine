@@ -18,9 +18,10 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Überschrift und Hintergrund
 - title: Spalten erstellen
+  completion:
+  - engaged
 - title: Zeitschriftenartikel grafisch gestalten
 - title: 'Herausforderung: Füge Inhalte in der linken Spalte hinzu'
 - title: Eine zweite Seite hinzufügen
@@ -28,5 +29,6 @@ steps:
     kommst'
 - title: 'Herausforderung: Fülle deine zweite Seite mit Inhalt'
 - title: Eine Animation hinzufügen
-  completion: internal
+  completion:
+  - internal
 - title: 'Herausforderung: Füge eine weitere Animation hinzu'

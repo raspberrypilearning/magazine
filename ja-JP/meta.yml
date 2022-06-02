@@ -18,14 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: はじめに
-  completion: engaged
 - title: 見出しと背景
 - title: 列の作成
+  completion:
+  - engaged
 - title: 雑誌項目の体裁を整える
 - title: チャレンジ：左の列に項目を追加する
 - title: 2ページ目の追加
 - title: チャレンジ：1ページ目に戻るリンクの追加
 - title: チャレンジ：2ページ目に書き込む
 - title: アニメーションの追加
-  completion: internal
+  completion:
+  - internal
 - title: チャレンジ：別のアニメーションを追加する

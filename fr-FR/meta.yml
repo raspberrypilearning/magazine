@@ -18,14 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: En-tête et arrière-plan
 - title: Créer des colonnes
+  completion:
+  - engaged
 - title: Styliser les éléments du magazine
 - title: 'Défi : Ajouter des éléments à la colonne de gauche'
 - title: Ajouter une seconde page
 - title: 'Défi : Ajouter un lien de retour à la première page'
 - title: 'Défi : Remplir ta seconde page'
 - title: Ajouter une animation
-  completion: internal
+  completion:
+  - internal
 - title: 'Défi : Ajouter une autre animation'
