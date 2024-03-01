@@ -23,6 +23,8 @@ steps:
     title: En-tête et arrière-plan
   - 
     title: Créer des colonnes
+    completion:
+      - engaged
   - 
     title: Styliser les éléments du magazine
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'Défi : Remplir ta seconde page'
   - 
     title: Ajouter une animation
+    completion:
+      - internal
   - 
     title: 'Défi : Ajouter une autre animation'
