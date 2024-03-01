@@ -23,6 +23,8 @@ steps:
     title: Encabezado y fondo
   - 
     title: Crear columnas
+    completion:
+      - engaged
   - 
     title: Dar estilo a las secciones de la revista
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'Desafío: Completa la segunda página'
   - 
     title: Añadir animación
+    completion:
+      - internal
   - 
     title: 'Desafío: Añade otra animación'
