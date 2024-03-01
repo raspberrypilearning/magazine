@@ -23,6 +23,8 @@ steps:
     title: Záhlaví a pozadí
   - 
     title: Vytváření sloupců
+    completion:
+      - engaged
   - 
     title: Stylizování položek v časopisu
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'Výzva: Zaplň druhou stránku'
   - 
     title: Přidej animaci
+    completion:
+      - internal
   - 
     title: 'Výzva: Přidej další animaci'
