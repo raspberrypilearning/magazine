@@ -23,6 +23,8 @@ steps:
     title: शीर्षक और पृष्ठभूमि
   - 
     title: कॉलम बनाना
+    completion:
+      - engaged
   - 
     title: स्टाइल मैगज़ीन आइटम्स
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'चुनौती: अपना दूसरा पेज भरें'
   - 
     title: एनिमेशन जोड़ें
+    completion:
+      - internal
   - 
     title: 'चुनौती: अन्य एनिमेशन जोड़ें'
