@@ -23,6 +23,8 @@ steps:
     title: शीर्षक आणि पार्श्वभूमी
   - 
     title: स्तंभ तयार करीत आहे
+    completion:
+      - engaged
   - 
     title: मॅगझिनआयटम्सला स्टाइल करा
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'आव्हान: आपले दुसरे पेज भरा'
   - 
     title: अ‍ॅनिमेशन जोडा
+    completion:
+      - internal
   - 
     title: 'आव्हान: आणखी एक अ‍ॅनिमेशन जोडा'
