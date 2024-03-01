@@ -23,6 +23,8 @@ steps:
     title: Nagłówek i tło
   - 
     title: Tworzenie kolumn
+    completion:
+      - engaged
   - 
     title: Stylizacja zawartości czasopisma
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'Wyzwanie: wypełnij drugą stronę'
   - 
     title: Dodaj animację
+    completion:
+      - internal
   - 
     title: 'Wyzwanie: Dodaj kolejną animację'
