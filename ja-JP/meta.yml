@@ -23,6 +23,8 @@ steps:
     title: 見出しと背景
   - 
     title: 列の作成
+    completion:
+      - engaged
   - 
     title: 雑誌項目の体裁を整える
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'チャレンジ：2ページ目に書き込む'
   - 
     title: アニメーションの追加
+    completion:
+      - internal
   - 
     title: 'チャレンジ：別のアニメーションを追加する'
