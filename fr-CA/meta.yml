@@ -23,6 +23,8 @@ steps:
     title: Heading and Background
   - 
     title: Creating Columns
+    completion:
+      - engaged
   - 
     title: Style magazine items
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'Challenge: Fill in your second page'
   - 
     title: Add an animation
+    completion:
+      - internal
   - 
     title: 'Challenge: Add another animation'
