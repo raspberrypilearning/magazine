@@ -4,7 +4,7 @@
 
 + इस Trinket को खोलें: <a href="http://jumpto.cc/web-magazine" target="_blank"> jumpto.cc/web-magazine </a> ।
     
-    परियोजना इस तरह दिखनी चाहिए:
+    प्रोजेक्ट इस तरह दिखनी चाहिए:
     
     ![स्क्रीनशॉट](images/magazine-starter.png)
 
