@@ -23,6 +23,8 @@ steps:
     title: Titel en achtergrond
   - 
     title: Maak kolommen
+    completion:
+      - engaged
   - 
     title: Artikelen vormgeven
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'Uitdaging: vul je tweede pagina'
   - 
     title: Voeg een animatie toe
+    completion:
+      - internal
   - 
     title: 'Uitdaging: voeg nog een animatie toe'
