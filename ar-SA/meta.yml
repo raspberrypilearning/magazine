@@ -23,6 +23,8 @@ steps:
     title: العنوان والخلفية
   - 
     title: إنشاء الأعمدة
+    completion:
+      - engaged
   - 
     title: تحديد أنماط عناصر المجلة
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'التحدي: املأ الصفحة الثانية'
   - 
     title: إضافة رسم متحرك
+    completion:
+      - internal
   - 
     title: 'التحدي: أضف رسمًا متحركًا آخر'
