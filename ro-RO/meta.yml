@@ -23,6 +23,8 @@ steps:
     title: Titlu și fundal
   - 
     title: Crearea coloanelor
+    completion:
+      - engaged
   - 
     title: Stilizează elementele revistei
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'Provocare: Umple a doua pagină'
   - 
     title: Adaugă o animație
+    completion:
+      - internal
   - 
     title: 'Provocare: Adaugă altă animație'
