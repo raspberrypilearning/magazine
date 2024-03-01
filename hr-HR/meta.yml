@@ -23,6 +23,8 @@ steps:
     title: Naslov i pozadina
   - 
     title: Stvaranje stupaca
+    completion:
+      - engaged
   - 
     title: Oblikovanje elemenata u časopisu
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'Izazov: Ispunite drugu stranicu'
   - 
     title: Dodajte animaciju
+    completion:
+      - internal
   - 
     title: 'Izazov: dodajte još jednu animaciju'
