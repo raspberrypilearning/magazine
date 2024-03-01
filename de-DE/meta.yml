@@ -23,6 +23,8 @@ steps:
     title: Überschrift und Hintergrund
   - 
     title: Spalten erstellen
+    completion:
+      - engaged
   - 
     title: Zeitschriftenartikel grafisch gestalten
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'Herausforderung: Fülle deine zweite Seite mit Inhalt'
   - 
     title: Eine Animation hinzufügen
+    completion:
+      - internal
   - 
     title: 'Herausforderung: Füge eine weitere Animation hinzu'
