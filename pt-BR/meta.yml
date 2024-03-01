@@ -23,6 +23,8 @@ steps:
     title: Cabeçalho e pano de fundo
   - 
     title: Criando colunas
+    completion:
+      - engaged
   - 
     title: Itens de estilo da revista
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'Desafio: Preencha sua segunda página'
   - 
     title: Adicionar uma animação
+    completion:
+      - internal
   - 
     title: 'Desafio: Adicionar outra animação'
