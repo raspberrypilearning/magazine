@@ -23,6 +23,8 @@ steps:
     title: Títol i Fons
   - 
     title: Creant columnes
+    completion:
+      - engaged
   - 
     title: Afegint estil als elements de la revista
   - 
@@ -35,5 +37,7 @@ steps:
     title: 'Repte: omple la segona pàgina'
   - 
     title: Afegeix una animació
+    completion:
+      - internal
   - 
     title: 'Repte: afegeix una altra animació'
