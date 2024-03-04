@@ -1,0 +1,33 @@
+---
+title: Časopis
+hero_image: images/magazine.png
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: false
+curriculum: 1, design-1, programming-0, phys-comp-0, manufacture-0, community-0
+description: Vytvoř vícestrankový časopis jako webovou stránku.
+original_url: https://codeclubprojects.org/en-GB/webdev/magazine
+interests: art
+technologies: html-css-javascript
+site_areas: projects
+hardware: ''
+software: html-css-javascript
+version: 3
+last_tested: 2017-01-01
+steps:
+  - title: Úvod
+  - title: Záhlaví a pozadí
+  - title: Vytváření sloupců
+    completion:
+      - engaged
+  - title: Stylizování položek v časopisu
+  - title: 'Výzva: Přidej položky do levého sloupce'
+  - title: Přidej druhou stránku
+  - title: 'Výzva: Přidej odkaz vedoucí na první stránku'
+  - title: 'Výzva: Zaplň druhou stránku'
+  - title: Přidej animaci
+    completion:
+      - internal
+  - title: 'Výzva: Přidej další animaci'
