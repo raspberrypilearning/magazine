@@ -31,3 +31,5 @@ steps:
   completion:
   - internal
 - title: 'Challenge: Add another animation'
+  completion:
+  - external
