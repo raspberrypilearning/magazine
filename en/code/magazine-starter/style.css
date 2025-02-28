@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    color: white;
+    background: black;
+    padding: 5px;
+}
+
+body {
+    padding: 15px;
+    background: linear-gradient(to bottom right, red, white);
+    font-family: Verdana;
+}
