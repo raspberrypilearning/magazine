@@ -1,26 +1,28 @@
-## Add a second page
+--- challenge ---
 
-Let's add another page to your magazine website.
+## Challenge: Add a link back to the first page
 
-+ Add a new page to your project and name it `page2.html`:
+Can you add a link to `page2.html` so that you can click on it to get back to the first page?
 
-![screenshot](images/magazine-page2.png)
+Hint: Look at the HTML you used to create a link to page 2.
 
-+ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
+![screenshot](images/magazine-page1-link.png)
 
-![screenshot](images/magazine-page2-html.png)
+## Add an animation
 
-Notice that both pages use the same `style.css` so they will share styles.
+Let's add a fun animation to your magazine.
 
-+ Change the `<h1>` title for page2:
++ Go to `index.html` and include the `greenrobot.png` image at the top of your page.
 
-![screenshot](images/magazine-page2-h1.png)
+![screenshot](images/magazine-animation-image.png)
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
++ Now add the CSS to animate your robot:
 
-Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
+![screenshot](images/magazine-animation-css.png)
 
-![screenshot](images/magazine-page2-link.png)
 
-+ Test that you can click on your new link and move to page 2 of your magazine.
+
+
+
+--- /challenge ---
 

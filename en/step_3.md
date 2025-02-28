@@ -120,5 +120,7 @@ line_highlights: 27-28
 }
 --- /code ---
 
+![A webpage with a red gradient background and two columns. There is a picture of a kitten in the right column, with a drop shadow and at an angle](images/angled_kitten.png)
+
 --- /task ---
 
