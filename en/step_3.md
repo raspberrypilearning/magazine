@@ -17,10 +17,10 @@ line_highlights: 9-14
 <body>
 <h1>My magazine</h1>
 <div class="column1">
-Column 1
+	Column 1
 </div>
 <div class="column2">
-Column 2
+	Column 2
 </div>
 </body>
 
