@@ -34,7 +34,7 @@ In the sidebar, open the `style.css` file. Change the style of the heading. Here
 
 --- code ---
 ---
-language: html
+language: css
 filename: style.css
 line_numbers: true
 line_number_start: 1
@@ -56,11 +56,11 @@ Look at the CSS style for `body`. Change the colours of the background and the f
 
 --- code ---
 ---
-language: html
+language: css
 filename: style.css
 line_numbers: true
 line_number_start: 8
-line_highlights: 11-12
+line_highlights: 10-11
 ---
 body {
   background: linear-gradient(to bottom right, red, white);

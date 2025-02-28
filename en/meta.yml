@@ -19,7 +19,7 @@ last_tested: 2017-01-01
 steps:
 - title: What you will make
 - title: Heading and Background
-- title: Creating Columns
+- title: Columns
   completion:
   - engaged
 - title: Style magazine items

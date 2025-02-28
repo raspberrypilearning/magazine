@@ -1,45 +1,124 @@
-## Creating Columns
+## Columns
 
-Websites often use multiple columns. Let's create a two column layout for your magazine.
+Websites often use multiple columns. Create a two column layout for your magazine.
 
-+ First create two column `div`s.
+--- task ---
 
-	Add the highlighted HTML to `index.html`:
+Select the `index.html` file and add code to create two columns 
 
-	![screenshot](images/magazine-columns.png)
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 7
+line_highlights: 9-14
+---
+<body>
+<h1>My magazine</h1>
+<div class="column1">
+Column 1
+</div>
+<div class="column2">
+Column 2
+</div>
+</body>
 
-+ Now style the column divs so that one floats to the left and the other floats to the right.
+--- /code ---
 
-	![screenshot](images/magazine-columns-style.png)
+--- /task ---
 
-	Each column is less than 50% so there's room for padding.
+--- task ---
 
-	You'll need to add something to a column to see the effect.
+Switch back to `style.css` and find the styles for `column1` and `column2`.
 
-+ Let's add a kitten picture to the top of column 2.
+--- /task ---
 
-	![screenshot](images/magazine-kitten.png)
+--- task ---
 
-	Notice that the kitten image is positioned about half-way across the page, in the second column.
+Add a `float` property to each column style so that one floats to the left and the other floats to the right.
 
-	It's a bit big though!
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: true
+line_number_start: 14
+line_highlights: 16, 21
+---
+.column1 {
+    width: 48%;
+	float: left;
+}
 
-+ Let's use `max-width: ` to make images fit within their container.
+.column2 {
+    width: 48%;
+	float: right;
+}
 
-	Add the following style to `style.css`.
+--- /code ---
 
-	![screenshot](images/magazine-img-width.png)
+--- /task ---
 
-	This will apply to all images you use in your magazine, not just the kitten.
+--- task ---
 
-+ Now add a class `photo` to the image so that you can style it:
+Replace the `Column 2` text with a kitten picture.
 
-	![screenshot](images/magazine-photo.png)
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 12
+line_highlights: 13
+---
+<div class="column2">
+	<img src="kitten.jpg">
+</div>
+</body>
 
-+ And style the image to add a shadow and a twist to make the photo pop out of the page:
+--- /code ---
 
-	![screenshot](images/magazine-photo-style.png)
+--- /task ---
 
-	Make some changes until you like the result.
+--- task ---
 
+Add a class `photo` to the image so that you can style it:
+
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 12
+line_highlights: 13
+---
+<div class="column2">
+	<img src="kitten.jpg" class="photo">
+</div>
+</body>
+
+--- /code ---
+
+--- /task ---
+
+--- task ---
+
+Switch to `style.css` and experiment with changing the numbers to alter the size of the shadow and the angle of the image.
+
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: true
+line_number_start: 26
+line_highlights: 27-28
+---
+.photo {
+    box-shadow: 4px 4px 4px gray;
+    transform: rotate(10deg);
+}
+--- /code ---
+
+--- /task ---
 
