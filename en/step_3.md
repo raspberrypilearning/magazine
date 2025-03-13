@@ -111,8 +111,8 @@ Switch to `style.css` and experiment with changing the numbers to alter the size
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 26
-line_highlights: 27-28
+line_number_start: 28
+line_highlights: 29-30
 ---
 .photo {
     box-shadow: 4px 4px 4px gray;

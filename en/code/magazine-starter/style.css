@@ -6,9 +6,9 @@ h1 {
 }
 
 body {
-    padding: 15px;
     background: linear-gradient(to bottom right, red, white);
     font-family: Verdana;
+    padding: 15px;
 }
 
 .column1 {

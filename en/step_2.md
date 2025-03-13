@@ -60,12 +60,12 @@ language: css
 filename: style.css
 line_numbers: true
 line_number_start: 8
-line_highlights: 10-11
+line_highlights: 9-10
 ---
 body {
   background: linear-gradient(to bottom right, red, white);
-  padding: 15px;
   font-family: Verdana;
+  padding: 15px;
 }
 
 --- /code ---
