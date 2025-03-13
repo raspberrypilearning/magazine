@@ -4,44 +4,59 @@ Add another page to your magazine website.
 
 --- task ---
 
-Add a new page to your project and name it `page2.html`:
+Click **Add file** and call your new file `page2.html`:
 
-![screenshot](images/magazine-page2.png)
+![The code editor with an arrow pointing at 'add file' and a popup box with the name 'page2.html' filled in](images/page2.png)
 
 --- /task ---
 
-+ Page 2 will be quite similar to the first page of your magazine so you can copy the html from `index.html` and paste it into `page2.html`.
+--- task ---
 
-![screenshot](images/magazine-page2-html.png)
+Select all of the code from `index.html`, copy it and then paste it into `page2.html`.
 
-Notice that both pages use the same `style.css` so they will share styles.
+--- /task ---
 
-+ Change the `<h1>` title for page2:
 
-![screenshot](images/magazine-page2-h1.png)
+--- task ---
 
-+ Now you'll need links between your pages so you can get to page 2 and back to the front page.
+In `page2.html`, change the `<h1>` title to the title for your new page.
 
-Go back to `index.html`. Add a link inside a div in column 2 in `index.html`:
+--- code ---
+---
+language: html
+filename: page2.html
+line_numbers: true
+line_number_start: 8
+line_highlights: 8
+---
+<h1>Kitten care</h1>
+--- /code ---
 
-![screenshot](images/magazine-page2-link.png)
+--- /task ---
 
-+ Test that you can click on your new link and move to page 2 of your magazine.
+--- task ---
 
---- challenge ---
+Go back to `index.html`. Add a link to your second page:
 
-## Challenge: Fill in your second page
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 8
+line_highlights: 11
+---
+<h1>My magazine</h1>
+<div class="column1">
+	Welcome to the kitten fan club
+    <a href="page2.html">Page 2</a>
+</div>
+--- /code ---
 
-Here's the code for the examples, but you can change the `div`s or come up with your own ideas.  
+--- /task ---
 
-![screenshot](images/magazine-page2-challenge.png)
+--- task ---
 
-Click the images icon to see the images that are available to use:
+Test that you can click on your new link and move to page 2 of your magazine.
 
-![screenshot](images/magazine-images.png)
-
-Remember that you can upload your own images to use. Make sure you have permission to use any images that you upload.
-
-![screenshot](images/magazine-upload-images.png)
-
---- /challenge ---
+--- /task ---

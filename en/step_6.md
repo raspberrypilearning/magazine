@@ -1,28 +1,16 @@
 --- challenge ---
 
-## Challenge: Add a link back to the first page
+--- task ---
 
-Can you add a link to `page2.html` so that you can click on it to get back to the first page?
+Fill in the content in `page2.html`. Look on the **images** tab to see some other images you could include on your page. 
 
-Hint: Look at the HTML you used to create a link to page 2.
+--- /task ---
 
-![screenshot](images/magazine-page1-link.png)
+--- task ---
 
-## Add an animation
+Add a link from `page2.html` back to `index.html` so that you can click on it to get back to the first page
 
-Let's add a fun animation to your magazine.
-
-+ Go to `index.html` and include the `greenrobot.png` image at the top of your page.
-
-![screenshot](images/magazine-animation-image.png)
-
-+ Now add the CSS to animate your robot:
-
-![screenshot](images/magazine-animation-css.png)
-
-
-
-
+--- /task ---
 
 --- /challenge ---
 
