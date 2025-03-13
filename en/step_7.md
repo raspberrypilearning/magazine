@@ -14,4 +14,4 @@ If you are following the [HTML & CSS: Module 2](https://projects.raspberrypi.org
 
 --- /no-print ---
 
-Or, why not try out another [HTML & CSS](https://projects.raspberrypi.org/en/projects?software%5B%5D=CODING_LANGUAGE) project.
+Or, why not try out another [HTML & CSS](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) project.
