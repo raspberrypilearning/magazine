@@ -1,16 +1,23 @@
-## Style magazine items
+## Content
 
-Let's make the layout a bit more interesting.
+Add some content to your magazine in the left column.
 
-+ Add a `div` around your image with a `class` and add a `h2` heading:
+--- task ---
 
-	![screenshot](images/magazine-item.png)
+Add some text to your web page in `Column 1`.
 
-+ Now style the item and heading.
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 8
+line_highlights: 10
+---
+<h1>My magazine</h1>
+<div class="column1">
+	Welcome to the kitten fan club
+</div>
+--- /code ---
 
-	Here's an example, but you can make changes:
-
-	![screenshot](images/magazine-item-style.png)
-
-
-
+--- /task ---

@@ -17,19 +17,16 @@ software: html-css-javascript
 version: 3
 last_tested: 2017-01-01
 steps:
-- title: Introduction
-- title: Heading and Background
-- title: Creating Columns
+- title: What you will make
+- title: Heading and background
+- title: Columns
   completion:
   - engaged
-- title: Style magazine items
-- title: 'Challenge: Add items to the left column'
-- title: Add a second page
-- title: 'Challenge: Add a link back to the first page'
-- title: 'Challenge: Fill in your second page'
-- title: Add an animation
+- title: Content
+- title: Another page
   completion:
   - internal
-- title: 'Challenge: Add another animation'
+- title: Challenge
   completion:
   - external
+- title: What can you do now?

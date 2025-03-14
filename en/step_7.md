@@ -1,11 +1,17 @@
---- challenge ---
+## What can you do now?
 
-## Challenge: Add a link back to the first page
+If you are following the [HTML & CSS: Module 2](https://projects.raspberrypi.org/en/pathways/webdev-module-2) pathway, you can move on to the [Pixel art](https://projects.raspberrypi.org/en/projects/pixel-art/) project. In this project, you will create a pixel art editor.
 
-Can you add a link to `page2.html` so that you can click on it to get back to the first page?
+--- print-only --- 
 
-Hint: Look at the HTML you used to create a link to page 2.
+![A pixel art editor with a grid of squares. A space invader image has been drawn.](images/pixel-art-final.png)
 
-![screenshot](images/magazine-page1-link.png)
+--- /print-only ---
 
---- /challenge ---
+--- no-print ---
+
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-pixel-art-finished" width="100%" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+
+--- /no-print ---
+
+Or, why not try out another [HTML & CSS](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) project.

@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: hotpink;
+    background: greenyellow;
+    padding: 5px;
+}
+
+body {
+    padding: 15px;
+    background: linear-gradient(to bottom right, seagreen, white);
+    font-family: Comic Sans MS;
+}
+
+.column1 {
+    width: 48%;
+    float: left;
+}
+
+.column2 {
+    width: 48%;
+    float: right;
+}
+
+img {
+    max-width: 100%;
+}
+
+.photo {
+    box-shadow: 4px 4px 4px gray;
+    transform: rotate(5deg);
+}

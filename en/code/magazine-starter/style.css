@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: white;
+    background: black;
+    padding: 5px;
+}
+
+body {
+    background: linear-gradient(to bottom right, red, white);
+    font-family: Verdana;
+    padding: 15px;
+}
+
+.column1 {
+    width: 48%;
+}
+
+.column2 {
+    width: 48%;
+}
+
+img {
+    max-width: 100%;
+}
+
+.photo {
+    box-shadow: 4px 4px 4px gray;
+    transform: rotate(10deg);
+}

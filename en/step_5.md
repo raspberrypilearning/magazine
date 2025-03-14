@@ -1,21 +1,62 @@
---- challenge ---
+## Another page
 
-## Challenge: Add items to the left column
+Add another page to your magazine website.
 
-Can you add a ordered list and a gradient text sticker to the left column?
+--- task ---
 
-Here's an example:
+Click **Add file** and call your new file `page2.html`:
 
-![screenshot](images/magazine-challenge1-example.png)
+![The code editor with an arrow pointing at 'add file' and a popup box with the name 'page2.html' filled in](images/page2.png)
 
-This is the code for the example, but you can change it or come up with your own.
+--- /task ---
 
-HTML:
+--- task ---
 
-![screenshot](images/magazine-challenge1.png)
+Select all of the code from `index.html`, copy it and then paste it into `page2.html`.
 
-CSS:
+--- /task ---
 
-![screenshot](images/magazine-challenge1-style.png)
 
---- /challenge ---
+--- task ---
+
+In `page2.html`, change the `<h1>` title to the title for your new page.
+
+--- code ---
+---
+language: html
+filename: page2.html
+line_numbers: true
+line_number_start: 8
+line_highlights: 8
+---
+<h1>Kitten care</h1>
+--- /code ---
+
+--- /task ---
+
+--- task ---
+
+Go back to `index.html`. Add a link to your second page:
+
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 8
+line_highlights: 11
+---
+<h1>My magazine</h1>
+<div class="column1">
+	Welcome to the kitten fan club
+    <a href="page2.html">Page 2</a>
+</div>
+--- /code ---
+
+--- /task ---
+
+--- task ---
+
+Test that you can click on your new link and move to page 2 of your magazine.
+
+--- /task ---
