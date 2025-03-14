@@ -4,7 +4,7 @@ Websites often use multiple columns. Create a two column layout for your magazin
 
 --- task ---
 
-Select the `index.html` file and add code to create two columns 
+Select the `index.html` file and add code to create two columns. 
 
 --- code ---
 ---
