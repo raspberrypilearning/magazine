@@ -1,6 +1,6 @@
 ## What can you do now?
 
-If you are following the [HTML & CSS: Module 2](https://projects.raspberrypi.org/en/pathways/webdev-module-2) pathway, you can move on to the [Pixel art](https://projects.raspberrypi.org/en/projects/pixel-art/) project. In this project, you will create a pixel art editor.
+If you are following the [HTML & CSS: Module 2](https://projects.raspberrypi.org/en/pathways/webdev-module-2){:target="_blank"} pathway, you can move on to the [Pixel art](https://projects.raspberrypi.org/en/projects/pixel-art/){:target="_blank"} project. In this project, you will create a pixel art editor.
 
 --- print-only --- 
 
@@ -14,4 +14,4 @@ If you are following the [HTML & CSS: Module 2](https://projects.raspberrypi.org
 
 --- /no-print ---
 
-Or, why not try out another [HTML & CSS](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript) project.
+Or, why not try out another [HTML & CSS](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript){:target="_blank"} project?
