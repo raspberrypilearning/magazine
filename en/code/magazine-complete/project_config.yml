@@ -1,3 +1,4 @@
 name: 'Magazine - Complete'
 identifier: 'magazine-complete'
 type: 'html'
+build: true

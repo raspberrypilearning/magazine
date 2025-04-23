@@ -1,6 +1,6 @@
 ## What you will make
 
-Learn how to use HTML and CSS to create a multi-page magazine website. 
+Use HTML and CSS to create a multi-page magazine website. 
 
 --- print-only ---
 

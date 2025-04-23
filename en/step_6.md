@@ -15,4 +15,3 @@ Add a link from `page2.html` back to `index.html` so that you can click on it to
 --- /task ---
 
 --- /challenge ---
-
