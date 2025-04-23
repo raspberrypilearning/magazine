@@ -53,7 +53,6 @@ h1 {
 
 Look at the CSS style for `body`. Change the colours of the background and the font to your own choices.
 
-
 --- code ---
 ---
 language: css
